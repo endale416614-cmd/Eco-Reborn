@@ -1,0 +1,215 @@
+{"id":"table/strtable.csv:2951:2","source":"根性","english":"Guts","status":"draft"}
+{"id":"table/strtable.csv:2952:2","source":"物理攻撃不可","english":"Physical Attacks Disabled","status":"draft"}
+{"id":"table/strtable.csv:2953:2","source":"死んだふり","english":"Feign Death","status":"draft"}
+{"id":"table/strtable.csv:2954:2","source":"精密射撃","english":"Precise Shot","status":"draft"}
+{"id":"table/strtable.csv:2955:2","source":"オーバーチューン","english":"Overtune","status":"draft"}
+{"id":"table/strtable.csv:2956:2","source":"警戒","english":"Alert","status":"draft"}
+{"id":"table/strtable.csv:2957:2","source":"リフレクション","english":"Reflection","status":"draft"}
+{"id":"table/strtable.csv:2958:2","source":"エンチャントウエポン","english":"Enchant Weapon","status":"draft"}
+{"id":"table/strtable.csv:2959:2","source":"オラトリオ","english":"Oratorio","status":"draft"}
+{"id":"table/strtable.csv:2960:2","source":"イビルソウル","english":"Evil Soul","status":"draft"}
+{"id":"table/strtable.csv:2961:2","source":"フレイムハート","english":"Flame Heart","status":"draft"}
+{"id":"table/strtable.csv:2962:2","source":"アトラクトマーチ","english":"Attract March","status":"draft"}
+{"id":"table/strtable.csv:2966:2","source":"アクロバットイベイジョン","english":"Acrobat Evasion","status":"draft"}
+{"id":"table/strtable.csv:2967:2","source":"オーバーワーク","english":"Overwork","status":"draft"}
+{"id":"table/strtable.csv:2968:2","source":"ディレイキャンセル","english":"Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2969:2","source":"フェニックス","english":"Phoenix","status":"draft"}
+{"id":"table/strtable.csv:2970:2","source":"チャンプモンスターキラー","english":"Champion Monster Slayer","status":"draft"}
+{"id":"table/strtable.csv:2971:2","source":"竜眼開放","english":"Dragon Eye: Unleashed","status":"draft"}
+{"id":"table/strtable.csv:2972:2","source":"温泉効果","english":"Hot Spring Effect","status":"draft"}
+{"id":"table/strtable.csv:2973:2","source":"武器属性無効化","english":"Weapon Element Nullified","status":"draft"}
+{"id":"table/strtable.csv:2974:2","source":"防御属性無効化","english":"Defense Element Nullified","status":"draft"}
+{"id":"table/strtable.csv:2975:2","source":"ブロウディレイキャンセル","english":"Blow Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2976:2","source":"スラッシュディレイキャンセル","english":"Slash Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2977:2","source":"スティングディレイキャンセル","english":"Sting Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2978:2","source":"バレットディレイキャンセル","english":"Bullet Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2980:2","source":"スペシャルアビリティ","english":"Special Ability","status":"draft"}
+{"id":"table/strtable.csv:2981:2","source":"HPコミュニオン","english":"HP Communion","status":"draft"}
+{"id":"table/strtable.csv:2982:2","source":"MPコミュニオン","english":"MP Communion","status":"draft"}
+{"id":"table/strtable.csv:2983:2","source":"SPコミュニオン","english":"SP Communion","status":"draft"}
+{"id":"table/strtable.csv:2984:2","source":"ATKコミュニオン","english":"ATK Communion","status":"draft"}
+{"id":"table/strtable.csv:2985:2","source":"MATKコミュニオン","english":"MATK Communion","status":"draft"}
+{"id":"table/strtable.csv:2986:2","source":"DEFコミュニオン","english":"DEF Communion","status":"draft"}
+{"id":"table/strtable.csv:2987:2","source":"MDEFコミュニオン","english":"MDEF Communion","status":"draft"}
+{"id":"table/strtable.csv:2988:2","source":"HITコミュニオン","english":"HIT Communion","status":"draft"}
+{"id":"table/strtable.csv:2989:2","source":"AVOIDコミュニオン","english":"AVOID Communion","status":"draft"}
+{"id":"table/strtable.csv:2990:2","source":"CSPDコミュニオン","english":"CSPD Communion","status":"draft"}
+{"id":"table/strtable.csv:2991:2","source":"PAYLコミュニオン","english":"PAYL Communion","status":"draft"}
+{"id":"table/strtable.csv:2992:2","source":"CAPAコミュニオン","english":"CAPA Communion","status":"draft"}
+{"id":"table/strtable.csv:2993:2","source":"ハーヴェスト(HP吸収)","english":"Harvest (HP Absorption)","status":"draft"}
+{"id":"table/strtable.csv:2996:2","source":"ライフリターン","english":"Life Return","status":"draft"}
+{"id":"table/strtable.csv:2997:2","source":"マジックリターン","english":"Magic Return","status":"draft"}
+{"id":"table/strtable.csv:2998:2","source":"スタミナリターン","english":"Stamina Return","status":"draft"}
+{"id":"table/strtable.csv:2999:2","source":"HP吸収","english":"HP Absorption","status":"draft"}
+{"id":"table/strtable.csv:3000:2","source":"MP吸収","english":"MP Absorption","status":"draft"}
+{"id":"table/strtable.csv:3001:2","source":"SP吸収","english":"SP Absorption","status":"draft"}
+{"id":"table/strtable.csv:3002:2","source":"エクヴィリー","english":"Equvily","status":"draft","note":"Phonetic rendering; official English skill name unverified."}
+{"id":"table/strtable.csv:3003:2","source":"クイックシュート","english":"Quick Shot","status":"draft"}
+{"id":"table/strtable.csv:3004:2","source":"エフィカス","english":"Efficacy","status":"draft"}
+{"id":"table/strtable.csv:3005:2","source":"コラプス・オブ・ロウ","english":"Collapse of Law","status":"draft"}
+{"id":"table/strtable.csv:3006:2","source":"トランスボディ","english":"Trans Body","status":"draft"}
+{"id":"table/strtable.csv:3007:2","source":"リメインエレメント","english":"Remain Element","status":"draft"}
+{"id":"table/strtable.csv:3008:2","source":"マシン攻撃力上昇","english":"Machine Attack Up","status":"draft"}
+{"id":"table/strtable.csv:3009:2","source":"マシン攻撃力減少","english":"Machine Attack Down","status":"draft"}
+{"id":"table/strtable.csv:3010:2","source":"マテリアルバインド","english":"Material Bind","status":"draft"}
+{"id":"table/strtable.csv:3011:2","source":"ダメージマーキング","english":"Damage Mark","status":"draft"}
+{"id":"table/strtable.csv:3012:2","source":"スピリットマーキング","english":"Spirit Mark","status":"draft"}
+{"id":"table/strtable.csv:3013:2","source":"ジョーカーディレイキャンセル","english":"Joker Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:3014:2","source":"ダメージチャージ","english":"Damage Charge","status":"draft"}
+{"id":"table/strtable.csv:3015:2","source":"黒薔薇の棘","english":"Black Rose Thorn","status":"draft"}
+{"id":"table/strtable.csv:3016:2","source":"鬼人の構え","english":"Ogre Stance","status":"draft"}
+{"id":"table/strtable.csv:3017:2","source":"イージス","english":"Aegis","status":"draft"}
+{"id":"table/strtable.csv:3018:2","source":"トランスシール","english":"Trans Seal","status":"draft"}
+{"id":"table/strtable.csv:3019:2","source":"アンプリーエレメント","english":"Amplify Element","status":"draft"}
+{"id":"table/strtable.csv:3020:2","source":"マシン防御力上昇","english":"Machine Defense Up","status":"draft"}
+{"id":"table/strtable.csv:3021:2","source":"マシン防御力減少","english":"Machine Defense Down","status":"draft"}
+{"id":"table/strtable.csv:3022:2","source":"スキル封じ","english":"Skill Seal","status":"draft"}
+{"id":"table/strtable.csv:3023:2","source":"クリティカルマーキング","english":"Critical Mark","status":"draft"}
+{"id":"table/strtable.csv:3024:2","source":"ソウルプロテクト","english":"Soul Protect","status":"draft"}
+{"id":"table/strtable.csv:3025:2","source":"見切り","english":"Anticipation","status":"draft"}
+{"id":"table/strtable.csv:3026:2","source":"バリアシールド","english":"Barrier Shield","status":"draft"}
+{"id":"table/strtable.csv:3027:2","source":"幽玄の契約：剣","english":"Pact of the Mystic: Sword","status":"draft"}
+{"id":"table/strtable.csv:3030:2","source":"マシン攻撃速度上昇","english":"Machine Attack Speed Up","status":"draft"}
+{"id":"table/strtable.csv:3031:2","source":"マシン攻撃速度減少","english":"Machine Attack Speed Down","status":"draft"}
+{"id":"table/strtable.csv:3032:2","source":"ウィークネスショット","english":"Weakness Shot","status":"draft"}
+{"id":"table/strtable.csv:3033:2","source":"移動速度上昇","english":"Movement Speed Up","status":"draft"}
+{"id":"table/strtable.csv:3034:2","source":"移動速度上昇","english":"Movement Speed Up","status":"draft"}
+{"id":"table/strtable.csv:3035:2","source":"ウエポンエンハンス","english":"Weapon Enhance","status":"draft"}
+{"id":"table/strtable.csv:3036:2","source":"レトリック","english":"Rhetoric","status":"draft"}
+{"id":"table/strtable.csv:3037:2","source":"「師匠の加護」を受けた","english":"Received “Master’s Blessing”","status":"draft"}
+{"id":"table/strtable.csv:3038:2","source":"モンスターチェンジ","english":"Monster Change","status":"draft"}
+{"id":"table/strtable.csv:3039:2","source":"知識の書","english":"Book of Knowledge","status":"draft"}
+{"id":"table/strtable.csv:3040:2","source":"植物寄生","english":"Plant Parasitism","status":"draft"}
+{"id":"table/strtable.csv:3041:2","source":"パクティオ","english":"Pactio","status":"draft"}
+{"id":"table/strtable.csv:3042:2","source":"アドバンスアビリティー","english":"Advanced Ability","status":"draft"}
+{"id":"table/strtable.csv:3043:2","source":"フェンリル","english":"Fenrir","status":"draft"}
+{"id":"table/strtable.csv:3044:2","source":"ブロッキング","english":"Blocking","status":"draft"}
+{"id":"table/strtable.csv:3045:2","source":"釣り","english":"Fishing","status":"draft"}
+{"id":"table/strtable.csv:3046:2","source":"サーチウィークポイント","english":"Find Weak Point","status":"draft"}
+{"id":"table/strtable.csv:3047:2","source":"アートフルトラップ","english":"Artful Trap","status":"draft"}
+{"id":"table/strtable.csv:3048:2","source":"マシン能力低下","english":"Machine Ability Down","status":"draft"}
+{"id":"table/strtable.csv:3049:2","source":"狂気毒","english":"Madness Poison","status":"draft"}
+{"id":"table/strtable.csv:3050:2","source":"フィットアロー","english":"Fit Arrow","status":"draft"}
+{"id":"table/strtable.csv:3051:2","source":"全軍突撃","english":"Full Assault","status":"draft"}
+{"id":"table/strtable.csv:3052:2","source":"流水の構え","english":"Flowing Water Stance","status":"draft"}
+{"id":"table/strtable.csv:3053:2","source":"ウィスプオーラ","english":"Wisp Aura","status":"draft"}
+{"id":"table/strtable.csv:3054:2","source":"むて～き","english":"Invincible","status":"draft"}
+{"id":"table/strtable.csv:3055:2","source":"アナザークロニクル","english":"Another Chronicle","status":"draft"}
+{"id":"table/strtable.csv:3056:2","source":"追撃","english":"Follow-Up Attack","status":"draft"}
+{"id":"table/strtable.csv:3057:2","source":"EXフレア","english":"EX Flare","status":"draft"}
+{"id":"table/strtable.csv:3060:2","source":"ライフテイク","english":"Life Take","status":"draft"}
+{"id":"table/strtable.csv:3062:2","source":"スタミナテイク","english":"Stamina Take","status":"draft"}
+{"id":"table/strtable.csv:3065:2","source":"マジックテイク","english":"Magic Take","status":"draft"}
+{"id":"table/strtable.csv:3066:2","source":"ダメージアヴォイド","english":"Damage Avoidance","status":"draft"}
+{"id":"table/strtable.csv:3067:2","source":"アルケミータイム","english":"Alchemy Time","status":"draft"}
+{"id":"table/strtable.csv:3070:2","source":"アルス・マグナ","english":"Ars Magna","status":"draft"}
+{"id":"table/strtable.csv:3071:2","source":"精密攻撃","english":"Precise Attack","status":"draft"}
+{"id":"table/strtable.csv:3072:2","source":"悪炎","english":"Evil Flame","status":"draft"}
+{"id":"table/strtable.csv:3073:2","source":"九尾狐の魅了","english":"Nine-Tailed Fox Charm","status":"draft"}
+{"id":"table/strtable.csv:3074:2","source":"武装化","english":"Armed Form","status":"draft"}
+{"id":"table/strtable.csv:3075:2","source":"武装化の反動","english":"Armed Form Recoil","status":"draft"}
+{"id":"table/strtable.csv:3076:2","source":"モルガナハーツ","english":"Morgana Hearts","status":"draft"}
+{"id":"table/strtable.csv:3077:2","source":"耐える","english":"Endure","status":"draft"}
+{"id":"table/strtable.csv:3078:2","source":"追い討ちの極意","english":"Pursuit Mastery","status":"draft"}
+{"id":"table/strtable.csv:3079:2","source":"友情の一撃（経験値上昇）","english":"Friendly Strike (Experience Up)","status":"draft"}
+{"id":"table/strtable.csv:3080:2","source":"経験値上昇","english":"Experience Up","status":"draft"}
+{"id":"table/strtable.csv:3081:2","source":"被クリティカルダメージ軽減率上昇","english":"Critical Damage Reduction Up","status":"draft"}
+{"id":"table/strtable.csv:3082:2","source":"怒り","english":"Rage","status":"draft"}
+{"id":"table/strtable.csv:3083:2","source":"HP、MP、SP自動回復","english":"HP, MP, and SP Auto-Recovery","status":"draft"}
+{"id":"table/strtable.csv:3084:2","source":"ユニークカウンター","english":"Unique Counter","status":"draft"}
+{"id":"table/strtable.csv:3085:2","source":"叩き攻撃耐性弱体化","english":"Blunt Resistance Weakened","status":"draft"}
+{"id":"table/strtable.csv:3086:2","source":"斬り攻撃耐性弱体化","english":"Slash Resistance Weakened","status":"draft"}
+{"id":"table/strtable.csv:3091:2","source":"マガマガシイオーラ","english":"Ominous Aura","status":"draft"}
+{"id":"table/strtable.csv:3093:2","source":"被火属性ダメージ軽減率上昇","english":"Fire Damage Reduction Up","status":"draft"}
+{"id":"table/strtable.csv:3097:2","source":"被光属性ダメージ軽減率上昇","english":"Light Damage Reduction Up","status":"draft"}
+{"id":"table/strtable.csv:3098:2","source":"被闇属性ダメージ軽減率上昇","english":"Dark Damage Reduction Up","status":"draft"}
+{"id":"table/strtable.csv:3099:2","source":"攻撃ダメージ上昇","english":"Attack Damage Up","status":"draft"}
+{"id":"table/strtable.csv:3100:2","source":"被魔法ダメージ軽減率上昇","english":"Magic Damage Reduction Up","status":"draft"}
+{"id":"table/strtable.csv:3101:2","source":"ダメージミラー","english":"Damage Mirror","status":"draft"}
+{"id":"table/strtable.csv:3102:2","source":"変異","english":"Mutation","status":"draft"}
+{"id":"table/strtable.csv:3103:2","source":"物理防御力無視","english":"Ignore Physical Defense","status":"draft"}
+{"id":"table/strtable.csv:3104:2","source":"雷雲","english":"Thundercloud","status":"draft"}
+{"id":"table/strtable.csv:3105:2","source":"雷神の加護","english":"Blessing of the Thunder God","status":"draft"}
+{"id":"table/strtable.csv:3110:2","source":"消費MP、SP軽減","english":"MP and SP Cost Reduction","status":"draft"}
+{"id":"table/strtable.csv:3111:2","source":"桜花爛漫","english":"Cherry Blossoms in Full Bloom","status":"draft"}
+{"id":"table/strtable.csv:3112:2","source":"ディレイ増加","english":"Delay Increased","status":"draft"}
+{"id":"table/strtable.csv:3113:2","source":"闇属性ダメージ倍率上昇","english":"Dark Damage Multiplier Up","status":"draft"}
+{"id":"table/strtable.csv:3114:2","source":"光属性ダメージ倍率上昇","english":"Light Damage Multiplier Up","status":"draft"}
+{"id":"table/strtable.csv:3115:2","source":"愛の守護戦士","english":"Guardian of Love","status":"draft"}
+{"id":"table/strtable.csv:3116:2","source":"愛のおすそわけ","english":"Sharing Love","status":"draft"}
+{"id":"table/strtable.csv:3117:2","source":"メロメロ","english":"Smitten","status":"draft"}
+{"id":"table/strtable.csv:3118:2","source":"愛のオーラ","english":"Aura of Love","status":"draft"}
+{"id":"table/strtable.csv:3121:2","source":"あと%s分でログアウトします。","english":"You will be logged out in %s minutes.","status":"draft"}
+{"id":"table/strtable.csv:3124:2","source":"パーティーを作成しました","english":"Party created.","status":"draft"}
+{"id":"table/strtable.csv:3125:2","source":"パーティーに参加しました","english":"Joined the party.","status":"draft"}
+{"id":"table/strtable.csv:3126:2","source":"パーティーを追放されました","english":"You were removed from the party.","status":"draft"}
+{"id":"table/strtable.csv:3127:2","source":"パーティーを脱退しました","english":"You left the party.","status":"draft"}
+{"id":"table/strtable.csv:3128:2","source":"パーティーが解散されました","english":"The party was disbanded.","status":"draft"}
+{"id":"table/strtable.csv:3130:2","source":"プレイヤーが存在しません","english":"Player does not exist.","status":"draft"}
+{"id":"table/strtable.csv:3131:2","source":"相手がパーティに誘えない状態になりました","english":"That player can no longer be invited to the party.","status":"draft"}
+{"id":"table/strtable.csv:3132:2","source":"既にパーティーに所属しています","english":"Already in a party.","status":"draft"}
+{"id":"table/strtable.csv:3133:2","source":"既にパーティーが存在しています","english":"A party already exists.","status":"draft"}
+{"id":"table/strtable.csv:3134:2","source":"パーティー人数が限界を超えてます","english":"The party is full.","status":"draft"}
+{"id":"table/strtable.csv:3135:2","source":"パーティーに所属していません","english":"You are not in a party.","status":"draft"}
+{"id":"table/strtable.csv:3136:2","source":"指定プレイヤーが存在しません","english":"The specified player does not exist.","status":"draft"}
+{"id":"table/strtable.csv:3137:2","source":"すでにパーティーに所属しています","english":"Already in a party.","status":"draft"}
+{"id":"table/strtable.csv:3138:2","source":"相手が見つかりませんでした","english":"Player not found.","status":"draft"}
+{"id":"table/strtable.csv:3139:2","source":"パーティーサーバーの応答がありません","english":"No response from the party server.","status":"draft"}
+{"id":"table/strtable.csv:3140:2","source":"相手のパーティー参加設定が不許可になっています","english":"That player is not accepting party invitations.","status":"draft"}
+{"id":"table/strtable.csv:3141:2","source":"ドロップアイテムの取得設定が「%s」に変更されました","english":"Drop item pickup setting changed to “%s”.","status":"draft"}
+{"id":"table/strtable.csv:3142:2","source":"通常","english":"Normal","status":"draft"}
+{"id":"table/strtable.csv:3143:2","source":"ランダム取得","english":"Random","status":"draft"}
+{"id":"table/strtable.csv:3146:2","source":"ターゲットがいません","english":"No target selected.","status":"draft"}
+{"id":"table/strtable.csv:3147:2","source":"指定した座標へは使用できません","english":"Cannot use this at the selected location.","status":"draft"}
+{"id":"table/strtable.csv:3148:2","source":"使用できない状態です","english":"Cannot use this right now.","status":"draft"}
+{"id":"table/strtable.csv:3149:2","source":"スキル中の為使用できませんでした","english":"Cannot use this while using a skill.","status":"draft"}
+{"id":"table/strtable.csv:3150:2","source":"遠距離攻撃中の為使用できませんでした","english":"Cannot use this while making a ranged attack.","status":"draft"}
+{"id":"table/strtable.csv:3151:2","source":"視線が通っていません","english":"Line of sight is blocked.","status":"draft"}
+{"id":"table/strtable.csv:3152:2","source":"イベント中の為使用できませんでした","english":"Cannot use this during an event.","status":"draft"}
+{"id":"table/strtable.csv:3153:2","source":"アイテムを使用する事が出来ないターゲットです","english":"Cannot use this item on that target.","status":"draft"}
+{"id":"table/strtable.csv:3154:2","source":"行動不能状態の為使用できませんでした","english":"Cannot use this while unable to act.","status":"draft"}
+{"id":"table/strtable.csv:3155:2","source":"ゴーレムショップに出品中です","english":"Currently listed in a Golem Shop.","status":"draft"}
+{"id":"table/strtable.csv:3156:2","source":"ゴーレムは既に起動しています","english":"The Golem is already active.","status":"draft"}
+{"id":"table/strtable.csv:3157:2","source":"未鑑定品の為使用できませんでした","english":"Cannot use an unidentified item.","status":"draft"}
+{"id":"table/strtable.csv:3158:2","source":"スキルが使えませんでした","english":"Could not use the skill.","status":"draft"}
+{"id":"table/strtable.csv:3160:2","source":"宿主はマリオネットにのりうつれません","english":"The host cannot possess a Marionette.","status":"draft"}
+{"id":"table/strtable.csv:3161:2","source":"条件が合わない為マリオネットにのりうつれません","english":"Cannot possess a Marionette because the requirements are not met.","status":"draft"}
+{"id":"table/strtable.csv:3162:2","source":"このマリオネットは未実装です","english":"This Marionette has not been implemented.","status":"draft"}
+{"id":"table/strtable.csv:3163:2","source":"再度マリオネットにのりうつるには時間を置いてください","english":"Wait before possessing a Marionette again.","status":"draft"}
+{"id":"table/strtable.csv:3164:2","source":"アイテム使用中の為使用できませんでした","english":"Cannot use this while using an item.","status":"draft"}
+{"id":"table/strtable.csv:3165:2","source":"攻撃中の為使用できませんでした","english":"Cannot use this while attacking.","status":"draft"}
+{"id":"table/strtable.csv:3166:2","source":"使用できませんでした","english":"Could not use this.","status":"draft"}
+{"id":"table/strtable.csv:3167:2","source":"このフードは対象のパートナーへは与えられません","english":"This food cannot be given to the selected Partner.","status":"draft"}
+{"id":"table/strtable.csv:3168:2","source":"指定した対象へはこのアイテムは使用できません","english":"Cannot use this item on the selected target.","status":"draft"}
+{"id":"table/strtable.csv:3169:2","source":"「メタモーバトル」のみ使用可能です","english":"Can only be used in Metamo Battle.","status":"draft"}
+{"id":"table/strtable.csv:3170:2","source":"プルルに変身中でないと使用出来ません","english":"You must be transformed into a Pururu to use this.","status":"draft"}
+{"id":"table/strtable.csv:3171:2","source":"このアイテムでは現在のマリオネットを解除できません","english":"This item cannot release your current Marionette.","status":"draft"}
+{"id":"table/strtable.csv:3172:2","source":"この場所ではマリオネットにのりうつることはできません","english":"You cannot possess a Marionette here.","status":"draft"}
+{"id":"table/strtable.csv:3173:2","source":"「メタモーバトル」中は使用できません","english":"Cannot use this during Metamo Battle.","status":"draft"}
+{"id":"table/strtable.csv:3174:2","source":"このマップでは使用できません","english":"Cannot use this on this map.","status":"draft"}
+{"id":"table/strtable.csv:3175:2","source":"イベントが用意されていません","english":"No event is available.","status":"draft"}
+{"id":"table/strtable.csv:3176:2","source":"何らかの理由で作成できませんでした","english":"Could not create it for an unknown reason.","status":"draft"}
+{"id":"table/strtable.csv:3177:2","source":"ロボット騎乗中でないと使用できません","english":"You must be riding a robot to use this.","status":"draft"}
+{"id":"table/strtable.csv:3178:2","source":"ＤＥＭキャラクターはマリオネットにのりうつることができません","english":"DEM characters cannot possess a Marionette.","status":"draft"}
+{"id":"table/strtable.csv:3179:2","source":"パートナーを装備していません","english":"You do not have a Partner equipped.","status":"draft"}
+{"id":"table/strtable.csv:3180:2","source":"装備中のパートナーには使えません","english":"Cannot use this on an equipped Partner.","status":"draft"}
+{"id":"table/strtable.csv:3181:2","source":"対象のアクトキューブを既に覚えている為、覚えられません","english":"You already know the target Act Cube.","status":"draft"}
+{"id":"table/strtable.csv:3182:2","source":"アクトキューブをこれ以上覚える事が出来ません","english":"You cannot learn any more Act Cubes.","status":"draft"}
+{"id":"table/strtable.csv:3183:2","source":"再度アイテムを使用するには時間を置いてください","english":"Wait before using this item again.","status":"draft"}
+{"id":"table/strtable.csv:3184:2","source":"対象の上位スキル、または下位スキルを既に覚えている為、覚えられません","english":"You already know an upper- or lower-tier version of this skill.","status":"draft"}
+{"id":"table/strtable.csv:3185:2","source":"スキルの使用条件を満たしていない為、対象のパッシブアクトキューブを覚えられません","english":"You do not meet the skill requirements to learn this Passive Act Cube.","status":"draft"}
+{"id":"table/strtable.csv:3186:2","source":"何らかの原因で使用できませんでした","english":"Could not use this for an unknown reason.","status":"draft"}
+{"id":"table/strtable.csv:3187:2","source":"アイテムを拾うことが出来ません","english":"You cannot pick up items.","status":"draft"}
+{"id":"table/strtable.csv:3188:2","source":"存在しないアイテムです","english":"This item does not exist.","status":"draft"}
+{"id":"table/strtable.csv:3189:2","source":"行動不能時はアイテムを拾うことが出来ません","english":"You cannot pick up items while unable to act.","status":"draft"}
+{"id":"table/strtable.csv:3190:2","source":"憑依中はアイテムを拾うことが出来ません","english":"You cannot pick up items during possession.","status":"draft"}
+{"id":"table/strtable.csv:3191:2","source":"憑依者とレベルが離れすぎているので装備出来ません","english":"You cannot equip this because your level is too far from the possessor’s.","status":"draft"}
+{"id":"table/strtable.csv:3192:2","source":"装備箇所は既に装備中です","english":"That equipment slot is already occupied.","status":"draft"}
+{"id":"table/strtable.csv:3193:2","source":"憑依装備は定員オーバーです","english":"Possession equipment slots are full.","status":"draft"}
+{"id":"table/strtable.csv:3194:2","source":"憑依アイテムは装備出来ません","english":"Cannot equip a possession item.","status":"draft"}
+{"id":"table/strtable.csv:3195:2","source":"トレード中はアイテムを拾うことが出来ません","english":"You cannot pick up items while trading.","status":"draft"}
+{"id":"table/strtable.csv:3196:2","source":"イベント中はアイテムを拾うことが出来ません","english":"You cannot pick up items during an event.","status":"draft"}
+{"id":"table/strtable.csv:3197:2","source":"取得権限がありません","english":"You do not have permission to pick that up.","status":"draft"}
+{"id":"table/strtable.csv:3198:2","source":"これ以上アイテムを所持することはできません","english":"You cannot carry any more items.","status":"draft"}
+{"id":"table/strtable.csv:3199:2","source":"憑依者取得中です","english":"The possessor is currently picking it up.","status":"draft"}
+{"id":"table/strtable.csv:3200:2","source":"拾える状態ではありません","english":"You cannot pick that up right now.","status":"draft"}

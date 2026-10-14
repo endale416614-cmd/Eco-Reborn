@@ -1,0 +1,82 @@
+[
+  {
+    "id": "startup_failure",
+    "when": "stage category=server_start_failed",
+    "explanation": "A local map, login, or world service failed while starting."
+  },
+  {
+    "id": "service_not_ready",
+    "when": "stage category=server_not_ready",
+    "explanation": "A local service started but did not complete its readiness handshake."
+  },
+  {
+    "id": "client_start_failure",
+    "when": "stage category=client_start_failed",
+    "explanation": "The ECO client process failed to start."
+  },
+  {
+    "id": "service_stopped",
+    "when": "stage category=server_stopped",
+    "explanation": "A local service stopped while the client was running."
+  },
+  {
+    "id": "preflight_refused",
+    "when": "stage category=preflight_refused",
+    "explanation": "Preflight checks refused startup; check required client files and local ports."
+  },
+  {
+    "id": "isolation_unavailable",
+    "when": "stage category=isolation_unavailable",
+    "explanation": "Offline network isolation could not be verified."
+  },
+  {
+    "id": "connection_reset",
+    "when": "protocol event=CONNECTION_ERROR kind=CONNECTION_RESET",
+    "explanation": "A local connection was reset; this can occur during prototype handoffs or shutdown."
+  },
+  {
+    "id": "unknown_opcode",
+    "when": "protocol event=UNKNOWN_OPCODE*",
+    "explanation": "The client sent an opcode this prototype does not recognize."
+  },
+  {
+    "id": "login_rejected",
+    "when": "protocol event=LOGIN_REJECTED",
+    "explanation": "The prototype rejected the login request."
+  },
+  {
+    "id": "character_creation_rejected",
+    "when": "protocol event=CHARACTER_CREATE_REJECTED",
+    "explanation": "The prototype rejected character creation."
+  },
+  {
+    "id": "server_panic",
+    "when": "protocol event=PANIC",
+    "explanation": "The prototype recorded a panic event; the report does not include diagnostic details."
+  },
+  {
+    "id": "service_start_error",
+    "when": "protocol event=STARTUP_FAILED*",
+    "explanation": "A local service reported a startup error; the report records only its approved error kind."
+  },
+  {
+    "id": "service_storage_error",
+    "when": "protocol event=STORAGE_ERROR*",
+    "explanation": "A local service reported a storage error; the report records only its approved error kind."
+  },
+  {
+    "id": "service_accept_error",
+    "when": "protocol event=ACCEPT_ERROR*",
+    "explanation": "A local service reported a connection accept error."
+  },
+  {
+    "id": "service_connection_error",
+    "when": "protocol event=CONNECTION_ERROR*",
+    "explanation": "A local service reported a connection error; the report records only its approved error kind."
+  },
+  {
+    "id": "unknown",
+    "when": "no recognized signature",
+    "explanation": "No known ECO prototype issue matched the approved report fields."
+  }
+]

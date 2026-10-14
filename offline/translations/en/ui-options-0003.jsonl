@@ -1,0 +1,66 @@
+{"id": "table/strtable.csv:1979:2", "source": "削除キーを入力してください", "english": "Enter the deletion key.", "status": "draft"}
+{"id": "table/strtable.csv:1980:2", "source": "キャラ削除キーが違います", "english": "The character deletion key is incorrect.", "status": "draft"}
+{"id": "table/strtable.csv:1981:2", "source": "キャラクター選択", "english": "Character Selection", "status": "draft"}
+{"id": "table/strtable.csv:1983:2", "source": " \"ＤＥＭ専用\"", "english": " \"DEM Only\"", "status": "draft"}
+{"id": "table/strtable.csv:1987:2", "source": "キャラクター作成", "english": "Create Character", "status": "draft"}
+{"id": "table/strtable.csv:1988:2", "source": "種族特性", "english": "Racial Traits", "status": "draft"}
+{"id": "table/strtable.csv:1989:2", "source": "キャラクター名は半角2文字または全角2文字以上必要です", "english": "Character names must be at least 2 half-width or 2 full-width characters.", "status": "draft"}
+{"id": "table/strtable.csv:1990:2", "source": "男性", "english": "Male", "status": "draft"}
+{"id": "table/strtable.csv:1991:2", "source": "女性", "english": "Female", "status": "draft"}
+{"id": "table/strtable.csv:1992:2", "source": "< 男 >", "english": "< Male >", "status": "draft"}
+{"id": "table/strtable.csv:1993:2", "source": "< 女 >", "english": "< Female >", "status": "draft"}
+{"id": "table/strtable.csv:1994:2", "source": "男女によって、専用装備があります", "english": "Some equipment is exclusive to one gender.", "status": "draft"}
+{"id": "table/strtable.csv:1995:2", "source": "男女によって、専用装備があります", "english": "Some equipment is exclusive to one gender.", "status": "draft"}
+{"id": "table/strtable.csv:1996:2", "source": "サンプルキャラクター", "english": "Sample Character", "status": "draft"}
+{"id": "table/strtable.csv:1997:2", "source": "このキャラクターは$rサンプルキャラクターです。$rゲームを進行したり、課金アイテムを使うことで実現することが$rできます。", "english": "This is a sample character.$rYou can obtain it$rby progressing through the game,$ror by using paid items.", "status": "draft"}
+{"id": "table/strtable.csv:1999:2", "source": "顔１", "english": "Face 1", "status": "draft"}
+{"id": "table/strtable.csv:2000:2", "source": "顔２", "english": "Face 2", "status": "draft"}
+{"id": "table/strtable.csv:2001:2", "source": "顔３", "english": "Face 3", "status": "draft"}
+{"id": "table/strtable.csv:2002:2", "source": "顔４", "english": "Face 4", "status": "draft"}
+{"id": "table/strtable.csv:2003:2", "source": "顔５", "english": "Face 5", "status": "draft"}
+{"id": "table/strtable.csv:2004:2", "source": "顔６", "english": "Face 6", "status": "draft"}
+{"id": "table/strtable.csv:2005:2", "source": "顔７", "english": "Face 7", "status": "draft"}
+{"id": "table/strtable.csv:2006:2", "source": "顔８", "english": "Face 8", "status": "draft"}
+{"id": "table/strtable.csv:2007:2", "source": "顔９", "english": "Face 9", "status": "draft"}
+{"id": "table/strtable.csv:2008:2", "source": "顔１０", "english": "Face 10", "status": "draft"}
+{"id": "table/strtable.csv:2009:2", "source": "顔１１", "english": "Face 11", "status": "draft"}
+{"id": "table/strtable.csv:2010:2", "source": "顔１２", "english": "Face 12", "status": "draft"}
+{"id": "table/strtable.csv:2011:2", "source": "顔１３", "english": "Face 13", "status": "draft"}
+{"id": "table/strtable.csv:2012:2", "source": "顔１４", "english": "Face 14", "status": "draft"}
+{"id": "table/strtable.csv:2013:2", "source": "顔１５", "english": "Face 15", "status": "draft"}
+{"id": "table/strtable.csv:2014:2", "source": "顔１６", "english": "Face 16", "status": "draft"}
+{"id": "table/strtable.csv:2015:2", "source": "顔１７", "english": "Face 17", "status": "draft"}
+{"id": "table/strtable.csv:2016:2", "source": "顔１８", "english": "Face 18", "status": "draft"}
+{"id": "table/strtable.csv:2017:2", "source": "顔１９", "english": "Face 19", "status": "draft"}
+{"id": "table/strtable.csv:2018:2", "source": "顔２０", "english": "Face 20", "status": "draft"}
+{"id": "table/strtable.csv:2019:2", "source": "顔%d", "english": "Face %d", "status": "draft"}
+{"id": "table/strtable.csv:2021:2", "source": "スキンヘッド", "english": "Shaved", "status": "draft"}
+{"id": "table/strtable.csv:2022:2", "source": "クルーカット", "english": "Crew Cut", "status": "draft"}
+{"id": "table/strtable.csv:2023:2", "source": "ナチュラル", "english": "Natural", "status": "draft"}
+{"id": "table/strtable.csv:2024:2", "source": "ワイルド", "english": "Wild", "status": "draft"}
+{"id": "table/strtable.csv:2025:2", "source": "ボーイズ", "english": "Boyish", "status": "draft"}
+{"id": "table/strtable.csv:2026:2", "source": "コンサバティブ", "english": "Conservative", "status": "draft"}
+{"id": "table/strtable.csv:2027:2", "source": "ロング", "english": "Long", "status": "draft"}
+{"id": "table/strtable.csv:2028:2", "source": "オールバック", "english": "Slicked Back", "status": "draft"}
+{"id": "table/strtable.csv:2029:2", "source": "ワンレングス", "english": "One-Length", "status": "draft"}
+{"id": "table/strtable.csv:2030:2", "source": "リファインナチュラル", "english": "Refined Natural", "status": "draft"}
+{"id": "table/strtable.csv:2031:2", "source": "リファインボーイズ", "english": "Refined Boyish", "status": "draft"}
+{"id": "table/strtable.csv:2032:2", "source": "リファインコンサバティブ", "english": "Refined Conservative", "status": "draft"}
+{"id": "table/strtable.csv:2033:2", "source": "リファインワンレングス", "english": "Refined One-Length", "status": "draft"}
+{"id": "table/strtable.csv:2034:2", "source": "リファインワイルド", "english": "Refined Wild", "status": "draft"}
+{"id": "table/strtable.csv:2035:2", "source": "リファインオールバック", "english": "Refined Slicked Back", "status": "draft"}
+{"id": "table/strtable.csv:2036:2", "source": "リファインロング", "english": "Refined Long", "status": "draft"}
+{"id": "table/strtable.csv:2037:2", "source": "リファインクルーカット", "english": "Refined Crew Cut", "status": "draft"}
+{"id": "table/strtable.csv:2038:2", "source": "ベリーショート", "english": "Very Short", "status": "draft"}
+{"id": "table/strtable.csv:2039:2", "source": "ショート", "english": "Short", "status": "draft"}
+{"id": "table/strtable.csv:2040:2", "source": "セミロング", "english": "Medium Length", "status": "draft"}
+{"id": "table/strtable.csv:2041:2", "source": "レイヤー", "english": "Layered", "status": "draft"}
+{"id": "table/strtable.csv:2042:2", "source": "アンティーク", "english": "Antique", "status": "draft"}
+{"id": "table/strtable.csv:2043:2", "source": "ロング", "english": "Long", "status": "draft"}
+{"id": "table/strtable.csv:2044:2", "source": "外巻きヘア", "english": "Outward-Curling Hair", "status": "draft"}
+{"id": "table/strtable.csv:2045:2", "source": "内巻きヘア", "english": "Inward-Curling Hair", "status": "draft"}
+{"id": "table/strtable.csv:2046:2", "source": "ナチュラル", "english": "Natural", "status": "draft"}
+{"id": "table/strtable.csv:2047:2", "source": "リファインナチュラル", "english": "Refined Natural", "status": "draft"}
+{"id": "table/strtable.csv:2048:2", "source": "リファインアンティーク", "english": "Refined Antique", "status": "draft"}
+{"id": "table/strtable.csv:2049:2", "source": "リファインレイヤー", "english": "Refined Layered", "status": "draft"}
+{"id": "table/strtable.csv:2050:2", "source": "リファインショート", "english": "Refined Short", "status": "draft"}

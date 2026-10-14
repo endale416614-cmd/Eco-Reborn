@@ -1,0 +1,100 @@
+{"id": "table/item.csv:129:4", "source": "鳥の撒き餌", "english": "Bird Bait", "status": "draft"}
+{"id": "table/item.csv:130:4", "source": "魚の撒き餌", "english": "Fish Bait", "status": "draft"}
+{"id": "table/item.csv:131:4", "source": "動物の撒き餌", "english": "Animal Bait", "status": "draft"}
+{"id": "table/item.csv:134:4", "source": "黒色火薬", "english": "Black Gunpowder", "status": "draft"}
+{"id": "table/item.csv:135:4", "source": "フルーツジュース", "english": "Fruit Juice", "status": "draft"}
+{"id": "table/item.csv:136:4", "source": "フルーツジュース（クエスト）", "english": "Fruit Juice (Quest)", "status": "draft"}
+{"id": "table/item.csv:137:4", "source": "高級フルーツジュース", "english": "High-Grade Fruit Juice", "status": "draft"}
+{"id": "table/item.csv:138:4", "source": "高級フルーツジュース（クエスト）", "english": "High-Grade Fruit Juice (Quest)", "status": "draft"}
+{"id": "table/item.csv:139:4", "source": "ミネラルウォーター", "english": "Mineral Water", "status": "draft"}
+{"id": "table/item.csv:143:4", "source": "トニックウォーター", "english": "Tonic Water", "status": "draft"}
+{"id": "table/item.csv:144:4", "source": "ソーダ水", "english": "Soda Water", "status": "draft"}
+{"id": "table/item.csv:150:4", "source": "ミネラルウォーター（クエスト）", "english": "Mineral Water (Quest)", "status": "draft"}
+{"id": "table/item.csv:151:4", "source": "フルーツ100％ジュース", "english": "100 Percent Fruit Juice", "status": "draft"}
+{"id": "table/item.csv:152:4", "source": "アセロラ水", "english": "Acerola Water", "status": "draft"}
+{"id": "table/item.csv:153:4", "source": "ミックスジュース", "english": "Mixed Juice", "status": "draft"}
+{"id": "table/item.csv:154:4", "source": "青汁", "english": "Green Juice", "status": "draft"}
+{"id": "table/item.csv:156:4", "source": "キューティクルエキス", "english": "Cuticle Extract", "status": "draft"}
+{"id": "table/item.csv:158:4", "source": "キャリアオイル", "english": "Carrier Oil", "status": "draft"}
+{"id": "table/item.csv:161:4", "source": "漂白剤", "english": "Bleach", "status": "draft"}
+{"id": "table/item.csv:163:4", "source": "ジュース（クエスト）", "english": "Juice (Quest)", "status": "draft"}
+{"id": "table/item.csv:164:4", "source": "どろり青汁", "english": "Thick Green Juice", "status": "draft"}
+{"id": "table/item.csv:165:4", "source": "黒の聖杯（イベント）", "english": "Black Chalice (Event)", "status": "draft", "note": "The description identifies a chalice kept in the Black Cathedral; the item's lore effect is not independently verified."}
+{"id": "table/item.csv:166:4", "source": "ゴーレム・ゴブレット", "english": "Golem Goblet", "status": "draft", "note": "The description says this unusual goblet can turn a Marionette into a Golem."}
+{"id": "table/item.csv:167:4", "source": "ミルク", "english": "Milk", "status": "draft"}
+{"id": "table/item.csv:169:4", "source": "マナ・ウォーター", "english": "Mana Water", "status": "draft"}
+{"id": "table/item.csv:171:4", "source": "ヴァレリアのスープ", "english": "Valeria's Soup", "status": "draft", "note": "Valeria is kept as a transliteration; the name's official English spelling is unverified."}
+{"id": "table/item.csv:172:4", "source": "えんどう豆のポタージュ", "english": "Pea Potage", "status": "draft"}
+{"id": "table/item.csv:174:4", "source": "水牛のミルク", "english": "Buffalo Milk", "status": "draft"}
+{"id": "table/item.csv:175:4", "source": "きのこスープ", "english": "Mushroom Soup", "status": "draft"}
+{"id": "table/item.csv:178:4", "source": "ブラックコーヒー", "english": "Black Coffee", "status": "draft"}
+{"id": "table/item.csv:179:4", "source": "砂糖入りコーヒー", "english": "Coffee with Sugar", "status": "draft"}
+{"id": "table/item.csv:180:4", "source": "コーヒー（クエスト）", "english": "Coffee (Quest)", "status": "draft"}
+{"id": "table/item.csv:181:4", "source": "手榴弾", "english": "Hand Grenade", "status": "draft"}
+{"id": "table/item.csv:183:4", "source": "酒樽（クエスト）", "english": "Alcohol Barrel (Quest)", "status": "draft", "note": "The description specifies an alcoholic drink without identifying its type."}
+{"id": "table/item.csv:186:4", "source": "りんご", "english": "Apple", "status": "draft"}
+{"id": "table/item.csv:187:4", "source": "蜜りんご", "english": "Honey Apple", "status": "draft"}
+{"id": "table/item.csv:188:4", "source": "毒りんご", "english": "Poison Apple", "status": "draft"}
+{"id": "table/item.csv:189:4", "source": "禁断の果実", "english": "Forbidden Fruit", "status": "draft"}
+{"id": "table/item.csv:190:4", "source": "りんご（クエスト）", "english": "Apple (Quest)", "status": "draft"}
+{"id": "table/item.csv:191:4", "source": "ぶどう", "english": "Grapes", "status": "draft"}
+{"id": "table/item.csv:192:4", "source": "あんず", "english": "Apricot", "status": "draft"}
+{"id": "table/item.csv:193:4", "source": "いちじく", "english": "Fig", "status": "draft"}
+{"id": "table/item.csv:194:4", "source": "毒消しの実", "english": "Antidote Fruit", "status": "draft"}
+{"id": "table/item.csv:195:4", "source": "プルーン", "english": "Prune", "status": "draft"}
+{"id": "table/item.csv:196:4", "source": "オレンジ", "english": "Orange", "status": "draft"}
+{"id": "table/item.csv:197:4", "source": "さくらんぼ", "english": "Cherry", "status": "draft"}
+{"id": "table/item.csv:198:4", "source": "新ワールドの実", "english": "New World's Fruit", "status": "draft", "note": "The source calls this a fruit produced by a new world; no proper-name spelling is given."}
+{"id": "table/item.csv:199:4", "source": "ラズベリー", "english": "Raspberry", "status": "draft"}
+{"id": "table/item.csv:200:4", "source": "あんこの素", "english": "Sweet Bean Paste Base", "status": "draft", "note": "The source describes this as the base for anko (sweet bean paste)."}
+{"id": "table/item.csv:201:4", "source": "クコーの実", "english": "Kuko Berry", "status": "draft", "note": "The name is rendered phonetically; the source description only identifies it as a small fruit."}
+{"id": "table/item.csv:204:4", "source": "カカオ豆", "english": "Cacao Beans", "status": "draft"}
+{"id": "table/item.csv:207:4", "source": "アーチン印のミソ", "english": "Urchin-Brand Miso", "status": "draft", "note": "The source uses アーチン印; the brand/name reference is unclear."}
+{"id": "table/item.csv:208:4", "source": "高級ドライフルーツ", "english": "High-Grade Dried Fruit", "status": "draft"}
+{"id": "table/item.csv:210:4", "source": "ドライフルーツ", "english": "Dried Fruit", "status": "draft"}
+{"id": "table/item.csv:211:4", "source": "干しフカヒレ", "english": "Dried Shark Fin", "status": "draft"}
+{"id": "table/item.csv:213:4", "source": "じゃがいも", "english": "Potato", "status": "draft"}
+{"id": "table/item.csv:214:4", "source": "じゃがサラダ", "english": "Potato Salad", "status": "draft"}
+{"id": "table/item.csv:216:4", "source": "にんじん", "english": "Carrot", "status": "draft"}
+{"id": "table/item.csv:218:4", "source": "スイカ", "english": "Watermelon", "status": "draft"}
+{"id": "table/item.csv:220:4", "source": "ベーコン", "english": "Bacon", "status": "draft"}
+{"id": "table/item.csv:222:4", "source": "クマノイ", "english": "Bear Liver", "status": "draft", "note": "The source description calls this bear liver; kept literal to the source description."}
+{"id": "table/item.csv:223:4", "source": "フグのキモ", "english": "Pufferfish Liver", "status": "draft"}
+{"id": "table/item.csv:224:4", "source": "フォアグラ", "english": "Foie Gras", "status": "draft"}
+{"id": "table/item.csv:226:4", "source": "桜の葉っぱ", "english": "Cherry Leaves", "status": "draft"}
+{"id": "table/item.csv:227:4", "source": "ハーブ", "english": "Herb", "status": "draft"}
+{"id": "table/item.csv:228:4", "source": "ベビーリーフ", "english": "Baby Leaves", "status": "draft"}
+{"id": "table/item.csv:230:4", "source": "マリカ草", "english": "Marika Grass", "status": "draft", "note": "Marika is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:231:4", "source": "ルーン草", "english": "Rune Grass", "status": "draft", "note": "Rune is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:232:4", "source": "アボリー草", "english": "Avory Grass", "status": "draft", "note": "Avory is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:233:4", "source": "ミティー草", "english": "Mity Grass", "status": "draft", "note": "Mity is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:234:4", "source": "ギコギコ草", "english": "Gikogiko Grass", "status": "draft", "note": "Gikogiko is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:235:4", "source": "リール草", "english": "Reel Grass", "status": "draft", "note": "Reel is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:236:4", "source": "レグナ草", "english": "Regna Grass", "status": "draft", "note": "Regna is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:237:4", "source": "タムタム草", "english": "Tamtam Grass", "status": "draft", "note": "Tamtam is transliterated from the source; official spelling is unverified."}
+{"id": "table/item.csv:240:4", "source": "四つ葉のクローバー", "english": "Four-Leaf Clover", "status": "draft"}
+{"id": "table/item.csv:241:4", "source": "花", "english": "Flower", "status": "draft"}
+{"id": "table/item.csv:242:4", "source": "プリザーブドフラワー", "english": "Preserved Flower", "status": "draft"}
+{"id": "table/item.csv:243:4", "source": "透明の花", "english": "Transparent Flower", "status": "draft"}
+{"id": "table/item.csv:244:4", "source": "小さな花（クエスト）", "english": "Small Flower (Quest)", "status": "draft"}
+{"id": "table/item.csv:245:4", "source": "カーネーション", "english": "Carnation", "status": "draft"}
+{"id": "table/item.csv:246:4", "source": "花束", "english": "Bouquet", "status": "draft"}
+{"id": "table/item.csv:247:4", "source": "プリザーブドブーケ", "english": "Preserved Bouquet", "status": "draft"}
+{"id": "table/item.csv:248:4", "source": "おわびの押し花（クエスト）", "english": "Apology Pressed Flower (Quest)", "status": "draft"}
+{"id": "table/item.csv:249:4", "source": "愛の花束", "english": "Bouquet of Love", "status": "draft"}
+{"id": "table/item.csv:250:4", "source": "バラの花束（クエスト）", "english": "Rose Bouquet (Quest)", "status": "draft"}
+{"id": "table/item.csv:251:4", "source": "ばらの花束（イベント）", "english": "Rose Bouquet (Event)", "status": "draft"}
+{"id": "table/item.csv:253:4", "source": "パンの木の種", "english": "Bread Tree Seed", "status": "draft"}
+{"id": "table/item.csv:254:4", "source": "綿花の種", "english": "Cotton Tree Seed", "status": "draft", "note": "The source description says this seed may grow a cotton tree; retained the literal tree name."}
+{"id": "table/item.csv:255:4", "source": "花の種", "english": "Flower Seed", "status": "draft"}
+{"id": "table/item.csv:256:4", "source": "赤い花の種", "english": "Red Flower Seed", "status": "draft"}
+{"id": "table/item.csv:257:4", "source": "青い花の種", "english": "Blue Flower Seed", "status": "draft"}
+{"id": "table/item.csv:258:4", "source": "黄色い花の種", "english": "Yellow Flower Seed", "status": "draft"}
+{"id": "table/item.csv:259:4", "source": "橙の花の種", "english": "Orange Flower Seed", "status": "draft"}
+{"id": "table/item.csv:260:4", "source": "白い花の種", "english": "White Flower Seed", "status": "draft"}
+{"id": "table/item.csv:261:4", "source": "紫色の花の種", "english": "Purple Flower Seed", "status": "draft"}
+{"id": "table/item.csv:262:4", "source": "木の種", "english": "Tree Seed", "status": "draft"}
+{"id": "table/item.csv:263:4", "source": "不思議な木の種", "english": "Strange Tree Seed", "status": "draft"}
+{"id": "table/item.csv:264:4", "source": "東の果物の木の種", "english": "Eastern Fruit Tree Seed", "status": "draft"}
+{"id": "table/item.csv:265:4", "source": "西の果物の木の種", "english": "Western Fruit Tree Seed", "status": "draft"}
+{"id": "table/item.csv:266:4", "source": "南の果物の木の種", "english": "Southern Fruit Tree Seed", "status": "draft"}

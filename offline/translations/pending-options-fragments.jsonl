@@ -1,0 +1,6 @@
+{"id": "table/strtable.csv:2359:2", "source": "の見た目を", "status": "pending-review", "note": "Fusion phrase fragment; hold until neighboring UI composition/order is confirmed."}
+{"id": "table/strtable.csv:2360:2", "source": "に移します", "status": "pending-review", "note": "Fusion phrase fragment; hold until neighboring UI composition/order is confirmed."}
+{"id": "table/strtable.csv:2361:2", "source": "に移します", "status": "pending-review", "note": "Fusion phrase fragment; hold until neighboring UI composition/order is confirmed."}
+{"id": "table/strtable.csv:2684:2", "source": "から", "status": "pending-review", "note": "Job-switch phrase fragment; hold until its UI composition is confirmed."}
+{"id": "table/strtable.csv:2685:2", "source": "にスイッチングします", "status": "pending-review", "note": "Job-switch phrase fragment; hold until its UI composition is confirmed."}
+{"id": "table/strtable.csv:2688:2", "source": "にスイッチングします。よろしいですか？", "status": "pending-review", "note": "Job-switch confirmation fragment; hold until the preceding selected job name is confirmed."}

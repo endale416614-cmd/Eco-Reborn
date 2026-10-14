@@ -1,0 +1,91 @@
+{"id": "table/strtable.csv:1442:2", "source": "精製・合成するレシピを選んで下さい", "english": "Select a recipe to refine or synthesize.", "status": "draft"}
+{"id": "table/strtable.csv:1444:2", "source": "合計金額", "english": "Total Price", "status": "draft"}
+{"id": "table/strtable.csv:1445:2", "source": "合成できるアイテムがありません", "english": "No items can be synthesized.", "status": "draft"}
+{"id": "table/strtable.csv:1446:2", "source": "アイテム欄に空きがありません", "english": "Inventory is full.", "status": "draft"}
+{"id": "table/strtable.csv:1447:2", "source": "%2d個", "english": "%2d items", "status": "draft"}
+{"id": "table/strtable.csv:1450:2", "source": "BPボーナス", "english": "Backpacker Bonus", "status": "draft"}
+{"id": "table/strtable.csv:1451:2", "source": "適正Lv範囲", "english": "Eligible Level Range", "status": "draft"}
+{"id": "table/strtable.csv:1452:2", "source": "※ＢＰボーナス適正Lv範囲外の合成物があります（取得経験値が変動します）", "english": "※Some synthesis results are outside the level range for the BP bonus (EXP gained will change).", "status": "draft"}
+{"id": "table/strtable.csv:1453:2", "source": "何らかの原因で失敗しました", "english": "Failed for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:1454:2", "source": "取得経験値が変動したためスキルをキャンセルし、バックパッカーボーナス経験を取得しませんでした", "english": "The skill was canceled because the EXP gained changed; Backpacker Bonus EXP was not awarded.", "status": "draft"}
+{"id": "table/strtable.csv:1455:2", "source": "取得経験値が変動したため$rスキルをキャンセルし、バックパッカーボーナス経験を$r取得しませんでした", "english": "The skill was canceled because the EXP gained changed,$rand Backpacker Bonus EXP$rwas not awarded.", "status": "draft"}
+{"id": "table/strtable.csv:1458:2", "source": "修理ウィンドウ", "english": "Repair Window", "status": "draft"}
+{"id": "table/strtable.csv:1459:2", "source": "最大耐久度回復", "english": "Restore Maximum Durability", "status": "draft"}
+{"id": "table/strtable.csv:1460:2", "source": "潜在武具強化リセット", "english": "Reset Potential Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:1461:2", "source": "ごきげん度回復ウィンドウ", "english": "Restore Mood", "status": "draft"}
+{"id": "table/strtable.csv:1462:2", "source": "転生ウィンドウ", "english": "Rebirth Window", "status": "draft"}
+{"id": "table/strtable.csv:1463:2", "source": "修理アイテムがありません", "english": "No repair items.", "status": "draft"}
+{"id": "table/strtable.csv:1464:2", "source": "STRが %d 上昇します$r", "english": "STR increases by %d.$r", "status": "draft"}
+{"id": "table/strtable.csv:1465:2", "source": "DEXが %d 上昇します$r", "english": "DEX increases by %d.$r", "status": "draft"}
+{"id": "table/strtable.csv:1466:2", "source": "INTが %d 上昇します$r", "english": "INT increases by %d.$r", "status": "draft"}
+{"id": "table/strtable.csv:1467:2", "source": "VITが %d 上昇します$r", "english": "VIT increases by %d.$r", "status": "draft"}
+{"id": "table/strtable.csv:1468:2", "source": "AGIが %d 上昇します$r", "english": "AGI increases by %d.$r", "status": "draft"}
+{"id": "table/strtable.csv:1469:2", "source": "MAGが %d 上昇します$r", "english": "MAG increases by %d.$r", "status": "draft"}
+{"id": "table/strtable.csv:1470:2", "source": "$r転生してよろしいですか？", "english": "$rWould you like to be reborn?", "status": "draft"}
+{"id": "table/strtable.csv:1471:2", "source": "転生条件を満たしていません", "english": "You do not meet the rebirth requirements.", "status": "draft"}
+{"id": "table/strtable.csv:1472:2", "source": "転生回数が限界に達しています", "english": "You have reached the rebirth limit.", "status": "draft"}
+{"id": "table/strtable.csv:1473:2", "source": "転生条件を一部満たしていません", "english": "You do not meet some rebirth requirements.", "status": "draft"}
+{"id": "table/strtable.csv:1474:2", "source": "潜在強化されたアイテムがありません", "english": "You have no items with potential enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:1475:2", "source": "%s$rの潜在強化をリセットします$rよろしいですか？", "english": "%s$rPotential Enhancement will be reset.$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:1478:2", "source": "作業請負ウィンドウ", "english": "Work Contract Window", "status": "draft"}
+{"id": "table/strtable.csv:1479:2", "source": "%sさんがあなたに対して%sを使用します。$r宜しいですか？", "english": "%s wants to use %s on you.$rDo you agree?", "status": "draft"}
+{"id": "table/strtable.csv:1482:2", "source": "システム", "english": "System", "status": "draft"}
+{"id": "table/strtable.csv:1486:2", "source": "ウィンドウ", "english": "Windowed", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1487:2", "source": "フルスクリーン", "english": "Fullscreen", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1488:2", "source": "無し", "english": "None", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1489:2", "source": "円形", "english": "Circular", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1490:2", "source": "通常描画", "english": "Normal Rendering", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1493:2", "source": "シングルクリック", "english": "Single Click", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1494:2", "source": "ダブルクリック", "english": "Double Click", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1495:2", "source": "無し", "english": "None", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1498:2", "source": "デフォルト", "english": "Default", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1499:2", "source": "全て", "english": "All", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1500:2", "source": "選択キャラのみ", "english": "Selected Character Only", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1501:2", "source": "無し", "english": "None", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1502:2", "source": "全て", "english": "All", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1503:2", "source": "一部除く", "english": "All Except Some", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1504:2", "source": "最小", "english": "Minimum", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1505:2", "source": "無し", "english": "None", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1506:2", "source": "適用", "english": "Apply", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1507:2", "source": "最適", "english": "Best", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1508:2", "source": "最小", "english": "Minimum", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1509:2", "source": "普通", "english": "Normal", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1510:2", "source": "最大", "english": "Maximum", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1511:2", "source": "北向き", "english": "North Facing", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1512:2", "source": "キャラの向き", "english": "Character Direction", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1513:2", "source": "表示", "english": "Show", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1514:2", "source": "非表示", "english": "Hide", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1515:2", "source": "パーティー表示", "english": "Show Party", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1516:2", "source": "変更あり", "english": "Changed", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1517:2", "source": "変更なし", "english": "Unchanged", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1518:2", "source": "表示", "english": "Show", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1519:2", "source": "非表示", "english": "Hide", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1520:2", "source": "無し", "english": "None", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1521:2", "source": "普通", "english": "Normal", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1522:2", "source": "追従", "english": "Follow", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1523:2", "source": "上", "english": "Top", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1524:2", "source": "下", "english": "Bottom", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1525:2", "source": "標準", "english": "Standard", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1528:2", "source": "非表示", "english": "Hidden", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1532:2", "source": "パーティー名", "english": "Party Name", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1533:2", "source": "リング名", "english": "Ring Name", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1534:2", "source": "非表示", "english": "Hidden", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1535:2", "source": "全て", "english": "All", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1536:2", "source": "非表示", "english": "Hidden", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1537:2", "source": "所属リングのみ", "english": "My Ring Only", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1538:2", "source": "自動", "english": "Automatic", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1539:2", "source": "カーソル付近", "english": "Near Cursor", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1540:2", "source": "手前の対象のみ", "english": "Frontmost Target Only", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1541:2", "source": "全て", "english": "All", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1542:2", "source": "無制限", "english": "Unlimited", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1545:2", "source": "全て", "english": "All", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1546:2", "source": "選択オブジェのみ", "english": "Selected Object Only", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1547:2", "source": "無し", "english": "None", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1548:2", "source": "クラシック", "english": "Classic", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1549:2", "source": "デフォルト", "english": "Default", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1552:2", "source": "全て表示", "english": "Show All", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1553:2", "source": "非表示", "english": "Hide", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1554:2", "source": "自分のみ表示", "english": "Show Self Only", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1555:2", "source": "表示", "english": "Show", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1556:2", "source": "非表示", "english": "Hide", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}
+{"id": "table/strtable.csv:1557:2", "source": "選択中のみ表示", "english": "Show Selected Only", "status": "draft", "note": "Visible settings option; the parent setting category is not established by this display string alone."}

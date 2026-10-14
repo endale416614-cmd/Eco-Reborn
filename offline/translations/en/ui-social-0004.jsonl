@@ -1,0 +1,211 @@
+{"id": "table/strtable.csv:3451:2", "source": "ゴーレムがいません", "english": "You do not have a Golem.", "status": "draft"}
+{"id": "table/strtable.csv:3452:2", "source": "ゴーレムの店番設定にて無いアイテムを設定しようとしました", "english": "The Golem shop settings refer to an item you do not have.", "status": "draft"}
+{"id": "table/strtable.csv:3453:2", "source": "ゴーレムの店番設定にて個数の設定に失敗しました", "english": "Failed to set the item quantity in the Golem shop.", "status": "draft"}
+{"id": "table/strtable.csv:3454:2", "source": "ゴーレムの店番設定にて値段の設定に失敗しました", "english": "Failed to set the item price in the Golem shop.", "status": "draft"}
+{"id": "table/strtable.csv:3455:2", "source": "なんらかの原因で失敗しました", "english": "It failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3456:2", "source": "ゴーレムに出品されている商品が無くなりました", "english": "The Golem has no items left for sale.", "status": "draft"}
+{"id": "table/strtable.csv:3457:2", "source": "自分のゴーレムからは買えません", "english": "You cannot buy from your own Golem.", "status": "draft"}
+{"id": "table/strtable.csv:3458:2", "source": "指定アイテムがありませんでした", "english": "The specified item was not found.", "status": "draft"}
+{"id": "table/strtable.csv:3459:2", "source": "指定アイテムが足りません", "english": "You do not have enough of the specified item.", "status": "draft"}
+{"id": "table/strtable.csv:3460:2", "source": "販売数量の変化が起こった為キャンセルされました", "english": "Canceled because the quantity for sale changed.", "status": "draft"}
+{"id": "table/strtable.csv:3461:2", "source": "所持金が足りません", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:3462:2", "source": "これ以上アイテムを所持することはできません", "english": "You cannot carry any more items.", "status": "draft"}
+{"id": "table/strtable.csv:3463:2", "source": "ゴーレムの所持金が上限に達したためキャンセルされました", "english": "Canceled because the Golem reached its currency limit.", "status": "draft"}
+{"id": "table/strtable.csv:3464:2", "source": "何らかの原因でゴーレムにアクセスできません", "english": "Could not access the Golem for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3465:2", "source": "徘徊しているゴーレムです", "english": "This Golem is roaming.", "status": "draft"}
+{"id": "table/strtable.csv:3466:2", "source": "商品がないのでゴーレムショップは開けません", "english": "Cannot open the Golem Shop because it has no items.", "status": "draft"}
+{"id": "table/strtable.csv:3467:2", "source": "イベント中はゴーレムショップは開けません", "english": "Cannot open the Golem Shop during an event.", "status": "draft"}
+{"id": "table/strtable.csv:3468:2", "source": "トレード中はゴーレムショップは開けません", "english": "Cannot open the Golem Shop while trading.", "status": "draft"}
+{"id": "table/strtable.csv:3469:2", "source": "憑依中はゴーレムショップは開けません", "english": "Cannot open the Golem Shop during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3470:2", "source": "行動不能時はゴーレムショップは開けません", "english": "Cannot open the Golem Shop while unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3471:2", "source": "ゴーレムショップを開ける状態ではありません", "english": "You cannot open the Golem Shop right now.", "status": "draft"}
+{"id": "table/strtable.csv:3472:2", "source": "他の種類のゴーレムにアクセス中です", "english": "You are accessing a different type of Golem.", "status": "draft"}
+{"id": "table/strtable.csv:3473:2", "source": "お試しプレイ期間中は買取ゴーレムに対して売ることができません", "english": "You cannot sell to a buying Golem during the trial period.", "status": "draft"}
+{"id": "table/strtable.csv:3474:2", "source": "今回は何も売れませんでした", "english": "Nothing was sold this time.", "status": "draft"}
+{"id": "table/strtable.csv:3475:2", "source": "今回の売り上げは %lldG です", "english": "Sales this time: %lld G", "status": "draft"}
+{"id": "table/strtable.csv:3476:2", "source": "%sが%d個売れました", "english": "%s: %d sold.", "status": "draft"}
+{"id": "table/strtable.csv:3477:2", "source": "ゴーレムの設定を買取にしました", "english": "Golem set to Buying mode.", "status": "draft"}
+{"id": "table/strtable.csv:3478:2", "source": "ゴーレムの設定を採集にしました", "english": "Golem set to Gathering mode.", "status": "draft"}
+{"id": "table/strtable.csv:3481:2", "source": "ワープするマップがありません", "english": "No map is available to warp to.", "status": "draft"}
+{"id": "table/strtable.csv:3482:2", "source": "ワープ後の座標がマップの外にあります", "english": "The warp destination is outside the map.", "status": "draft"}
+{"id": "table/strtable.csv:3483:2", "source": "憑依中の為ワープ出来ません", "english": "Cannot warp during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3484:2", "source": "ログアウト中の為ワープ出来ません", "english": "Cannot warp while logging out.", "status": "draft"}
+{"id": "table/strtable.csv:3487:2", "source": "%sさんをフレンドリストに登録しました", "english": "%s was added to your Friends list.", "status": "draft"}
+{"id": "table/strtable.csv:3488:2", "source": "相手が見付かりません", "english": "The other player could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3489:2", "source": "既に登録しています", "english": "Already registered.", "status": "draft"}
+{"id": "table/strtable.csv:3490:2", "source": "相手に拒否されました", "english": "The request was declined.", "status": "draft"}
+{"id": "table/strtable.csv:3491:2", "source": "フレンドリストに空きがありません", "english": "Your Friends list is full.", "status": "draft"}
+{"id": "table/strtable.csv:3492:2", "source": "相手のフレンドリストに空きがありません", "english": "The other player’s Friends list is full.", "status": "draft"}
+{"id": "table/strtable.csv:3493:2", "source": "相手がフレンド招待不許可設定です", "english": "The other player does not accept friend requests.", "status": "draft"}
+{"id": "table/strtable.csv:3494:2", "source": "指定されたキャラがフレンドリストにありません", "english": "The specified character is not on your Friends list.", "status": "draft"}
+{"id": "table/strtable.csv:3495:2", "source": "%sさんがフレンドリストから削除されました", "english": "%s was removed from your Friends list.", "status": "draft"}
+{"id": "table/strtable.csv:3497:2", "source": "相手がログインしていません", "english": "The other player is offline.", "status": "draft"}
+{"id": "table/strtable.csv:3498:2", "source": "相手が見付かりません", "english": "The other player could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3501:2", "source": "%sさんをブロックリストに登録しました", "english": "%s was added to your Block list.", "status": "draft"}
+{"id": "table/strtable.csv:3502:2", "source": "相手が見付かりません", "english": "The other player could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3503:2", "source": "既に登録しています", "english": "Already registered.", "status": "draft"}
+{"id": "table/strtable.csv:3504:2", "source": "ブロックリストに空きがありません", "english": "Your Block list is full.", "status": "draft"}
+{"id": "table/strtable.csv:3505:2", "source": "指定されたキャラがブロックリストにありません", "english": "The specified character is not on your Block list.", "status": "draft"}
+{"id": "table/strtable.csv:3506:2", "source": "%sさんがブロックリストから削除されました", "english": "%s was removed from your Block list.", "status": "draft"}
+{"id": "table/strtable.csv:3509:2", "source": "メールを送信しました", "english": "Mail sent.", "status": "draft"}
+{"id": "table/strtable.csv:3510:2", "source": "送信相手が見付かりません", "english": "The recipient could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3511:2", "source": "送信相手(%s)さんが見付かりません", "english": "The recipient (%s) could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3512:2", "source": "送信相手(%s)さんのメールボックスが一杯です", "english": "The recipient (%s) mailbox is full.", "status": "draft"}
+{"id": "table/strtable.csv:3513:2", "source": "送信相手(%s)さんが見つかりません", "english": "The recipient (%s) could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3516:2", "source": "バッファリングを開始します", "english": "Starting buffering.", "status": "draft"}
+{"id": "table/strtable.csv:3517:2", "source": "バッファリング中…", "english": "Buffering...", "status": "draft"}
+{"id": "table/strtable.csv:3518:2", "source": "バッファリング準備完了", "english": "Buffering ready.", "status": "draft"}
+{"id": "table/strtable.csv:3519:2", "source": "メディアの初期化に失敗しました [0x%08x]", "english": "Failed to initialize media [0x%08x].", "status": "draft"}
+{"id": "table/strtable.csv:3520:2", "source": "ムービー再生が中止されました [0x%08x]", "english": "Movie playback stopped [0x%08x].", "status": "draft"}
+{"id": "table/strtable.csv:3521:2", "source": "ムービー再生が中止されました", "english": "Movie playback stopped.", "status": "draft"}
+{"id": "table/strtable.csv:3522:2", "source": "ムービー再生は正常に終了しました", "english": "Movie playback completed successfully.", "status": "draft"}
+{"id": "table/strtable.csv:3525:2", "source": "投稿できませんでした", "english": "Could not post.", "status": "draft"}
+{"id": "table/strtable.csv:3526:2", "source": "所持金が足りません", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:3527:2", "source": "取得できませんでした", "english": "Could not obtain it.", "status": "draft"}
+{"id": "table/strtable.csv:3530:2", "source": "露店が開けませんでした", "english": "Could not open the player shop.", "status": "draft"}
+{"id": "table/strtable.csv:3531:2", "source": "指定した人は商人ではありません", "english": "The selected player is not a merchant.", "status": "draft"}
+{"id": "table/strtable.csv:3532:2", "source": "露店を開いていません", "english": "The player shop is not open.", "status": "draft"}
+{"id": "table/strtable.csv:3533:2", "source": "イベント中は露店を見れません", "english": "You cannot view shops during an event.", "status": "draft"}
+{"id": "table/strtable.csv:3534:2", "source": "トレード中は露店を見れません", "english": "You cannot view shops while trading.", "status": "draft"}
+{"id": "table/strtable.csv:3535:2", "source": "憑依中は露店を見れません", "english": "You cannot view shops during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3536:2", "source": "行動不能時は露店を見れません", "english": "You cannot view shops while unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3537:2", "source": "露店を見れる状態ではありません", "english": "You cannot view shops right now.", "status": "draft"}
+{"id": "table/strtable.csv:3538:2", "source": "露店商はイベント中です", "english": "The shopkeeper is in an event.", "status": "draft"}
+{"id": "table/strtable.csv:3539:2", "source": "露店商はトレード中です", "english": "The shopkeeper is trading.", "status": "draft"}
+{"id": "table/strtable.csv:3540:2", "source": "露店商はが憑依中です", "english": "The shopkeeper is in possession.", "status": "draft"}
+{"id": "table/strtable.csv:3541:2", "source": "露店商は行動不能状態です", "english": "The shopkeeper is unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3542:2", "source": "露店商は取引できる状態ではりません", "english": "The shopkeeper cannot trade right now.", "status": "draft"}
+{"id": "table/strtable.csv:3544:2", "source": "露店設定は開けませんでした", "english": "Could not open shop settings.", "status": "draft"}
+{"id": "table/strtable.csv:3545:2", "source": "商人ではないので露店設定はできません", "english": "Only merchants can configure a shop.", "status": "draft"}
+{"id": "table/strtable.csv:3546:2", "source": "お試しプレイ期間中は露店を出すことができません", "english": "You cannot open a shop during the trial period.", "status": "draft"}
+{"id": "table/strtable.csv:3548:2", "source": "露店設定ができませんでした", "english": "Could not configure the shop.", "status": "draft"}
+{"id": "table/strtable.csv:3549:2", "source": "商人ではないので露店設定はできません", "english": "Only merchants can configure a shop.", "status": "draft"}
+{"id": "table/strtable.csv:3550:2", "source": "露店に出品可能な商品設定がありませんでした", "english": "No items are set for sale.", "status": "draft"}
+{"id": "table/strtable.csv:3552:2", "source": "露店商の商品は売り切れました", "english": "The shopkeeper has sold out.", "status": "draft"}
+{"id": "table/strtable.csv:3553:2", "source": "露店商が商品の再設定をしています", "english": "The shopkeeper is updating the items for sale.", "status": "draft"}
+{"id": "table/strtable.csv:3554:2", "source": "露店商が遠く離れました", "english": "The shopkeeper moved too far away.", "status": "draft"}
+{"id": "table/strtable.csv:3555:2", "source": "露店商がマップ移動しました", "english": "The shopkeeper moved to another map.", "status": "draft"}
+{"id": "table/strtable.csv:3556:2", "source": "露店商がトレードを始めました", "english": "The shopkeeper started trading.", "status": "draft"}
+{"id": "table/strtable.csv:3557:2", "source": "露店商が憑依しました", "english": "The shopkeeper entered possession.", "status": "draft"}
+{"id": "table/strtable.csv:3558:2", "source": "露店商が行動不能状態となりました", "english": "The shopkeeper became unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3559:2", "source": "露店商がいなくなりました", "english": "The shopkeeper is no longer available.", "status": "draft"}
+{"id": "table/strtable.csv:3560:2", "source": "露店商がイベントを始めました", "english": "The shopkeeper started an event.", "status": "draft"}
+{"id": "table/strtable.csv:3562:2", "source": "露店を見ていないのに取引しようとしました", "english": "A trade was attempted without viewing the shop.", "status": "draft"}
+{"id": "table/strtable.csv:3563:2", "source": "露店を見ている最中に相手が変わりました", "english": "The other player changed while you were viewing the shop.", "status": "draft"}
+{"id": "table/strtable.csv:3564:2", "source": "指定した人は商人ではありません", "english": "The selected player is not a merchant.", "status": "draft"}
+{"id": "table/strtable.csv:3565:2", "source": "露店を開いていません", "english": "The player shop is not open.", "status": "draft"}
+{"id": "table/strtable.csv:3566:2", "source": "露店の客として認識されていませんでした", "english": "You were not recognized as a customer of this shop.", "status": "draft"}
+{"id": "table/strtable.csv:3567:2", "source": "指定した露店は自分の露店です", "english": "That is your own shop.", "status": "draft"}
+{"id": "table/strtable.csv:3568:2", "source": "取引可能な商品がありませんでした", "english": "No items are available for purchase.", "status": "draft"}
+{"id": "table/strtable.csv:3569:2", "source": "現在の所持金が取引金額に達していませんでした", "english": "You do not have enough money for this purchase.", "status": "draft"}
+{"id": "table/strtable.csv:3570:2", "source": "これ以上アイテムを所持することはできません", "english": "You cannot carry any more items.", "status": "draft"}
+{"id": "table/strtable.csv:3571:2", "source": "相手の所持金が上限に達したためキャンセルされました", "english": "Canceled because the other player reached the currency limit.", "status": "draft"}
+{"id": "table/strtable.csv:3574:2", "source": "セーブポイントを更新しました", "english": "Save point updated.", "status": "draft"}
+{"id": "table/strtable.csv:3575:2", "source": "所持金が足りません", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:3576:2", "source": "預金額が足りません", "english": "Not enough funds in your bank.", "status": "draft"}
+{"id": "table/strtable.csv:3577:2", "source": "混雑している為倉庫を開けません", "english": "Storage is too busy to open.", "status": "draft"}
+{"id": "table/strtable.csv:3578:2", "source": "構えが「叩き」に変更されました", "english": "Stance changed to Blunt.", "status": "draft"}
+{"id": "table/strtable.csv:3579:2", "source": "構えが「斬り」に変更されました", "english": "Stance changed to Slash.", "status": "draft"}
+{"id": "table/strtable.csv:3580:2", "source": "構えが「突き」に変更されました", "english": "Stance changed to Stab.", "status": "draft"}
+{"id": "table/strtable.csv:3581:2", "source": "構えが「投げ」に変更されました", "english": "Stance changed to Throw.", "status": "draft"}
+{"id": "table/strtable.csv:3582:2", "source": "構えの変更に失敗しました", "english": "Failed to change stance.", "status": "draft"}
+{"id": "table/strtable.csv:3583:2", "source": "スキルを習得しました", "english": "Skill learned.", "status": "draft"}
+{"id": "table/strtable.csv:3584:2", "source": "スキルの習得に失敗しました", "english": "Failed to learn the skill.", "status": "draft"}
+{"id": "table/strtable.csv:3585:2", "source": "スキル習得情報が存在しません", "english": "Skill-learning information is missing.", "status": "draft"}
+{"id": "table/strtable.csv:3586:2", "source": "スキルスロットが足りません", "english": "Not enough skill slots.", "status": "draft"}
+{"id": "table/strtable.csv:3587:2", "source": "LVが条件を満たしていません", "english": "Your level does not meet the requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3588:2", "source": "種族が条件を満たしていません", "english": "Your race does not meet the requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3589:2", "source": "性別が条件を満たしていません", "english": "Your gender does not meet the requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3590:2", "source": "職業LVが条件を満たしていません", "english": "Your job level does not meet the requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3591:2", "source": "マスタリースキルを複数習得する事はできません", "english": "You cannot learn more than one Mastery skill.", "status": "draft"}
+{"id": "table/strtable.csv:3592:2", "source": "相反する属性のスキルを習得する事はできません", "english": "You cannot learn skills with opposing elements.", "status": "draft"}
+{"id": "table/strtable.csv:3593:2", "source": "習得する為に必要なスキルを持っていません", "english": "You do not have a required prerequisite skill.", "status": "draft"}
+{"id": "table/strtable.csv:3594:2", "source": "習得していてはいけないスキルを持っています", "english": "You have a skill that prevents learning this one.", "status": "draft"}
+{"id": "table/strtable.csv:3595:2", "source": "既に習得しています", "english": "You have already learned this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3596:2", "source": "現在の職業では習得する事は出来ません", "english": "Your current job cannot learn this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3597:2", "source": "クレジットカードを持っていません", "english": "You do not have a credit card.", "status": "draft"}
+{"id": "table/strtable.csv:3598:2", "source": "所持金が足りません", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:3599:2", "source": "CPが足りません", "english": "Not enough CP.", "status": "draft"}
+{"id": "table/strtable.csv:3600:2", "source": "預金額が足りません", "english": "Not enough funds in your bank.", "status": "draft"}
+{"id": "table/strtable.csv:3601:2", "source": "これ以上アイテムを所持することはできません", "english": "You cannot carry any more items.", "status": "draft"}
+{"id": "table/strtable.csv:3602:2", "source": "預金額の上限を超えました", "english": "The bank balance limit has been exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3603:2", "source": "所持できる金額の上限を超えて指定しました", "english": "The requested amount exceeds the currency limit.", "status": "draft"}
+{"id": "table/strtable.csv:3604:2", "source": "倉庫が一杯になりました", "english": "Storage is full.", "status": "draft"}
+{"id": "table/strtable.csv:3605:2", "source": "指定した格納箇所は使用できません ", "english": "The selected storage location cannot be used. ", "status": "draft"}
+{"id": "table/strtable.csv:3606:2", "source": "容量が上限を超えました", "english": "The capacity limit has been exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3607:2", "source": "重量が上限を超えました", "english": "The weight limit has been exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3608:2", "source": "憑依者の容量が上限を超えてます", "english": "The possessor’s capacity limit has been exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3609:2", "source": "憑依者の重量が上限を超えてます", "english": "The possessor’s weight limit has been exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3610:2", "source": "鑑定済みアイテムを取得した為、同じアイテムが鑑定されました", "english": "You obtained an identified item, so an identical item was identified as well.", "status": "draft"}
+{"id": "table/strtable.csv:3611:2", "source": "パートナープロテクト中は使用できません", "english": "Cannot use this while Partner Protect is active.", "status": "draft"}
+{"id": "table/strtable.csv:3612:2", "source": "ネットワークが切断されました", "english": "Network connection lost.", "status": "draft"}
+{"id": "table/strtable.csv:3614:2", "source": "ユニットに参加した%sが経験値 %lld、信頼度 %dポイントを取得しました", "english": "Unit member %s gained %lld experience and %d Trust points.", "status": "draft"}
+{"id": "table/strtable.csv:3617:2", "source": "ゴーレムの起動に失敗しました", "english": "Failed to activate the Golem.", "status": "draft"}
+{"id": "table/strtable.csv:3618:2", "source": "ゴーレムは既に起動中です", "english": "The Golem is already active.", "status": "draft"}
+{"id": "table/strtable.csv:3619:2", "source": "壊れている為ゴーレムは起動できません", "english": "The Golem is broken and cannot be activated.", "status": "draft"}
+{"id": "table/strtable.csv:3620:2", "source": "憑依中はゴーレムは起動できません", "english": "The Golem cannot be activated during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3621:2", "source": "重量か容量が上限を超えている為ゴーレムを起動できません", "english": "The Golem cannot be activated because the weight or capacity limit was exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3622:2", "source": "アイテム欄に空きがない為買取ゴーレムを起動できません", "english": "The buying Golem cannot be activated because your inventory is full.", "status": "draft"}
+{"id": "table/strtable.csv:3623:2", "source": "『命令チケット』の有効期間が過ぎています", "english": "The Command Ticket has expired.", "status": "draft"}
+{"id": "table/strtable.csv:3624:2", "source": "本マップではゴーレム収集命令ができません", "english": "Golem gathering commands cannot be used on this map.", "status": "draft"}
+{"id": "table/strtable.csv:3626:2", "source": "視線が通っていません", "english": "Line of sight is blocked.", "status": "draft"}
+{"id": "table/strtable.csv:3627:2", "source": "スキルのレベルが足りません", "english": "The skill level is too low.", "status": "draft"}
+{"id": "table/strtable.csv:3629:2", "source": "サーバーへの接続に失敗しました", "english": "Could not connect to the server.", "status": "draft"}
+{"id": "table/strtable.csv:3631:2", "source": "プロトコルバージョンが違います$r最新のクライアントにアップデートしてください", "english": "Protocol version mismatch.$rPlease update to the latest client.", "status": "draft"}
+{"id": "table/strtable.csv:3632:2", "source": "ログインタイムアウト", "english": "Login timed out.", "status": "draft"}
+{"id": "table/strtable.csv:3633:2", "source": "不明なエラー(%d)", "english": "Unknown error (%d).", "status": "draft"}
+{"id": "table/strtable.csv:3634:2", "source": "IDまたはパスワードが違います", "english": "Incorrect ID or password.", "status": "draft"}
+{"id": "table/strtable.csv:3635:2", "source": "IDまたはパスワードが違います", "english": "Incorrect ID or password.", "status": "draft"}
+{"id": "table/strtable.csv:3636:2", "source": "サーバー異常によりログインできません", "english": "Cannot log in because of a server error.", "status": "draft"}
+{"id": "table/strtable.csv:3637:2", "source": "このアカウントは認証機能がロックされています", "english": "Authentication for this account is locked.", "status": "draft"}
+{"id": "table/strtable.csv:3638:2", "source": "既にログインしています$r現在のログイン状態をリセットいたします", "english": "Already logged in.$rYour current login session will be reset.", "status": "draft"}
+{"id": "table/strtable.csv:3639:2", "source": "現在メンテナンス中です", "english": "Maintenance is in progress.", "status": "draft"}
+{"id": "table/strtable.csv:3640:2", "source": "IRAUTH通信エラー", "english": "IRAUTH communication error.", "status": "draft", "note": "Internal acronym retained; expansion unverified."}
+{"id": "table/strtable.csv:3642:2", "source": "Webログイン:セキュアログインボーナスの期限切れ", "english": "Web Login: Secure Login Bonus has expired.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3643:2", "source": "お客様のアカウントは接続制限措置が適用されています。$r$r本措置に関するお問い合わせにつきましては、$r「ゲーム内接続制限措置」フォームへご投稿ください。", "english": "Access to your account has been restricted.$r$rFor information about this measure,$rplease submit the “In-Game Access Restriction” form.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3644:2", "source": "セキュアログインボーナスが未設定です。", "english": "Secure Login Bonus is not configured.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3645:2", "source": "セキュアログインボーナス（ワンタイムパスワードやIDロック）を設定すると、色々な特典を受けることができます。", "english": "Set up Secure Login Bonus (such as a one-time password or ID lock) to receive various benefits.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3646:2", "source": "ぜひご利用ください。", "english": "Please take advantage of this service.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3647:2", "source": "フレンド申請の受け取りが不許可になっていますが解除しますか？", "english": "Friend requests are disabled. Would you like to enable them?", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3648:2", "source": "自身のフレンド状態がオフラインになっていますが、オンラインにしますか？", "english": "Your Friends status is Offline. Would you like to switch it to Online?", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3651:2", "source": "IDまたはパスワードが違います$rログインに失敗したため再ログイン処理を行います", "english": "Incorrect ID or password.$rLogin failed; trying again.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3652:2", "source": "IDまたはパスワードが違います$rログインに失敗したため再ログイン処理を行います", "english": "Incorrect ID or password.$rLogin failed; trying again.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3653:2", "source": "既にログインしています$r現在のログイン状態をリセットいたします$rログインに失敗したため再ログイン処理を行います", "english": "Already logged in.$rYour current login session will be reset.$rLogin failed; trying again.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3655:2", "source": "ゲーム料金が未払いか、利用期間切れです。$r簡単登録の方は正式登録をお済ませください。", "english": "Your game fees are unpaid or your service period has expired.$rIf you registered for a trial, please complete full registration.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3656:2", "source": "認証されていない、または利用停止されたID です。", "english": "This ID has not been authenticated or has been suspended.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3657:2", "source": "認証されていない、または利用停止されたID です。", "english": "This ID has not been authenticated or has been suspended.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3658:2", "source": "認証されていない、または利用停止されたID です。", "english": "This ID has not been authenticated or has been suspended.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3659:2", "source": "ECOは正式サービスとなりました。$rガンホーのアトラクションセンターで、アトラクションIDの紐付け処理をお願いします。", "english": "ECO is now in official service.$rPlease link your Attraction ID at the GungHo Attraction Center.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3660:2", "source": "βサービスは終了しました。正式サービス開始までお待ちください。", "english": "The beta service has ended. Please wait for the official launch.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3661:2", "source": "お試し期間は終了しました。$r改めてアトラクションセンターでIDの作成をお願いします。", "english": "Your trial period has ended.$rPlease create an ID at the Attraction Center again.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3662:2", "source": "ご入力された「お試しID」はクローズドベータテストの定員数、$r先着20,000名様の登録終了後に発行されたIDです。$r恐れ入りますが、ご入力された「お試しID」はそのまま所持していただき、$r次回実施予定のベータテストをお待ちください。$r（次回実施予定のベータテストはECO公式サイトでご案内いたします。）", "english": "Registration for the closed beta was limited to 20,000.$rYour trial ID was issued after registration closed.$rWe apologize, but please keep your trial ID as entered.$rPlease wait for the next beta test.$r(The next beta test will be announced on ECO’s official website.)", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3663:2", "source": "お試しプレイの利用期間が終了しています。$r再度お試しプレイで試遊されるか、GungHo Gamesへの登録をお願いいたします。", "english": "Your trial period has ended.$rYou can try the trial again or register with GungHo Games.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3664:2", "source": "IDまたはパスワードが違います", "english": "Incorrect ID or password.", "status": "draft", "note": "Literal translation of legacy login/service text; current service context unverified."}
+{"id": "table/strtable.csv:3666:2", "source": "キャラクター名が長すぎます", "english": "The character name is too long.", "status": "draft"}
+{"id": "table/strtable.csv:3667:2", "source": "キャラクター名が短すぎます", "english": "The character name is too short.", "status": "draft"}
+{"id": "table/strtable.csv:3668:2", "source": "既にキャラクターが存在します", "english": "A character already exists.", "status": "draft"}
+{"id": "table/strtable.csv:3669:2", "source": "既に同じ名前のキャラクターが存在します", "english": "A character with the same name already exists.", "status": "draft"}
+{"id": "table/strtable.csv:3670:2", "source": "キャラクター名に使用できない文字が使われています", "english": "The character name contains invalid characters.", "status": "draft"}
+{"id": "table/strtable.csv:3671:2", "source": "不明なキャラ作成エラー(%d)", "english": "Unknown character creation error (%d).", "status": "draft"}
+{"id": "table/strtable.csv:3672:2", "source": "種族が不正です", "english": "Invalid race.", "status": "draft"}
+{"id": "table/strtable.csv:3673:2", "source": "性別が不正です", "english": "Invalid gender.", "status": "draft"}
+{"id": "table/strtable.csv:3674:2", "source": "顔が不正です", "english": "Invalid face selection.", "status": "draft"}
+{"id": "table/strtable.csv:3675:2", "source": "髪型が不正です", "english": "Invalid hairstyle.", "status": "draft"}
+{"id": "table/strtable.csv:3676:2", "source": "髪の色が不正です", "english": "Invalid hair color.", "status": "draft"}
+{"id": "table/strtable.csv:3684:2", "source": "に参加中", "english": " - participating", "status": "draft", "note": "Suffix fragment; final spacing/attachment depends on runtime concatenation."}
+{"id": "table/strtable.csv:3685:2", "source": "登録状況", "english": "Registration Status", "status": "draft"}
+{"id": "table/strtable.csv:3686:2", "source": "騎士団演習の結果", "english": "Knight Order Exercise Results", "status": "draft"}
+{"id": "table/strtable.csv:3687:2", "source": "分", "english": "min", "status": "draft"}
+{"id": "table/strtable.csv:3688:2", "source": "秒", "english": "sec", "status": "draft"}
+{"id": "table/strtable.csv:3689:2", "source": "東軍", "english": "East Army", "status": "draft"}
+{"id": "table/strtable.csv:3690:2", "source": "西軍", "english": "West Army", "status": "draft"}
+{"id": "table/strtable.csv:3691:2", "source": "南軍", "english": "South Army", "status": "draft"}
+{"id": "table/strtable.csv:3692:2", "source": "北軍", "english": "North Army", "status": "draft"}
+{"id": "table/strtable.csv:3693:2", "source": "Clover軍", "english": "Clover Army", "status": "draft"}
+{"id": "table/strtable.csv:3694:2", "source": "Lupinus軍", "english": "Lupinus Army", "status": "draft"}
+{"id": "table/strtable.csv:3695:2", "source": "Freesia軍", "english": "Freesia Army", "status": "draft"}
+{"id": "table/strtable.csv:3696:2", "source": "Zinnia軍", "english": "Zinnia Army", "status": "draft"}
+{"id": "table/strtable.csv:3697:2", "source": "開催マップ", "english": "Event Map", "status": "draft"}
+{"id": "table/strtable.csv:3698:2", "source": "開催ルール", "english": "Event Rules", "status": "draft"}
+{"id": "table/strtable.csv:3699:2", "source": "運搬演習", "english": "Transport Exercise", "status": "draft"}
+{"id": "table/strtable.csv:3700:2", "source": "リーダー戦演習", "english": "Leader Battle Exercise", "status": "draft"}

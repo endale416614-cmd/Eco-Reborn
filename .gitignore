@@ -1,0 +1,35 @@
+# Game client and third-party reference repos (each has its own history/licence)
+/eco_jp/
+/research/
+
+# Build output and generated launcher
+/offline/target/
+/Eco Reborn.exe
+/offline/launcher/app.ico
+__pycache__/
+*.pyc
+
+# Local state: saves, backups, logs, reports, lock
+/offline/saves/
+/offline/backups/
+/offline/logs/
+/offline/reports/
+/offline/build-session.lock
+/offline/tools/tests/.work/
+
+# Private or bulky research material (never share crash dumps or packet traces)
+/offline/research/tools/
+/offline/research/local-trace/
+/offline/research/rea/ghidra-projects/
+/offline/research/rea/local-crash/
+/offline/research/rea/rea-temp/
+*.dmp
+
+# Regenerated from the client archives
+/offline/translations/build/
+/offline/translations/source-ja/
+/offline/translations/catalog.jsonl
+
+# Generated audit output and ported community text
+/offline/docs/audit/
+/offline/translations/nekogame/

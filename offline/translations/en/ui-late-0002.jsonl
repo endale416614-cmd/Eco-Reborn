@@ -1,0 +1,173 @@
+{"id": "table/strtable.csv:5100:2", "source": "%sが釣れた", "english": "Caught %s.", "status": "draft"}
+{"id": "table/strtable.csv:5101:2", "source": "%sが釣れた", "english": "Caught %s.", "status": "draft"}
+{"id": "table/strtable.csv:5102:2", "source": "%s[超大物]が釣れた", "english": "Caught %s [Huge].", "status": "draft"}
+{"id": "table/strtable.csv:5103:2", "source": "%s[大物]が釣れた", "english": "Caught %s [Large].", "status": "draft"}
+{"id": "table/strtable.csv:5104:2", "source": "%s[普通]が釣れた", "english": "Caught %s [Normal].", "status": "draft"}
+{"id": "table/strtable.csv:5105:2", "source": "%s[小物]が釣れた", "english": "Caught %s [Small].", "status": "draft"}
+{"id": "table/strtable.csv:5108:2", "source": "水質変更に失敗しました", "english": "Failed to change the water quality.", "status": "draft"}
+{"id": "table/strtable.csv:5109:2", "source": "イベント実行中のため変更できません", "english": "Cannot change this during an event.", "status": "draft"}
+{"id": "table/strtable.csv:5110:2", "source": "前回の水質変更から６０分が経過していないため変更できません", "english": "Cannot change this until 60 minutes have passed since the previous water-quality change.", "status": "draft"}
+{"id": "table/strtable.csv:5111:2", "source": "飛空城が差し押さえ状態のため変更できません", "english": "Cannot change this while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:5112:2", "source": "強制撤去状態のため変更できません", "english": "Cannot change this while it is subject to forced removal.", "status": "draft"}
+{"id": "table/strtable.csv:5113:2", "source": "他のプレイヤーが操作中のため操作できません", "english": "Cannot use this while another player is operating it.", "status": "draft"}
+{"id": "table/strtable.csv:5116:2", "source": "前回の釣りランキング", "english": "Previous Fishing Ranking", "status": "draft"}
+{"id": "table/strtable.csv:5117:2", "source": "順位", "english": "Rank", "status": "draft"}
+{"id": "table/strtable.csv:5118:2", "source": "位", "english": " place", "status": "draft"}
+{"id": "table/strtable.csv:5119:2", "source": "スコア", "english": "Score", "status": "draft"}
+{"id": "table/strtable.csv:5121:2", "source": "順位", "english": "Rank", "status": "draft"}
+{"id": "table/strtable.csv:5122:2", "source": "名前", "english": "Name", "status": "draft"}
+{"id": "table/strtable.csv:5123:2", "source": "スコア", "english": "Score", "status": "draft"}
+{"id": "table/strtable.csv:5124:2", "source": "計測不可", "english": "Cannot Measure", "status": "draft"}
+{"id": "table/strtable.csv:5126:2", "source": "餌の装備に失敗しました", "english": "Failed to equip bait.", "status": "draft"}
+{"id": "table/strtable.csv:5127:2", "source": "釣り中のため変更できません", "english": "Cannot change this while fishing.", "status": "draft"}
+{"id": "table/strtable.csv:5128:2", "source": "釣竿を装備していないため餌の装備に失敗しました", "english": "Failed to equip bait because no fishing rod is equipped.", "status": "draft"}
+{"id": "table/strtable.csv:5131:2", "source": "モンスターサーチ", "english": "Monster Search", "status": "draft"}
+{"id": "table/strtable.csv:5132:2", "source": "サーチ可能なモンスターが出現していません", "english": "No monsters that can be searched for have appeared.", "status": "draft"}
+{"id": "table/strtable.csv:5133:2", "source": "指定されたモンスターは現在出現していません", "english": "The specified monster is not currently present.", "status": "draft"}
+{"id": "table/strtable.csv:5134:2", "source": "ボスモンスターは現在出現していません", "english": "No boss monsters are currently present.", "status": "draft"}
+{"id": "table/strtable.csv:5137:2", "source": "顔", "english": "Face", "status": "draft"}
+{"id": "table/strtable.csv:5138:2", "source": "表情", "english": "Expression", "status": "draft"}
+{"id": "table/strtable.csv:5139:2", "source": "目の色", "english": "Eye Color", "status": "draft"}
+{"id": "table/strtable.csv:5140:2", "source": "種族", "english": "Race", "status": "draft"}
+{"id": "table/strtable.csv:5141:2", "source": "このエモーションを習得しますか？", "english": "Learn this emote?", "status": "draft"}
+{"id": "table/strtable.csv:5142:2", "source": "既に習得済みのエモーションです", "english": "You have already learned this emote.", "status": "draft"}
+{"id": "table/strtable.csv:5143:2", "source": "同じ顔には変更することができません", "english": "You cannot change to the same face.", "status": "draft"}
+{"id": "table/strtable.csv:5144:2", "source": "このアイテムはエミル種族でしか使用できません", "english": "This item can only be used by the Emil race.", "status": "draft"}
+{"id": "table/strtable.csv:5145:2", "source": "このアイテムはタイタニア種族でしか使用できません", "english": "This item can only be used by the Titania race.", "status": "draft"}
+{"id": "table/strtable.csv:5146:2", "source": "このアイテムはドミニオン種族でしか使用できません", "english": "This item can only be used by the Dominion race.", "status": "draft"}
+{"id": "table/strtable.csv:5147:2", "source": "このアイテムはＤＥＭ種族でしか使用できません", "english": "This item can only be used by the DEM race.", "status": "draft"}
+{"id": "table/strtable.csv:5148:2", "source": "現在利用できない状態です", "english": "This cannot be used right now.", "status": "draft"}
+{"id": "table/strtable.csv:5149:2", "source": "習得済みのEXエモーションです", "english": "You have already learned this EX Emote.", "status": "draft"}
+{"id": "table/strtable.csv:5153:2", "source": "マホウの鏡", "english": "Magic Mirror", "status": "draft"}
+{"id": "table/strtable.csv:5154:2", "source": "｢マホウの鏡の契約証」を１枚使用して$rストックを開放しますか？", "english": "Use one Magic Mirror Contract.$rUnlock a stock slot?", "status": "draft"}
+{"id": "table/strtable.csv:5155:2", "source": "ストックの開放に失敗しました。$rストック開放には$r｢マホウの鏡の契約証｣が必要です。", "english": "The stock unlock failed.$rTo unlock stock,$ryou need a Magic Mirror Contract.", "status": "draft"}
+{"id": "table/strtable.csv:5156:2", "source": "何らかの原因で入れ替えに失敗しました", "english": "The swap failed.", "status": "draft"}
+{"id": "table/strtable.csv:5158:2", "source": "黒色", "english": "Black", "status": "draft"}
+{"id": "table/strtable.csv:5159:2", "source": "灰色", "english": "Gray", "status": "draft"}
+{"id": "table/strtable.csv:5160:2", "source": "こげ茶色", "english": "Dark Brown", "status": "draft"}
+{"id": "table/strtable.csv:5161:2", "source": "茶色", "english": "Brown", "status": "draft"}
+{"id": "table/strtable.csv:5162:2", "source": "青色", "english": "Blue", "status": "draft"}
+{"id": "table/strtable.csv:5163:2", "source": "青緑色", "english": "Blue-Green", "status": "draft"}
+{"id": "table/strtable.csv:5164:2", "source": "緑色", "english": "Green", "status": "draft"}
+{"id": "table/strtable.csv:5165:2", "source": "黄色", "english": "Yellow", "status": "draft"}
+{"id": "table/strtable.csv:5166:2", "source": "橙色", "english": "Orange", "status": "draft"}
+{"id": "table/strtable.csv:5167:2", "source": "赤色", "english": "Red", "status": "draft"}
+{"id": "table/strtable.csv:5168:2", "source": "赤紫色", "english": "Red-Purple", "status": "draft"}
+{"id": "table/strtable.csv:5169:2", "source": "紫色", "english": "Purple", "status": "draft"}
+{"id": "table/strtable.csv:5170:2", "source": "緑青オッドアイ", "english": "Green-Blue Heterochromia", "status": "draft"}
+{"id": "table/strtable.csv:5171:2", "source": "黄緑オッドアイ", "english": "Yellow-Green Heterochromia", "status": "draft"}
+{"id": "table/strtable.csv:5172:2", "source": "赤黄オッドアイ", "english": "Red-Yellow Heterochromia", "status": "draft"}
+{"id": "table/strtable.csv:5174:2", "source": "デフォルト0", "english": "Default 0", "status": "draft"}
+{"id": "table/strtable.csv:5178:2", "source": "%sを取得しました", "english": "Obtained %s.", "status": "draft"}
+{"id": "table/strtable.csv:5179:2", "source": "(憑依)%sを取得しました", "english": "Obtained (Possession) %s.", "status": "draft"}
+{"id": "table/strtable.csv:5180:2", "source": "%sを失いました", "english": "Lost %s.", "status": "draft"}
+{"id": "table/strtable.csv:5181:2", "source": "たまいれの効果により%sを取得しました", "english": "Obtained %s from Tamaire.", "status": "draft"}
+{"id": "table/strtable.csv:5182:2", "source": "基本経験値 %lld、", "english": "Base EXP: %lld,", "status": "draft"}
+{"id": "table/strtable.csv:5183:2", "source": "職業経験値 %lld", "english": "Job EXP: %lld", "status": "draft"}
+{"id": "table/strtable.csv:5184:2", "source": "、ページ経験値 %lld", "english": ", Page EXP: %lld", "status": "draft"}
+{"id": "table/strtable.csv:5187:2", "source": "パートナーが経験値 %lld、", "english": "Partner EXP: %lld, ", "status": "draft"}
+{"id": "table/strtable.csv:5188:2", "source": "信頼度 %dポイントを取得しました", "english": "Trust: %d points", "status": "draft"}
+{"id": "table/strtable.csv:5189:2", "source": "(憑依)%sが経験値 %lld、信頼度 %dポイントを取得しました", "english": "(Possession) %s gained %lld EXP and %d Trust points.", "status": "draft"}
+{"id": "table/strtable.csv:5191:2", "source": "AIカスタム設定", "english": "AI Customization", "status": "draft"}
+{"id": "table/strtable.csv:5192:2", "source": "AIスロット", "english": "AI Slot", "status": "draft"}
+{"id": "table/strtable.csv:5193:2", "source": "アクトキューブ", "english": "Act Cube", "status": "draft"}
+{"id": "table/strtable.csv:5194:2", "source": "AI思考設定", "english": "AI Behavior", "status": "draft"}
+{"id": "table/strtable.csv:5195:2", "source": "条件", "english": "Condition", "status": "draft"}
+{"id": "table/strtable.csv:5196:2", "source": "行動", "english": "Action", "status": "draft"}
+{"id": "table/strtable.csv:5197:2", "source": "アクティブスキル", "english": "Active Skill", "status": "draft"}
+{"id": "table/strtable.csv:5198:2", "source": "パッシブスキル", "english": "Passive Skill", "status": "draft"}
+{"id": "table/strtable.csv:5199:2", "source": "攻撃重視", "english": "Attack Focus", "status": "draft"}
+{"id": "table/strtable.csv:5200:2", "source": "支援重視", "english": "Support Focus", "status": "draft"}
+{"id": "table/strtable.csv:5201:2", "source": "追従", "english": "Follow", "status": "draft"}
+{"id": "table/strtable.csv:5202:2", "source": "防御重視", "english": "Defense Focus", "status": "draft"}
+{"id": "table/strtable.csv:5203:2", "source": "主人重視", "english": "Owner Focus", "status": "draft"}
+{"id": "table/strtable.csv:5204:2", "source": "攻撃重視(通常攻撃のみ)", "english": "Attack Focus (Normal Attacks Only)", "status": "draft"}
+{"id": "table/strtable.csv:5205:2", "source": "攻撃重視(物理スキルのみ)", "english": "Attack Focus (Physical Skills Only)", "status": "draft"}
+{"id": "table/strtable.csv:5206:2", "source": "攻撃重視(魔法スキルのみ)", "english": "Attack Focus (Magic Skills Only)", "status": "draft"}
+{"id": "table/strtable.csv:5207:2", "source": "入替", "english": "Swap", "status": "draft"}
+{"id": "table/strtable.csv:5208:2", "source": "条件", "english": "Condition", "status": "draft"}
+{"id": "table/strtable.csv:5209:2", "source": "条件設定", "english": "Condition Settings", "status": "draft"}
+{"id": "table/strtable.csv:5210:2", "source": "対象設定", "english": "Target Settings", "status": "draft"}
+{"id": "table/strtable.csv:5211:2", "source": "行動 / スキル", "english": "Action / Skill", "status": "draft"}
+{"id": "table/strtable.csv:5212:2", "source": "再使用", "english": "Reuse", "status": "draft"}
+{"id": "table/strtable.csv:5213:2", "source": "切替", "english": "Switch", "status": "draft"}
+{"id": "table/strtable.csv:5214:2", "source": "カスタム①の設定を保存しました", "english": "Saved Custom 1 settings.", "status": "draft"}
+{"id": "table/strtable.csv:5215:2", "source": "カスタム②の設定を保存しました", "english": "Saved Custom 2 settings.", "status": "draft"}
+{"id": "table/strtable.csv:5216:2", "source": "設定を保存に失敗しました", "english": "Failed to save settings.", "status": "draft"}
+{"id": "table/strtable.csv:5217:2", "source": "アクトキューブがセットされている為、セット出来ませんでした", "english": "Could not set this because an Act Cube is already set.", "status": "draft"}
+{"id": "table/strtable.csv:5218:2", "source": "アクトキューブが正常にセットされていない為、有効に出来ませんでした", "english": "Could not activate it because the Act Cube is not set correctly.", "status": "draft"}
+{"id": "table/strtable.csv:5219:2", "source": "条件が揃っていない為、セット出来ませんでした", "english": "Could not set this because the conditions are not met.", "status": "draft"}
+{"id": "table/strtable.csv:5220:2", "source": "パートナーランクがアクトキューブ装備条件に満たされていない為、セット出来ませんでした", "english": "Could not set the Act Cube because the Partner Rank requirement is not met.", "status": "draft"}
+{"id": "table/strtable.csv:5221:2", "source": "信頼度がアクトキューブ装備条件に満たされていない為、セット出来ませんでした", "english": "Could not set the Act Cube because the Trust requirement is not met.", "status": "draft"}
+{"id": "table/strtable.csv:5222:2", "source": "スロットに入っていたアクトキューブを忘れたため、設定を変更しました", "english": "Settings changed because the Act Cube in the slot was forgotten.", "status": "draft"}
+{"id": "table/strtable.csv:5223:2", "source": "攻撃重視AIとは、$r一番近くに居るモンスターに$r攻撃スキルを優先して攻撃します。", "english": "Attack Focus AI$rprioritizes attacks$rusing skills on the nearest monster.", "status": "draft"}
+{"id": "table/strtable.csv:5224:2", "source": "支援重視AIとは、$rユーザーに対して支援系スキルを$r率先して使用します。$r支援系スキルがないパートナーは、$r近くにいるモンスターをターゲットし、$r攻撃を行います。$r$rパートナープロテクト中は、$r自身のパートナーと$r他のパートナーに対して$r支援スキルを率先して使用する思考に$r変化します。", "english": "Support Focus AI$rprioritizes support skills$rfor the user.$rWithout support skills,$rthe Partner targets$rand attacks a nearby monster.$r$rDuring Partner Protect,$rit instead prioritizes$rsupport skills$rfor itself$rand other Partners.", "status": "draft"}
+{"id": "table/strtable.csv:5225:2", "source": "追従AIとは、$r攻撃も支援も行わず、ユーザーに$r付いてきます。$r$rパートナープロテクト中は、$r攻撃も支援も行わずに$rその場に待機する思考に変化します。", "english": "Follow AI$rfollows the user without$rattacking or providing support.$r$rDuring Partner Protect,$rit waits in place without$rattacking or providing support.", "status": "draft"}
+{"id": "table/strtable.csv:5226:2", "source": "防御重視 AI とは、$rモンスターに攻撃されるまで$r行動を起こしません。", "english": "Defense Focus AI$rwaits until a monster attacks it$rbefore acting.", "status": "draft"}
+{"id": "table/strtable.csv:5227:2", "source": "主人重視 AI とは、$r主人がモンスターに攻撃されるまで$rまたは、自分がモンスターに$r攻撃されるまで$r行動を起こしません。$r$rパートナープロテクト中は、$r防御重視と同じ思考に変化します。", "english": "Owner Focus AI$rwaits until its owner is attacked$rby a monster, or until the Partner is$rattacked by a monster.$rIt takes no action before then.$r$rDuring Partner Protect,$rit behaves like Defense Focus.", "status": "draft"}
+{"id": "table/strtable.csv:5228:2", "source": "攻撃重視(通常攻撃のみ)AIとは、$r一番近くに居るモンスターに$r通常攻撃をします。", "english": "Attack Focus (Normal Attacks Only) AI$rtargets the nearest monster$rwith normal attacks.", "status": "draft"}
+{"id": "table/strtable.csv:5229:2", "source": "攻撃重視(物理スキルのみ)AIとは、$r一番近くに居るモンスターに$r物理スキルで攻撃します。", "english": "Attack Focus (Physical Skills Only) AI$rtargets the nearest monster$rwith physical skills.", "status": "draft"}
+{"id": "table/strtable.csv:5230:2", "source": "攻撃重視(魔法スキルのみ)AIとは、$r一番近くに居るモンスターに$r魔法スキルで攻撃します。", "english": "Attack Focus (Magic Skills Only) AI$rtargets the nearest monster$rwith magic skills.", "status": "draft"}
+{"id": "table/strtable.csv:5231:2", "source": "％以下から", "english": "％ or less", "status": "draft", "note": "The fullwidth percent marker belongs to a threshold fragment; adjacent display context is not established."}
+{"id": "table/strtable.csv:5232:2", "source": "％以上なら", "english": "％ or more", "status": "draft", "note": "The fullwidth percent marker belongs to a threshold fragment; adjacent display context is not established."}
+{"id": "table/strtable.csv:5233:2", "source": "主人に", "english": "Owner", "status": "draft"}
+{"id": "table/strtable.csv:5234:2", "source": "自分に", "english": "Self", "status": "draft"}
+{"id": "table/strtable.csv:5235:2", "source": "敵に", "english": "Enemy", "status": "draft"}
+{"id": "table/strtable.csv:5236:2", "source": "仲間に", "english": "Ally", "status": "draft"}
+{"id": "table/strtable.csv:5237:2", "source": "マシナファーム時にAIカスタム設定ウィンドウを開く事は出来ません", "english": "The AI Customization window cannot be opened in Machina Form.", "status": "draft", "note": "Source says マシナファーム; translated as Machina Form from the surrounding DEM-mode context, while preserving the source spelling discrepancy."}
+{"id": "table/strtable.csv:5238:2", "source": "対象設定が正しくないため正常に発動しないスキルがあります。$rよろしいですか？", "english": "Some skills may not activate correctly because their target settings are invalid.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:5241:2", "source": "かんたんAI設定", "english": "Simple AI Settings", "status": "draft"}
+{"id": "table/strtable.csv:5242:2", "source": "攻撃重視", "english": "Attack Focus", "status": "draft"}
+{"id": "table/strtable.csv:5243:2", "source": "主人重視", "english": "Owner Focus", "status": "draft"}
+{"id": "table/strtable.csv:5244:2", "source": "追従", "english": "Follow", "status": "draft"}
+{"id": "table/strtable.csv:5245:2", "source": "カスタム", "english": "Custom", "status": "draft"}
+{"id": "table/strtable.csv:5246:2", "source": "攻撃重視AIとは、$r一番近くに居るモンスターに$r攻撃スキルを優先して攻撃します。", "english": "Attack Focus AI$rprioritizes attacks$rusing skills on the nearest monster.", "status": "draft"}
+{"id": "table/strtable.csv:5247:2", "source": "主人重視 AI とは、$r主人がモンスターに攻撃されるまで$rまたは、自分がモンスターに$r攻撃されるまで$r行動を起こしません。$r$rパートナープロテクト中は、$r防御重視と同じ思考に変化します。", "english": "Owner Focus AI$rwaits until its owner is attacked$rby a monster, or until the Partner is$rattacked by a monster.$rIt takes no action before then.$r$rDuring Partner Protect,$rit behaves like Defense Focus.", "status": "draft"}
+{"id": "table/strtable.csv:5248:2", "source": "追従AIとは、$r攻撃も支援も行わず、ユーザーに$r付いてきます。$r$rパートナープロテクト中は、$r攻撃も支援も行わずに$rその場に待機する思考に変化します。", "english": "Follow AI$rfollows the user without$rattacking or providing support.$r$rDuring Partner Protect,$rit waits in place without$rattacking or providing support.", "status": "draft"}
+{"id": "table/strtable.csv:5249:2", "source": "カスタムAIとは、$r「AIカスタム設定ウィンドウ」で$r設定した思考の行動を行います。", "english": "Custom AI$ruses the behavior configured in$rthe AI Customization window.", "status": "draft"}
+{"id": "table/strtable.csv:5250:2", "source": "AIを攻撃重視に変更しました", "english": "AI changed to Attack Focus.", "status": "draft"}
+{"id": "table/strtable.csv:5251:2", "source": "AIを主人重視に変更しました", "english": "AI changed to Owner Focus.", "status": "draft"}
+{"id": "table/strtable.csv:5252:2", "source": "AIを追従に変更しました", "english": "AI changed to Follow.", "status": "draft"}
+{"id": "table/strtable.csv:5253:2", "source": "AIをカスタム①に変更しました", "english": "AI changed to Custom 1.", "status": "draft"}
+{"id": "table/strtable.csv:5254:2", "source": "AIをカスタム②に変更しました", "english": "AI changed to Custom 2.", "status": "draft"}
+{"id": "table/strtable.csv:5255:2", "source": "AI変更中の為、失敗しました", "english": "Failed because the AI is being changed.", "status": "draft"}
+{"id": "table/strtable.csv:5256:2", "source": "攻撃重視", "english": "Attack Focus", "status": "draft"}
+{"id": "table/strtable.csv:5257:2", "source": "主人重視", "english": "Owner Focus", "status": "draft"}
+{"id": "table/strtable.csv:5258:2", "source": "追従", "english": "Follow", "status": "draft"}
+{"id": "table/strtable.csv:5259:2", "source": "カスタム①", "english": "Custom 1", "status": "draft"}
+{"id": "table/strtable.csv:5260:2", "source": "カスタム②", "english": "Custom 2", "status": "draft"}
+{"id": "table/strtable.csv:5261:2", "source": "マシナファーム時にかんたんAI設定ウィンドウを開く事は出来ません", "english": "The Simple AI Settings window cannot be opened in Machina Form.", "status": "draft", "note": "Source says マシナファーム; translated as Machina Form from the surrounding DEM-mode context, while preserving the source spelling discrepancy."}
+{"id": "table/strtable.csv:5264:2", "source": "アクトキューブ情報", "english": "Act Cube Information", "status": "draft"}
+{"id": "table/strtable.csv:5265:2", "source": "アクトキューブの基本的な情報を表示します", "english": "Show basic Act Cube information.", "status": "draft"}
+{"id": "table/strtable.csv:5266:2", "source": "アクトキューブのスキル情報を表示します", "english": "Show Act Cube skill information.", "status": "draft"}
+{"id": "table/strtable.csv:5267:2", "source": "アクトキューブ種別", "english": "Act Cube Type", "status": "draft"}
+{"id": "table/strtable.csv:5268:2", "source": "装備可能信頼度", "english": "Required Trust to Equip", "status": "draft"}
+{"id": "table/strtable.csv:5269:2", "source": "装備可能ペット時転生回数", "english": "Rebirths as a Pet Required to Equip", "status": "draft", "note": "The source specifies rebirth count while the Partner is a pet."}
+{"id": "table/strtable.csv:5270:2", "source": "装備可能状態", "english": "Equip Conditions", "status": "draft"}
+{"id": "table/strtable.csv:5271:2", "source": "条件", "english": "Condition", "status": "draft"}
+{"id": "table/strtable.csv:5272:2", "source": "行動", "english": "Action", "status": "draft"}
+{"id": "table/strtable.csv:5273:2", "source": "アクティブスキル", "english": "Active Skill", "status": "draft"}
+{"id": "table/strtable.csv:5274:2", "source": "パッシブスキル", "english": "Passive Skill", "status": "draft"}
+{"id": "table/strtable.csv:5275:2", "source": "黒以上", "english": "Black or higher", "status": "draft"}
+{"id": "table/strtable.csv:5276:2", "source": "紫以上", "english": "Purple or higher", "status": "draft"}
+{"id": "table/strtable.csv:5277:2", "source": "青以上", "english": "Blue or higher", "status": "draft"}
+{"id": "table/strtable.csv:5278:2", "source": "水色以上", "english": "Light Blue or higher", "status": "draft"}
+{"id": "table/strtable.csv:5279:2", "source": "緑以上", "english": "Green or higher", "status": "draft"}
+{"id": "table/strtable.csv:5280:2", "source": "黄緑以上", "english": "Yellow-Green or higher", "status": "draft"}
+{"id": "table/strtable.csv:5281:2", "source": "黄色以上", "english": "Yellow or higher", "status": "draft"}
+{"id": "table/strtable.csv:5282:2", "source": "橙以上", "english": "Orange or higher", "status": "draft"}
+{"id": "table/strtable.csv:5283:2", "source": "赤以上", "english": "Red or higher", "status": "draft"}
+{"id": "table/strtable.csv:5284:2", "source": "桃以上", "english": "Pink or higher", "status": "draft"}
+{"id": "table/strtable.csv:5285:2", "source": "使用ＭＰ", "english": "MP Cost", "status": "draft"}
+{"id": "table/strtable.csv:5286:2", "source": "使用ＳＰ", "english": "SP Cost", "status": "draft"}
+{"id": "table/strtable.csv:5287:2", "source": "目標", "english": "Target", "status": "draft"}
+{"id": "table/strtable.csv:5288:2", "source": "射程", "english": "Range", "status": "draft"}
+{"id": "table/strtable.csv:5289:2", "source": "忘れる", "english": "Forget", "status": "draft"}
+{"id": "table/strtable.csv:5290:2", "source": "アクトキューブ[%s]を忘れました", "english": "Forgot Act Cube [%s].", "status": "draft"}
+{"id": "table/strtable.csv:5291:2", "source": "アクトキューブを忘れました", "english": "Forgot the Act Cube.", "status": "draft"}
+{"id": "table/strtable.csv:5292:2", "source": "アクトキューブを忘れる事が出来ませんでした", "english": "Could not forget the Act Cube.", "status": "draft"}
+{"id": "table/strtable.csv:5293:2", "source": "指定したパートナーでは無い為、忘れる事が出来ません", "english": "Cannot forget it because the selected unit is not the specified Partner.", "status": "draft"}
+{"id": "table/strtable.csv:5294:2", "source": "ライドパートナーの為、忘れる事が出来ませんでした", "english": "Could not forget it because this is a Ride Partner.", "status": "draft"}
+{"id": "table/strtable.csv:5295:2", "source": "[%s]を$r忘れますが、宜しいですか？", "english": "Forget [%s]?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:5296:2", "source": "選択しているアクトキューブは消滅してしまいますが$r本当によろしいですか？$r※同じアクトキューブを入手すれば$r　再度覚えることは可能です。", "english": "The selected Act Cube will be lost.$rAre you sure?$r※You can learn it again$r　if you obtain the same Act Cube.", "status": "draft"}
+{"id": "table/strtable.csv:5299:2", "source": "%sの$rパートナーとしての情報は失われますが、よろしいですか？", "english": "Partner data for %s$rwill be lost. Continue?", "status": "draft"}

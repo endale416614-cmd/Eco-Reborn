@@ -1,0 +1,93 @@
+{"id": "table/strtable.csv:3701:2", "source": "一般演習", "english": "General Exercise", "status": "draft"}
+{"id": "table/strtable.csv:3702:2", "source": "軍効果", "english": "Army Effects", "status": "draft"}
+{"id": "table/strtable.csv:3703:2", "source": "人数差恩恵", "english": "Outnumbered Bonus", "status": "draft"}
+{"id": "table/strtable.csv:3704:2", "source": "自軍特殊アイテム設置数", "english": "Special Items Placed by Your Army", "status": "draft"}
+{"id": "table/strtable.csv:3705:2", "source": "自軍への恩恵が発動しました", "english": "A benefit for your army has activated.", "status": "draft"}
+{"id": "table/strtable.csv:3706:2", "source": "自軍への恩恵が発動中", "english": "A benefit for your army is active.", "status": "draft"}
+{"id": "table/strtable.csv:3707:2", "source": "自軍への恩恵効果が終了しました", "english": "The benefit for your army has ended.", "status": "draft"}
+{"id": "table/strtable.csv:3708:2", "source": "%s軍への妨害効果が発動しました", "english": "A hindering effect on the %s Army has activated.", "status": "draft"}
+{"id": "table/strtable.csv:3709:2", "source": "%s軍への妨害効果が発動中", "english": "A hindering effect on the %s Army is active.", "status": "draft"}
+{"id": "table/strtable.csv:3710:2", "source": "%s軍へ妨害効果が終了しました", "english": "The hindering effect on the %s Army has ended.", "status": "draft"}
+{"id": "table/strtable.csv:3711:2", "source": "他軍からの妨害効果が発動しました", "english": "A hindering effect from another army has activated.", "status": "draft"}
+{"id": "table/strtable.csv:3712:2", "source": "他軍からの妨害効果が発動中", "english": "A hindering effect from another army is active.", "status": "draft"}
+{"id": "table/strtable.csv:3713:2", "source": "他軍からの妨害効果が終了しました", "english": "The hindering effect from another army has ended.", "status": "draft"}
+{"id": "table/strtable.csv:3714:2", "source": "自軍の戦線復帰までの時間短縮", "english": "Reduced time to return to your army’s front line", "status": "draft"}
+{"id": "table/strtable.csv:3715:2", "source": "ヒーロー獲得ポイント増加", "english": "Increased Hero points earned", "status": "draft"}
+{"id": "table/strtable.csv:3716:2", "source": "自シンボル破壊減少ポイント軽減", "english": "Reduced points lost when your symbol is destroyed", "status": "draft"}
+{"id": "table/strtable.csv:3717:2", "source": "他シンボル破壊獲得ポイント増加", "english": "Increased points earned for destroying other symbols", "status": "draft"}
+{"id": "table/strtable.csv:3718:2", "source": "納品獲得ポイント増加", "english": "Increased points earned for deliveries", "status": "draft"}
+{"id": "table/strtable.csv:3719:2", "source": "全獲得ポイント増加", "english": "Increased points earned from all sources", "status": "draft"}
+{"id": "table/strtable.csv:3720:2", "source": "%s軍の戦線復帰時間延長", "english": "Increased return time for the %s Army", "status": "draft"}
+{"id": "table/strtable.csv:3721:2", "source": "自軍の戦線復帰時間延長", "english": "Increased return time for your army", "status": "draft"}
+{"id": "table/strtable.csv:3722:2", "source": "効果時間", "english": "Effect Duration", "status": "draft"}
+{"id": "table/strtable.csv:3723:2", "source": "%d 分", "english": "%d min", "status": "draft"}
+{"id": "table/strtable.csv:3724:2", "source": "EXP / JOBEXP", "english": "EXP / Job EXP", "status": "draft"}
+{"id": "table/strtable.csv:3725:2", "source": "得点ボーナス", "english": "Score Bonus", "status": "draft"}
+{"id": "table/strtable.csv:3726:2", "source": "受賞ボーナス", "english": "Award Bonus", "status": "draft"}
+{"id": "table/strtable.csv:3727:2", "source": "合計", "english": "Total", "status": "draft"}
+{"id": "table/strtable.csv:3728:2", "source": "獲得CP", "english": "CP Earned", "status": "draft"}
+{"id": "table/strtable.csv:3729:2", "source": "総合情報", "english": "Overall Information", "status": "draft"}
+{"id": "table/strtable.csv:3730:2", "source": "ブービー of デッド賞", "english": "Booby of the Dead Award", "status": "draft"}
+{"id": "table/strtable.csv:3731:2", "source": "ナイチンゲール賞", "english": "Nightingale Award", "status": "draft"}
+{"id": "table/strtable.csv:3732:2", "source": "戦場の収集家賞", "english": "Battlefield Collector Award", "status": "draft"}
+{"id": "table/strtable.csv:3733:2", "source": "隠れん坊賞", "english": "Hide-and-Seek Award", "status": "draft"}
+{"id": "table/strtable.csv:3734:2", "source": "暴れん坊賞", "english": "Troublemaker Award", "status": "draft"}
+{"id": "table/strtable.csv:3735:2", "source": "スーパーマン賞", "english": "Superman Award", "status": "draft"}
+{"id": "table/strtable.csv:3736:2", "source": "運搬の達人賞", "english": "Master Carrier Award", "status": "draft"}
+{"id": "table/strtable.csv:3737:2", "source": "ボマー賞", "english": "Bomber Award", "status": "draft"}
+{"id": "table/strtable.csv:3738:2", "source": "ゴミ運び人賞", "english": "Garbage Carrier Award", "status": "draft"}
+{"id": "table/strtable.csv:3739:2", "source": "がんばリーダー賞", "english": "Hard-Working Leader Award", "status": "draft"}
+{"id": "table/strtable.csv:3740:2", "source": "リーダーキラー賞", "english": "Leader Slayer Award", "status": "draft"}
+{"id": "table/strtable.csv:3741:2", "source": "死亡数", "english": "Deaths", "status": "draft"}
+{"id": "table/strtable.csv:3742:2", "source": "回復量", "english": "Amount Healed", "status": "draft"}
+{"id": "table/strtable.csv:3743:2", "source": "石納品数", "english": "Stones Delivered", "status": "draft"}
+{"id": "table/strtable.csv:3744:2", "source": "貯被ダメ", "english": "Accumulated Damage Taken", "status": "draft"}
+{"id": "table/strtable.csv:3745:2", "source": "討伐人数", "english": "Defeated Opponents", "status": "draft"}
+{"id": "table/strtable.csv:3746:2", "source": "被ダメ", "english": "Damage Taken", "status": "draft"}
+{"id": "table/strtable.csv:3747:2", "source": "運搬数", "english": "Items Carried", "status": "draft"}
+{"id": "table/strtable.csv:3748:2", "source": "爆撃数", "english": "Bombing Count", "status": "draft"}
+{"id": "table/strtable.csv:3749:2", "source": "運搬数", "english": "Items Carried", "status": "draft"}
+{"id": "table/strtable.csv:3750:2", "source": "経過時間", "english": "Time Elapsed", "status": "draft"}
+{"id": "table/strtable.csv:3751:2", "source": "倒した数", "english": "Enemies Defeated", "status": "draft"}
+{"id": "table/strtable.csv:3752:2", "source": "自軍のリーダーが居なくなりました", "english": "Your army’s leader has left.", "status": "draft"}
+{"id": "table/strtable.csv:3753:2", "source": "特殊アイテム入手難易度軽減", "english": "Reduced difficulty for obtaining special items", "status": "draft"}
+{"id": "table/strtable.csv:3754:2", "source": "獲得点数%.1f倍", "english": "Points earned: %.1f×", "status": "draft"}
+{"id": "table/strtable.csv:3757:2", "source": "あなたのチームが勝ちました", "english": "Your team won.", "status": "draft"}
+{"id": "table/strtable.csv:3758:2", "source": "あなたのチームが負けました", "english": "Your team lost.", "status": "draft"}
+{"id": "table/strtable.csv:3759:2", "source": "引き分けです", "english": "The match is a draw.", "status": "draft"}
+{"id": "table/strtable.csv:3762:2", "source": "防衛戦の結果", "english": "Defense Battle Results", "status": "draft"}
+{"id": "table/strtable.csv:3763:2", "source": "この防衛戦における$rあなたの結果です。", "english": "Your results$rin this defense battle.", "status": "draft"}
+{"id": "table/strtable.csv:3764:2", "source": "攻略戦の結果", "english": "Invasion Battle Results", "status": "draft"}
+{"id": "table/strtable.csv:3765:2", "source": "この攻略戦における$rあなたの結果です。", "english": "Your results$rin this invasion battle.", "status": "draft"}
+{"id": "table/strtable.csv:3766:2", "source": "奪還成功！！", "english": "Successful Recapture!", "status": "draft"}
+{"id": "table/strtable.csv:3767:2", "source": "貴殿の働きにより$r奪還作戦は成功した！$r$r心より感謝する！！", "english": "Thanks to your efforts,$rthe recapture operation succeeded!$r$rWe are deeply grateful!", "status": "draft"}
+{"id": "table/strtable.csv:3770:2", "source": "ペットの HP が %d 増えました", "english": "Your Pet’s HP increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3771:2", "source": "(未対応)ペットの SP が %d 増えました", "english": "(Not supported) Your Pet’s SP increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3772:2", "source": "(未対応)ペットの MP が %d 増えました", "english": "(Not supported) Your Pet’s MP increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3773:2", "source": "(未対応)ペットの 移動力 が %d 増えました", "english": "(Not supported) Your Pet’s movement increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3774:2", "source": "ペットの 攻撃力(叩き) が %d 増えました", "english": "Your Pet’s blunt attack increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3775:2", "source": "ペットの 攻撃力(斬り) が %d 増えました", "english": "Your Pet’s slash attack increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3776:2", "source": "ペットの 攻撃力(突き) が %d 増えました", "english": "Your Pet’s stab attack increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3777:2", "source": "ペットの 魔法攻撃力 が %d 増えました", "english": "Your Pet’s magic attack increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3778:2", "source": "ペットの 防御力 が %d 増えました", "english": "Your Pet’s defense increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3779:2", "source": "ペットの 魔法防御力 が %d 増えました", "english": "Your Pet’s magic defense increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3780:2", "source": "ペットの 近距離命中力 が %d 増えました", "english": "Your Pet’s melee accuracy increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3781:2", "source": "ペットの 遠距離命中力 が %d 増えました", "english": "Your Pet’s ranged accuracy increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3782:2", "source": "ペットの 魔法命中力 が %d 増えました", "english": "Your Pet’s magic accuracy increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3783:2", "source": "ペットの 近距離回避 が %d 増えました", "english": "Your Pet’s melee evasion increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3784:2", "source": "ペットの 遠距離回避 が %d 増えました", "english": "Your Pet’s ranged evasion increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3785:2", "source": "ペットの 魔法抵抗値 が %d 増えました", "english": "Your Pet’s magic resistance increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3786:2", "source": "ペットの クリティカル値 が %d 増えました", "english": "Your Pet’s critical rate increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3787:2", "source": "ペットの クリティカル回避 が %d 増えました", "english": "Your Pet’s critical evasion increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3788:2", "source": "ペットの 回復力 が %d 増えました", "english": "Your Pet’s recovery power increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3789:2", "source": "ペットの 魔法回復力 が %d 増えました", "english": "Your Pet’s magic recovery increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3790:2", "source": "ペットの スタミナ回復力 が %d 増えました", "english": "Your Pet’s stamina recovery increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3791:2", "source": "ペットの 攻撃速度 が %d 増えました", "english": "Your Pet’s attack speed increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3792:2", "source": "ペットの 詠唱速度 が %d 増えました", "english": "Your Pet’s cast speed increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3793:2", "source": "(未対応)ペットの 無属性値 が %d 増えました", "english": "(Not supported) Your Pet’s neutral element value increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3794:2", "source": "(未対応)ペットの 火属性値 が %d 増えました", "english": "(Not supported) Your Pet’s fire element value increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3795:2", "source": "(未対応)ペットの 水属性値 が %d 増えました", "english": "(Not supported) Your Pet’s water element value increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3796:2", "source": "(未対応)ペットの 風属性値 が %d 増えました", "english": "(Not supported) Your Pet’s wind element value increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3797:2", "source": "(未対応)ペットの 地属性値 が %d 増えました", "english": "(Not supported) Your Pet’s earth element value increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3798:2", "source": "(未対応)ペットの 光属性値 が %d 増えました", "english": "(Not supported) Your Pet’s light element value increased by %d.", "status": "draft"}
+{"id": "table/strtable.csv:3799:2", "source": "(未対応)ペットの 闇属性値 が %d 増えました", "english": "(Not supported) Your Pet’s dark element value increased by %d.", "status": "draft"}

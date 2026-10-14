@@ -1,0 +1,56 @@
+{"id": "table/strtable.csv:6971:2", "source": " \"課金アイテムは取引出来ません\"", "english": " \"Paid items cannot be traded\"", "status": "draft"}
+{"id": "table/strtable.csv:6972:2", "source": " \"課金アイテムは販売できません\"", "english": " \"Paid items cannot be sold\"", "status": "draft"}
+{"id": "table/strtable.csv:6973:2", "source": " \"ＤＥＭ強化チップは取引出来ません\"", "english": " \"D.E.M. Enhancement Chips cannot be traded\"", "status": "draft"}
+{"id": "table/strtable.csv:6974:2", "source": " \"ロックアイテムは取引出来ません\"", "english": " \"Locked items cannot be traded\"", "status": "draft"}
+{"id": "table/strtable.csv:6975:2", "source": " \"ロックアイテムは販売できません\"", "english": " \"Locked items cannot be sold\"", "status": "draft"}
+{"id": "table/strtable.csv:6979:2", "source": " \"HSUpdate.env読み込み失敗(0x%x)\"", "english": " \"Failed to read HSUpdate.env (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6980:2", "source": " \"HSUpdate.env書き込み失敗(0x%x)\"", "english": " \"Failed to write HSUpdate.env (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6981:2", "source": " \"サーバーへの接続失敗(0x%x)\"", "english": " \"Failed to connect to the server (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6982:2", "source": " \"ネットワークに接続中にエラー発生(0x%x)\"", "english": " \"An error occurred while connecting to the network (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6983:2", "source": " \"HackShield更新関係のファイルを見つけることに失敗(0x%x)\"", "english": " \"Failed to find a HackShield update file (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6984:2", "source": " \"HSUpdate.ptを見つけることに失敗(0x%x)\"", "english": " \"Failed to find HSUpdate.pt (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6985:2", "source": " \"HackShield更新中にタイムアウト(0x%x)\"", "english": " \"HackShield update timed out (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6986:2", "source": " \"HackShield更新エラー(0x%x)\"", "english": " \"HackShield update error (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6987:2", "source": " \"実行するには管理者権限が必要(0x0x%x)\"", "english": " \"Administrator privileges are required to run this (0x0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6988:2", "source": " \"互換モードで実行されている(0x%x)\"", "english": " \"Running in compatibility mode (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6989:2", "source": " \"無効なファイル(0x%x)\"", "english": " \"Invalid file (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6990:2", "source": " \"ドライバ初期化失敗(0x%x)\"", "english": " \"Driver initialization failed (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6991:2", "source": " \"デバッガ検知(0x%x)\"", "english": " \"Debugger detected (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6992:2", "source": " \"HackShield初期化エラー。ハッキング防止機能に問題が発生(0x%x)\"", "english": " \"HackShield initialization error; a problem occurred with the anti-hacking feature (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6993:2", "source": " \"HackShield開始エラー。ハッキング防止機能に問題が発生(0x%x)\"", "english": " \"HackShield startup error; a problem occurred with the anti-hacking feature (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6994:2", "source": " \"次のプログラム及びゲームは同時に実行できません(0x%x)\"", "english": " \"The following program or game cannot run at the same time (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6995:2", "source": " \"Game EXE内のコードを外部モジュールから呼出されました(0x%x)\"", "english": " \"Code inside the Game EXE was called from an external module (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6996:2", "source": " \"オートマウスと思われる動作が検知されました(0x%x)\"", "english": " \"Behavior suspected to be from an auto-mouse was detected (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6997:2", "source": " \"スピードハックと思われる動作が検知されました(0x%x)\"", "english": " \"Behavior suspected to be a speed hack was detected (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6998:2", "source": " \"ゲームに対するデバッグ試行が検知されました(0x%x)\"", "english": " \"An attempt to debug the game was detected (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:6999:2", "source": " \"メモリ変更と思われる動作が検知されました(0x%x)\"", "english": " \"Behavior suspected to be memory modification was detected (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:7000:2", "source": " \"ハッキング防御機能に異常が発生しました(0x%x)\"", "english": " \"A problem occurred with the hacking defense feature (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:7001:2", "source": " \"GUIDが不正です\"", "english": " \"Invalid GUID\"", "status": "draft"}
+{"id": "table/strtable.csv:7002:2", "source": " \"CRCが不正です\"", "english": " \"Invalid CRC\"", "status": "draft"}
+{"id": "table/strtable.csv:7003:2", "source": " \"HSBが不正です\"", "english": " \"Invalid HSB\"", "status": "draft"}
+{"id": "table/strtable.csv:7004:2", "source": " \"GUIDエラー(0x%x)\"", "english": " \"GUID error (0x%x)\"", "status": "draft"}
+{"id": "table/strtable.csv:7005:2", "source": "CRCエラー(0x%x)", "english": "CRC error (0x%x)", "status": "draft"}
+{"id": "table/strtable.csv:7006:2", "source": "HSBエラー(0x%x)", "english": "HSB error (0x%x)", "status": "draft"}
+{"id": "table/strtable.csv:7009:2", "source": "GameGuardが実行中", "english": "GameGuard is running", "status": "draft"}
+{"id": "table/strtable.csv:7010:2", "source": "ゲームが重複実行", "english": "The game is already running", "status": "draft"}
+{"id": "table/strtable.csv:7011:2", "source": "GameGuard初期化失敗", "english": "GameGuard initialization failed", "status": "draft"}
+{"id": "table/strtable.csv:7012:2", "source": "GameGuardファイルがないか改造された", "english": "GameGuard file is missing or modified", "status": "draft"}
+{"id": "table/strtable.csv:7013:2", "source": "ファイルが破損した", "english": "File is corrupted", "status": "draft"}
+{"id": "table/strtable.csv:7014:2", "source": "GameGuard実行に失敗", "english": "Failed to start GameGuard", "status": "draft"}
+{"id": "table/strtable.csv:7015:2", "source": "不正プログラムを発見", "english": "An unauthorized program was found", "status": "draft"}
+{"id": "table/strtable.csv:7016:2", "source": "GameGuardアップデート失敗", "english": "GameGuard update failed", "status": "draft"}
+{"id": "table/strtable.csv:7017:2", "source": "ウィルス、スパイウェアで失敗", "english": "Failure due to a virus or spyware", "status": "draft"}
+{"id": "table/strtable.csv:7018:2", "source": "GameGuard初期化失敗、バージョン古い", "english": "GameGuard initialization failed; version is outdated", "status": "draft"}
+{"id": "table/strtable.csv:7019:2", "source": "iniファイルが無いか、改造された", "english": "INI file is missing or modified", "status": "draft"}
+{"id": "table/strtable.csv:7020:2", "source": "npgmup.des初期化失敗", "english": "npgmup.des initialization failed", "status": "draft"}
+{"id": "table/strtable.csv:7021:2", "source": "検証されないWindowsXPx64を実行", "english": "Running an unverified version of Windows XP x64", "status": "draft"}
+{"id": "table/strtable.csv:7022:2", "source": "GameGuardのアップデートサーバ接続失敗", "english": "Failed to connect to the GameGuard update server", "status": "draft"}
+{"id": "table/strtable.csv:7023:2", "source": "GameGuardのアップデート未完了", "english": "GameGuard update is incomplete", "status": "draft"}
+{"id": "table/strtable.csv:7024:2", "source": "ウィルス、不正ツール検査モジュールのロード失敗", "english": "Failed to load the virus/unauthorized-tool detection module", "status": "draft"}
+{"id": "table/strtable.csv:7025:2", "source": "その他", "english": "Other", "status": "draft"}
+{"id": "table/strtable.csv:7027:2", "source": "CS認証エラー", "english": "CS authentication error", "status": "draft"}
+{"id": "table/strtable.csv:7030:2", "source": "初期化エラー %d", "english": "Initialization error %d", "status": "draft"}
+{"id": "table/strtable.csv:7031:2", "source": "スピードハック検知 %d", "english": "Speed hack detected %d", "status": "draft"}
+{"id": "table/strtable.csv:7032:2", "source": "不正ツール検知 %d", "english": "Unauthorized tool detected %d", "status": "draft"}
+{"id": "table/strtable.csv:7033:2", "source": "不正ツール検知 %d", "english": "Unauthorized tool detected %d", "status": "draft"}
+{"id": "table/strtable.csv:7034:2", "source": "データ改ざん検知 %d", "english": "Data tampering detected %d", "status": "draft"}

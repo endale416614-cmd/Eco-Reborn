@@ -1,0 +1,22 @@
+{
+  "client": "eco_jp",
+  "encoding_note": "Per-file BOM when present; otherwise strict CP932. Runtime text loading remains unverified.",
+  "files": [
+    {
+      "path": "eco_jp/data/xls/table.hed",
+      "sha256": "8c9766d032be44fe5a32ac56d570ab3b2746ff7953318570d7a9a6dfc5880ba8"
+    },
+    {
+      "path": "eco_jp/data/xls/table.dat",
+      "sha256": "0e3a084b89b04f9565af1b36ec1d94c17c773e1852a47c10f6df89b4091a9aa6"
+    },
+    {
+      "path": "eco_jp/data/xls/text.hed",
+      "sha256": "3641c42a94fd5f9c92e539e3feb14bb3a030a27c1f492c06c1a58e80917f4a3a"
+    },
+    {
+      "path": "eco_jp/data/xls/text.dat",
+      "sha256": "c879ca8b52a6ac095a1455fe83b5740a3831ea36917db124293c1da4390365d5"
+    }
+  ]
+}

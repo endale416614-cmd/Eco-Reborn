@@ -1,0 +1,88 @@
+{"id": "table/strtable.csv:6751:2", "source": "能力：魔法命中力順", "english": "By Magic Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6752:2", "source": "能力：近距離回避力順", "english": "By Melee Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6753:2", "source": "能力：遠距離回避力順", "english": "By Ranged Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6754:2", "source": "能力：魔法抵抗力順", "english": "By Magic Resistance", "status": "draft"}
+{"id": "table/strtable.csv:6755:2", "source": "能力：クリティカル力順", "english": "By Critical Power", "status": "draft"}
+{"id": "table/strtable.csv:6756:2", "source": "能力：クリティカル回避力順", "english": "By Critical Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6757:2", "source": "能力：攻撃速度順", "english": "By Attack Speed", "status": "draft"}
+{"id": "table/strtable.csv:6758:2", "source": "能力：詠唱速度順", "english": "By Cast Speed", "status": "draft"}
+{"id": "table/strtable.csv:6760:2", "source": "習得難易度「初期習得済み」", "english": "Acquisition Difficulty: “Acquired from the Start”", "status": "draft"}
+{"id": "table/strtable.csv:6761:2", "source": "習得難易度「すぐ習得可能」", "english": "Acquisition Difficulty: “Immediately Available”", "status": "draft"}
+{"id": "table/strtable.csv:6762:2", "source": "習得難易度「簡単」", "english": "Acquisition Difficulty: “Easy”", "status": "draft"}
+{"id": "table/strtable.csv:6763:2", "source": "習得難易度「普通」", "english": "Acquisition Difficulty: “Normal”", "status": "draft"}
+{"id": "table/strtable.csv:6764:2", "source": "習得難易度「難しい」", "english": "Acquisition Difficulty: “Hard”", "status": "draft"}
+{"id": "table/strtable.csv:6765:2", "source": "習得難易度「困難」", "english": "Acquisition Difficulty: “Very Hard”", "status": "draft"}
+{"id": "table/strtable.csv:6767:2", "source": "戦闘称号のセット内容を表示します。", "english": "Show the contents of the Combat Title set.", "status": "draft"}
+{"id": "table/strtable.csv:6768:2", "source": "見た目称号のセット内容を表示します。", "english": "Show the contents of the Appearance Title set.", "status": "draft"}
+{"id": "table/strtable.csv:6769:2", "source": "各レアリティ毎の習得数を表示します。", "english": "Show the number acquired for each rarity.", "status": "draft"}
+{"id": "table/strtable.csv:6771:2", "source": "現在セットしている戦闘称号を表示します。", "english": "Show the currently equipped Combat Title.", "status": "draft"}
+{"id": "table/strtable.csv:6772:2", "source": "現在セットしている戦闘称号を外します。", "english": "Remove the currently equipped Combat Title.", "status": "draft"}
+{"id": "table/strtable.csv:6773:2", "source": "称号一覧の表示内容を切り替えます。$r「全て」：「基本」と「スペシャル」の称号を表示します。$r「基本」：何時でも習得可能な称号を表示します。$r「スペシャル」：特別な条件下で覚えた称号を表示します。$r「お気に入り」：お気に入り登録した称号を表示します。", "english": "Switch the titles shown in the list.$r“All”: Show Basic and Special titles.$r“Basic”: Show titles that can be acquired at any time.$r“Special”: Show titles acquired under special conditions.$r“Favorites”: Show favorited titles.", "status": "draft"}
+{"id": "table/strtable.csv:6774:2", "source": "称号一覧に表示する内容を検索します。$r検索をリセットする場合は、「称号名検索」ウィンドウの$r「リセット」ボタンを押してください。", "english": "Search the titles shown in the list.$rTo reset the search, press the “Reset” button in the$r“Search Title Names” window.", "status": "draft"}
+{"id": "table/strtable.csv:6775:2", "source": "称号内容を指定した条件でソートします。", "english": "Sort titles by the selected criteria.", "status": "draft"}
+{"id": "table/strtable.csv:6776:2", "source": "称号の習得数と最大数を表示します。", "english": "Show the number of titles acquired and the maximum.", "status": "draft"}
+{"id": "table/strtable.csv:6777:2", "source": "お気に入り登録の状態を表示します。$rお気に入りアイコンをクリックすると、登録状態を切り替えます。", "english": "Show favorite status.$rClick the Favorite icon to toggle it.", "status": "draft"}
+{"id": "table/strtable.csv:6778:2", "source": "入手条件の難易度で称号のレアリティ表示を切り替えています。$r未習得の称号はアイコンが暗くなっています。", "english": "Title rarity is based on acquisition difficulty.$rUnacquired titles appear dimmed.", "status": "draft"}
+{"id": "table/strtable.csv:6779:2", "source": "称号名を表示します。$r未習得の称号は称号名が暗くなっています。$r新しく習得した称号には「Ｎｅｗ」を表示します。$r新しく習得した称号を選択すると「Ｎｅｗ」表示を消します。", "english": "Show the title name.$rUnacquired title names appear dimmed.$rNewly acquired titles are marked “New.”$rSelect a newly acquired title to clear the “New” label.", "status": "draft"}
+{"id": "table/strtable.csv:6781:2", "source": "カテゴリやレアリティや習得条件を表示します。", "english": "Show the category, rarity, and acquisition requirements.", "status": "draft"}
+{"id": "table/strtable.csv:6782:2", "source": "戦闘称号にセットした場合のステータスの増減を表示します。$r未習得の称号は「？？？？？」になります。", "english": "Show the stat changes when equipped as a Combat Title.$rUnacquired titles appear as “?????”.", "status": "draft"}
+{"id": "table/strtable.csv:6783:2", "source": "現在選択している称号を戦闘称号としてセットします。", "english": "Equip the selected title as your Combat Title.", "status": "draft"}
+{"id": "table/strtable.csv:6785:2", "source": "現在セットしている見た目称号を表示します。", "english": "Show the currently selected Appearance Title.", "status": "draft"}
+{"id": "table/strtable.csv:6786:2", "source": "『「戦闘称号」タブのバルーンヘルプ仕様』の③と同じ内容を表示します。", "english": "Show the same content as item 3 in the “Combat Title” tab tooltip help.", "status": "draft"}
+{"id": "table/strtable.csv:6787:2", "source": "称号一覧と接続詞に表示する内容を検索します。$r検索をリセットする場合は、「称号名検索」ウィンドウの$r「リセット」ボタンを押してください。", "english": "Search the titles and connectors shown in the list.$rTo reset the search, press the “Reset” button in the$r“Search Title Names” window.", "status": "draft"}
+{"id": "table/strtable.csv:6788:2", "source": "選択中の左の見た目称号を表示します。", "english": "Show the selected left Appearance Title.", "status": "draft"}
+{"id": "table/strtable.csv:6789:2", "source": "選択中の左の見た目称号を外します。", "english": "Remove the selected left Appearance Title.", "status": "draft"}
+{"id": "table/strtable.csv:6790:2", "source": "選択中の接続詞を表示します。", "english": "Show the selected connector.", "status": "draft"}
+{"id": "table/strtable.csv:6791:2", "source": "選択中の接続詞を外します。", "english": "Remove the selected connector.", "status": "draft"}
+{"id": "table/strtable.csv:6792:2", "source": "選択中の右の見た目称号を表示します。", "english": "Show the selected right Appearance Title.", "status": "draft"}
+{"id": "table/strtable.csv:6793:2", "source": "選択中の右の見た目称号を外します。", "english": "Remove the selected right Appearance Title.", "status": "draft"}
+{"id": "table/strtable.csv:6794:2", "source": "お気に入り登録の状態を表示します。$rお気に入りアイコンをクリックすると、登録状態を切り替えます。", "english": "Show favorite status.$rClick the Favorite icon to toggle it.", "status": "draft"}
+{"id": "table/strtable.csv:6795:2", "source": "入手条件の難易度で称号のレアリティ表示を切り替えています。", "english": "Title rarity is based on acquisition difficulty.", "status": "draft"}
+{"id": "table/strtable.csv:6796:2", "source": "称号名を表示します。", "english": "Show the title name.", "status": "draft"}
+{"id": "table/strtable.csv:6798:2", "source": "接続詞を表示します。", "english": "Show the connector.", "status": "draft"}
+{"id": "table/strtable.csv:6799:2", "source": "現在選択している称号を見た目称号としてセットします。", "english": "Equip the selected title as your Appearance Title.", "status": "draft"}
+{"id": "table/strtable.csv:6803:2", "source": "紹介状＆ヘアカラー購入", "english": "Buy Introduction Letters & Hair Colors", "status": "draft"}
+{"id": "table/strtable.csv:6804:2", "source": "家具購入", "english": "Buy Furniture", "status": "draft"}
+{"id": "table/strtable.csv:6805:2", "source": "パートナーレンタル（１日）", "english": "Rent a Partner (1 day)", "status": "draft"}
+{"id": "table/strtable.csv:6806:2", "source": "アバター購入", "english": "Buy Avatars", "status": "draft"}
+{"id": "table/strtable.csv:6807:2", "source": "検索", "english": "Search", "status": "draft"}
+{"id": "table/strtable.csv:6808:2", "source": "髪型", "english": "Hairstyle", "status": "draft"}
+{"id": "table/strtable.csv:6809:2", "source": "オプション", "english": "Options", "status": "draft"}
+{"id": "table/strtable.csv:6810:2", "source": "髪色", "english": "Hair Color", "status": "draft"}
+{"id": "table/strtable.csv:6811:2", "source": "デフォルト", "english": "Default", "status": "draft"}
+{"id": "table/strtable.csv:6812:2", "source": "リファイン", "english": "Refined", "status": "draft"}
+{"id": "table/strtable.csv:6813:2", "source": "装備できません", "english": "Cannot be equipped", "status": "draft"}
+{"id": "table/strtable.csv:6814:2", "source": "必要ゴールド", "english": "Gold Required", "status": "draft"}
+{"id": "table/strtable.csv:6815:2", "source": "合計ゴールド", "english": "Total Gold", "status": "draft"}
+{"id": "table/strtable.csv:6816:2", "source": "所持ゴールド", "english": "Gold Owned", "status": "draft"}
+{"id": "table/strtable.csv:6817:2", "source": "必要ＥＸイベントチケット", "english": "EX Event Tickets Required", "status": "draft"}
+{"id": "table/strtable.csv:6818:2", "source": "所持ＥＸイベントチケット", "english": "EX Event Tickets Owned", "status": "draft"}
+{"id": "table/strtable.csv:6819:2", "source": "アイテム所持数", "english": "Items Owned", "status": "draft"}
+{"id": "table/strtable.csv:6820:2", "source": "ＥＸイベントチケットが足りません", "english": "Not enough EX Event Tickets", "status": "draft"}
+{"id": "table/strtable.csv:6821:2", "source": "選択したアイテムをまとめて購入します$r", "english": "Purchase the selected items together.$r", "status": "draft"}
+{"id": "table/strtable.csv:6824:2", "source": "入力文字に禁止語句が含まれています", "english": "The text you entered contains a prohibited word.", "status": "draft"}
+{"id": "table/strtable.csv:6825:2", "source": "禁止語句が含まれています", "english": "A prohibited word is included.", "status": "draft"}
+{"id": "table/strtable.csv:6831:2", "source": "今後この画面を表示しない", "english": "Do not show this screen again", "status": "draft"}
+{"id": "table/strtable.csv:6832:2", "source": "同意してゲストIDを作成する", "english": "Agree and create a Guest ID", "status": "draft"}
+{"id": "table/strtable.csv:6833:2", "source": "メールアドレス", "english": "Email Address", "status": "draft"}
+{"id": "table/strtable.csv:6834:2", "source": "ご入力いただいたメールアドレスあてにゲストIDとパスワードをお送りします。$rお間違えのないようにご入力ください。", "english": "Your Guest ID and password will be sent to the email address you entered.$rPlease make sure the address is correct.", "status": "draft"}
+{"id": "table/strtable.csv:6835:2", "source": "表示されている文字列を入力し、$r「ok」ボタンをクリックしてください", "english": "Enter the displayed text,$rthen click the “OK” button.", "status": "draft"}
+{"id": "table/strtable.csv:6836:2", "source": "文字列入力欄", "english": "Text Entry Field", "status": "draft"}
+{"id": "table/strtable.csv:6837:2", "source": "メールアドレスを入力してください", "english": "Please enter an email address.", "status": "draft"}
+{"id": "table/strtable.csv:6838:2", "source": "文字列が一致しません", "english": "The text does not match.", "status": "draft"}
+{"id": "table/strtable.csv:6839:2", "source": "表示されている文字列を入力してください", "english": "Please enter the displayed text.", "status": "draft"}
+{"id": "table/strtable.csv:6840:2", "source": "バージョンエラー", "english": "Version Error", "status": "draft"}
+{"id": "table/strtable.csv:6841:2", "source": "基幹システムとの通信エラー", "english": "Communication Error with Core System", "status": "draft"}
+{"id": "table/strtable.csv:6842:2", "source": "要求が多過ぎて処理できませんでした", "english": "Too many requests; the operation could not be processed.", "status": "draft"}
+{"id": "table/strtable.csv:6843:2", "source": "現在メンテナンス中です", "english": "Maintenance in progress.", "status": "draft"}
+{"id": "table/strtable.csv:6844:2", "source": "期限 %04d年%02d月%02d日", "english": "Expires: %04d/%02d/%02d", "status": "draft"}
+{"id": "table/strtable.csv:6845:2", "source": "残り時間 %02d時間%02d分", "english": "Time remaining: %02d hr %02d min", "status": "draft"}
+{"id": "table/strtable.csv:6856:2", "source": "残りポイントが足りません", "english": "Not enough points remaining.", "status": "draft"}
+{"id": "table/strtable.csv:6888:2", "source": "個", "english": "items", "status": "draft"}
+{"id": "table/strtable.csv:6889:2", "source": "以上の物を購入します。よろしいですか？", "english": "Purchase the above items?", "status": "draft"}
+{"id": "table/strtable.csv:6891:2", "source": "使用期間が設定されている$rアイテム（青文字）が含まれています。$rこのアイテムは購入した瞬間から$rカウントダウンが始まります。$r$rよろしいですか？", "english": "Your selection includes$rtime-limited items (shown in blue).$rFor these items, the countdown starts$rwhen purchased.$r$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:6892:2", "source": "ギフトで送ることのできない$rアイテム（青文字）が含まれています。$r$r選択しなおしてください。", "english": "Your selection contains items$rthat cannot be sent as gifts (shown in blue).$r$rPlease change your selection.", "status": "draft"}
+{"id": "table/strtable.csv:6898:2", "source": " \"%02d時間%02d分経過しました\"", "english": " \"%02d hours %02d minutes elapsed\"", "status": "draft"}
+{"id": "table/strtable.csv:6902:2", "source": " \"ＥＣＯＳＨＯＰを開きます\"", "english": " \"Open ECO SHOP\"", "status": "draft"}
+{"id": "table/strtable.csv:6904:2", "source": " \"ＥＣＯドリーム購入ページを開きます\"", "english": " \"Open ECO Dream purchase page\"", "status": "draft"}
+{"id": "table/strtable.csv:6913:2", "source": " \"ソフトキーボード\"", "english": " \"Software Keyboard\"", "status": "draft"}

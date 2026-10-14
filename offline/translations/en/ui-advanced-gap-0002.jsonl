@@ -1,0 +1,150 @@
+{"id": "table/strtable.csv:4107:2", "source": "\t\"パートナーATK％上昇\"", "english": "\t\"Partner ATK Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4108:2", "source": "\t\"パートナーM.ATK＋上昇\"", "english": "\t\"Partner M.ATK Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4109:2", "source": "\t\"パートナーM.ATK％上昇\"", "english": "\t\"Partner M.ATK Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4110:2", "source": "\t\"パートナーS.HIT＋上昇\"", "english": "\t\"Partner S.HIT Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4111:2", "source": "\t\"パートナーS.HIT％上昇\"", "english": "\t\"Partner S.HIT Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4112:2", "source": "\t\"パートナーL.HIT＋上昇\"", "english": "\t\"Partner L.HIT Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4113:2", "source": "\t\"パートナーL.HIT％上昇\"", "english": "\t\"Partner L.HIT Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4114:2", "source": "\t\"パートナーS.AVOID＋上昇\"", "english": "\t\"Partner S.AVOID Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4115:2", "source": "\t\"パートナーS.AVOID％上昇\"", "english": "\t\"Partner S.AVOID Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4116:2", "source": "\t\"パートナーL.AVOID＋上昇\"", "english": "\t\"Partner L.AVOID Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4117:2", "source": "\t\"パートナーL.AVOID％上昇\"", "english": "\t\"Partner L.AVOID Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4118:2", "source": "\t\"パートナーDEF(-)＋上昇\"", "english": "\t\"Partner DEF (flat) Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4119:2", "source": "\t\"パートナーDEF(％)＋上昇\"", "english": "\t\"Partner DEF (%) Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4120:2", "source": "\t\"パートナーM.DEF(-)＋上昇\"", "english": "\t\"Partner M.DEF (flat) Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4121:2", "source": "\t\"パートナーM.DEF(％)＋上昇\"", "english": "\t\"Partner M.DEF (%) Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4122:2", "source": "\t\"装備パートナー移動速度＋上昇\"", "english": "\t\"Equipped Partner Movement Speed Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4123:2", "source": "\t\"パートナー攻撃無属性＋上昇\"", "english": "\t\"Partner Attack Neutral Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4124:2", "source": "\t\"パートナー攻撃火属性＋上昇\"", "english": "\t\"Partner Attack Fire Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4125:2", "source": "\t\"パートナー攻撃水属性＋上昇\"", "english": "\t\"Partner Attack Water Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4126:2", "source": "\t\"パートナー攻撃風属性＋上昇\"", "english": "\t\"Partner Attack Wind Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4127:2", "source": "\t\"パートナー攻撃土属性＋上昇\"", "english": "\t\"Partner Attack Earth Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4128:2", "source": "\t\"パートナー攻撃光属性＋上昇\"", "english": "\t\"Partner Attack Light Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4129:2", "source": "\t\"パートナー攻撃闇属性＋上昇\"", "english": "\t\"Partner Attack Dark Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4130:2", "source": "\t\"パートナー防御無属性＋上昇\"", "english": "\t\"Partner Defense Neutral Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4131:2", "source": "\t\"パートナー防御火属性＋上昇\"", "english": "\t\"Partner Defense Fire Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4132:2", "source": "\t\"パートナー防御水属性＋上昇\"", "english": "\t\"Partner Defense Water Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4133:2", "source": "\t\"パートナー防御風属性＋上昇\"", "english": "\t\"Partner Defense Wind Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4134:2", "source": "\t\"パートナー防御土属性＋上昇\"", "english": "\t\"Partner Defense Earth Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4135:2", "source": "\t\"パートナー防御光属性＋上昇\"", "english": "\t\"Partner Defense Light Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4136:2", "source": "\t\"パートナー防御闇属性＋上昇\"", "english": "\t\"Partner Defense Dark Attribute Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4137:2", "source": "\t\"パートナー用獲得経験値上昇\"", "english": "\t\"Partner EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4138:2", "source": "\t\"獲得パートナー信頼度上昇\"", "english": "\t\"Partner Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4139:2", "source": "\t\"人間系獲得U.P信頼度上昇\"", "english": "\t\"Human-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4140:2", "source": "\t\"鳥系獲得U.P信頼度上昇\"", "english": "\t\"Bird-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4141:2", "source": "\t\"動物系獲得U.P信頼度上昇\"", "english": "\t\"Animal-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4142:2", "source": "\t\"昆虫系獲得U.P信頼度上昇\"", "english": "\t\"Insect-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4143:2", "source": "\t\"魔法生物系獲得U.P信頼度上昇\"", "english": "\t\"Magical Creature-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4144:2", "source": "\t\"植物系獲得U.P信頼度上昇\"", "english": "\t\"Plant-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4145:2", "source": "\t\"水中生物系獲得U.P信頼度上昇\"", "english": "\t\"Aquatic Creature-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4146:2", "source": "\t\"機械系獲得U.P信頼度上昇\"", "english": "\t\"Machine-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4147:2", "source": "\t\"岩系獲得U.P信頼度上昇\"", "english": "\t\"Rock-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4148:2", "source": "\t\"精霊系獲得U.P信頼度上昇\"", "english": "\t\"Spirit-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4149:2", "source": "\t\"死霊系獲得U.P信頼度上昇\"", "english": "\t\"Undead-type U.P. Trust Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4150:2", "source": "\t\"次回食事時間％短縮\"", "english": "\t\"Next Meal Time Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4151:2", "source": "\t\"負傷時間短縮（分）\"", "english": "\t\"Injury Duration Reduction (min)\"", "status": "draft"}
+{"id": "table/strtable.csv:4152:2", "source": "\t\"ＰＰの獲得信頼度％上昇\"", "english": "\t\"PP Trust Gain Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4153:2", "source": "\t\"獲得ﾊﾟｰﾄﾅｰﾎﾟｲﾝﾄ％上昇\"", "english": "\t\"Partner Points Gain Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4154:2", "source": "\t\"ＰＰの個人貢献度％上昇\"", "english": "\t\"PP Personal Contribution Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4155:2", "source": "\t\"ＰＰ内戦闘不能復帰時間短縮\"", "english": "\t\"PP Incapacitation Recovery Time Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4156:2", "source": "\t\"ﾓﾝｽﾀｰ襲来時HP回復(%)\"", "english": "\t\"HP Recovery (%) during Monster Invasion\"", "status": "draft"}
+{"id": "table/strtable.csv:4157:2", "source": "\t\"攻撃属性値+X上昇（闇）\"", "english": "\t\"Attack Attribute Value +X Increase (Dark)\"", "status": "draft"}
+{"id": "table/strtable.csv:4158:2", "source": "\t\"攻撃属性値+X上昇（光）\"", "english": "\t\"Attack Attribute Value +X Increase (Light)\"", "status": "draft"}
+{"id": "table/strtable.csv:4159:2", "source": "\t\"攻撃属性値+X上昇（火）\"", "english": "\t\"Attack Attribute Value +X Increase (Fire)\"", "status": "draft"}
+{"id": "table/strtable.csv:4160:2", "source": "\t\"攻撃属性値+X上昇（水）\"", "english": "\t\"Attack Attribute Value +X Increase (Water)\"", "status": "draft"}
+{"id": "table/strtable.csv:4161:2", "source": "\t\"攻撃属性値+X上昇（土）\"", "english": "\t\"Attack Attribute Value +X Increase (Earth)\"", "status": "draft"}
+{"id": "table/strtable.csv:4162:2", "source": "\t\"攻撃属性値+X上昇（風）\"", "english": "\t\"Attack Attribute Value +X Increase (Wind)\"", "status": "draft"}
+{"id": "table/strtable.csv:4163:2", "source": "\t\"耐久度減少確率減少\"", "english": "\t\"Durability Loss Chance Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4164:2", "source": "\t\"状態異常成功率上昇\"", "english": "\t\"Status Effect Success Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4165:2", "source": "\t\"食べ物系アイテム効果上昇\"", "english": "\t\"Food Item Effect Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4166:2", "source": "\t\"ポーション系アイテム効果上昇\"", "english": "\t\"Potion Item Effect Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4167:2", "source": "\t\"人間系攻撃ダメージ上昇\"", "english": "\t\"Human-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4168:2", "source": "\t\"鳥系攻撃ダメージ上昇\"", "english": "\t\"Bird-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4169:2", "source": "\t\"動物系攻撃ダメージ上昇\"", "english": "\t\"Animal-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4170:2", "source": "\t\"昆虫系攻撃ダメージ上昇\"", "english": "\t\"Insect-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4171:2", "source": "\t\"魔法生物系攻撃ダメージ上昇\"", "english": "\t\"Magical Creature-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4172:2", "source": "\t\"植物系攻撃ダメージ上昇\"", "english": "\t\"Plant-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4173:2", "source": "\t\"水中生物系攻撃ダメージ上昇\"", "english": "\t\"Aquatic Creature-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4174:2", "source": "\t\"機械系攻撃ダメージ上昇\"", "english": "\t\"Machine-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4175:2", "source": "\t\"岩系攻撃ダメージ上昇\"", "english": "\t\"Rock-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4176:2", "source": "\t\"精霊系攻撃ダメージ上昇\"", "english": "\t\"Spirit-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4177:2", "source": "\t\"死霊系攻撃ダメージ上昇\"", "english": "\t\"Undead-type Damage Dealt Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4178:2", "source": "\t\"人間系被攻撃ダメージ減少\"", "english": "\t\"Human-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4179:2", "source": "\t\"鳥系被攻撃ダメージ減少\"", "english": "\t\"Bird-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4180:2", "source": "\t\"動物系被攻撃ダメージ減少\"", "english": "\t\"Animal-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4181:2", "source": "\t\"昆虫系被攻撃ダメージ減少\"", "english": "\t\"Insect-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4182:2", "source": "\t\"魔法生物系被攻撃ダメージ減少\"", "english": "\t\"Magical Creature-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4183:2", "source": "\t\"植物系被攻撃ダメージ減少\"", "english": "\t\"Plant-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4184:2", "source": "\t\"水中生物系被攻撃ダメージ減少\"", "english": "\t\"Aquatic Creature-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4185:2", "source": "\t\"機械系被攻撃ダメージ減少\"", "english": "\t\"Machine-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4186:2", "source": "\t\"岩系被攻撃ダメージ減少\"", "english": "\t\"Rock-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4187:2", "source": "\t\"精霊系被攻撃ダメージ減少\"", "english": "\t\"Spirit-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4188:2", "source": "\t\"死霊系被攻撃ダメージ減少\"", "english": "\t\"Undead-type Damage Taken Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4189:2", "source": "\t\"人間系基本経験値上昇\"", "english": "\t\"Human-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4190:2", "source": "\t\"鳥系基本経験値上昇\"", "english": "\t\"Bird-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4191:2", "source": "\t\"動物系基本経験値上昇\"", "english": "\t\"Animal-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4192:2", "source": "\t\"昆虫系基本経験値上昇\"", "english": "\t\"Insect-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4193:2", "source": "\t\"魔法生物系基本経験値上昇\"", "english": "\t\"Magical Creature-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4194:2", "source": "\t\"植物系基本経験値上昇\"", "english": "\t\"Plant-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4195:2", "source": "\t\"水中生物系基本経験値上昇\"", "english": "\t\"Aquatic Creature-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4196:2", "source": "\t\"機械系基本経験値上昇\"", "english": "\t\"Machine-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4197:2", "source": "\t\"岩系基本経験値上昇\"", "english": "\t\"Rock-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4198:2", "source": "\t\"精霊系基本経験値上昇\"", "english": "\t\"Spirit-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4199:2", "source": "\t\"死霊系基本経験値上昇\"", "english": "\t\"Undead-type Base EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4200:2", "source": "\t\"人間系職業経験値上昇\"", "english": "\t\"Human-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4201:2", "source": "\t\"鳥系職業経験値上昇\"", "english": "\t\"Bird-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4202:2", "source": "\t\"動物系職業経験値上昇\"", "english": "\t\"Animal-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4203:2", "source": "\t\"昆虫系職業経験値上昇\"", "english": "\t\"Insect-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4204:2", "source": "\t\"魔法生物系職業経験値上昇\"", "english": "\t\"Magical Creature-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4205:2", "source": "\t\"植物系職業経験値上昇\"", "english": "\t\"Plant-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4206:2", "source": "\t\"水中生物系職業経験値上昇\"", "english": "\t\"Aquatic Creature-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4207:2", "source": "\t\"機械系職業経験値上昇\"", "english": "\t\"Machine-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4208:2", "source": "\t\"岩系職業経験値上昇\"", "english": "\t\"Rock-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4209:2", "source": "\t\"精霊系職業経験値上昇\"", "english": "\t\"Spirit-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4210:2", "source": "\t\"死霊系職業経験値上昇\"", "english": "\t\"Undead-type Job EXP Gain Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4211:2", "source": "\t\"人間系命中上昇\"", "english": "\t\"Human-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4212:2", "source": "\t\"鳥系命中上昇\"", "english": "\t\"Bird-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4213:2", "source": "\t\"動物系命中上昇\"", "english": "\t\"Animal-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4214:2", "source": "\t\"昆虫系命中上昇\"", "english": "\t\"Insect-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4215:2", "source": "\t\"魔法生物系命中上昇\"", "english": "\t\"Magical Creature-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4216:2", "source": "\t\"植物系命中上昇\"", "english": "\t\"Plant-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4217:2", "source": "\t\"水中生物系命中上昇\"", "english": "\t\"Aquatic Creature-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4218:2", "source": "\t\"機械系命中上昇\"", "english": "\t\"Machine-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4219:2", "source": "\t\"岩系命中上昇\"", "english": "\t\"Rock-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4220:2", "source": "\t\"精霊系命中上昇\"", "english": "\t\"Spirit-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4221:2", "source": "\t\"死霊系命中上昇\"", "english": "\t\"Undead-type Accuracy Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4222:2", "source": "\t\"人間系回避上昇\"", "english": "\t\"Human-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4223:2", "source": "\t\"鳥系回避上昇\"", "english": "\t\"Bird-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4224:2", "source": "\t\"動物系回避上昇\"", "english": "\t\"Animal-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4225:2", "source": "\t\"昆虫系回避上昇\"", "english": "\t\"Insect-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4226:2", "source": "\t\"魔法生物系回避上昇\"", "english": "\t\"Magical Creature-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4227:2", "source": "\t\"植物系回避上昇\"", "english": "\t\"Plant-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4228:2", "source": "\t\"水中生物系回避上昇\"", "english": "\t\"Aquatic Creature-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4229:2", "source": "\t\"機械系回避上昇\"", "english": "\t\"Machine-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4230:2", "source": "\t\"岩系回避上昇\"", "english": "\t\"Rock-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4231:2", "source": "\t\"精霊系回避上昇\"", "english": "\t\"Spirit-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4232:2", "source": "\t\"死霊系回避上昇\"", "english": "\t\"Undead-type Evasion Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4233:2", "source": "\t\"人間系クリティカル率上昇\"", "english": "\t\"Human-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4234:2", "source": "\t\"鳥系クリティカル率上昇\"", "english": "\t\"Bird-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4235:2", "source": "\t\"動物系クリティカル率上昇\"", "english": "\t\"Animal-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4236:2", "source": "\t\"昆虫系クリティカル率上昇\"", "english": "\t\"Insect-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4237:2", "source": "\t\"魔法生物系クリティカル率上昇\"", "english": "\t\"Magical Creature-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4238:2", "source": "\t\"植物系クリティカル率上昇\"", "english": "\t\"Plant-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4239:2", "source": "\t\"水中生物系クリティカル率上昇\"", "english": "\t\"Aquatic Creature-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4240:2", "source": "\t\"機械系クリティカル率上昇\"", "english": "\t\"Machine-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4241:2", "source": "\t\"岩系クリティカル率上昇\"", "english": "\t\"Rock-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4242:2", "source": "\t\"精霊系クリティカル率上昇\"", "english": "\t\"Spirit-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4243:2", "source": "\t\"死霊系クリティカル率上昇\"", "english": "\t\"Undead-type Critical Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4244:2", "source": "\t\"マリオネット使用時間延長\"", "english": "\t\"Marionette Use Time Extension\"", "status": "draft"}
+{"id": "table/strtable.csv:4245:2", "source": "\t\"マリオネット再使用時間短縮\"", "english": "\t\"Marionette Reuse Time Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4246:2", "source": "\t\"ｱﾅｻﾞｰﾌﾞｯｸ効果時間延長(分)\"", "english": "\t\"Another Book Effect Duration Extension (min)\"", "status": "draft"}
+{"id": "table/strtable.csv:4247:2", "source": "\t\"ｱﾅｻﾞｰﾌﾞｯｸ再使用時間短縮\"", "english": "\t\"Another Book Reuse Time Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4248:2", "source": "\t\"売却価格上昇\"", "english": "\t\"Sale Price Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4249:2", "source": "\t\"購入価格減少\"", "english": "\t\"Purchase Price Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4250:2", "source": "\t\"力強化成功確率％上昇\"", "english": "\t\"Strength Enhancement Success Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4251:2", "source": "\t\"魔力強化成功確率％上昇\"", "english": "\t\"Magic Enhancement Success Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4252:2", "source": "\t\"命強化成功確率％上昇\"", "english": "\t\"Life Enhancement Success Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4253:2", "source": "\t\"ｸﾘﾃｨｶﾙ強化成功確率％上昇\"", "english": "\t\"Critical Enhancement Success Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4254:2", "source": "\t\"スロット拡張成功確率％上昇\"", "english": "\t\"Slot Expansion Success Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4255:2", "source": "\t\"ｶｰﾄﾞｱｾﾝﾌﾞﾙ成功確率％上昇\"", "english": "\t\"Card Assembly Success Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4256:2", "source": "\t\"獲得エクスパンションＰ＋上昇\"", "english": "\t\"Expansion Point Gain Increase (+)\"", "status": "draft"}

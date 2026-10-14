@@ -1,0 +1,164 @@
+{"id": "table/strtable.csv:1121:2", "source": "%d時間", "english": "%d hours", "status": "draft"}
+{"id": "table/strtable.csv:1122:2", "source": "クエストカウンターに報告してください", "english": "Report to the Quest Counter", "status": "draft"}
+{"id": "table/strtable.csv:1123:2", "source": "報酬内容　各種キャンペーン効果などは含まれておりません", "english": "Reward details exclude campaign effects", "status": "draft"}
+{"id": "table/strtable.csv:1130:2", "source": "%s %s体", "english": "%s: %s targets", "status": "draft"}
+{"id": "table/strtable.csv:1131:2", "source": "凶暴なモンスター %s体", "english": "Fierce monsters: %s enemies", "status": "draft"}
+{"id": "table/strtable.csv:1132:2", "source": "{ENEMY}を退治", "english": "Defeat {ENEMY}", "status": "draft"}
+{"id": "table/strtable.csv:1133:2", "source": "{PLACE}の", "english": "At {PLACE},", "status": "draft"}
+{"id": "table/strtable.csv:1135:2", "source": "%s %d/%s個", "english": "%s %d/%s items", "status": "draft"}
+{"id": "table/strtable.csv:1136:2", "source": "UnknownItem %d/%s個", "english": "UnknownItem %d/%s items", "status": "draft"}
+{"id": "table/strtable.csv:1137:2", "source": "{ITEM}を届ける", "english": "Deliver {ITEM}", "status": "draft"}
+{"id": "table/strtable.csv:1138:2", "source": "{ITEM}をゴミ箱に捨てる", "english": "Discard {ITEM} in the trash bin", "status": "draft"}
+{"id": "table/strtable.csv:1140:2", "source": "%s　%d個", "english": "%s　%d items", "status": "draft"}
+{"id": "table/strtable.csv:1141:2", "source": "UnknownItem　%d個", "english": "UnknownItem　%d items", "status": "draft"}
+{"id": "table/strtable.csv:1142:2", "source": "{FROM_PLACE}の$r{FROM_PERSON}から", "english": "At {FROM_PLACE},$rfrom {FROM_PERSON}", "status": "draft"}
+{"id": "table/strtable.csv:1143:2", "source": "{ITEM}を預かり", "english": "Accept {ITEM}", "status": "draft"}
+{"id": "table/strtable.csv:1144:2", "source": "{TO_PLACE}の$r{TO_PERSON}へ届ける", "english": "To {TO_PLACE},$rdeliver to {TO_PERSON}", "status": "draft"}
+{"id": "table/strtable.csv:1146:2", "source": "討伐", "english": "Slay", "status": "draft"}
+{"id": "table/strtable.csv:1147:2", "source": "採取", "english": "Gather", "status": "draft"}
+{"id": "table/strtable.csv:1148:2", "source": "運搬", "english": "Transport", "status": "draft"}
+{"id": "table/strtable.csv:1149:2", "source": "攻略", "english": "Complete", "status": "draft"}
+{"id": "table/strtable.csv:1150:2", "source": "特殊", "english": "Special", "status": "draft"}
+{"id": "table/strtable.csv:1152:2", "source": "種別", "english": "Type", "status": "draft"}
+{"id": "table/strtable.csv:1153:2", "source": "制限時間", "english": "Time Limit", "status": "draft"}
+{"id": "table/strtable.csv:1155:2", "source": "消費クエストポイント", "english": "Quest Points Cost", "status": "draft"}
+{"id": "table/strtable.csv:1159:2", "source": "ゴールド", "english": "Gold", "status": "draft"}
+{"id": "table/strtable.csv:1160:2", "source": "マテリアルポイント", "english": "Material Points", "status": "draft"}
+{"id": "table/strtable.csv:1163:2", "source": "アイテム", "english": "Item", "status": "draft"}
+{"id": "table/strtable.csv:1167:2", "source": "ミッション情報", "english": "Mission Information", "status": "draft"}
+{"id": "table/strtable.csv:1169:2", "source": "ミッション進行中", "english": "Mission in Progress", "status": "draft"}
+{"id": "table/strtable.csv:1170:2", "source": "ミッション条件達成", "english": "Mission Requirements Met", "status": "draft"}
+{"id": "table/strtable.csv:1171:2", "source": "ミッション失敗", "english": "Mission Failed", "status": "draft"}
+{"id": "table/strtable.csv:1172:2", "source": "目的", "english": "Objective", "status": "draft"}
+{"id": "table/strtable.csv:1174:2", "source": "ミッションカウンター", "english": "Mission Counter", "status": "draft"}
+{"id": "table/strtable.csv:1175:2", "source": "{NPC}さんに報告してください", "english": "Please report to {NPC}", "status": "draft"}
+{"id": "table/strtable.csv:1176:2", "source": "{NPC}に報告してください", "english": "Report to {NPC}", "status": "draft"}
+{"id": "table/strtable.csv:1177:2", "source": "達成度", "english": "Progress", "status": "draft"}
+{"id": "table/strtable.csv:1186:2", "source": "{PLACE}の$r{NPC0}{MSG0}{NPC1}{MSG1}{NPC2}{MSG2}", "english": "At {PLACE},$r{NPC0}{MSG0}{NPC1}{MSG1}{NPC2}{MSG2}", "status": "draft"}
+{"id": "table/strtable.csv:1187:2", "source": "と会う$r", "english": " - meet$r", "status": "draft", "note": "Concatenation fragment; punctuation and placement depend on adjacent dynamic NPC text."}
+{"id": "table/strtable.csv:1188:2", "source": "を調べる$r", "english": " - investigate$r", "status": "draft", "note": "Concatenation fragment; punctuation and placement depend on adjacent dynamic NPC text."}
+{"id": "table/strtable.csv:1189:2", "source": "{PLACE}の$r{ENEMY}を退治", "english": "At {PLACE},$rdefeat {ENEMY}", "status": "draft"}
+{"id": "table/strtable.csv:1190:2", "source": "%s %d体", "english": "%s %d enemies", "status": "draft"}
+{"id": "table/strtable.csv:1193:2", "source": "ショップ", "english": "Shop", "status": "draft"}
+{"id": "table/strtable.csv:1194:2", "source": "CP報酬アイテム", "english": "CP Reward Items", "status": "draft"}
+{"id": "table/strtable.csv:1195:2", "source": "ecoinショップ", "english": "ecoin Shop", "status": "draft"}
+{"id": "table/strtable.csv:1196:2", "source": "アビス・マター交換アイテム", "english": "Abyss Matter Exchange Items", "status": "draft"}
+{"id": "table/strtable.csv:1199:2", "source": "アイテムを売るのを失敗しました。", "english": "Failed to sell the item.", "status": "draft"}
+{"id": "table/strtable.csv:1200:2", "source": "容量がオーバーしています", "english": "Capacity exceeded", "status": "draft"}
+{"id": "table/strtable.csv:1201:2", "source": "重量がオーバーしています", "english": "Weight limit exceeded", "status": "draft"}
+{"id": "table/strtable.csv:1202:2", "source": "重量、容量がオーバーしています", "english": "Weight and capacity exceeded", "status": "draft"}
+{"id": "table/strtable.csv:1203:2", "source": "お金が足りません", "english": "Not enough money", "status": "draft"}
+{"id": "table/strtable.csv:1204:2", "source": "CPが足りません", "english": "Not enough CP", "status": "draft"}
+{"id": "table/strtable.csv:1205:2", "source": "ecoinが足りません", "english": "Not enough ecoin", "status": "draft"}
+{"id": "table/strtable.csv:1206:2", "source": "アビス・マターが足りません", "english": "Not enough Abyss Matter", "status": "draft"}
+{"id": "table/strtable.csv:1207:2", "source": "一度にこれ以上取引できません", "english": "Cannot trade any more at once", "status": "draft"}
+{"id": "table/strtable.csv:1209:2", "source": "売りたいアイテムをドラッグアンドドロップして下さい", "english": "Drag and drop the item you want to sell", "status": "draft"}
+{"id": "table/strtable.csv:1210:2", "source": "売りたいアイテムをここへ移します", "english": "Move the item you want to sell here", "status": "draft"}
+{"id": "table/strtable.csv:1211:2", "source": "商店の売り物です", "english": "Items for sale in the shop", "status": "draft"}
+{"id": "table/strtable.csv:1212:2", "source": "買いたいアイテムをここに移します", "english": "Move the item you want to buy here", "status": "draft"}
+{"id": "table/strtable.csv:1215:2", "source": "在庫", "english": "Stock", "status": "draft"}
+{"id": "table/strtable.csv:1216:2", "source": "%d分後に商品の仕入れをします", "english": "Items will be restocked in %d minutes", "status": "draft"}
+{"id": "table/strtable.csv:1217:2", "source": "飛空城管理者が使用するため、ショップウィンドウを閉じました", "english": "The shop window closed because the Flying Castle administrator needs to use it", "status": "draft"}
+{"id": "table/strtable.csv:1218:2", "source": "機能の効果が変更されたため、ショップウィンドウを閉じました", "english": "The shop window closed because the feature's effect changed", "status": "draft"}
+{"id": "table/strtable.csv:1219:2", "source": "ブースショップが撤去されたため、ショップウィンドウを閉じました", "english": "The shop window closed because the booth shop was removed", "status": "draft"}
+{"id": "table/strtable.csv:1220:2", "source": "仕入れを行ったため、ラインナップが変更されました", "english": "The lineup changed after restocking", "status": "draft"}
+{"id": "table/strtable.csv:1224:2", "source": "エモーション", "english": "Emote", "status": "draft"}
+{"id": "table/strtable.csv:1226:2", "source": "ＥＸエモーションをループするように変更しました", "english": "EX Emote loop enabled", "status": "draft"}
+{"id": "table/strtable.csv:1227:2", "source": "ＥＸエモーションをループしないように変更しました", "english": "EX Emote loop disabled", "status": "draft"}
+{"id": "table/strtable.csv:1230:2", "source": "スキル", "english": "Skills", "status": "draft"}
+{"id": "table/strtable.csv:1231:2", "source": "スキル情報", "english": "Skill Information", "status": "draft"}
+{"id": "table/strtable.csv:1232:2", "source": "%s$rパッシブ", "english": "%s$rPassive", "status": "draft"}
+{"id": "table/strtable.csv:1233:2", "source": "%s$r消費MP %d", "english": "%s$rMP Cost %d", "status": "draft"}
+{"id": "table/strtable.csv:1234:2", "source": "%s$r消費SP %d", "english": "%s$rSP Cost %d", "status": "draft"}
+{"id": "table/strtable.csv:1235:2", "source": "%s$r消費EP %d", "english": "%s$rEP Cost %d", "status": "draft"}
+{"id": "table/strtable.csv:1236:2", "source": "%s のレベルをあげます", "english": "Raise %s's level", "status": "draft"}
+{"id": "table/strtable.csv:1237:2", "source": "%s を習得します", "english": "Learn %s", "status": "draft"}
+{"id": "table/strtable.csv:1238:2", "source": "スキル[%s]を覚えました", "english": "Learned skill [%s]", "status": "draft"}
+{"id": "table/strtable.csv:1243:2", "source": "演習使用不可", "english": "Cannot be used in Exercises", "status": "draft"}
+{"id": "table/strtable.csv:1244:2", "source": "演習憑依時使用不可", "english": "Unavailable during possession in the Exercise", "status": "draft"}
+{"id": "table/strtable.csv:1245:2", "source": "運搬", "english": "Transport", "status": "draft"}
+{"id": "table/strtable.csv:1246:2", "source": "リーダー", "english": "Leader", "status": "draft"}
+{"id": "table/strtable.csv:1247:2", "source": "運搬 リーダー戦", "english": "Transport: Leader Battle", "status": "draft"}
+{"id": "table/strtable.csv:1248:2", "source": "一般", "english": "Normal", "status": "draft"}
+{"id": "table/strtable.csv:1249:2", "source": "運搬 一般", "english": "Transport: Normal", "status": "draft"}
+{"id": "table/strtable.csv:1250:2", "source": "リーダー戦 一般", "english": "Leader Battle: Normal", "status": "draft"}
+{"id": "table/strtable.csv:1251:2", "source": "全ての演習", "english": "All Exercises", "status": "draft"}
+{"id": "table/strtable.csv:1252:2", "source": "拡張スキル", "english": "Extended Skills", "status": "draft"}
+{"id": "table/strtable.csv:1253:2", "source": "対象のスキルを使用出来る状態じゃない為、使用できません", "english": "You cannot use this skill in your current state.", "status": "draft"}
+{"id": "table/strtable.csv:1256:2", "source": "パッシブ", "english": "Passive", "status": "draft"}
+{"id": "table/strtable.csv:1257:2", "source": "憑依中使用不可", "english": "Cannot be used while possessing", "status": "draft"}
+{"id": "table/strtable.csv:1258:2", "source": "宿主中使用不可", "english": "Cannot be used while hosting", "status": "draft"}
+{"id": "table/strtable.csv:1260:2", "source": "自分の地面", "english": "Own Ground", "status": "draft"}
+{"id": "table/strtable.csv:1261:2", "source": "自分専用", "english": "Self Only", "status": "draft"}
+{"id": "table/strtable.csv:1262:2", "source": "自分を中心とした円", "english": "Circle centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1263:2", "source": "自分を中心とした壁", "english": "Wall centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1264:2", "source": "自分を中心とした扇型", "english": "Cone centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1265:2", "source": "自分を中心とした直線", "english": "Line from self", "status": "draft"}
+{"id": "table/strtable.csv:1266:2", "source": "自分を中心とした円形", "english": "Circular area centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1267:2", "source": "自分を中心とした円形", "english": "Circular area centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1268:2", "source": "自分を中心としたひし形", "english": "Diamond centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1269:2", "source": "自分を中心とした直線", "english": "Line from self", "status": "draft"}
+{"id": "table/strtable.csv:1270:2", "source": "自分を中心とした直線", "english": "Line from self", "status": "draft"}
+{"id": "table/strtable.csv:1272:2", "source": "単体対象を指定", "english": "Select a single target", "status": "draft"}
+{"id": "table/strtable.csv:1273:2", "source": "単体", "english": "Single Target", "status": "draft"}
+{"id": "table/strtable.csv:1274:2", "source": "単体を中心にした円", "english": "Circle centered on target", "status": "draft"}
+{"id": "table/strtable.csv:1275:2", "source": "単体を中心にした壁", "english": "Wall centered on target", "status": "draft"}
+{"id": "table/strtable.csv:1276:2", "source": "単体を中心にした扇形", "english": "Cone centered on target", "status": "draft"}
+{"id": "table/strtable.csv:1277:2", "source": "単体を中心にした直線", "english": "Line from target", "status": "draft"}
+{"id": "table/strtable.csv:1278:2", "source": "単体を中心にした円形", "english": "Circular area centered on target", "status": "draft"}
+{"id": "table/strtable.csv:1279:2", "source": "単体を中心にした円形", "english": "Circular area centered on target", "status": "draft"}
+{"id": "table/strtable.csv:1280:2", "source": "単体を中心にしたひし形", "english": "Diamond centered on target", "status": "draft"}
+{"id": "table/strtable.csv:1281:2", "source": "単体を中心にした直線", "english": "Line from target", "status": "draft"}
+{"id": "table/strtable.csv:1282:2", "source": "単体を中心にした直線", "english": "Line from target", "status": "draft"}
+{"id": "table/strtable.csv:1284:2", "source": "地面対象を指定", "english": "Select a ground target", "status": "draft"}
+{"id": "table/strtable.csv:1285:2", "source": "地面単体", "english": "Single Ground Target", "status": "draft"}
+{"id": "table/strtable.csv:1286:2", "source": "地面を中心にした円", "english": "Circle centered on ground target", "status": "draft"}
+{"id": "table/strtable.csv:1287:2", "source": "地面を中心にした壁", "english": "Wall centered on ground target", "status": "draft"}
+{"id": "table/strtable.csv:1288:2", "source": "地面を中心にした扇形", "english": "Cone centered on ground target", "status": "draft"}
+{"id": "table/strtable.csv:1289:2", "source": "地面を中心にした直線", "english": "Line from ground target", "status": "draft"}
+{"id": "table/strtable.csv:1290:2", "source": "地面を中心にした円形", "english": "Circular area centered on ground target", "status": "draft"}
+{"id": "table/strtable.csv:1291:2", "source": "地面を中心にした円形", "english": "Circular area centered on ground target", "status": "draft"}
+{"id": "table/strtable.csv:1292:2", "source": "地面を中心にしたひし形", "english": "Diamond centered on ground target", "status": "draft"}
+{"id": "table/strtable.csv:1293:2", "source": "地面を中心にした直線", "english": "Line from ground target", "status": "draft"}
+{"id": "table/strtable.csv:1294:2", "source": "地面を中心にした直線", "english": "Line from ground target", "status": "draft"}
+{"id": "table/strtable.csv:1296:2", "source": "単体対象を指定か自分の地面", "english": "Select a single target or own ground", "status": "draft"}
+{"id": "table/strtable.csv:1297:2", "source": "単体か自分専用", "english": "Single target or self only", "status": "draft"}
+{"id": "table/strtable.csv:1298:2", "source": "単体か自分を中心にした円", "english": "Single target or circle centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1299:2", "source": "単体か自分を中心にした壁", "english": "Single target or wall centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1300:2", "source": "単体か自分を中心にした扇形", "english": "Single target or cone centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1301:2", "source": "単体か自分を中心にした直線", "english": "Single target or line from self", "status": "draft"}
+{"id": "table/strtable.csv:1302:2", "source": "単体か自分を中心にした円形", "english": "Single target or circular area centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1303:2", "source": "単体か自分を中心にした円形", "english": "Single target or circular area centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1304:2", "source": "単体か自分を中心にしたひし形", "english": "Single target or diamond centered on self", "status": "draft"}
+{"id": "table/strtable.csv:1305:2", "source": "単体か自分を中心にした直線", "english": "Single target or line from self", "status": "draft"}
+{"id": "table/strtable.csv:1306:2", "source": "単体か自分を中心にした直線", "english": "Single target or line from self", "status": "draft"}
+{"id": "table/strtable.csv:1308:2", "source": "無し", "english": "None", "status": "draft"}
+{"id": "table/strtable.csv:1309:2", "source": "を装備", "english": " equipped", "status": "draft"}
+{"id": "table/strtable.csv:1310:2", "source": "剣", "english": "Sword", "status": "draft"}
+{"id": "table/strtable.csv:1311:2", "source": "短剣", "english": "Dagger", "status": "draft"}
+{"id": "table/strtable.csv:1312:2", "source": "鈍器", "english": "Blunt Weapon", "status": "draft"}
+{"id": "table/strtable.csv:1313:2", "source": "斧", "english": "Axe", "status": "draft"}
+{"id": "table/strtable.csv:1314:2", "source": "槍", "english": "Spear", "status": "draft"}
+{"id": "table/strtable.csv:1315:2", "source": "投擲武器", "english": "Thrown Weapon", "status": "draft"}
+{"id": "table/strtable.csv:1316:2", "source": "弓", "english": "Bow", "status": "draft"}
+{"id": "table/strtable.csv:1317:2", "source": "盾", "english": "Shield", "status": "draft"}
+{"id": "table/strtable.csv:1318:2", "source": "銃", "english": "Gun", "status": "draft"}
+{"id": "table/strtable.csv:1319:2", "source": "鞄", "english": "Bag", "status": "draft"}
+{"id": "table/strtable.csv:1320:2", "source": "一般武器", "english": "General Weapon", "status": "draft"}
+{"id": "table/strtable.csv:1321:2", "source": "爪", "english": "Claw", "status": "draft"}
+{"id": "table/strtable.csv:1322:2", "source": "細剣", "english": "Rapier", "status": "draft"}
+{"id": "table/strtable.csv:1323:2", "source": "楽器", "english": "Instrument", "status": "draft"}
+{"id": "table/strtable.csv:1324:2", "source": "ロープ", "english": "Rope", "status": "draft"}
+{"id": "table/strtable.csv:1325:2", "source": "カード", "english": "Card", "status": "draft"}
+{"id": "table/strtable.csv:1326:2", "source": "ナックル", "english": "Knuckle", "status": "draft"}
+{"id": "table/strtable.csv:1327:2", "source": "素手", "english": "Unarmed", "status": "draft"}
+{"id": "table/strtable.csv:1328:2", "source": "本", "english": "Book", "status": "draft"}
+{"id": "table/strtable.csv:1329:2", "source": "杖", "english": "Staff", "status": "draft"}
+{"id": "table/strtable.csv:1330:2", "source": "アームパーツ（叩）", "english": "Arm Part (Blunt)", "status": "draft"}
+{"id": "table/strtable.csv:1331:2", "source": "アームパーツ（突）", "english": "Arm Part (Pierce)", "status": "draft"}
+{"id": "table/strtable.csv:1332:2", "source": "アームパーツ（斬）", "english": "Arm Part (Slash)", "status": "draft"}
+{"id": "table/strtable.csv:1333:2", "source": "アームパーツ（遠）", "english": "Arm Part (Ranged)", "status": "draft"}
+{"id": "table/strtable.csv:1334:2", "source": "両手剣", "english": "Two-Handed Sword", "status": "draft"}
+{"id": "table/strtable.csv:1335:2", "source": "両手鈍器", "english": "Two-Handed Blunt Weapon", "status": "draft"}
+{"id": "table/strtable.csv:1336:2", "source": "両手斧", "english": "Two-Handed Axe", "status": "draft"}
+{"id": "table/strtable.csv:1337:2", "source": "両手槍", "english": "Two-Handed Spear", "status": "draft"}

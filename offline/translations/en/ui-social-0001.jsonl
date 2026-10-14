@@ -1,0 +1,209 @@
+{"id":"table/strtable.csv:2702:2","source":"WRPランキング%2d位になりました","english":"You reached WRP rank %2d.","status":"draft"}
+{"id":"table/strtable.csv:2703:2","source":"WRPランキング%2d位にランクインしました","english":"You entered the WRP rankings at rank %2d.","status":"draft"}
+{"id":"table/strtable.csv:2704:2","source":"WRPランキング%2d位に降格しました","english":"You dropped to WRP rank %2d.","status":"draft"}
+{"id":"table/strtable.csv:2705:2","source":"WRPランキング外に降格しました","english":"You are no longer ranked in WRP.","status":"draft"}
+{"id":"table/strtable.csv:2706:2","source":"フィールドチャンプになりました","english":"You are now the Field Champion.","status":"draft"}
+{"id":"table/strtable.csv:2707:2","source":"チャンプスキルが使用可能になります","english":"Champion skills are now available.","status":"draft"}
+{"id":"table/strtable.csv:2708:2","source":"フィールドチャンプではなくなりました","english":"You are no longer the Field Champion.","status":"draft"}
+{"id":"table/strtable.csv:2711:2","source":"カード入れ替え","english":"Replace Card","status":"draft"}
+{"id":"table/strtable.csv:2712:2","source":"武器","english":"Weapon","status":"draft"}
+{"id":"table/strtable.csv:2713:2","source":"服","english":"Clothing","status":"draft"}
+{"id":"table/strtable.csv:2714:2","source":"胸部装飾品","english":"Chest Accessory","status":"draft"}
+{"id":"table/strtable.csv:2715:2","source":"スロットロックしている武具にイリスカードをセットした場合、取り出すことができなくなります。$r対象のイリスカードを本当にセットしますか？","english":"If you set an Iris Card in a locked equipment slot, you will not be able to remove it.$rDo you really want to set this Iris Card?","status":"draft"}
+{"id":"table/strtable.csv:2716:2","source":"スロットに差してある全てのカードを外します。$rよろしいでしょうか？","english":"Remove all cards from the slots.$rAre you sure?","status":"draft"}
+{"id":"table/strtable.csv:2720:2","source":"送りたい相手を選択してください","english":"Select the recipient.","status":"draft"}
+{"id":"table/strtable.csv:2721:2","source":"送信者","english":"Sender","status":"draft"}
+{"id":"table/strtable.csv:2722:2","source":"メッセージ","english":"Message","status":"draft"}
+{"id":"table/strtable.csv:2724:2","source":"ＥＣＯショップＧＩＦＴサービスをご利用いただき、","english":"Thank you for using the ECO Shop Gift Service,","status":"draft"}
+{"id":"table/strtable.csv:2725:2","source":"誠にありがとうございます。","english":"Thank you very much.","status":"draft"}
+{"id":"table/strtable.csv:2735:2","source":"トレードを許可する","english":"Allow trading","status":"draft"}
+{"id":"table/strtable.csv:2736:2","source":"トレードを不許可にする","english":"Disallow trading","status":"draft"}
+{"id":"table/strtable.csv:2737:2","source":"パーティーを許可する","english":"Allow parties","status":"draft"}
+{"id":"table/strtable.csv:2738:2","source":"パーティーを不許可にする","english":"Disallow parties","status":"draft"}
+{"id":"table/strtable.csv:2739:2","source":"憑依を許可する","english":"Allow possession","status":"draft"}
+{"id":"table/strtable.csv:2740:2","source":"憑依を不許可にする","english":"Disallow possession","status":"draft"}
+{"id":"table/strtable.csv:2741:2","source":"リングを許可する","english":"Allow Rings","status":"draft"}
+{"id":"table/strtable.csv:2742:2","source":"リングを不許可にする","english":"Disallow Rings","status":"draft"}
+{"id":"table/strtable.csv:2743:2","source":"蘇生時に選択する","english":"Select on revival","status":"draft"}
+{"id":"table/strtable.csv:2744:2","source":"蘇生時に選択しない","english":"Do not select on revival","status":"draft"}
+{"id":"table/strtable.csv:2745:2","source":"作業請負を許可する","english":"Allow crafting requests","status":"draft"}
+{"id":"table/strtable.csv:2746:2","source":"作業請負を不許可にする","english":"Disallow crafting requests","status":"draft"}
+{"id":"table/strtable.csv:2747:2","source":"師弟関係を許可する","english":"Allow mentor relationships","status":"draft"}
+{"id":"table/strtable.csv:2748:2","source":"師弟関係を不許可にする","english":"Disallow mentor relationships","status":"draft"}
+{"id":"table/strtable.csv:2749:2","source":"装備の公開を許可にする","english":"Allow equipment display","status":"draft"}
+{"id":"table/strtable.csv:2750:2","source":"装備の公開を不許可にする","english":"Disallow equipment display","status":"draft"}
+{"id":"table/strtable.csv:2751:2","source":"パートナーによる見た目変更を許可にする","english":"Allow appearance changes by partner","status":"draft"}
+{"id":"table/strtable.csv:2752:2","source":"パートナーによる見た目変更を不許可にする","english":"Disallow appearance changes by partner","status":"draft"}
+{"id":"table/strtable.csv:2753:2","source":"フレンドを許可する","english":"Allow friend requests","status":"draft"}
+{"id":"table/strtable.csv:2754:2","source":"フレンドを不許可にする","english":"Disallow friend requests","status":"draft"}
+{"id":"table/strtable.csv:2757:2","source":"自分に憑依","english":"Self-Possession","status":"draft"}
+{"id":"table/strtable.csv:2758:2","source":"憑依カタログ","english":"Possession Catalog","status":"draft"}
+{"id":"table/strtable.csv:2761:2","source":"憑依解除","english":"Release Possession","status":"draft"}
+{"id":"table/strtable.csv:2762:2","source":"憑依カタログ","english":"Possession Catalog","status":"draft"}
+{"id":"table/strtable.csv:2765:2","source":"右手","english":"Right Hand","status":"draft"}
+{"id":"table/strtable.csv:2766:2","source":"左手","english":"Left Hand","status":"draft"}
+{"id":"table/strtable.csv:2767:2","source":"胸アクセサリー","english":"Chest Accessory","status":"draft"}
+{"id":"table/strtable.csv:2768:2","source":"鎧","english":"Armor","status":"draft"}
+{"id":"table/strtable.csv:2771:2","source":"憑依１","english":"Possession 1","status":"draft"}
+{"id":"table/strtable.csv:2772:2","source":"憑依２","english":"Possession 2","status":"draft"}
+{"id":"table/strtable.csv:2773:2","source":"憑依３","english":"Possession 3","status":"draft"}
+{"id":"table/strtable.csv:2776:2","source":"毒","english":"Poison","status":"draft"}
+{"id":"table/strtable.csv:2777:2","source":"石化","english":"Petrification","status":"draft"}
+{"id":"table/strtable.csv:2778:2","source":"麻痺","english":"Paralysis","status":"draft"}
+{"id":"table/strtable.csv:2779:2","source":"睡眠","english":"Sleep","status":"draft"}
+{"id":"table/strtable.csv:2780:2","source":"沈黙","english":"Silence","status":"draft"}
+{"id":"table/strtable.csv:2781:2","source":"鈍足化","english":"Slow","status":"draft"}
+{"id":"table/strtable.csv:2782:2","source":"混乱","english":"Confusion","status":"draft"}
+{"id":"table/strtable.csv:2783:2","source":"氷結化","english":"Frozen","status":"draft"}
+{"id":"table/strtable.csv:2784:2","source":"気絶","english":"Stun","status":"draft"}
+{"id":"table/strtable.csv:2785:2","source":"行動不能","english":"Unable to Act","status":"draft"}
+{"id":"table/strtable.csv:2786:2","source":"行動不能","english":"Unable to Act","status":"draft"}
+{"id":"table/strtable.csv:2787:2","source":"毒耐性","english":"Poison Resistance","status":"draft"}
+{"id":"table/strtable.csv:2788:2","source":"石化耐性","english":"Petrification Resistance","status":"draft"}
+{"id":"table/strtable.csv:2789:2","source":"麻痺耐性","english":"Paralysis Resistance","status":"draft"}
+{"id":"table/strtable.csv:2790:2","source":"睡眠耐性","english":"Sleep Resistance","status":"draft"}
+{"id":"table/strtable.csv:2791:2","source":"沈黙耐性","english":"Silence Resistance","status":"draft"}
+{"id":"table/strtable.csv:2792:2","source":"鈍足化耐性","english":"Slow Resistance","status":"draft"}
+{"id":"table/strtable.csv:2793:2","source":"混乱耐性","english":"Confusion Resistance","status":"draft"}
+{"id":"table/strtable.csv:2794:2","source":"氷結化耐性","english":"Freeze Resistance","status":"draft"}
+{"id":"table/strtable.csv:2795:2","source":"気絶耐性","english":"Stun Resistance","status":"draft"}
+{"id":"table/strtable.csv:2796:2","source":"座り状態","english":"Sitting","status":"draft"}
+{"id":"table/strtable.csv:2797:2","source":"幽体離脱","english":"Out of Body","status":"draft"}
+{"id":"table/strtable.csv:2798:2","source":"重量、容量オーバー","english":"Overweight / Over Capacity","status":"draft"}
+{"id":"table/strtable.csv:2801:2","source":"狂戦士","english":"Berserk","status":"draft"}
+{"id":"table/strtable.csv:2802:2","source":"呪い","english":"Cursed","status":"draft"}
+{"id":"table/strtable.csv:2803:2","source":"盲目","english":"Blind","status":"draft"}
+{"id":"table/strtable.csv:2804:2","source":"透視","english":"True Sight","status":"draft"}
+{"id":"table/strtable.csv:2805:2","source":"浮遊","english":"Levitation","status":"draft"}
+{"id":"table/strtable.csv:2806:2","source":"水中呼吸","english":"Underwater Breathing","status":"draft"}
+{"id":"table/strtable.csv:2807:2","source":"透明","english":"Invisible","status":"draft"}
+{"id":"table/strtable.csv:2808:2","source":"アンデッド","english":"Undead","status":"draft"}
+{"id":"table/strtable.csv:2809:2","source":"きのこ","english":"Mushroom","status":"draft"}
+{"id":"table/strtable.csv:2810:2","source":"硬直","english":"Rigid","status":"draft"}
+{"id":"table/strtable.csv:2811:2","source":"呪縛","english":"Bound","status":"draft"}
+{"id":"table/strtable.csv:2812:2","source":"封印","english":"Sealed","status":"draft"}
+{"id":"table/strtable.csv:2813:2","source":"封魔","english":"Magic Sealed","status":"draft"}
+{"id":"table/strtable.csv:2814:2","source":"憑依準備","english":"Preparing Possession","status":"draft"}
+{"id":"table/strtable.csv:2815:2","source":"熱波防御","english":"Heatwave Protection","status":"draft"}
+{"id":"table/strtable.csv:2816:2","source":"寒波防御","english":"Cold Wave Protection","status":"draft"}
+{"id":"table/strtable.csv:2817:2","source":"真空防御","english":"Vacuum Protection","status":"draft"}
+{"id":"table/strtable.csv:2818:2","source":"猛毒","english":"Deadly Poison","status":"draft"}
+{"id":"table/strtable.csv:2819:2","source":"ホーリーフェザー","english":"Holy Feather","status":"draft"}
+{"id":"table/strtable.csv:2820:2","source":"亀の構え","english":"Turtle Stance","status":"draft"}
+{"id":"table/strtable.csv:2821:2","source":"必中陣","english":"Sure-Hit Formation","status":"draft"}
+{"id":"table/strtable.csv:2822:2","source":"ショートソードディレイキャンセル","english":"Short Sword Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2823:2","source":"ソードディレイキャンセル","english":"Sword Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2824:2","source":"アックスディレイキャンセル","english":"Axe Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2825:2","source":"スピアディレイキャンセル","english":"Spear Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2826:2","source":"ボウディレイキャンセル","english":"Bow Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2827:2","source":"ディフェンス・スラッシュ","english":"Slash Defense","status":"draft"}
+{"id":"table/strtable.csv:2828:2","source":"ディフェンス・スタブ","english":"Stab Defense","status":"draft"}
+{"id":"table/strtable.csv:2829:2","source":"ディフェンス・ブロウ","english":"Blow Defense","status":"draft"}
+{"id":"table/strtable.csv:2830:2","source":"リヴァイブ","english":"Revive","status":"draft"}
+{"id":"table/strtable.csv:2836:2","source":"武器の無属性上昇","english":"Weapon: Neutral Element Up","status":"draft"}
+{"id":"table/strtable.csv:2837:2","source":"武器の火属性上昇","english":"Weapon: Fire Element Up","status":"draft"}
+{"id":"table/strtable.csv:2838:2","source":"武器の水属性上昇","english":"Weapon: Water Element Up","status":"draft"}
+{"id":"table/strtable.csv:2839:2","source":"武器の風属性上昇","english":"Weapon: Wind Element Up","status":"draft"}
+{"id":"table/strtable.csv:2840:2","source":"武器の土属性上昇","english":"Weapon: Earth Element Up","status":"draft"}
+{"id":"table/strtable.csv:2841:2","source":"武器の光属性上昇","english":"Weapon: Light Element Up","status":"draft"}
+{"id":"table/strtable.csv:2842:2","source":"武器の闇属性上昇","english":"Weapon: Dark Element Up","status":"draft"}
+{"id":"table/strtable.csv:2843:2","source":"武器の無属性減少","english":"Weapon: Neutral Element Down","status":"draft"}
+{"id":"table/strtable.csv:2844:2","source":"武器の火属性減少","english":"Weapon: Fire Element Down","status":"draft"}
+{"id":"table/strtable.csv:2845:2","source":"武器の水属性減少","english":"Weapon: Water Element Down","status":"draft"}
+{"id":"table/strtable.csv:2846:2","source":"武器の風属性減少","english":"Weapon: Wind Element Down","status":"draft"}
+{"id":"table/strtable.csv:2847:2","source":"武器の土属性減少","english":"Weapon: Earth Element Down","status":"draft"}
+{"id":"table/strtable.csv:2848:2","source":"武器の光属性減少","english":"Weapon: Light Element Down","status":"draft"}
+{"id":"table/strtable.csv:2849:2","source":"武器の闇属性減少","english":"Weapon: Dark Element Down","status":"draft"}
+{"id":"table/strtable.csv:2850:2","source":"体の無属性上昇","english":"Body: Neutral Element Up","status":"draft"}
+{"id":"table/strtable.csv:2851:2","source":"体の火属性上昇","english":"Body: Fire Element Up","status":"draft"}
+{"id":"table/strtable.csv:2852:2","source":"体の水属性上昇","english":"Body: Water Element Up","status":"draft"}
+{"id":"table/strtable.csv:2853:2","source":"体の風属性上昇","english":"Body: Wind Element Up","status":"draft"}
+{"id":"table/strtable.csv:2854:2","source":"体の土属性上昇","english":"Body: Earth Element Up","status":"draft"}
+{"id":"table/strtable.csv:2855:2","source":"体の光属性上昇","english":"Body: Light Element Up","status":"draft"}
+{"id":"table/strtable.csv:2856:2","source":"体の闇属性上昇","english":"Body: Dark Element Up","status":"draft"}
+{"id":"table/strtable.csv:2857:2","source":"体の無属性減少","english":"Body: Neutral Element Down","status":"draft"}
+{"id":"table/strtable.csv:2858:2","source":"体の火属性減少","english":"Body: Fire Element Down","status":"draft"}
+{"id":"table/strtable.csv:2859:2","source":"体の水属性減少","english":"Body: Water Element Down","status":"draft"}
+{"id":"table/strtable.csv:2860:2","source":"体の風属性減少","english":"Body: Wind Element Down","status":"draft"}
+{"id":"table/strtable.csv:2861:2","source":"体の土属性減少","english":"Body: Earth Element Down","status":"draft"}
+{"id":"table/strtable.csv:2862:2","source":"体の光属性減少","english":"Body: Light Element Down","status":"draft"}
+{"id":"table/strtable.csv:2863:2","source":"体の闇属性減少","english":"Body: Dark Element Down","status":"draft"}
+{"id":"table/strtable.csv:2866:2","source":"最大HP上昇","english":"Maximum HP Up","status":"draft"}
+{"id":"table/strtable.csv:2867:2","source":"最大MP上昇","english":"Maximum MP Up","status":"draft"}
+{"id":"table/strtable.csv:2868:2","source":"最大SP上昇","english":"Maximum SP Up","status":"draft"}
+{"id":"table/strtable.csv:2869:2","source":"移動力上昇","english":"Movement Speed Up","status":"draft"}
+{"id":"table/strtable.csv:2870:2","source":"最小攻撃力上昇","english":"Minimum Physical Attack Up","status":"draft"}
+{"id":"table/strtable.csv:2871:2","source":"最大攻撃力上昇","english":"Maximum Physical Attack Up","status":"draft"}
+{"id":"table/strtable.csv:2872:2","source":"最小魔法攻撃力上昇","english":"Minimum Magic Attack Up","status":"draft"}
+{"id":"table/strtable.csv:2873:2","source":"最大魔法攻撃力上昇","english":"Maximum Magic Attack Up","status":"draft"}
+{"id":"table/strtable.csv:2874:2","source":"防御率上昇","english":"Defense Rate Up","status":"draft"}
+{"id":"table/strtable.csv:2875:2","source":"防御力上昇","english":"Defense Up","status":"draft"}
+{"id":"table/strtable.csv:2876:2","source":"魔法防御率上昇","english":"Magic Defense Rate Up","status":"draft"}
+{"id":"table/strtable.csv:2877:2","source":"魔法防御力上昇","english":"Magic Defense Up","status":"draft"}
+{"id":"table/strtable.csv:2878:2","source":"近距離命中力上昇","english":"Melee Accuracy Up","status":"draft"}
+{"id":"table/strtable.csv:2879:2","source":"遠距離命中力上昇","english":"Ranged Accuracy Up","status":"draft"}
+{"id":"table/strtable.csv:2880:2","source":"魔法命中率上昇","english":"Magic Accuracy Up","status":"draft"}
+{"id":"table/strtable.csv:2881:2","source":"近距離回避力上昇","english":"Melee Evasion Up","status":"draft"}
+{"id":"table/strtable.csv:2882:2","source":"遠距離回避力上昇","english":"Ranged Evasion Up","status":"draft"}
+{"id":"table/strtable.csv:2883:2","source":"魔法抵抗率上昇","english":"Magic Resistance Up","status":"draft"}
+{"id":"table/strtable.csv:2884:2","source":"クリティカル率上昇","english":"Critical Rate Up","status":"draft"}
+{"id":"table/strtable.csv:2885:2","source":"クリティカル回避率上昇","english":"Critical Evasion Up","status":"draft"}
+{"id":"table/strtable.csv:2886:2","source":"HP回復率上昇","english":"HP Recovery Rate Up","status":"draft"}
+{"id":"table/strtable.csv:2887:2","source":"MP回復率上昇","english":"MP Recovery Rate Up","status":"draft"}
+{"id":"table/strtable.csv:2888:2","source":"SP回復率上昇","english":"SP Recovery Rate Up","status":"draft"}
+{"id":"table/strtable.csv:2889:2","source":"攻撃スピード上昇","english":"Attack Speed Up","status":"draft"}
+{"id":"table/strtable.csv:2890:2","source":"詠唱スピード上昇","english":"Cast Speed Up","status":"draft"}
+{"id":"table/strtable.csv:2891:2","source":"STR上昇","english":"STR Up","status":"draft"}
+{"id":"table/strtable.csv:2892:2","source":"DEX上昇","english":"DEX Up","status":"draft"}
+{"id":"table/strtable.csv:2893:2","source":"INT上昇","english":"INT Up","status":"draft"}
+{"id":"table/strtable.csv:2894:2","source":"VIT上昇","english":"VIT Up","status":"draft"}
+{"id":"table/strtable.csv:2895:2","source":"AGI上昇","english":"AGI Up","status":"draft"}
+{"id":"table/strtable.csv:2896:2","source":"MAG上昇","english":"MAG Up","status":"draft"}
+{"id":"table/strtable.csv:2899:2","source":"最大HP減少","english":"Maximum HP Down","status":"draft"}
+{"id":"table/strtable.csv:2900:2","source":"最大MP減少","english":"Maximum MP Down","status":"draft"}
+{"id":"table/strtable.csv:2901:2","source":"最大SP減少","english":"Maximum SP Down","status":"draft"}
+{"id":"table/strtable.csv:2902:2","source":"移動力減少","english":"Movement Speed Down","status":"draft"}
+{"id":"table/strtable.csv:2903:2","source":"最小攻撃力減少","english":"Minimum Physical Attack Down","status":"draft"}
+{"id":"table/strtable.csv:2904:2","source":"最大攻撃力減少","english":"Maximum Physical Attack Down","status":"draft"}
+{"id":"table/strtable.csv:2905:2","source":"最小魔法攻撃力減少","english":"Minimum Magic Attack Down","status":"draft"}
+{"id":"table/strtable.csv:2906:2","source":"最大魔法攻撃力減少","english":"Maximum Magic Attack Down","status":"draft"}
+{"id":"table/strtable.csv:2907:2","source":"防御率減少","english":"Defense Rate Down","status":"draft"}
+{"id":"table/strtable.csv:2908:2","source":"防御力減少","english":"Defense Down","status":"draft"}
+{"id":"table/strtable.csv:2909:2","source":"魔法防御率減少","english":"Magic Defense Rate Down","status":"draft"}
+{"id":"table/strtable.csv:2910:2","source":"魔法防御力減少","english":"Magic Defense Down","status":"draft"}
+{"id":"table/strtable.csv:2911:2","source":"近距離命中力減少","english":"Melee Accuracy Down","status":"draft"}
+{"id":"table/strtable.csv:2912:2","source":"遠距離命中力減少","english":"Ranged Accuracy Down","status":"draft"}
+{"id":"table/strtable.csv:2913:2","source":"魔法命中率減少","english":"Magic Accuracy Down","status":"draft"}
+{"id":"table/strtable.csv:2914:2","source":"近距離回避力減少","english":"Melee Evasion Down","status":"draft"}
+{"id":"table/strtable.csv:2915:2","source":"遠距離回避力減少","english":"Ranged Evasion Down","status":"draft"}
+{"id":"table/strtable.csv:2916:2","source":"魔法抵抗率減少","english":"Magic Resistance Down","status":"draft"}
+{"id":"table/strtable.csv:2917:2","source":"クリティカル率減少","english":"Critical Rate Down","status":"draft"}
+{"id":"table/strtable.csv:2918:2","source":"クリティカル回避率減少","english":"Critical Evasion Down","status":"draft"}
+{"id":"table/strtable.csv:2919:2","source":"HP回復率減少","english":"HP Recovery Rate Down","status":"draft"}
+{"id":"table/strtable.csv:2920:2","source":"MP回復率減少","english":"MP Recovery Rate Down","status":"draft"}
+{"id":"table/strtable.csv:2921:2","source":"SP回復率減少","english":"SP Recovery Rate Down","status":"draft"}
+{"id":"table/strtable.csv:2922:2","source":"攻撃スピード減少","english":"Attack Speed Down","status":"draft"}
+{"id":"table/strtable.csv:2923:2","source":"詠唱スピード減少","english":"Cast Speed Down","status":"draft"}
+{"id":"table/strtable.csv:2924:2","source":"STR減少","english":"STR Down","status":"draft"}
+{"id":"table/strtable.csv:2925:2","source":"DEX減少","english":"DEX Down","status":"draft"}
+{"id":"table/strtable.csv:2926:2","source":"INT減少","english":"INT Down","status":"draft"}
+{"id":"table/strtable.csv:2927:2","source":"VIT減少","english":"VIT Down","status":"draft"}
+{"id":"table/strtable.csv:2928:2","source":"AGI減少","english":"AGI Down","status":"draft"}
+{"id":"table/strtable.csv:2929:2","source":"MAG減少","english":"MAG Down","status":"draft"}
+{"id":"table/strtable.csv:2932:2","source":"ゾンビ","english":"Zombie","status":"draft"}
+{"id":"table/strtable.csv:2933:2","source":"リボーン","english":"Reborn","status":"draft"}
+{"id":"table/strtable.csv:2934:2","source":"演奏中","english":"Performing","status":"draft"}
+{"id":"table/strtable.csv:2935:2","source":"羽交い絞め","english":"Grappled","status":"draft"}
+{"id":"table/strtable.csv:2936:2","source":"光魔法封印","english":"Light Magic Sealed","status":"draft"}
+{"id":"table/strtable.csv:2937:2","source":"オーバーレンジ","english":"Overrange","status":"draft"}
+{"id":"table/strtable.csv:2940:2","source":"恐怖","english":"Fear","status":"draft"}
+{"id":"table/strtable.csv:2941:2","source":"経験値上昇","english":"Experience Gain Up","status":"draft"}
+{"id":"table/strtable.csv:2942:2","source":"パッシング","english":"Passing Through","status":"draft"}
+{"id":"table/strtable.csv:2943:2","source":"回復不可","english":"Cannot Recover","status":"draft"}
+{"id":"table/strtable.csv:2944:2","source":"エンチャントブロック","english":"Enchant Block","status":"draft"}
+{"id":"table/strtable.csv:2945:2","source":"ソリッドボディ","english":"Solid Body","status":"draft"}
+{"id":"table/strtable.csv:2946:2","source":"ブラッディウエポン","english":"Bloody Weapon","status":"draft"}
+{"id":"table/strtable.csv:2947:2","source":"フレア","english":"Flare","status":"draft"}
+{"id":"table/strtable.csv:2948:2","source":"ガンディレイキャンセル","english":"Gun Delay Cancel","status":"draft"}
+{"id":"table/strtable.csv:2949:2","source":"ダブルアップ","english":"Double Up","status":"draft"}
+{"id":"table/strtable.csv:2950:2","source":"ATフィールド","english":"AT Field","status":"draft"}

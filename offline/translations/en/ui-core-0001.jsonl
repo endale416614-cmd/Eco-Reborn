@@ -1,0 +1,194 @@
+{"id": "table/strtable.csv:1340:2", "source": "スキルを忘れる", "english": "Forget Skill", "status": "draft"}
+{"id": "table/strtable.csv:1341:2", "source": "を忘れます", "english": " will be forgotten.", "status": "draft"}
+{"id": "table/strtable.csv:1342:2", "source": "スキルの削除", "english": "Forget Skill", "status": "draft"}
+{"id": "table/strtable.csv:1345:2", "source": "ステータス", "english": "Status", "status": "draft"}
+{"id": "table/strtable.csv:1346:2", "source": "           ノービス", "english": "           Novice", "status": "draft"}
+{"id": "table/strtable.csv:1347:2", "source": "これ以上あげる事はできません。", "english": "You cannot raise this any further.", "status": "draft"}
+{"id": "table/strtable.csv:1352:2", "source": "デュアル", "english": "Dual", "status": "draft"}
+{"id": "table/strtable.csv:1354:2", "source": "デュアルジョブ", "english": "Dual Job", "status": "draft"}
+{"id": "table/strtable.csv:1355:2", "source": "%s系統", "english": "%s class", "status": "draft"}
+{"id": "table/strtable.csv:1356:2", "source": "ジョブレベル　：　%3d", "english": "Job Level: %3d", "status": "draft"}
+{"id": "table/strtable.csv:1358:2", "source": "物理攻撃力 と 最大重量 が上昇します", "english": "Increases physical attack power and maximum weight.", "status": "draft"}
+{"id": "table/strtable.csv:1359:2", "source": "近距離命中力 と 詠唱速度 と 最大容量 が上昇します$r（近距離武器装備時のみ最小物理攻撃力も上昇します・素手含む）", "english": "Increases close-range accuracy, cast speed, and maximum capacity.$r(With a close-range weapon equipped, it also increases minimum physical attack power, including when unarmed.)", "status": "draft"}
+{"id": "table/strtable.csv:1360:2", "source": "最小魔法攻撃力と 遠距離命中力 と 魔法防御力 と 遠距離回避力 と 最大SP と 最大容量 が上昇します$r（遠距離武器装備時のみ最小物理攻撃力も上昇します）", "english": "Increases minimum magic attack, long-range accuracy, magic defense, long-range evasion, maximum SP, and maximum capacity.$r(With a long-range weapon equipped, it also increases minimum physical attack power.)", "status": "draft"}
+{"id": "table/strtable.csv:1361:2", "source": "物理防御力 と 魔法防御力 と 最大HP と 最大SP と 最大重量 が上昇します", "english": "Increases physical defense, magic defense, maximum HP, maximum SP, and maximum weight.", "status": "draft"}
+{"id": "table/strtable.csv:1362:2", "source": "近距離回避力 と 遠距離回避力 と 攻撃速度 が上昇します", "english": "Increases close-range and long-range evasion, and attack speed.", "status": "draft"}
+{"id": "table/strtable.csv:1363:2", "source": "最小魔法攻撃力 と 最大魔法攻撃力 と 最大MP が上昇します", "english": "Increases minimum and maximum magic attack, and maximum MP.", "status": "draft"}
+{"id": "table/strtable.csv:1364:2", "source": "現在の種族", "english": "Current Race", "status": "draft"}
+{"id": "table/strtable.csv:1365:2", "source": "現在の職業", "english": "Current Job", "status": "draft"}
+{"id": "table/strtable.csv:1366:2", "source": "現在のデュアルジョブ", "english": "Current Dual Job", "status": "draft"}
+{"id": "table/strtable.csv:1367:2", "source": "習得しているデュアルジョブ一覧", "english": "Learned Dual Jobs", "status": "draft"}
+{"id": "table/strtable.csv:1368:2", "source": "ボーナスポイントを自動で振り分けます", "english": "Automatically assign bonus points.", "status": "draft"}
+{"id": "table/strtable.csv:1369:2", "source": "基本ステータスを増やすのに使用するボーナスポイントの合計、$r基本ステータスを増やすときに消費されます", "english": "Total bonus points used to raise base stats.$rPoints are spent when you raise a base stat.", "status": "draft"}
+{"id": "table/strtable.csv:1370:2", "source": "キャラクターの現在の Lv になるまでに取得した累計のボーナスポイントです", "english": "Total bonus points earned up to your current character level.", "status": "draft"}
+{"id": "table/strtable.csv:1371:2", "source": "課金アイテム 「 ボーナスポイント＋ 」 を使用することで取得できるポイントです", "english": "Points earned by using the paid item \"Bonus Point +\".", "status": "draft"}
+{"id": "table/strtable.csv:1372:2", "source": "振り分けたボーナスポイントを最終確定させるボタンです", "english": "Confirm the assigned bonus points.", "status": "draft"}
+{"id": "table/strtable.csv:1373:2", "source": "振り分けたボーナスポイントをリセットします", "english": "Reset the bonus point allocation.", "status": "draft"}
+{"id": "table/strtable.csv:1378:2", "source": "キャラクターコード", "english": "Character Code", "status": "draft"}
+{"id": "table/strtable.csv:1379:2", "source": "コード入力", "english": "Enter Code", "status": "draft"}
+{"id": "table/strtable.csv:1380:2", "source": "入力された回数", "english": "Number of Entries", "status": "draft"}
+{"id": "table/strtable.csv:1382:2", "source": "現在の職業にあわせてステータスを自動で振り分けます。$rよろしいですか？", "english": "Automatically allocate stats for your current job.$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:1383:2", "source": "ステータス内容を自動で振り分けました。$rこちらで確定してもよろしいですか？", "english": "Stats were allocated automatically.$rWould you like to confirm them?", "status": "draft"}
+{"id": "table/strtable.csv:1384:2", "source": "ポイントが足りないため$r振り分けられませんでした", "english": "Not enough points.$rStats could not be allocated.", "status": "draft"}
+{"id": "table/strtable.csv:1387:2", "source": "VITに依存します", "english": "Depends on VIT.", "status": "draft"}
+{"id": "table/strtable.csv:1388:2", "source": "MAGに依存します", "english": "Depends on MAG.", "status": "draft"}
+{"id": "table/strtable.csv:1389:2", "source": "INT、VITに依存します", "english": "Depends on INT and VIT.", "status": "draft"}
+{"id": "table/strtable.csv:1390:2", "source": "最大HP", "english": "Maximum HP", "status": "draft"}
+{"id": "table/strtable.csv:1391:2", "source": "最大MP", "english": "Maximum MP", "status": "draft"}
+{"id": "table/strtable.csv:1392:2", "source": "最大SP", "english": "Maximum SP", "status": "draft"}
+{"id": "table/strtable.csv:1393:2", "source": "ATK ： STRに依存します", "english": "ATK: depends on STR", "status": "draft"}
+{"id": "table/strtable.csv:1394:2", "source": "物理攻撃力最小値", "english": "Minimum Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:1395:2", "source": "物理攻撃力最大値", "english": "Maximum Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:1396:2", "source": "M.ATK ： MAGに依存します", "english": "M.ATK: depends on MAG", "status": "draft"}
+{"id": "table/strtable.csv:1397:2", "source": "魔法攻撃力最小値", "english": "Minimum Magic Attack", "status": "draft"}
+{"id": "table/strtable.csv:1398:2", "source": "魔法攻撃力最大値", "english": "Maximum Magic Attack", "status": "draft"}
+{"id": "table/strtable.csv:1399:2", "source": "S.HIT ： DEXに依存します", "english": "S.HIT: depends on DEX", "status": "draft"}
+{"id": "table/strtable.csv:1400:2", "source": "近距離命中力", "english": "Close-Range Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:1401:2", "source": "L.HIT ： INTに依存します", "english": "L.HIT: depends on INT", "status": "draft"}
+{"id": "table/strtable.csv:1402:2", "source": "遠距離命中力", "english": "Long-Range Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:1403:2", "source": "DEF ： VITに依存します", "english": "DEF: depends on VIT", "status": "draft"}
+{"id": "table/strtable.csv:1404:2", "source": "基本防御力", "english": "Base Defense", "status": "draft"}
+{"id": "table/strtable.csv:1405:2", "source": "追加防御力", "english": "Additional Defense", "status": "draft"}
+{"id": "table/strtable.csv:1406:2", "source": "M.DEF ： INT、VITに依存します", "english": "M.DEF: depends on INT and VIT", "status": "draft"}
+{"id": "table/strtable.csv:1407:2", "source": "基本魔法防御力", "english": "Base Magic Defense", "status": "draft"}
+{"id": "table/strtable.csv:1408:2", "source": "追加魔法防御力", "english": "Additional Magic Defense", "status": "draft"}
+{"id": "table/strtable.csv:1409:2", "source": "S.AVOID ： AGIに依存します", "english": "S.AVOID: depends on AGI", "status": "draft"}
+{"id": "table/strtable.csv:1410:2", "source": "近距離回避力", "english": "Close-Range Evasion", "status": "draft"}
+{"id": "table/strtable.csv:1411:2", "source": "L.AVOID ： AGI、INTに依存します", "english": "L.AVOID: depends on AGI and INT", "status": "draft"}
+{"id": "table/strtable.csv:1412:2", "source": "遠距離回避力", "english": "Long-Range Evasion", "status": "draft"}
+{"id": "table/strtable.csv:1413:2", "source": "A.SPD ： AGIに依存します", "english": "A.SPD: depends on AGI", "status": "draft"}
+{"id": "table/strtable.csv:1414:2", "source": "攻撃速度", "english": "Attack Speed", "status": "draft"}
+{"id": "table/strtable.csv:1415:2", "source": "C.SPD ： DEXに依存します", "english": "C.SPD: depends on DEX", "status": "draft"}
+{"id": "table/strtable.csv:1416:2", "source": "詠唱速度", "english": "Cast Speed", "status": "draft"}
+{"id": "table/strtable.csv:1417:2", "source": "PAYL ： STR、VITに依存します", "english": "PAYL: depends on STR and VIT", "status": "draft"}
+{"id": "table/strtable.csv:1418:2", "source": "CAPA ： DEX、INTに依存します", "english": "CAPA: depends on DEX and INT", "status": "draft"}
+{"id": "table/strtable.csv:1419:2", "source": "ドミニオン世界のモンスターを倒すことで入手することができます$rドミニオン世界の都市攻防戦で使用するポイントです", "english": "Earned by defeating monsters in the Dominion World.$rUsed in Dominion World city battles.", "status": "draft"}
+{"id": "table/strtable.csv:1420:2", "source": "最大重量", "english": "Maximum Weight", "status": "draft"}
+{"id": "table/strtable.csv:1421:2", "source": "最大容量", "english": "Maximum Capacity", "status": "draft"}
+{"id": "table/strtable.csv:1423:2", "source": "基本値", "english": "Base Value", "status": "draft"}
+{"id": "table/strtable.csv:1424:2", "source": "上昇値", "english": "Increase", "status": "draft"}
+{"id": "table/strtable.csv:1425:2", "source": "パラメータ上昇に必要なボーナスポイントの値", "english": "Bonus points needed to raise the stat", "status": "draft"}
+{"id": "table/strtable.csv:1426:2", "source": "振り分けたボーナス値", "english": "Allocated Bonus", "status": "draft"}
+{"id": "table/strtable.csv:1427:2", "source": "ボーナスポイント振り分け前の数値です", "english": "Value before allocating bonus points", "status": "draft"}
+{"id": "table/strtable.csv:1428:2", "source": "ボーナスポイント振り分け後の数値です", "english": "Value after allocating bonus points", "status": "draft"}
+{"id": "table/strtable.csv:1430:2", "source": "最小", "english": "Minimum", "status": "draft"}
+{"id": "table/strtable.csv:1431:2", "source": "最大", "english": "Maximum", "status": "draft"}
+{"id": "table/strtable.csv:1432:2", "source": "減算", "english": "Flat Reduction", "status": "draft"}
+{"id": "table/strtable.csv:1433:2", "source": "割合", "english": "Percentage", "status": "draft"}
+{"id": "table/strtable.csv:1435:2", "source": "ステータス詳細を開く", "english": "Show Status Details", "status": "draft"}
+{"id": "table/strtable.csv:1436:2", "source": "ステータス詳細を閉じる", "english": "Hide Status Details", "status": "draft"}
+{"id": "table/strtable.csv:1438:2", "source": "キャラクターが受けるダメージを割合で減らした後に、減算の値分減らします$rクリティカル発生時は減算は行われません", "english": "First reduce damage taken by the listed percentage, then subtract the flat value.$rThe flat reduction does not apply on a critical hit.", "status": "draft"}
+{"id": "table/strtable.csv:1439:2", "source": "キャラクターが受けるダメージを割合分減らします", "english": "Reduces damage taken by the listed percentage.", "status": "draft"}
+{"id": "table/strtable.csv:1559:2", "source": "画面環境", "english": "Display", "status": "draft"}
+{"id": "table/strtable.csv:1560:2", "source": "キャラクター関連", "english": "Character", "status": "draft"}
+{"id": "table/strtable.csv:1561:2", "source": "ゲーム内環境", "english": "In-Game Environment", "status": "draft"}
+{"id": "table/strtable.csv:1562:2", "source": "パートナー関連", "english": "Partner", "status": "draft"}
+{"id": "table/strtable.csv:1563:2", "source": "ゲーム内操作環境", "english": "In-Game Controls", "status": "draft"}
+{"id": "table/strtable.csv:1564:2", "source": "ウィンドウ関連", "english": "Windows", "status": "draft"}
+{"id": "table/strtable.csv:1565:2", "source": "サポート関連", "english": "Support", "status": "draft"}
+{"id": "table/strtable.csv:1566:2", "source": "ログ関連", "english": "Logs", "status": "draft"}
+{"id": "table/strtable.csv:1568:2", "source": "簡単描画設定", "english": "Simple Graphics Settings", "status": "draft"}
+{"id": "table/strtable.csv:1569:2", "source": "ウィンドウ・フルスクリーンモードの切り替え", "english": "Switch Between Windowed and Full-Screen Mode", "status": "draft"}
+{"id": "table/strtable.csv:1570:2", "source": "解像度", "english": "Resolution", "status": "draft"}
+{"id": "table/strtable.csv:1571:2", "source": "非アクティブウィンドウの透明度", "english": "Inactive Window Transparency", "status": "draft"}
+{"id": "table/strtable.csv:1572:2", "source": "アクティブウィンドウの透明度", "english": "Active Window Transparency", "status": "draft"}
+{"id": "table/strtable.csv:1573:2", "source": "影の描画", "english": "Shadow Rendering", "status": "draft"}
+{"id": "table/strtable.csv:1574:2", "source": "影の描画範囲", "english": "Shadow Draw Distance", "status": "draft"}
+{"id": "table/strtable.csv:1575:2", "source": "マップオブジェクトの描画範囲", "english": "Map Object Draw Distance", "status": "draft"}
+{"id": "table/strtable.csv:1576:2", "source": "キャラクターの描画範囲", "english": "Character Draw Distance", "status": "draft"}
+{"id": "table/strtable.csv:1577:2", "source": "エフェクトの描画", "english": "Effects", "status": "draft"}
+{"id": "table/strtable.csv:1578:2", "source": "ミニマップウィンドウの透明度", "english": "Minimap Window Transparency", "status": "draft"}
+{"id": "table/strtable.csv:1579:2", "source": "アウトラインの描画", "english": "Character Outline", "status": "draft"}
+{"id": "table/strtable.csv:1580:2", "source": "アンチエイリアスの適用", "english": "Anti-Aliasing", "status": "draft"}
+{"id": "table/strtable.csv:1583:2", "source": "吹き出しの表示", "english": "Speech Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1584:2", "source": "吹き出しの表示時間", "english": "Speech Bubble Duration", "status": "draft"}
+{"id": "table/strtable.csv:1585:2", "source": "バルーンヘルプの表示", "english": "Tooltip Display", "status": "draft"}
+{"id": "table/strtable.csv:1586:2", "source": "名前表示", "english": "Name Display", "status": "draft"}
+{"id": "table/strtable.csv:1587:2", "source": "HPバー", "english": "HP Bars", "status": "draft"}
+{"id": "table/strtable.csv:1588:2", "source": "ゴーレムショップのコメント吹き出し", "english": "Golem Shop Comment Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1589:2", "source": "キャラクターの看板のコメント吹き出し", "english": "Character Sign Comment Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1590:2", "source": "オブジェの看板のコメント吹き出し", "english": "Object Sign Comment Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1591:2", "source": "プレーヤー露店のコメント吹き出し", "english": "Player Shop Comment Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1592:2", "source": "自分のHPバー", "english": "My HP Bar", "status": "draft"}
+{"id": "table/strtable.csv:1593:2", "source": "自分のMPバー", "english": "My MP Bar", "status": "draft"}
+{"id": "table/strtable.csv:1594:2", "source": "自分のSPバー", "english": "My SP Bar", "status": "draft"}
+{"id": "table/strtable.csv:1595:2", "source": "バー表示位置", "english": "Bar Position", "status": "draft"}
+{"id": "table/strtable.csv:1596:2", "source": "モンスターのHPバー表示", "english": "Monster HP Bars", "status": "draft"}
+{"id": "table/strtable.csv:1598:2", "source": "ゴーレム表示", "english": "Golem Display", "status": "draft"}
+{"id": "table/strtable.csv:1599:2", "source": "ログウィンドウのフォントサイズ", "english": "Log Window Font Size", "status": "draft"}
+{"id": "table/strtable.csv:1600:2", "source": "プレーヤー露店のアイコン表示", "english": "Player Shop Icons", "status": "draft"}
+{"id": "table/strtable.csv:1601:2", "source": "リングエンブレムの表示", "english": "Ring Emblems", "status": "draft"}
+{"id": "table/strtable.csv:1602:2", "source": "所属グループ名の表示", "english": "Group Name Display", "status": "draft"}
+{"id": "table/strtable.csv:1603:2", "source": "FPS制限", "english": "FPS Limit", "status": "draft"}
+{"id": "table/strtable.csv:1604:2", "source": "ミップマップ", "english": "Mipmapping", "status": "draft"}
+{"id": "table/strtable.csv:1605:2", "source": "ソフトウェアカーソル", "english": "Software Cursor", "status": "draft"}
+{"id": "table/strtable.csv:1606:2", "source": "飛空庭のひも表示", "english": "Sky Garden Tether Display", "status": "draft"}
+{"id": "table/strtable.csv:1607:2", "source": "画面のゆれ", "english": "Screen Shake", "status": "draft"}
+{"id": "table/strtable.csv:1608:2", "source": "常に武器を表示", "english": "Always Show Weapon", "status": "draft"}
+{"id": "table/strtable.csv:1609:2", "source": "試着ボタンを表示", "english": "Show Try-On Button", "status": "draft"}
+{"id": "table/strtable.csv:1610:2", "source": "称号を表示", "english": "Title Display", "status": "draft"}
+{"id": "table/strtable.csv:1612:2", "source": "画面全体のゆがみ効果", "english": "Screen Distortion Effect", "status": "draft"}
+{"id": "table/strtable.csv:1613:2", "source": "自分のEPバー", "english": "My EP Bar", "status": "draft"}
+{"id": "table/strtable.csv:1614:2", "source": "イベントナビゲーション", "english": "Event Navigation", "status": "draft"}
+{"id": "table/strtable.csv:1615:2", "source": "NPCグラフィックの表示", "english": "NPC Graphics", "status": "draft"}
+{"id": "table/strtable.csv:1616:2", "source": "会話ウィンドウの変更", "english": "Conversation Window Style", "status": "draft"}
+{"id": "table/strtable.csv:1617:2", "source": "UIタイプの変更", "english": "UI Layout", "status": "draft"}
+{"id": "table/strtable.csv:1618:2", "source": "装備時のかんたんAI設定ウィンドウの表示", "english": "Show Simple AI Settings When Equipping", "status": "draft"}
+{"id": "table/strtable.csv:1619:2", "source": "簡易モデル表示", "english": "Simplified Character Models", "status": "draft"}
+{"id": "table/strtable.csv:1621:2", "source": "フォントの選択(10)", "english": "Font Selection (10)", "status": "draft"}
+{"id": "table/strtable.csv:1622:2", "source": "アンチエイリアス(10)", "english": "Anti-Aliasing (10)", "status": "draft"}
+{"id": "table/strtable.csv:1623:2", "source": "フォントの選択(12)", "english": "Font Selection (12)", "status": "draft"}
+{"id": "table/strtable.csv:1624:2", "source": "アンチエイリアス(12)", "english": "Anti-Aliasing (12)", "status": "draft"}
+{"id": "table/strtable.csv:1625:2", "source": "フォントの選択(14)", "english": "Font Selection (14)", "status": "draft"}
+{"id": "table/strtable.csv:1626:2", "source": "アンチエイリアス(14)", "english": "Anti-Aliasing (14)", "status": "draft"}
+{"id": "table/strtable.csv:1627:2", "source": "フォントの選択(16)", "english": "Font Selection (16)", "status": "draft"}
+{"id": "table/strtable.csv:1628:2", "source": "アンチエイリアス(16)", "english": "Anti-Aliasing (16)", "status": "draft"}
+{"id": "table/strtable.csv:1629:2", "source": "溶け込み", "english": "Blend-In Effect", "status": "draft", "note": "Literal rendering label; exact visual behavior is unclear from this key alone."}
+{"id": "table/strtable.csv:1630:2", "source": "ローディングモデル表示", "english": "Show Model While Loading", "status": "draft"}
+{"id": "table/strtable.csv:1631:2", "source": "パートナーのセリフを吹き出しに表示", "english": "Show Partner Speech in Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1632:2", "source": "パートナーのセリフをログに表示", "english": "Show Partner Speech in Log", "status": "draft"}
+{"id": "table/strtable.csv:1633:2", "source": "ダメージ関係の数値をログに表示", "english": "Show Damage Numbers in Log", "status": "draft"}
+{"id": "table/strtable.csv:1634:2", "source": "バックグラウンドローディング", "english": "Background Loading", "status": "draft"}
+{"id": "table/strtable.csv:1635:2", "source": "憑依中のパートナーを表示", "english": "Show Partner During Possession", "status": "draft"}
+{"id": "table/strtable.csv:1636:2", "source": "憑依中のパートナーの経験値情報をログに表示", "english": "Log Partner EXP During Possession", "status": "draft"}
+{"id": "table/strtable.csv:1637:2", "source": "エモーションのプレビューを再生", "english": "Play Emote Preview", "status": "draft"}
+{"id": "table/strtable.csv:1639:2", "source": "ターゲットロック", "english": "Target Lock", "status": "draft"}
+{"id": "table/strtable.csv:1640:2", "source": "カメラ操作", "english": "Camera Controls", "status": "draft"}
+{"id": "table/strtable.csv:1641:2", "source": "カメラリセット", "english": "Reset Camera", "status": "draft"}
+{"id": "table/strtable.csv:1642:2", "source": "ウィスパー受信の自動切り換え", "english": "Automatically Switch to Whisper on Receipt", "status": "draft"}
+{"id": "table/strtable.csv:1643:2", "source": "ウィンドウスナップ", "english": "Window Snap", "status": "draft"}
+{"id": "table/strtable.csv:1644:2", "source": "自動移動ロック", "english": "Lock Auto-Movement", "status": "draft"}
+{"id": "table/strtable.csv:1645:2", "source": "マウスのスナップ", "english": "Mouse Snap", "status": "draft"}
+{"id": "table/strtable.csv:1646:2", "source": "ウィンドウ位置デフォルト", "english": "Default Window Positions", "status": "draft"}
+{"id": "table/strtable.csv:1647:2", "source": "情報ウィンドウ表示位置", "english": "Information Window Position", "status": "draft"}
+{"id": "table/strtable.csv:1648:2", "source": "情報ウィンドウ表示対象", "english": "Information Window Target", "status": "draft"}
+{"id": "table/strtable.csv:1649:2", "source": "合成系スキル対象を常に自身にする", "english": "Always Target Self with Synthesis Skills", "status": "draft"}
+{"id": "table/strtable.csv:1650:2", "source": "従来のカメラモード", "english": "Classic Camera Mode", "status": "draft"}
+{"id": "table/strtable.csv:1651:2", "source": "アイテムドロップ確認", "english": "Confirm Item Drops", "status": "draft"}
+{"id": "table/strtable.csv:1652:2", "source": "エンシェントアークの会話をログに表示", "english": "Show Ancient Ark Conversations in Log", "status": "draft"}
+{"id": "table/strtable.csv:1653:2", "source": "Ctrl + C を文字列のコピーに割り当てる", "english": "Assign Ctrl+C to Copy Text", "status": "draft"}
+{"id": "table/strtable.csv:1654:2", "source": "Ctrl + X を文字列の切り取りに割り当てる", "english": "Assign Ctrl+X to Cut Text", "status": "draft"}
+{"id": "table/strtable.csv:1655:2", "source": "憑依ドロップアイテム右クリックで詳細を開く", "english": "Right-Click Possession Drops to Open Details", "status": "draft"}
+{"id": "table/strtable.csv:1656:2", "source": "常に最新の会話を表示する", "english": "Always Show the Latest Conversation", "status": "draft"}
+{"id": "table/strtable.csv:1657:2", "source": "会話非表示中に会話が追加された時自動で表示する", "english": "Show New Conversation While Hidden", "status": "draft"}
+{"id": "table/strtable.csv:1658:2", "source": "飛空庭の家具の当たり判定を有効にする", "english": "Enable Furniture Collision in Sky Garden", "status": "draft"}
+{"id": "table/strtable.csv:1660:2", "source": "パーティーの情報ウィンドウを表示", "english": "Show Party Information Window", "status": "draft"}
+{"id": "table/strtable.csv:1661:2", "source": "チャットルームウィンドウを自動的に開く", "english": "Automatically Open Chat Room Window", "status": "draft"}
+{"id": "table/strtable.csv:1662:2", "source": "エクストラアイテムの維持利用確認", "english": "Confirm Continued Use of Extra Items", "status": "draft"}
+{"id": "table/strtable.csv:1663:2", "source": "職業チャットログ出力", "english": "Log Job Chat", "status": "draft"}
+{"id": "table/strtable.csv:1664:2", "source": "マップチェンジ後のカメラ位置", "english": "Camera Position After Map Change", "status": "draft"}
+{"id": "table/strtable.csv:1668:2", "source": "SEボリューム", "english": "Sound Effects Volume", "status": "draft"}
+{"id": "table/strtable.csv:1669:2", "source": "BGMボリューム", "english": "BGM Volume", "status": "draft"}
+{"id": "table/strtable.csv:1670:2", "source": "音声", "english": "Voice", "status": "draft"}
+{"id": "table/strtable.csv:1671:2", "source": "音声ボリューム", "english": "Voice Volume", "status": "draft"}
+{"id": "table/strtable.csv:1673:2", "source": "Twitter連携", "english": "Twitter Integration", "status": "draft"}
+{"id": "table/strtable.csv:1674:2", "source": "Twitter投稿時に注意文言を表示", "english": "Show a Warning When Posting to Twitter", "status": "draft"}
+{"id": "table/strtable.csv:1675:2", "source": "Twitter連携SS撮影時の表示/非表示の項目", "english": "Choose What to Show or Hide in Screenshots Taken with Twitter Integration", "status": "draft"}
+{"id": "table/strtable.csv:1676:2", "source": "  自分のキャラクター名", "english": "  Your Character Name", "status": "draft"}
+{"id": "table/strtable.csv:1677:2", "source": "  各種チャット吹き出し", "english": "  Chat Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1678:2", "source": "  露店コメント吹き出し", "english": "  Player Shop Comment Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1679:2", "source": "  ゴーレムショップコメント吹き出し", "english": "  Golem Shop Comment Bubbles", "status": "draft"}
+{"id": "table/strtable.csv:1680:2", "source": "  看板コメント吹き出し", "english": "  Sign Comments", "status": "draft"}
+{"id": "table/strtable.csv:1681:2", "source": "  リングエンブレム", "english": "  Ring Emblem", "status": "draft"}
+{"id": "table/strtable.csv:1682:2", "source": "  各種ウィンドウ", "english": "  Windows", "status": "draft"}
+{"id": "table/strtable.csv:1683:2", "source": "動画撮影", "english": "Video Capture", "status": "draft"}

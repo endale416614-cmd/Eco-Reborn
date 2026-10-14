@@ -1,0 +1,21 @@
+# Soak: many moves and NPC talks on one connection, then a relog. Watch the timing table for drift.
+login
+create Tester
+place 10023000 130 139 4
+select 0
+enter
+loaded
+repeat 500
+  move 131 139 90
+  move 130 139 270
+end
+repeat 100
+  npc 11000155
+  emote 131
+end
+servers-alive
+relog
+expect-saved 130 139
+expect-spawn 130 139
+logout
+servers-alive

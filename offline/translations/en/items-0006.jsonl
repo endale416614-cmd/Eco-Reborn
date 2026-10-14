@@ -1,0 +1,109 @@
+{"id":"table/item.csv:626:4","source":"金属の混じった石５","english":"Metal-Containing Stone 5","status":"draft"}
+{"id":"table/item.csv:627:4","source":"ディメンション硬石","english":"Dimension Hardstone","status":"draft","note":"Dimension is retained as the source modifier; official English item terminology is unverified."}
+{"id":"table/item.csv:629:4","source":"砂金","english":"Gold Dust","status":"draft"}
+{"id":"table/item.csv:631:4","source":"玉鋼","english":"Tamahagane","status":"draft","note":"Tamahagane is retained as the Japanese steel name; official English item terminology is unverified."}
+{"id":"table/item.csv:632:4","source":"キャビア","english":"Caviar","status":"draft"}
+{"id":"table/item.csv:633:4","source":"音プルルの卵（ド）","english":"Sound Pururu Egg (Do)","status":"draft"}
+{"id":"table/item.csv:634:4","source":"音プルルの卵（レ）","english":"Sound Pururu Egg (Re)","status":"draft"}
+{"id":"table/item.csv:635:4","source":"音プルルの卵（ミ）","english":"Sound Pururu Egg (Mi)","status":"draft"}
+{"id":"table/item.csv:636:4","source":"音プルルの卵（ファ）","english":"Sound Pururu Egg (Fa)","status":"draft"}
+{"id":"table/item.csv:637:4","source":"音プルルの卵（ソ）","english":"Sound Pururu Egg (So)","status":"draft"}
+{"id":"table/item.csv:638:4","source":"音プルルの卵（ラ）","english":"Sound Pururu Egg (La)","status":"draft"}
+{"id":"table/item.csv:639:4","source":"音プルルの卵（シ）","english":"Sound Pururu Egg (Ti)","status":"draft"}
+{"id":"table/item.csv:640:4","source":"音プルルの卵（ド～シ）","english":"Sound Pururu Egg (Do-Ti)","status":"draft"}
+{"id":"table/item.csv:641:4","source":"金のナゲット","english":"Gold Nugget","status":"draft"}
+{"id":"table/item.csv:642:4","source":"ねばねば","english":"Sticky Goo","status":"draft","note":"The source gives no concrete identity for this food item; translated literally."}
+{"id":"table/item.csv:643:4","source":"ドラゴの革","english":"Drago Leather","status":"draft","note":"Drago is a provisional transliteration of ドラゴ; English canon is unverified."}
+{"id":"table/item.csv:644:4","source":"動物のフン","english":"Animal Droppings","status":"draft"}
+{"id":"table/item.csv:645:4","source":"粘土","english":"Clay","status":"draft"}
+{"id":"table/item.csv:646:4","source":"高級粘土","english":"High-Grade Clay","status":"draft"}
+{"id":"table/item.csv:647:4","source":"ブリキの板","english":"Tin Plate","status":"draft"}
+{"id":"table/item.csv:648:4","source":"古い写真（イベント）","english":"Old Photo (Event)","status":"draft"}
+{"id":"table/item.csv:649:4","source":"鉄のナゲット","english":"Iron Nugget","status":"draft"}
+{"id":"table/item.csv:650:4","source":"銅のナゲット","english":"Copper Nugget","status":"draft"}
+{"id":"table/item.csv:651:4","source":"炎鉄","english":"Flame Iron","status":"draft"}
+{"id":"table/item.csv:652:4","source":"鬼鉄","english":"Oni Iron","status":"draft","note":"Oni is retained as a source creature/type term; official English item terminology is unverified."}
+{"id":"table/item.csv:653:4","source":"氷鉄","english":"Ice Iron","status":"draft"}
+{"id":"table/item.csv:654:4","source":"聖銀","english":"Holy Silver","status":"draft"}
+{"id":"table/item.csv:656:4","source":"鬼神鉄","english":"Demon-God Iron","status":"draft"}
+{"id":"table/item.csv:657:4","source":"プラチナ塊","english":"Platinum Ingot","status":"draft"}
+{"id":"table/item.csv:658:4","source":"鉛のナゲット","english":"Lead Nugget","status":"draft"}
+{"id":"table/item.csv:659:4","source":"チタニウム塊","english":"Titanium Ingot","status":"draft"}
+{"id":"table/item.csv:660:4","source":"銀のナゲット","english":"Silver Nugget","status":"draft"}
+{"id":"table/item.csv:661:4","source":"軽鉄","english":"Light Iron","status":"draft"}
+{"id":"table/item.csv:663:4","source":"金の延べ棒","english":"Gold Bar","status":"draft"}
+{"id":"table/item.csv:664:4","source":"鉄の延べ棒","english":"Iron Bar","status":"draft"}
+{"id":"table/item.csv:665:4","source":"強力磁石","english":"Powerful Magnet","status":"draft"}
+{"id":"table/item.csv:666:4","source":"木片","english":"Wood Chip","status":"draft"}
+{"id":"table/item.csv:668:4","source":"木材","english":"Timber","status":"draft"}
+{"id":"table/item.csv:669:4","source":"フシギな木材","english":"Mysterious Timber","status":"draft"}
+{"id":"table/item.csv:670:4","source":"かたい木材","english":"Hardwood","status":"draft"}
+{"id":"table/item.csv:671:4","source":"ひのきの木材","english":"Cypress Lumber","status":"draft"}
+{"id":"table/item.csv:672:4","source":"つる","english":"Bowstring","status":"draft"}
+{"id":"table/item.csv:673:4","source":"丈夫なつる","english":"Sturdy Bowstring","status":"draft"}
+{"id":"table/item.csv:674:4","source":"頑丈なつる","english":"Heavy-Duty Bowstring","status":"draft"}
+{"id":"table/item.csv:675:4","source":"弦","english":"String","status":"draft"}
+{"id":"table/item.csv:676:4","source":"世界樹の枝","english":"World Tree Branch","status":"draft"}
+{"id":"table/item.csv:677:4","source":"丈夫な弦","english":"Sturdy String","status":"draft"}
+{"id":"table/item.csv:678:4","source":"プラチナの弦","english":"Platinum String","status":"draft"}
+{"id":"table/item.csv:679:4","source":"オリハルコンの弦","english":"Orichalcum String","status":"draft"}
+{"id":"table/item.csv:680:4","source":"木の枝","english":"Tree Branch","status":"draft"}
+{"id":"table/item.csv:681:4","source":"かたい木の枝","english":"Hard Tree Branch","status":"draft"}
+{"id":"table/item.csv:682:4","source":"ひのきの木の枝","english":"Cypress Branch","status":"draft"}
+{"id":"table/item.csv:683:4","source":"モーグ炭","english":"Mog Coal","status":"draft","note":"Mog is a provisional transliteration of モーグ; English canon is unverified."}
+{"id":"table/item.csv:684:4","source":"ディメンション石炭","english":"Dimension Coal","status":"draft"}
+{"id":"table/item.csv:685:4","source":"木炭","english":"Charcoal","status":"draft"}
+{"id":"table/item.csv:686:4","source":"磁石","english":"Magnet","status":"draft"}
+{"id":"table/item.csv:687:4","source":"砂鉄","english":"Iron Sand","status":"draft"}
+{"id":"table/item.csv:688:4","source":"機械の破片","english":"Machine Scrap","status":"draft"}
+{"id":"table/item.csv:689:4","source":"形代","english":"Katashiro","status":"draft","note":"Katashiro is a provisional transliteration of 形代, described as a catalyst for creating a substitute; English canon is unverified."}
+{"id":"table/item.csv:690:4","source":"モンスターフィギュア","english":"Monster Figure","status":"draft"}
+{"id":"table/item.csv:692:4","source":"大理石","english":"Marble","status":"draft"}
+{"id":"table/item.csv:695:4","source":"飛んできた瓦礫","english":"Fallen Debris","status":"draft"}
+{"id":"table/item.csv:697:4","source":"背負い魔・シールダー","english":"Back Demon - Shielder","status":"draft","note":"Back Demon is a literal category translation; Shielder is a literal rendering of the item name."}
+{"id":"table/item.csv:698:4","source":"Ｄパーツ","english":"D-Parts","status":"draft","note":"The item name is abbreviated in the source; D-Parts is retained."}
+{"id":"table/item.csv:699:4","source":"背負い魔・ネコマタ","english":"Back Demon - Nekomata","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:700:4","source":"三角巾","english":"Triangular Kerchief","status":"draft"}
+{"id":"table/item.csv:701:4","source":"背負い魔・ネコマタ（緑）","english":"Back Demon - Nekomata (Green)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:702:4","source":"背負い魔・ネコマタ（藍）","english":"Back Demon - Nekomata (Indigo)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:703:4","source":"裁縫おばさんの三角巾","english":"Seamstress’s Triangular Kerchief","status":"draft"}
+{"id":"table/item.csv:704:4","source":"背負い魔・ネコマタ（山吹）","english":"Back Demon - Nekomata (Goldenrod)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:705:4","source":"背負い魔・ネコマタ（菫）","english":"Back Demon - Nekomata (Violet)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:706:4","source":"背負い魔・ネコマタ（茜）","english":"Back Demon - Nekomata (Madder)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:707:4","source":"背負い魔・ネコマタ（杏）","english":"Back Demon - Nekomata (Apricot)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:708:4","source":"あんず色の三角巾","english":"Apricot-Colored Triangular Kerchief","status":"draft"}
+{"id":"table/item.csv:709:4","source":"背負い魔・ネコマタ（空）","english":"Back Demon - Nekomata (Sky)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:710:4","source":"空色の三角巾","english":"Sky-Blue Triangular Kerchief","status":"draft"}
+{"id":"table/item.csv:711:4","source":"背負い魔・ネコマタ（胡桃・若菜）","english":"Back Demon - Nekomata (Walnut & Young Greens)","status":"draft","note":"Back Demon is a literal category translation; Nekomata and color terms are literal renderings."}
+{"id":"table/item.csv:712:4","source":"二枚の三角巾","english":"Two Triangular Kerchiefs","status":"draft"}
+{"id":"table/item.csv:713:4","source":"背負い魔・ネコマタ（黒）","english":"Back Demon - Nekomata (Black)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:716:4","source":"緑の三角巾（イベント）","english":"Green Triangular Kerchief (Event)","status":"draft"}
+{"id":"table/item.csv:717:4","source":"背負い魔・ネコマタ（新緑）","english":"Back Demon - Nekomata (New Green)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:718:4","source":"背負い魔・ネコマタ（覚醒新緑）","english":"Back Demon - Nekomata (Awakened New Green)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:719:4","source":"エミルのネコマタ（イベント）","english":"Emil’s Nekomata (Event)","status":"draft","note":"Nekomata is retained as a provisional name; English canon is unverified."}
+{"id":"table/item.csv:720:4","source":"背負い魔・ネコマタ（覚醒緑）","english":"Back Demon - Nekomata (Awakened Green)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:721:4","source":"降魂の三角巾（イベント）","english":"Spirit-Calling Kerchief (Event)","status":"draft","note":"The name is translated from the source description of a kerchief with spirit-summoning power."}
+{"id":"table/item.csv:722:4","source":"背負い魔・ネコマタ（白）","english":"Back Demon - Nekomata (White)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:723:4","source":"背負い魔・ネコマタ（ミケ）","english":"Back Demon - Nekomata (Mike)","status":"draft","note":"Back Demon is a literal category translation; Nekomata and Mike are literal/provisional name renderings."}
+{"id":"table/item.csv:724:4","source":"背負い魔・ネコマタ（トラ）","english":"Back Demon - Nekomata (Tiger)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:725:4","source":"背負い魔・ネコマタ（アリス）","english":"Back Demon - Nekomata (Alice)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:726:4","source":"背負い魔・ネコマタ（フリル）","english":"Back Demon - Nekomata (Frill)","status":"draft","note":"Back Demon is a literal category translation; Nekomata is retained as a provisional name."}
+{"id":"table/item.csv:727:4","source":"ブリキの部品","english":"Tin Parts","status":"draft"}
+{"id":"table/item.csv:728:4","source":"鉄の部品","english":"Iron Parts","status":"draft"}
+{"id":"table/item.csv:729:4","source":"銀の部品","english":"Silver Parts","status":"draft"}
+{"id":"table/item.csv:730:4","source":"プラチナの部品","english":"Platinum Parts","status":"draft"}
+{"id":"table/item.csv:731:4","source":"オリハルコンの部品","english":"Orichalcum Parts","status":"draft"}
+{"id":"table/item.csv:732:4","source":"コード","english":"Cord","status":"draft"}
+{"id":"table/item.csv:733:4","source":"コケトリスの羽","english":"Cockatrice Feather","status":"draft","note":"Cockatrice is a provisional creature rendering; English canon is unverified."}
+{"id":"table/item.csv:736:4","source":"ポッポーの羽","english":"Poppo Feather","status":"draft","note":"Poppo is a provisional transliteration of ポッポー; English canon is unverified."}
+{"id":"table/item.csv:737:4","source":"異界の羽","english":"Otherworld Feather","status":"draft"}
+{"id":"table/item.csv:740:4","source":"やわらかな羽","english":"Soft Feather","status":"draft"}
+{"id":"table/item.csv:741:4","source":"コッコーの羽","english":"Kocko Feather","status":"draft","note":"Kocko is a provisional transliteration of コッコー; English canon is unverified."}
+{"id":"table/item.csv:742:4","source":"ダークフェザーの羽","english":"Dark Feather Plume","status":"draft","note":"Dark Feather is rendered from the source name; whether this is an established creature name is unverified."}
+{"id":"table/item.csv:743:4","source":"セイレーンの羽","english":"Siren Feather","status":"draft"}
+{"id":"table/item.csv:744:4","source":"ワイルドダックの羽","english":"Wild Duck Feather","status":"draft"}
+{"id":"table/item.csv:746:4","source":"炎の翼","english":"Flame Wing","status":"draft"}
+{"id":"table/item.csv:747:4","source":"カラフルな羽根","english":"Colorful Feather","status":"draft"}
+{"id":"table/item.csv:748:4","source":"ロック鳥","english":"Roc","status":"draft","note":"Roc is the literal creature name; English item canon is unverified."}
+{"id":"table/item.csv:749:4","source":"ロック鳥（ヘヴィ）","english":"Heavy Roc","status":"draft","note":"Roc is the literal creature name; English item canon is unverified."}
+{"id":"table/item.csv:750:4","source":"ロック鳥（グレート）","english":"Great Roc","status":"draft","note":"Roc is the literal creature name; English item canon is unverified."}

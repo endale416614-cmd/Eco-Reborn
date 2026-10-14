@@ -1,0 +1,145 @@
+{"id": "table/strtable.csv:2231:2", "source": "騎乗スロット1", "english": "Mount Slot 1", "status": "draft"}
+{"id": "table/strtable.csv:2232:2", "source": "騎乗スロット2", "english": "Mount Slot 2", "status": "draft"}
+{"id": "table/strtable.csv:2233:2", "source": "騎乗スロット3", "english": "Mount Slot 3", "status": "draft"}
+{"id": "table/strtable.csv:2236:2", "source": "%sを%d個地面に落とします", "english": "Drop %s x%d on the ground.", "status": "draft"}
+{"id": "table/strtable.csv:2239:2", "source": "メール", "english": "Mail", "status": "draft"}
+{"id": "table/strtable.csv:2240:2", "source": "ギフトメール", "english": "Gift Mail", "status": "draft"}
+{"id": "table/strtable.csv:2241:2", "source": "メール作成", "english": "Compose Mail", "status": "draft"}
+{"id": "table/strtable.csv:2242:2", "source": "送信先のキャラクター名は半角4文字または全角2文字以上必要です", "english": "Recipient character names must be at least 4 half-width or 2 full-width characters.", "status": "draft"}
+{"id": "table/strtable.csv:2243:2", "source": "文字列が長すぎます", "english": "The text is too long.", "status": "draft"}
+{"id": "table/strtable.csv:2244:2", "source": "名前が長すぎます (%d)$r%s", "english": "Name is too long (%d).$r%s", "status": "draft"}
+{"id": "table/strtable.csv:2245:2", "source": "件名が長すぎます (%d)$r%s", "english": "Subject is too long (%d).$r%s", "status": "draft"}
+{"id": "table/strtable.csv:2246:2", "source": "本文が長すぎます (%d)$r%s", "english": "Message is too long (%d).$r%s", "status": "draft"}
+{"id": "table/strtable.csv:2247:2", "source": "送信相手が見つかりません", "english": "Recipient not found.", "status": "draft"}
+{"id": "table/strtable.csv:2248:2", "source": "クライアントに保存する", "english": "Save to Client", "status": "draft"}
+{"id": "table/strtable.csv:2249:2", "source": "サーバーに保存する    ", "english": "Save to Server    ", "status": "draft"}
+{"id": "table/strtable.csv:2250:2", "source": "メール保存のディレクトリ作成に失敗しました", "english": "Failed to create the mail save directory.", "status": "draft"}
+{"id": "table/strtable.csv:2251:2", "source": "メール保存のファイル作成に失敗しました", "english": "Failed to create the mail save file.", "status": "draft"}
+{"id": "table/strtable.csv:2252:2", "source": "読み取り専用ファイルのパスが指定されているか、指定したファイルが開いています", "english": "The specified path is read-only, or the specified file is open.", "status": "draft"}
+{"id": "table/strtable.csv:2253:2", "source": "対象のファイルがみつかりませんでした", "english": "The target file was not found.", "status": "draft"}
+{"id": "table/strtable.csv:2263:2", "source": "送信先は１０人までしか指定できません", "english": "You can specify up to 10 recipients.", "status": "draft"}
+{"id": "table/strtable.csv:2266:2", "source": "チケットセンター", "english": "Ticket Center", "status": "draft"}
+{"id": "table/strtable.csv:2269:2", "source": "ウィスパー", "english": "Whisper", "status": "draft"}
+{"id": "table/strtable.csv:2270:2", "source": "ここに相手の名前を入力", "english": "Enter the recipient name here.", "status": "draft"}
+{"id": "table/strtable.csv:2271:2", "source": "ここにコメントを入力", "english": "Enter a message here.", "status": "draft"}
+{"id": "table/strtable.csv:2272:2", "source": "名前が入力されていません", "english": "No name was entered.", "status": "draft"}
+{"id": "table/strtable.csv:2275:2", "source": "レシピ", "english": "Recipe", "status": "draft"}
+{"id": "table/strtable.csv:2276:2", "source": "レシピカタログ", "english": "Recipe Catalog", "status": "draft"}
+{"id": "table/strtable.csv:2277:2", "source": "カタログモード", "english": "Catalog Mode", "status": "draft"}
+{"id": "table/strtable.csv:2278:2", "source": "名前検索モード", "english": "Search by Name Mode", "status": "draft"}
+{"id": "table/strtable.csv:2280:2", "source": "★作成済み ( %d / %d )", "english": "★ Crafted ( %d / %d )", "status": "draft"}
+{"id": "table/strtable.csv:2281:2", "source": "★作成済み ( %d )", "english": "★ Crafted ( %d )", "status": "draft"}
+{"id": "table/strtable.csv:2282:2", "source": "必要な道具", "english": "Required Tools", "status": "draft"}
+{"id": "table/strtable.csv:2283:2", "source": "必要なスキル", "english": "Required Skills", "status": "draft"}
+{"id": "table/strtable.csv:2284:2", "source": "★ 作成済み", "english": "★ Crafted", "status": "draft"}
+{"id": "table/strtable.csv:2285:2", "source": "検索レシピ", "english": "Search Recipes", "status": "draft"}
+{"id": "table/strtable.csv:2286:2", "source": "スキルLv", "english": "Skill Lv.", "status": "draft"}
+{"id": "table/strtable.csv:2287:2", "source": "ページ", "english": "Page", "status": "draft"}
+{"id": "table/strtable.csv:2288:2", "source": "アイテム名", "english": "Item Name", "status": "draft"}
+{"id": "table/strtable.csv:2289:2", "source": "作成できるアイテム", "english": "Craftable Items", "status": "draft"}
+{"id": "table/strtable.csv:2290:2", "source": "その他の作成できるアイテム", "english": "Other Craftable Items", "status": "draft"}
+{"id": "table/strtable.csv:2291:2", "source": "必要なアイテム", "english": "Required Items", "status": "draft"}
+{"id": "table/strtable.csv:2292:2", "source": "確率％", "english": "Chance %", "status": "draft"}
+{"id": "table/strtable.csv:2293:2", "source": "その他合成アイテム", "english": "Other Synthesis Items", "status": "draft"}
+{"id": "table/strtable.csv:2294:2", "source": "NPCでは作成できないアイテムです", "english": "This item cannot be crafted by an NPC.", "status": "draft"}
+{"id": "table/strtable.csv:2295:2", "source": "合成後のアイテム名で検索", "english": "Search by crafted item name.", "status": "draft"}
+{"id": "table/strtable.csv:2296:2", "source": "必要アイテムから逆引き検索", "english": "Search recipes by required item.", "status": "draft"}
+{"id": "table/strtable.csv:2297:2", "source": "レシピ検索", "english": "Search Recipes", "status": "draft"}
+{"id": "table/strtable.csv:2298:2", "source": "該当するレシピがありません", "english": "No matching recipes.", "status": "draft"}
+{"id": "table/strtable.csv:2299:2", "source": "※該当するレシピがありません", "english": "※ No matching recipes.", "status": "draft"}
+{"id": "table/strtable.csv:2300:2", "source": "※選択中のスキルで作成できるレシピのみ表示", "english": "※ Show only recipes craftable with the selected skill.", "status": "draft"}
+{"id": "table/strtable.csv:2301:2", "source": "※検索結果のレシピを全て表示", "english": "※ Show all recipes in the search results.", "status": "draft"}
+{"id": "table/strtable.csv:2304:2", "source": "武具強化", "english": "Weapon and Armor Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:2305:2", "source": "強化するアイテム", "english": "Item to Enhance", "status": "draft"}
+{"id": "table/strtable.csv:2306:2", "source": "素材アイテム", "english": "Material Items", "status": "draft"}
+{"id": "table/strtable.csv:2307:2", "source": "補助アイテム", "english": "Support Items", "status": "draft"}
+{"id": "table/strtable.csv:2308:2", "source": "選択されたアイテム", "english": "Selected Items", "status": "draft"}
+{"id": "table/strtable.csv:2309:2", "source": "強化後", "english": "After Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:2310:2", "source": "%s を", "english": "Enhance %s", "status": "draft"}
+{"id": "table/strtable.csv:2311:2", "source": "%s で強化します。", "english": "using %s.", "status": "draft"}
+{"id": "table/strtable.csv:2312:2", "source": "強化時に %s を使用します。", "english": "Use %s during enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2313:2", "source": "強化時に %s を使用します。", "english": "Use %s during enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2314:2", "source": "強化時に %s を使用します。", "english": "Use %s during enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2315:2", "source": "成功時", "english": "On Success", "status": "draft"}
+{"id": "table/strtable.csv:2316:2", "source": "失敗時", "english": "On Failure", "status": "draft"}
+{"id": "table/strtable.csv:2317:2", "source": "強化アイテム消滅$r※ 上記は補助アイテムで防ぐことが可能です。", "english": "The item being enhanced will be destroyed.$r※This can be prevented with a support item.", "status": "draft"}
+{"id": "table/strtable.csv:2318:2", "source": "選択した強化するアイテムは消滅しません$r選択した強化するアイテムの強化値や性能開放内容、$r強化回数がリセットされます。", "english": "The selected item being enhanced will not be destroyed.$rIts enhancement value and unlocked stats,$rand its enhancement count will be reset.", "status": "draft"}
+{"id": "table/strtable.csv:2319:2", "source": "選択した強化するアイテムは消滅しません$r強化済みのアイテムの場合、強化値はリセットされません。", "english": "The selected item being enhanced will not be destroyed.$rIf it is already enhanced, its enhancement value will not be reset.", "status": "draft"}
+{"id": "table/strtable.csv:2320:2", "source": "補助アイテム使用により、失敗はしません。", "english": "Using a support item prevents failure.", "status": "draft"}
+{"id": "table/strtable.csv:2321:2", "source": "強化回数", "english": "Enhancement Count", "status": "draft"}
+{"id": "table/strtable.csv:2322:2", "source": "%dから%dに変更", "english": "Change from %d to %d", "status": "draft"}
+{"id": "table/strtable.csv:2323:2", "source": "取得バックパッカーボーナス経験値", "english": "Backpacker Bonus EXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:2324:2", "source": "取得EXP / JOBEXP", "english": "EXP / JOBEXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:2325:2", "source": "※ＢＰボーナス適正Lv範囲外です（取得経験値が変動します）", "english": "※Outside the eligible level range for the BP bonus (EXP gained will change).", "status": "draft"}
+{"id": "table/strtable.csv:2326:2", "source": "上記アイテムを使用し、強化を行います。成功失敗に関わらず、素材となるアイテムは消滅します。", "english": "The items above will be used for enhancement. The material item will be destroyed whether enhancement succeeds or fails.", "status": "draft"}
+{"id": "table/strtable.csv:2327:2", "source": "%dGOLDで強化を行います。", "english": "Enhance for %d GOLD.", "status": "draft"}
+{"id": "table/strtable.csv:2328:2", "source": "※選択中のアイテムをダブルクリックすると選択がキャンセルされます。", "english": "※Double-click the selected item to cancel the selection.", "status": "draft"}
+{"id": "table/strtable.csv:2329:2", "source": "%s を使用し、強化を行います", "english": "Use %s for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2330:2", "source": "%s を %d個使用し、強化を行います", "english": "Use %s, %d items, for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2331:2", "source": "強化するアイテム", "english": "Item to Enhance", "status": "draft"}
+{"id": "table/strtable.csv:2332:2", "source": "エフェクト変化", "english": "Effect Change", "status": "draft"}
+{"id": "table/strtable.csv:2333:2", "source": "強化失敗防止アイテム選択ウィンドウ", "english": "Enhancement Failure Prevention Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2334:2", "source": "成功率上昇アイテム選択ウィンドウ", "english": "Success Rate Boost Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2335:2", "source": "使用しない", "english": "Do Not Use", "status": "draft"}
+{"id": "table/strtable.csv:2336:2", "source": "%s を使用し、強化を行います", "english": "Use %s for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2337:2", "source": "使用しないでよろしいですか？", "english": "Are you sure you do not want to use it?", "status": "draft"}
+{"id": "table/strtable.csv:2338:2", "source": "補助アイテムを使用せずに強化を行いますか？", "english": "Enhance without using a support item?", "status": "draft"}
+{"id": "table/strtable.csv:2339:2", "source": "強化中・・・", "english": "Enhancing...", "status": "draft"}
+{"id": "table/strtable.csv:2340:2", "source": "強化に成功しました！", "english": "Enhancement succeeded!", "status": "draft"}
+{"id": "table/strtable.csv:2341:2", "source": "強化に失敗しました", "english": "Enhancement failed.", "status": "draft"}
+{"id": "table/strtable.csv:2342:2", "source": "強化アイテムが消滅しました…", "english": "The item being enhanced was destroyed...", "status": "draft"}
+{"id": "table/strtable.csv:2343:2", "source": "強化回数がリセットされました…", "english": "The enhancement count was reset...", "status": "draft"}
+{"id": "table/strtable.csv:2344:2", "source": "補助アイテムの効果により、$r強化アイテムは消滅しませんでした。", "english": "Thanks to the support item,$rthe item being enhanced was not destroyed.", "status": "draft"}
+{"id": "table/strtable.csv:2346:2", "source": "の強化に成功しました", "english": " enhancement succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:2347:2", "source": "の強化に失敗しました", "english": " enhancement failed.", "status": "draft"}
+{"id": "table/strtable.csv:2348:2", "source": "強化を行うためのお金が足りません", "english": "Not enough money for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2349:2", "source": "強化を行うアイテムが存在しません", "english": "No item to enhance.", "status": "draft"}
+{"id": "table/strtable.csv:2350:2", "source": "強化材料がありません", "english": "No enhancement materials.", "status": "draft"}
+{"id": "table/strtable.csv:2351:2", "source": "対応する強化材料がありません", "english": "No compatible enhancement materials.", "status": "draft"}
+{"id": "table/strtable.csv:2352:2", "source": "取得経験値が変動したためスキルをキャンセルし、バックパッカーボーナス経験を取得しませんでした", "english": "The skill was canceled because the EXP gained changed; no Backpacker bonus EXP was awarded.", "status": "draft"}
+{"id": "table/strtable.csv:2353:2", "source": "取得経験値が変動したため$rスキルをキャンセルし、バックパッカーボーナス経験を$r取得しませんでした", "english": "Because the EXP gained changed,$rthe skill was canceled and Backpacker bonus EXP$rwas not awarded.", "status": "draft"}
+{"id": "table/strtable.csv:2356:2", "source": "武具融合システム", "english": "Equipment Fusion System", "status": "draft"}
+{"id": "table/strtable.csv:2357:2", "source": "見た目", "english": "Appearance", "status": "draft"}
+{"id": "table/strtable.csv:2358:2", "source": "能力", "english": "Stats", "status": "draft"}
+{"id": "table/strtable.csv:2362:2", "source": "武具融合結果", "english": "Equipment Fusion Result", "status": "draft"}
+{"id": "table/strtable.csv:2363:2", "source": "武具融合により装備条件に変更があります", "english": "Equipment requirements will change after fusion.", "status": "draft"}
+{"id": "table/strtable.csv:2364:2", "source": "成功しました", "english": "Succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:2365:2", "source": "失敗しました", "english": "Failed.", "status": "draft"}
+{"id": "table/strtable.csv:2366:2", "source": "キャンセルしました", "english": "Canceled.", "status": "draft"}
+{"id": "table/strtable.csv:2367:2", "source": "所持金が足りませんでした", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:2368:2", "source": "装備品の条件が合いませんでした", "english": "The equipment requirements do not match.", "status": "draft"}
+{"id": "table/strtable.csv:2369:2", "source": "装備品の種類が一致しませんでした", "english": "The equipment types do not match.", "status": "draft"}
+{"id": "table/strtable.csv:2370:2", "source": "装備品の性別の条件が一致しませんでした", "english": "The equipment gender requirements do not match.", "status": "draft"}
+{"id": "table/strtable.csv:2371:2", "source": "装備品の職業の条件が一致しませんでした", "english": "The equipment job requirements do not match.", "status": "draft"}
+{"id": "table/strtable.csv:2372:2", "source": "装備品の騎士団限定条件が一致しませんでした", "english": "The equipment knight order requirements do not match.", "status": "draft"}
+{"id": "table/strtable.csv:2373:2", "source": "イベントアイテムは変更できません", "english": "Event items cannot be changed.", "status": "draft"}
+{"id": "table/strtable.csv:2374:2", "source": "見た目のほうがLvが低いため変更出来ません", "english": "The appearance item has a lower level, so it cannot be changed.", "status": "draft"}
+{"id": "table/strtable.csv:2375:2", "source": "何らかの条件で失敗しました", "english": "Failed due to a requirement.", "status": "draft"}
+{"id": "table/strtable.csv:2376:2", "source": "選択したアイテムは、耐久度が0になった場合に消滅しますが、融合しますか？", "english": "The selected item will be destroyed if its durability reaches 0. Fuse the items anyway?", "status": "draft"}
+{"id": "table/strtable.csv:2377:2", "source": "選択した見た目アイテムの強化情報は失われますが、融合しますか？", "english": "The selected appearance item will lose its enhancement data. Fuse the items anyway?", "status": "draft"}
+{"id": "table/strtable.csv:2378:2", "source": "選択した見た目アイテムのパートナー情報は失われますが、融合しますか？", "english": "The selected appearance item will lose its Partner data. Fuse the items anyway?", "status": "draft"}
+{"id": "table/strtable.csv:2382:2", "source": " \"拡張するアイテム\"", "english": " \"Item to Expand\"", "status": "draft"}
+{"id": "table/strtable.csv:2383:2", "source": "スロット拡張", "english": "Slot Expansion", "status": "draft"}
+{"id": "table/strtable.csv:2385:2", "source": "上記アイテムを消費し、スロット拡張を行います。$r成功、失敗に関わらず、材料となるアイテムは消滅します。", "english": "The items above will be consumed for slot expansion.$rThe material items will be destroyed whether it succeeds or fails.", "status": "draft"}
+{"id": "table/strtable.csv:2386:2", "source": "   上記のアイテムを消費して、スロット拡張を行うわ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　まぁ、大丈夫なんじゃない？", "english": "   I will use the items above to expand the slots.$r　The materials will be lost whether it succeeds or fails!$r　Well, it should be fine, right?", "status": "draft"}
+{"id": "table/strtable.csv:2388:2", "source": "   上記のアイテムを消費して、スロット拡張を行うわ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　確率半分あるかどうか……", "english": "   I will use the items above to expand the slots.$r　The materials will be lost whether it succeeds or fails!$r　I wonder if the chance is even one in two...", "status": "draft"}
+{"id": "table/strtable.csv:2389:2", "source": "   上記のアイテムを消費して、スロット拡張を行うわ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　あまり分が良くない賭けよ？", "english": "   I will use the items above to expand the slots.$r　The materials will be lost whether it succeeds or fails!$r　This is a pretty risky gamble, you know?", "status": "draft"}
+{"id": "table/strtable.csv:2390:2", "source": "   上記のアイテムを消費して、スロット拡張を行うわ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　一か八かだけど、いい？", "english": "   I will use the items above to expand the slots.$r　The materials will be lost whether it succeeds or fails!$r　It is all or nothing. Are you sure?", "status": "draft"}
+{"id": "table/strtable.csv:2392:2", "source": "材料", "english": "Materials", "status": "draft"}
+{"id": "table/strtable.csv:2393:2", "source": "拡張後", "english": "After Expansion", "status": "draft"}
+{"id": "table/strtable.csv:2394:2", "source": "取得バックパッカーボーナス経験値", "english": "Backpacker Bonus EXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:2395:2", "source": "取得EXP/JOBEXP", "english": "EXP / JOBEXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:2396:2", "source": "※ＢＰボーナス適正Lv範囲外です$r　（取得経験値が変動します）", "english": "※Outside the eligible level range for the BP bonus.$r　(EXP gained will change.)", "status": "draft"}
+{"id": "table/strtable.csv:2397:2", "source": "上記アイテムを使用し、拡張を行います。成功失敗に関わらず、素材となるアイテムは消滅します。", "english": "The items above will be used for expansion. The material item will be destroyed whether it succeeds or fails.", "status": "draft"}
+{"id": "table/strtable.csv:2398:2", "source": "%dGOLDで拡張を行います。成功失敗に関わらず、素材となるアイテムは消滅します。", "english": "Expand for %d GOLD. The material item will be destroyed whether it succeeds or fails.", "status": "draft"}
+{"id": "table/strtable.csv:2399:2", "source": "※選択中のアイテムをダブルクリックすると選択がキャンセルされます。", "english": "※Double-click the selected item to cancel the selection.", "status": "draft"}
+{"id": "table/strtable.csv:2400:2", "source": " \"%s を使用し、拡張を行います\"", "english": " \"Use %s for slot expansion.\"", "status": "draft"}
+{"id": "table/strtable.csv:2401:2", "source": "%s を %d個使用し、拡張を行います", "english": "Use %s, %d items, for expansion.", "status": "draft"}
+{"id": "table/strtable.csv:2402:2", "source": "エフェクト変化", "english": "Effect Change", "status": "draft"}
+{"id": "table/strtable.csv:2403:2", "source": "拡張失敗防止アイテム選択ウィンドウ", "english": "Expansion Failure Prevention Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2404:2", "source": "成功率上昇アイテム選択ウィンドウ", "english": "Success Rate Boost Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2405:2", "source": "使用しない", "english": "Do Not Use", "status": "draft"}
+{"id": "table/strtable.csv:2406:2", "source": "%s を使用し、拡張を行います", "english": "Use %s for expansion.", "status": "draft"}
+{"id": "table/strtable.csv:2407:2", "source": "使用しないでよろしいですか？", "english": "Are you sure you do not want to use it?", "status": "draft"}
+{"id": "table/strtable.csv:2408:2", "source": "補助アイテムを使用せずに拡張を行いますか？", "english": "Expand without using a support item?", "status": "draft"}
+{"id": "table/strtable.csv:2410:2", "source": "の拡張に成功しました", "english": " expansion succeeded.", "status": "draft"}

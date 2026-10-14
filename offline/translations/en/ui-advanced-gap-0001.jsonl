@@ -1,0 +1,128 @@
+{"id": "table/strtable.csv:3904:2", "source": " \"%sをカードホルダーに収納しました\"", "english": " \"%s was stored in the Card Holder\"", "status": "draft"}
+{"id": "table/strtable.csv:3908:2", "source": " \"カードが正常に取り出されました\"", "english": " \"The card was retrieved successfully\"", "status": "draft"}
+{"id": "table/strtable.csv:3959:2", "source": " \"コストリミット増加\"", "english": " \"Cost Limit Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:3960:2", "source": " \"最大ＨＰ\"", "english": " \"Max HP\"", "status": "draft"}
+{"id": "table/strtable.csv:3961:2", "source": " \"最大ＭＰ\"", "english": " \"Max MP\"", "status": "draft"}
+{"id": "table/strtable.csv:3962:2", "source": " \"最大ＳＰ\"", "english": " \"Max SP\"", "status": "draft"}
+{"id": "table/strtable.csv:3963:2", "source": " \"最大ＰＡＹＬ\"", "english": " \"Max PAYL\"", "status": "draft"}
+{"id": "table/strtable.csv:3964:2", "source": " \"最大ＣＡＰＡ\"", "english": " \"Max CAPA\"", "status": "draft"}
+{"id": "table/strtable.csv:3981:2", "source": " \"EPチャージに失敗しました。\"", "english": " \"EP charge failed.\"", "status": "draft"}
+{"id": "table/strtable.csv:3982:2", "source": " \"EPが不足していて、チャージ出来ません。\"", "english": " \"Not enough EP to charge.\"", "status": "draft"}
+{"id": "table/strtable.csv:3983:2", "source": " \"コストリミットが最大の為、EPを消費できません。\"", "english": " \"Cost Limit is at maximum; EP cannot be consumed.\"", "status": "draft"}
+{"id": "table/strtable.csv:3984:2", "source": " \"これ以上、Lvを上げる事が出来ません。\"", "english": " \"Cannot raise the Lv. any further.\"", "status": "draft"}
+{"id": "table/strtable.csv:3988:2", "source": " \"フォーム選択\"", "english": " \"Form Selection\"", "status": "draft"}
+{"id": "table/strtable.csv:3989:2", "source": " \"物理攻撃力(叩)\"", "english": " \"Physical Attack (Blunt)\"", "status": "draft"}
+{"id": "table/strtable.csv:3990:2", "source": " \"物理攻撃力(斬)\"", "english": " \"Physical Attack (Slash)\"", "status": "draft"}
+{"id": "table/strtable.csv:3991:2", "source": " \"物理攻撃力(突)\"", "english": " \"Physical Attack (Pierce)\"", "status": "draft"}
+{"id": "table/strtable.csv:3992:2", "source": " \"魔法攻撃力\"", "english": " \"Magic Attack\"", "status": "draft"}
+{"id": "table/strtable.csv:3993:2", "source": " \"物理防御力\"", "english": " \"Physical Defense\"", "status": "draft"}
+{"id": "table/strtable.csv:3994:2", "source": " \"魔法防御力\"", "english": " \"Magic Defense\"", "status": "draft"}
+{"id": "table/strtable.csv:3995:2", "source": " \"クリティカル力\"", "english": " \"Critical Power\"", "status": "draft"}
+{"id": "table/strtable.csv:3996:2", "source": " \"クリティカル回避\"", "english": " \"Critical Evasion\"", "status": "draft"}
+{"id": "table/strtable.csv:3997:2", "source": " \"回復力\"", "english": " \"Recovery Power\"", "status": "draft"}
+{"id": "table/strtable.csv:3998:2", "source": " \"魔法回復力\"", "english": " \"Magic Recovery Power\"", "status": "draft"}
+{"id": "table/strtable.csv:3999:2", "source": " \"近距離命中力\"", "english": " \"Melee Accuracy\"", "status": "draft"}
+{"id": "table/strtable.csv:4000:2", "source": " \"遠距離命中力\"", "english": " \"Ranged Accuracy\"", "status": "draft"}
+{"id": "table/strtable.csv:4001:2", "source": " \"魔法命中力\"", "english": " \"Magic Accuracy\"", "status": "draft"}
+{"id": "table/strtable.csv:4002:2", "source": " \"近距離回避力\"", "english": " \"Melee Evasion\"", "status": "draft"}
+{"id": "table/strtable.csv:4003:2", "source": " \"遠距離回避力\"", "english": " \"Ranged Evasion\"", "status": "draft"}
+{"id": "table/strtable.csv:4004:2", "source": " \"魔法回避力\"", "english": " \"Magic Evasion\"", "status": "draft"}
+{"id": "table/strtable.csv:4005:2", "source": " \"重量上昇\"", "english": " \"Weight Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4006:2", "source": " \"容量上昇\"", "english": " \"Capacity Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4007:2", "source": " \"移動力上昇\"", "english": " \"Movement Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4008:2", "source": " \"ＨＰ上昇\"", "english": " \"HP Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4009:2", "source": " \"ＭＰ上昇\"", "english": " \"MP Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4010:2", "source": " \"ＳＰ上昇\"", "english": " \"SP Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4011:2", "source": " \"ＳＴＲ上昇\"", "english": " \"STR Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4012:2", "source": " \"ＤＥＸ上昇\"", "english": " \"DEX Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4013:2", "source": " \"ＩＮＴ上昇\"", "english": " \"INT Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4014:2", "source": " \"ＶＩＴ上昇\"", "english": " \"VIT Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4015:2", "source": " \"ＡＧＩ上昇\"", "english": " \"AGI Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4016:2", "source": " \"ＭＡＧ上昇\"", "english": " \"MAG Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4017:2", "source": " \"フォームチェンジに失敗しました。\"", "english": " \"Form change failed.\"", "status": "draft"}
+{"id": "table/strtable.csv:4018:2", "source": " \"再度フォームチェンジを行うには少し時間を置いてください。\"", "english": " \"Wait a while before changing forms again.\"", "status": "draft"}
+{"id": "table/strtable.csv:4022:2", "source": "\t\"HP最大値＋上昇\"", "english": "\t\"Max HP Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4023:2", "source": "\t\"HP最大値％上昇\"", "english": "\t\"Max HP Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4024:2", "source": "\t\"MP最大値＋上昇\"", "english": "\t\"Max MP Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4025:2", "source": "\t\"MP最大値％上昇\"", "english": "\t\"Max MP Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4026:2", "source": "\t\"SP最大値＋上昇\"", "english": "\t\"Max SP Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4027:2", "source": "\t\"SP最大値％上昇\"", "english": "\t\"Max SP Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4028:2", "source": "\t\"HP回復力％上昇\"", "english": "\t\"HP Recovery Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4029:2", "source": "\t\"MP回復力％上昇\"", "english": "\t\"MP Recovery Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4030:2", "source": "\t\"SP回復力％上昇\"", "english": "\t\"SP Recovery Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4031:2", "source": "\t\"スキル消費MP％軽減\"", "english": "\t\"Skill MP Cost Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4032:2", "source": "\t\"スキル消費SP％軽減\"", "english": "\t\"Skill SP Cost Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4033:2", "source": "\t\"STR＋上昇\"", "english": "\t\"STR Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4034:2", "source": "\t\"DEX＋上昇\"", "english": "\t\"DEX Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4035:2", "source": "\t\"INT＋上昇\"", "english": "\t\"INT Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4036:2", "source": "\t\"VIT＋上昇\"", "english": "\t\"VIT Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4037:2", "source": "\t\"AGI＋上昇\"", "english": "\t\"AGI Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4038:2", "source": "\t\"MAG＋上昇\"", "english": "\t\"MAG Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4039:2", "source": "\t\"ATK値＋上昇\"", "english": "\t\"ATK Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4040:2", "source": "\t\"ATK％上昇\"", "english": "\t\"ATK Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4041:2", "source": "\t\"M.ATK値＋上昇\"", "english": "\t\"M.ATK Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4042:2", "source": "\t\"M.ATK％上昇\"", "english": "\t\"M.ATK Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4043:2", "source": "\t\"S.HIT値＋上昇\"", "english": "\t\"S.HIT Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4044:2", "source": "\t\"S.HIT値％上昇\"", "english": "\t\"S.HIT Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4045:2", "source": "\t\"L.HIT値＋上昇\"", "english": "\t\"L.HIT Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4046:2", "source": "\t\"L.HIT値％上昇\"", "english": "\t\"L.HIT Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4047:2", "source": "\t\"S.AVOID＋上昇\"", "english": "\t\"S.AVOID Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4048:2", "source": "\t\"S.AVOID％上昇\"", "english": "\t\"S.AVOID Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4049:2", "source": "\t\"L.AVOID＋上昇\"", "english": "\t\"L.AVOID Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4050:2", "source": "\t\"L.AVOID％上昇\"", "english": "\t\"L.AVOID Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4051:2", "source": "\t\"DEF＋上昇\"", "english": "\t\"DEF Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4052:2", "source": "\t\"DEF％上昇\"", "english": "\t\"DEF Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4053:2", "source": "\t\"M.DEF＋上昇\"", "english": "\t\"M.DEF Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4054:2", "source": "\t\"M.DEF％上昇\"", "english": "\t\"M.DEF Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4055:2", "source": "\t\"武器攻撃力＋上昇\"", "english": "\t\"Weapon Attack Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4056:2", "source": "\t\"武器攻撃力％上昇\"", "english": "\t\"Weapon Attack Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4057:2", "source": "\t\"防具防御力＋上昇\"", "english": "\t\"Armor Defense Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4058:2", "source": "\t\"防具防御力％上昇\"", "english": "\t\"Armor Defense Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4059:2", "source": "\t\"命中成功率上昇\"", "english": "\t\"Hit Success Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4060:2", "source": "\t\"回避成功率上昇\"", "english": "\t\"Evasion Success Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4061:2", "source": "\t\"被物理ダメージ％減少\"", "english": "\t\"Physical Damage Taken Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4062:2", "source": "\t\"被魔法ダメージ％減少\"", "english": "\t\"Magic Damage Taken Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4063:2", "source": "\t\"被属性攻撃ダメージ％減少\"", "english": "\t\"Attribute Attack Damage Taken Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4064:2", "source": "\t\"PT参加中攻撃ダメージ％上昇\"", "english": "\t\"Damage Dealt Increase (%) While in a Party\"", "status": "draft"}
+{"id": "table/strtable.csv:4065:2", "source": "\t\"PT参加中被攻撃ダメージ％減少\"", "english": "\t\"Damage Taken Reduction (%) While in a Party\"", "status": "draft"}
+{"id": "table/strtable.csv:4066:2", "source": "\t\"奈落で攻撃ダメージ％上昇\"", "english": "\t\"Damage Dealt Increase (%) in the Abyss\"", "status": "draft"}
+{"id": "table/strtable.csv:4067:2", "source": "\t\"奈落で被攻撃ダメージ％減少\"", "english": "\t\"Damage Taken Reduction (%) in the Abyss\"", "status": "draft"}
+{"id": "table/strtable.csv:4068:2", "source": "\t\"クリティカル％上昇\"", "english": "\t\"Critical Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4069:2", "source": "\t\"クリティカル回避％上昇\"", "english": "\t\"Critical Evasion Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4070:2", "source": "\t\"ガード率％上昇\"", "english": "\t\"Guard Rate Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4071:2", "source": "\t\"最大重量＋上昇\"", "english": "\t\"Max Weight Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4072:2", "source": "\t\"最大重量％上昇\"", "english": "\t\"Max Weight Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4073:2", "source": "\t\"最大容量＋上昇\"", "english": "\t\"Max Capacity Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4074:2", "source": "\t\"最大容量％上昇\"", "english": "\t\"Max Capacity Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4075:2", "source": "\t\"死亡時自動復活％\"", "english": "\t\"Automatic Revival Rate on Death (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4076:2", "source": "\t\"Lv差命中減少％軽減\"", "english": "\t\"Level Difference Accuracy Penalty Reduction (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4077:2", "source": "\t\"毒耐性力上昇\"", "english": "\t\"Poison Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4078:2", "source": "\t\"石化耐性力上昇\"", "english": "\t\"Petrification Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4079:2", "source": "\t\"睡眠耐性力上昇\"", "english": "\t\"Sleep Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4080:2", "source": "\t\"沈黙耐性力上昇\"", "english": "\t\"Silence Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4081:2", "source": "\t\"鈍足化耐性力上昇\"", "english": "\t\"Slow Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4082:2", "source": "\t\"混乱耐性力上昇\"", "english": "\t\"Confusion Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4083:2", "source": "\t\"氷化耐性力上昇\"", "english": "\t\"Freeze Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4084:2", "source": "\t\"気絶耐性力上昇\"", "english": "\t\"Stun Resistance Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4085:2", "source": "\t\"能力低下無効化率上昇\"", "english": "\t\"Stat Debuff Immunity Rate Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4086:2", "source": "\t\"物理スキル詠唱速度減少\"", "english": "\t\"Physical Skill Cast Speed Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4087:2", "source": "\t\"物理スキル詠唱速度上昇\"", "english": "\t\"Physical Skill Cast Speed Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4088:2", "source": "\t\"魔法スキル詠唱速度減少\"", "english": "\t\"Magic Skill Cast Speed Reduction\"", "status": "draft"}
+{"id": "table/strtable.csv:4089:2", "source": "\t\"魔法スキル詠唱速度上昇\"", "english": "\t\"Magic Skill Cast Speed Increase\"", "status": "draft"}
+{"id": "table/strtable.csv:4090:2", "source": "\t\"Lv差回避％上昇\"", "english": "\t\"Level Difference Evasion Increase (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4091:2", "source": "\t\"パートナー近接攻撃＋上昇\"", "english": "\t\"Partner Melee Attack Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4092:2", "source": "\t\"パートナー魔法攻撃＋上昇\"", "english": "\t\"Partner Magic Attack Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4093:2", "source": "\t\"パートナー耐久力＋上昇\"", "english": "\t\"Partner Endurance Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4094:2", "source": "\t\"パートナー精神力＋上昇\"", "english": "\t\"Partner Spirit Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4095:2", "source": "\t\"パートナー攻撃精度＋上昇\"", "english": "\t\"Partner Attack Accuracy Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4096:2", "source": "\t\"パートナーフットワーク＋上昇\"", "english": "\t\"Partner Footwork Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4097:2", "source": "\t\"パートナーHP回復率％上昇\"", "english": "\t\"Partner HP Recovery Rate Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4098:2", "source": "\t\"パートナーHP最大値＋上昇\"", "english": "\t\"Partner Max HP Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4099:2", "source": "\t\"パートナーHP最大値％上昇\"", "english": "\t\"Partner Max HP Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4100:2", "source": "\t\"パートナーMP回復率＋上昇\"", "english": "\t\"Partner MP Recovery Rate Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4101:2", "source": "\t\"パートナー最大MP＋上昇\"", "english": "\t\"Partner Max MP Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4102:2", "source": "\t\"パートナー最大MP％上昇\"", "english": "\t\"Partner Max MP Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4103:2", "source": "\t\"パートナーSP回復率＋上昇\"", "english": "\t\"Partner SP Recovery Rate Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4104:2", "source": "\t\"パートナー最大SP＋上昇\"", "english": "\t\"Partner Max SP Bonus (+)\"", "status": "draft"}
+{"id": "table/strtable.csv:4105:2", "source": "\t\"パートナー最大SP％上昇\"", "english": "\t\"Partner Max SP Bonus (%)\"", "status": "draft"}
+{"id": "table/strtable.csv:4106:2", "source": "\t\"パートナーATK＋上昇\"", "english": "\t\"Partner ATK Bonus (+)\"", "status": "draft"}

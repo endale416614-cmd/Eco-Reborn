@@ -1,0 +1,142 @@
+{"id": "table/strtable.csv:6169:2", "source": "特典", "english": "Benefits", "status": "draft"}
+{"id": "table/strtable.csv:6170:2", "source": "・セキュアログインボーナスの特典発生中$r  ・武具強化成功確率上昇中$r  ・スロット拡張成功確率上昇中$r  ・カードアセンブル成功確率上昇中$r  ・専用モーションが使用可能", "english": "・Secure Login Bonus active$r  ・Weapon and Armor enhancement success rate increased$r  ・Slot expansion success rate increased$r  ・Card Assembly success rate increased$r  ・Special motion available", "status": "draft"}
+{"id": "table/strtable.csv:6173:2", "source": "現在再生できる状態ではありません", "english": "It cannot be played right now.", "status": "draft"}
+{"id": "table/strtable.csv:6174:2", "source": "主人がパートナー連動モーションを行える状態ではありません", "english": "The owner is unable to perform a Partner-linked motion.", "status": "draft"}
+{"id": "table/strtable.csv:6175:2", "source": "イベント中はパートナー連動モーションを行えません", "english": "Partner-linked motions cannot be performed during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6176:2", "source": "主人の付近に十分な空間がありません", "english": "There is not enough space near the owner.", "status": "draft"}
+{"id": "table/strtable.csv:6177:2", "source": "パートナーが戦闘している時はパートナー連動モーションを行えません", "english": "A Partner-linked motion cannot be performed while the Partner is in combat.", "status": "draft"}
+{"id": "table/strtable.csv:6181:2", "source": "アナザーブック", "english": "Another Book", "status": "draft"}
+{"id": "table/strtable.csv:6182:2", "source": "ページ経験値：", "english": "Page EXP:", "status": "draft"}
+{"id": "table/strtable.csv:6183:2", "source": "装着：", "english": "Equipped:", "status": "draft"}
+{"id": "table/strtable.csv:6184:2", "source": "完成数　%d / 5", "english": "Completed pages: %d / 5", "status": "draft"}
+{"id": "table/strtable.csv:6185:2", "source": "配置数", "english": "Pieces placed", "status": "draft"}
+{"id": "table/strtable.csv:6187:2", "source": "上昇ステータス表示", "english": "Show Increased Stats", "status": "draft"}
+{"id": "table/strtable.csv:6188:2", "source": "アナザーページ装着時", "english": "When Another Page is equipped", "status": "draft"}
+{"id": "table/strtable.csv:6189:2", "source": "アナザーページ開放時", "english": "When Another Page is unlocked", "status": "draft"}
+{"id": "table/strtable.csv:6196:2", "source": "最大HP", "english": "Max HP", "status": "draft"}
+{"id": "table/strtable.csv:6197:2", "source": "最大MP", "english": "Max MP", "status": "draft"}
+{"id": "table/strtable.csv:6198:2", "source": "最大SP", "english": "Max SP", "status": "draft"}
+{"id": "table/strtable.csv:6199:2", "source": "物理攻撃力(最小)", "english": "Physical ATK (Min)", "status": "draft"}
+{"id": "table/strtable.csv:6200:2", "source": "物理攻撃力(最大)", "english": "Physical ATK (Max)", "status": "draft"}
+{"id": "table/strtable.csv:6201:2", "source": "魔法攻撃力(最小)", "english": "Magic ATK (Min)", "status": "draft"}
+{"id": "table/strtable.csv:6202:2", "source": "魔法攻撃力(最大)", "english": "Magic ATK (Max)", "status": "draft"}
+{"id": "table/strtable.csv:6203:2", "source": "物理防御力(減算)", "english": "Physical DEF (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:6204:2", "source": "魔法防御力(減算)", "english": "Magic DEF (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:6205:2", "source": "近距離命中力", "english": "Melee Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6206:2", "source": "遠距離命中力", "english": "Ranged Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6207:2", "source": "近距離回避力", "english": "Melee Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6208:2", "source": "遠距離回避力", "english": "Ranged Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6209:2", "source": "攻撃速度", "english": "Attack Speed", "status": "draft"}
+{"id": "table/strtable.csv:6210:2", "source": "詠唱速度", "english": "Cast Speed", "status": "draft"}
+{"id": "table/strtable.csv:6211:2", "source": "重ね掛け", "english": "Stacking", "status": "draft"}
+{"id": "table/strtable.csv:6212:2", "source": "ヘルプ", "english": "Help", "status": "draft"}
+{"id": "table/strtable.csv:6213:2", "source": "アナザーブックウィンドウを開けない状態です", "english": "The Another Book window cannot be opened right now.", "status": "draft"}
+{"id": "table/strtable.csv:6214:2", "source": "ワールド対抗戦サーバーでは使用する事が出来ません", "english": "This cannot be used on the World Competition server.", "status": "draft"}
+{"id": "table/strtable.csv:6216:2", "source": "$r%d枚", "english": "$r%d pieces", "status": "draft"}
+{"id": "table/strtable.csv:6217:2", "source": "紙片が全て配置されていると押すことができるようになり$rページを完成することができます", "english": "Once all pieces are placed,$ryou can press this to complete the page.", "status": "draft"}
+{"id": "table/strtable.csv:6218:2", "source": "スキルレベルの最大値を上げるには完成数を増やして下さい", "english": "Increase the number of completed pages to raise the maximum skill level.", "status": "draft"}
+{"id": "table/strtable.csv:6219:2", "source": "最大Lvです", "english": "Maximum Lv.", "status": "draft"}
+{"id": "table/strtable.csv:6220:2", "source": "上昇ステータス表示を開く", "english": "Open Increased Stats display", "status": "draft"}
+{"id": "table/strtable.csv:6221:2", "source": "上昇ステータス表示を閉じる", "english": "Close Increased Stats display", "status": "draft"}
+{"id": "table/strtable.csv:6222:2", "source": "「%s」が必要です$r「%s」を消費して$r紙片の配置を行いますか？", "english": "\"%s\" is required.$rConsume \"%s\"$rto place the paper piece?", "status": "draft"}
+{"id": "table/strtable.csv:6223:2", "source": "「%s」または$r「%s」が必要です$r「%s」を消費して$r紙片の配置を行いますか？", "english": "\"%s\" or$r\"%s\" is required.$rConsume \"%s\"$rto place the paper piece?", "status": "draft"}
+{"id": "table/strtable.csv:6224:2", "source": "「%s」を消費して$r紙片の配置を行いますか？", "english": "Consume \"%s\"$rto place the paper piece?", "status": "draft"}
+{"id": "table/strtable.csv:6225:2", "source": "これ以上配置する場合は$r完成数を上げて下さい", "english": "To place more pieces,$rincrease the number of completed pages.", "status": "draft"}
+{"id": "table/strtable.csv:6226:2", "source": "これ以上配置する事が$r出来ません", "english": "You can no longer$rplace any more.", "status": "draft"}
+{"id": "table/strtable.csv:6227:2", "source": "「%s」が$rありません", "english": "\"%s\"$ris missing.", "status": "draft"}
+{"id": "table/strtable.csv:6228:2", "source": "「%s」または$r「%s」が$rありません", "english": "\"%s\" or$r\"%s\"$ris missing.", "status": "draft"}
+{"id": "table/strtable.csv:6229:2", "source": "紙片の配置に成功しました", "english": "Paper piece placed successfully.", "status": "draft"}
+{"id": "table/strtable.csv:6230:2", "source": "何かしらの理由で配置が出来ませんでした", "english": "The piece could not be placed for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:6232:2", "source": "これ以上配置する事が出来ません", "english": "You cannot place any more pieces.", "status": "draft"}
+{"id": "table/strtable.csv:6233:2", "source": "必要な紙片を所持していないため、配置することが出来ませんでした", "english": "You could not place the piece because you do not have the required paper piece.", "status": "draft"}
+{"id": "table/strtable.csv:6234:2", "source": "イベント中なので実行できませんでした", "english": "You could not proceed during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6235:2", "source": "アナザーページの$r作成を行いますか？", "english": "Create$rthe Another Page?", "status": "draft"}
+{"id": "table/strtable.csv:6236:2", "source": "「%s」を使用して$rアナザーページの作成を行いますか？", "english": "Use \"%s\"$rto create the Another Page?", "status": "draft"}
+{"id": "table/strtable.csv:6237:2", "source": "「%s」または$r「%s」が必要です$r「%s」を使用して$rアナザーページの作成を行いますか？", "english": "\"%s\" or$r\"%s\" is required.$rUse \"%s\"$rto create the Another Page?", "status": "draft"}
+{"id": "table/strtable.csv:6238:2", "source": "選択したアナザーページは$rこれ以上作成する事が$r出来ません", "english": "The selected Another Page$rhas reached its creation limit.$rNo further copies can be created.", "status": "draft"}
+{"id": "table/strtable.csv:6239:2", "source": "アナザーページの紙片が揃って$rいないため、作成することが$r出来ませんでした", "english": "The required pieces for$rthe Another Page are incomplete,$rso it could not be created.", "status": "draft"}
+{"id": "table/strtable.csv:6240:2", "source": "「%s」を所持して$rいないため、作成することが$r出来ませんでした", "english": "You need \"%s\".$rIt is not in your inventory,$rso the page could not be created.", "status": "draft"}
+{"id": "table/strtable.csv:6241:2", "source": "「%s」または$r「%s」を所持して$rいないため、作成することが$r出来ませんでした", "english": "You need \"%s\" or$r\"%s\".$rNeither is in your inventory,$rso the page could not be created.", "status": "draft"}
+{"id": "table/strtable.csv:6242:2", "source": "「%s」の$r%dページ目が完成しました！", "english": "\"%s\"$rPage %d is complete!", "status": "draft"}
+{"id": "table/strtable.csv:6243:2", "source": "「%s」の%dページ目の作成に成功しました", "english": "\"%s\" page %d was created successfully.", "status": "draft"}
+{"id": "table/strtable.csv:6244:2", "source": "何かしらの理由で作成出来ませんでした", "english": "The page could not be created for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:6246:2", "source": "必要なアイテムを所持していないため、作成出来ませんでした", "english": "The page could not be created because you do not have the required item.", "status": "draft"}
+{"id": "table/strtable.csv:6247:2", "source": "選択したアナザーページはこれ以上作成する事が出来ません", "english": "The selected Another Page cannot be created any further.", "status": "draft"}
+{"id": "table/strtable.csv:6248:2", "source": "アナザーページの紙片が揃っていないため、作成することが出来ませんでした", "english": "The page could not be created because its paper pieces are incomplete.", "status": "draft"}
+{"id": "table/strtable.csv:6249:2", "source": "イベント中なので実行できませんでした", "english": "You could not proceed during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6250:2", "source": "アナザーページを装着します$rよろしいですか？", "english": "Equip the Another Page?$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:6251:2", "source": "アナザーページを装着しました", "english": "Equipped the Another Page.", "status": "draft"}
+{"id": "table/strtable.csv:6252:2", "source": "何かしらの理由で装着出来ませんでした", "english": "The page could not be equipped for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:6253:2", "source": "完成していないページの為、装着できません", "english": "The page is incomplete and cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6254:2", "source": "開放スキルの効果中の為、装着できません", "english": "The page cannot be equipped while an unlock skill is active.", "status": "draft"}
+{"id": "table/strtable.csv:6255:2", "source": "アナザーページの着脱から１分が経過していない為、装着できません", "english": "You cannot equip it until one minute has passed since equipping or removing an Another Page.", "status": "draft"}
+{"id": "table/strtable.csv:6256:2", "source": "アナザーページを取り外します$rよろしいですか？", "english": "Remove the Another Page?$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:6257:2", "source": "アナザーページを外しました", "english": "Removed the Another Page.", "status": "draft"}
+{"id": "table/strtable.csv:6258:2", "source": "何かしらの理由で外せませんでした", "english": "The page could not be removed for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:6259:2", "source": "アナザーページを装着していません", "english": "No Another Page is equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6260:2", "source": "開放スキルの効果中の為、外せません", "english": "The page cannot be removed while an unlock skill is active.", "status": "draft"}
+{"id": "table/strtable.csv:6261:2", "source": "アナザーページの着脱から１分が経過していない為、外せません", "english": "You cannot remove it until one minute has passed since equipping or removing an Another Page.", "status": "draft"}
+{"id": "table/strtable.csv:6265:2", "source": "ページ経験値振り分け", "english": "Distribute Page EXP", "status": "draft"}
+{"id": "table/strtable.csv:6266:2", "source": "ページ経験値：", "english": "Page EXP:", "status": "draft"}
+{"id": "table/strtable.csv:6267:2", "source": "使用後の量　：", "english": "Amount after use:", "status": "draft"}
+{"id": "table/strtable.csv:6269:2", "source": "スキルレベルを1つ上げる分だけ割り振ります", "english": "Allocate enough to raise a skill by 1 level.", "status": "draft"}
+{"id": "table/strtable.csv:6270:2", "source": "最大レベルです", "english": "Maximum level.", "status": "draft"}
+{"id": "table/strtable.csv:6271:2", "source": "各スキルのゲージにカーソルを合わせると、必要な経験値が表示されます", "english": "Hover over each skill gauge to see the required EXP.", "status": "draft"}
+{"id": "table/strtable.csv:6272:2", "source": "ページ経験値が %s 足りません", "english": "%s more Page EXP required.", "status": "draft"}
+{"id": "table/strtable.csv:6273:2", "source": "ページ経験値を振り分けました", "english": "Distributed Page EXP.", "status": "draft"}
+{"id": "table/strtable.csv:6274:2", "source": "何らかの原因で振り分けに失敗しました", "english": "Distribution failed for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:6275:2", "source": "振り分ける分のページ経験値が足りません", "english": "Not enough Page EXP to distribute.", "status": "draft"}
+{"id": "table/strtable.csv:6276:2", "source": "既にスキルレベルが最大です", "english": "The skill is already at maximum level.", "status": "draft"}
+{"id": "table/strtable.csv:6277:2", "source": "所持ページ経験値より多く振り分けようとしました", "english": "You tried to distribute more than your available Page EXP.", "status": "draft"}
+{"id": "table/strtable.csv:6278:2", "source": "振り分けるスキルは対象外です", "english": "This skill cannot receive a distribution.", "status": "draft"}
+{"id": "table/strtable.csv:6279:2", "source": "イベント中の為、振り分ける事が出来ません", "english": "You cannot distribute during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6282:2", "source": "ＥＸキャプチャーリスト", "english": "EX Capture List", "status": "draft"}
+{"id": "table/strtable.csv:6283:2", "source": "あらすじ", "english": "Synopsis", "status": "draft"}
+{"id": "table/strtable.csv:6284:2", "source": "主な登場キャラクター", "english": "Main Characters", "status": "draft"}
+{"id": "table/strtable.csv:6285:2", "source": "主なレアアイテム", "english": "Notable Rare Items", "status": "draft"}
+{"id": "table/strtable.csv:6286:2", "source": "%d 分", "english": "%d min", "status": "draft"}
+{"id": "table/strtable.csv:6287:2", "source": "LV %d 以上", "english": "Lv. %d or higher", "status": "draft"}
+{"id": "table/strtable.csv:6288:2", "source": "LV %d 以下", "english": "Lv. %d or lower", "status": "draft"}
+{"id": "table/strtable.csv:6289:2", "source": "未転生", "english": "Not reborn", "status": "draft"}
+{"id": "table/strtable.csv:6290:2", "source": "転生済", "english": "Reborn", "status": "draft"}
+{"id": "table/strtable.csv:6291:2", "source": "【受注者のみ】ネットカフェ限定", "english": "[Quest taker only] Internet cafe exclusive", "status": "draft"}
+{"id": "table/strtable.csv:6292:2", "source": "【受注者のみ】%d時～%d時限定", "english": "[Quest taker only] Available from %d:00 to %d:00", "status": "draft"}
+{"id": "table/strtable.csv:6293:2", "source": "クエストポイント： %d 消費", "english": "Quest Points: %d consumed", "status": "draft"}
+{"id": "table/strtable.csv:6294:2", "source": "無し", "english": "None", "status": "draft"}
+{"id": "table/strtable.csv:6297:2", "source": "会話", "english": "Conversation", "status": "draft"}
+{"id": "table/strtable.csv:6298:2", "source": "会話（リプレイ）", "english": "Conversation (Replay)", "status": "draft"}
+{"id": "table/strtable.csv:6299:2", "source": "会話ウインドウ設定", "english": "Conversation Window Settings", "status": "draft"}
+{"id": "table/strtable.csv:6300:2", "source": "常に最新の会話を表示する", "english": "Always show the latest conversation", "status": "draft"}
+{"id": "table/strtable.csv:6301:2", "source": "会話ウインドウ非表示中に会話が追加された時自動で表示する", "english": "Automatically show the window when a conversation is added while it is hidden", "status": "draft"}
+{"id": "table/strtable.csv:6302:2", "source": "ボイスを再生させない", "english": "Do not play voice audio", "status": "draft"}
+{"id": "table/strtable.csv:6303:2", "source": "会話をログに表示する", "english": "Show conversations in the log", "status": "draft"}
+{"id": "table/strtable.csv:6304:2", "source": "会話ログが見つかりません", "english": "Conversation log not found.", "status": "draft"}
+{"id": "table/strtable.csv:6307:2", "source": "神憑依状態になりました", "english": "Entered the Divine Possession state.", "status": "draft"}
+{"id": "table/strtable.csv:6308:2", "source": "神憑依状態が解除されました", "english": "Exited the Divine Possession state.", "status": "draft"}
+{"id": "table/strtable.csv:6311:2", "source": "まいにちダンジョン情報", "english": "Daily Dungeon Info", "status": "draft"}
+{"id": "table/strtable.csv:6312:2", "source": "本日のまいにちダンジョン", "english": "Today’s Daily Dungeon", "status": "draft"}
+{"id": "table/strtable.csv:6313:2", "source": "開催残り時間　残り % 2d 時間 % 2d 分", "english": "Time remaining: % 2d hr % 2d min", "status": "draft"}
+{"id": "table/strtable.csv:6314:2", "source": "開催残り時間　残り僅か", "english": "Time remaining: Almost over", "status": "draft"}
+{"id": "table/strtable.csv:6315:2", "source": "入場不可", "english": "Entry unavailable", "status": "draft"}
+{"id": "table/strtable.csv:6316:2", "source": "報酬", "english": "Rewards", "status": "draft"}
+{"id": "table/strtable.csv:6317:2", "source": "クリア報酬", "english": "Clear Rewards", "status": "draft"}
+{"id": "table/strtable.csv:6318:2", "source": "まいにち報酬", "english": "Daily Rewards", "status": "draft"}
+{"id": "table/strtable.csv:6319:2", "source": "※初回のみ取得量増加", "english": "※Increased amount on first claim only", "status": "draft"}
+{"id": "table/strtable.csv:6320:2", "source": "※受け取り済み", "english": "※Already claimed", "status": "draft"}
+{"id": "table/strtable.csv:6321:2", "source": "※いずれか入手可能", "english": "※One of these items can be obtained", "status": "draft"}
+{"id": "table/strtable.csv:6322:2", "source": "主なレアアイテム", "english": "Notable Rare Items", "status": "draft"}
+{"id": "table/strtable.csv:6323:2", "source": "取得可能アイテム", "english": "Available Items", "status": "draft"}
+{"id": "table/strtable.csv:6324:2", "source": "報酬アイテム受け取り条件", "english": "Reward Item Claim Requirements", "status": "draft"}
+{"id": "table/strtable.csv:6325:2", "source": "無条件", "english": "No conditions", "status": "draft"}
+{"id": "table/strtable.csv:6326:2", "source": "クエストポイントを 1 消費", "english": "Consume 1 Quest Point", "status": "draft"}
+{"id": "table/strtable.csv:6327:2", "source": "午前５時に下記の情報を更新します。$r　本日のまいにちダンジョンの切替$r　初回クリア情報のリセット$r$r※ただし、情報保護の為に$r　下記の時間帯は入場する事は出来ません。$r　　AM 4:00 ～ AM 4:59$r$r既にインスタンスダンジョンを生成している場合、$r入場出来ません。$rご注意ください。$r$rダンジョンに入場するには$rパートナーを装備する必要があります。", "english": "At 5:00 AM, the following information is updated.$rDaily Dungeon rotation$rFirst-clear information is reset$r$r※To protect your information,$rentry is unavailable during this time:$r  AM 4:00-AM 4:59$r$rIf you have already created an instance dungeon,$ryou cannot enter.$rPlease note.$r$rTo enter the dungeon,$ryou must have a Partner equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6328:2", "source": "午前５時に下記の情報を更新します。$r　本日のまいにちダンジョンの切替$r　初回クリア情報のリセット$r$r※ただし、情報保護の為に$r　下記の時間帯は入場する事は出来ません。$r　　AM 4:00 ～ AM 4:59$r$r既にインスタンスダンジョンを生成している場合、$r入場出来ません。$rご注意ください。", "english": "At 5:00 AM, the following information is updated.$rDaily Dungeon rotation$rFirst-clear information is reset$r$r※To protect your information,$rentry is unavailable during this time:$r  AM 4:00-AM 4:59$r$rIf you have already created an instance dungeon,$ryou cannot enter.$rPlease note.", "status": "draft"}
+{"id": "table/strtable.csv:6329:2", "source": "入場中", "english": "Inside", "status": "draft"}
+{"id": "table/strtable.csv:6330:2", "source": "あと %d 秒後に入場します", "english": "Entering in %d seconds", "status": "draft"}
+{"id": "table/strtable.csv:6331:2", "source": "入場まであと%d秒", "english": "%d seconds until entry", "status": "draft"}
+{"id": "table/strtable.csv:6337:2", "source": "ヘルプ", "english": "Help", "status": "draft"}
+{"id": "table/strtable.csv:6343:2", "source": "飛空庭を呼び出します", "english": "Call your Sky Garden.", "status": "draft"}
+{"id": "table/strtable.csv:6344:2", "source": "ここでは飛空庭を呼び出せません", "english": "You cannot call your Sky Garden here.", "status": "draft"}
+{"id": "table/strtable.csv:6345:2", "source": "飛空庭起動キーを所持していません", "english": "You do not have a Sky Garden key.", "status": "draft"}
+{"id": "table/strtable.csv:6349:2", "source": "残りポイントが足りません", "english": "Not enough points remaining.", "status": "draft"}
+{"id": "table/strtable.csv:6350:2", "source": "ゴールドが足りません", "english": "Not enough Gold.", "status": "draft"}

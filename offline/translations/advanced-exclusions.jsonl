@@ -1,0 +1,504 @@
+{"id": "table/strtable.csv:3816:2", "source": "このマップではチャットルームを作成できません ", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "rejected"}
+{"id": "table/strtable.csv:3904:2", "source": " \"%sをカードホルダーに収納しました\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3908:2", "source": " \"カードが正常に取り出されました\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3959:2", "source": " \"コストリミット増加\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3960:2", "source": " \"最大ＨＰ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3961:2", "source": " \"最大ＭＰ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3962:2", "source": " \"最大ＳＰ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3963:2", "source": " \"最大ＰＡＹＬ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3964:2", "source": " \"最大ＣＡＰＡ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3981:2", "source": " \"EPチャージに失敗しました。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3982:2", "source": " \"EPが不足していて、チャージ出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3983:2", "source": " \"コストリミットが最大の為、EPを消費できません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3984:2", "source": " \"これ以上、Lvを上げる事が出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3988:2", "source": " \"フォーム選択\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3989:2", "source": " \"物理攻撃力(叩)\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3990:2", "source": " \"物理攻撃力(斬)\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3991:2", "source": " \"物理攻撃力(突)\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3992:2", "source": " \"魔法攻撃力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3993:2", "source": " \"物理防御力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3994:2", "source": " \"魔法防御力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3995:2", "source": " \"クリティカル力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3996:2", "source": " \"クリティカル回避\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3997:2", "source": " \"回復力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3998:2", "source": " \"魔法回復力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:3999:2", "source": " \"近距離命中力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4000:2", "source": " \"遠距離命中力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4001:2", "source": " \"魔法命中力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4002:2", "source": " \"近距離回避力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4003:2", "source": " \"遠距離回避力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4004:2", "source": " \"魔法回避力\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4005:2", "source": " \"重量上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4006:2", "source": " \"容量上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4007:2", "source": " \"移動力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4008:2", "source": " \"ＨＰ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4009:2", "source": " \"ＭＰ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4010:2", "source": " \"ＳＰ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4011:2", "source": " \"ＳＴＲ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4012:2", "source": " \"ＤＥＸ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4013:2", "source": " \"ＩＮＴ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4014:2", "source": " \"ＶＩＴ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4015:2", "source": " \"ＡＧＩ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4016:2", "source": " \"ＭＡＧ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4017:2", "source": " \"フォームチェンジに失敗しました。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4018:2", "source": " \"再度フォームチェンジを行うには少し時間を置いてください。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4022:2", "source": "\t\"HP最大値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4023:2", "source": "\t\"HP最大値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4024:2", "source": "\t\"MP最大値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4025:2", "source": "\t\"MP最大値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4026:2", "source": "\t\"SP最大値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4027:2", "source": "\t\"SP最大値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4028:2", "source": "\t\"HP回復力％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4029:2", "source": "\t\"MP回復力％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4030:2", "source": "\t\"SP回復力％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4031:2", "source": "\t\"スキル消費MP％軽減\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4032:2", "source": "\t\"スキル消費SP％軽減\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4033:2", "source": "\t\"STR＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4034:2", "source": "\t\"DEX＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4035:2", "source": "\t\"INT＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4036:2", "source": "\t\"VIT＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4037:2", "source": "\t\"AGI＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4038:2", "source": "\t\"MAG＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4039:2", "source": "\t\"ATK値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4040:2", "source": "\t\"ATK％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4041:2", "source": "\t\"M.ATK値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4042:2", "source": "\t\"M.ATK％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4043:2", "source": "\t\"S.HIT値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4044:2", "source": "\t\"S.HIT値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4045:2", "source": "\t\"L.HIT値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4046:2", "source": "\t\"L.HIT値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4047:2", "source": "\t\"S.AVOID＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4048:2", "source": "\t\"S.AVOID％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4049:2", "source": "\t\"L.AVOID＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4050:2", "source": "\t\"L.AVOID％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4051:2", "source": "\t\"DEF＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4052:2", "source": "\t\"DEF％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4053:2", "source": "\t\"M.DEF＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4054:2", "source": "\t\"M.DEF％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4055:2", "source": "\t\"武器攻撃力＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4056:2", "source": "\t\"武器攻撃力％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4057:2", "source": "\t\"防具防御力＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4058:2", "source": "\t\"防具防御力％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4059:2", "source": "\t\"命中成功率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4060:2", "source": "\t\"回避成功率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4061:2", "source": "\t\"被物理ダメージ％減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4062:2", "source": "\t\"被魔法ダメージ％減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4063:2", "source": "\t\"被属性攻撃ダメージ％減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4064:2", "source": "\t\"PT参加中攻撃ダメージ％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4065:2", "source": "\t\"PT参加中被攻撃ダメージ％減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4066:2", "source": "\t\"奈落で攻撃ダメージ％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4067:2", "source": "\t\"奈落で被攻撃ダメージ％減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4068:2", "source": "\t\"クリティカル％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4069:2", "source": "\t\"クリティカル回避％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4070:2", "source": "\t\"ガード率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4071:2", "source": "\t\"最大重量＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4072:2", "source": "\t\"最大重量％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4073:2", "source": "\t\"最大容量＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4074:2", "source": "\t\"最大容量％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4075:2", "source": "\t\"死亡時自動復活％\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4076:2", "source": "\t\"Lv差命中減少％軽減\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4077:2", "source": "\t\"毒耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4078:2", "source": "\t\"石化耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4079:2", "source": "\t\"睡眠耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4080:2", "source": "\t\"沈黙耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4081:2", "source": "\t\"鈍足化耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4082:2", "source": "\t\"混乱耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4083:2", "source": "\t\"氷化耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4084:2", "source": "\t\"気絶耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4085:2", "source": "\t\"能力低下無効化率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4086:2", "source": "\t\"物理スキル詠唱速度減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4087:2", "source": "\t\"物理スキル詠唱速度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4088:2", "source": "\t\"魔法スキル詠唱速度減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4089:2", "source": "\t\"魔法スキル詠唱速度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4090:2", "source": "\t\"Lv差回避％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4091:2", "source": "\t\"パートナー近接攻撃＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4092:2", "source": "\t\"パートナー魔法攻撃＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4093:2", "source": "\t\"パートナー耐久力＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4094:2", "source": "\t\"パートナー精神力＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4095:2", "source": "\t\"パートナー攻撃精度＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4096:2", "source": "\t\"パートナーフットワーク＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4097:2", "source": "\t\"パートナーHP回復率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4098:2", "source": "\t\"パートナーHP最大値＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4099:2", "source": "\t\"パートナーHP最大値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4100:2", "source": "\t\"パートナーMP回復率＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4101:2", "source": "\t\"パートナー最大MP＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4102:2", "source": "\t\"パートナー最大MP％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4103:2", "source": "\t\"パートナーSP回復率＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4104:2", "source": "\t\"パートナー最大SP＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4105:2", "source": "\t\"パートナー最大SP％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4106:2", "source": "\t\"パートナーATK＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4107:2", "source": "\t\"パートナーATK％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4108:2", "source": "\t\"パートナーM.ATK＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4109:2", "source": "\t\"パートナーM.ATK％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4110:2", "source": "\t\"パートナーS.HIT＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4111:2", "source": "\t\"パートナーS.HIT％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4112:2", "source": "\t\"パートナーL.HIT＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4113:2", "source": "\t\"パートナーL.HIT％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4114:2", "source": "\t\"パートナーS.AVOID＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4115:2", "source": "\t\"パートナーS.AVOID％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4116:2", "source": "\t\"パートナーL.AVOID＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4117:2", "source": "\t\"パートナーL.AVOID％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4118:2", "source": "\t\"パートナーDEF(-)＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4119:2", "source": "\t\"パートナーDEF(％)＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4120:2", "source": "\t\"パートナーM.DEF(-)＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4121:2", "source": "\t\"パートナーM.DEF(％)＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4122:2", "source": "\t\"装備パートナー移動速度＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4123:2", "source": "\t\"パートナー攻撃無属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4124:2", "source": "\t\"パートナー攻撃火属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4125:2", "source": "\t\"パートナー攻撃水属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4126:2", "source": "\t\"パートナー攻撃風属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4127:2", "source": "\t\"パートナー攻撃土属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4128:2", "source": "\t\"パートナー攻撃光属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4129:2", "source": "\t\"パートナー攻撃闇属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4130:2", "source": "\t\"パートナー防御無属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4131:2", "source": "\t\"パートナー防御火属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4132:2", "source": "\t\"パートナー防御水属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4133:2", "source": "\t\"パートナー防御風属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4134:2", "source": "\t\"パートナー防御土属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4135:2", "source": "\t\"パートナー防御光属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4136:2", "source": "\t\"パートナー防御闇属性＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4137:2", "source": "\t\"パートナー用獲得経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4138:2", "source": "\t\"獲得パートナー信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4139:2", "source": "\t\"人間系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4140:2", "source": "\t\"鳥系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4141:2", "source": "\t\"動物系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4142:2", "source": "\t\"昆虫系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4143:2", "source": "\t\"魔法生物系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4144:2", "source": "\t\"植物系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4145:2", "source": "\t\"水中生物系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4146:2", "source": "\t\"機械系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4147:2", "source": "\t\"岩系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4148:2", "source": "\t\"精霊系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4149:2", "source": "\t\"死霊系獲得U.P信頼度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4150:2", "source": "\t\"次回食事時間％短縮\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4151:2", "source": "\t\"負傷時間短縮（分）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4152:2", "source": "\t\"ＰＰの獲得信頼度％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4153:2", "source": "\t\"獲得ﾊﾟｰﾄﾅｰﾎﾟｲﾝﾄ％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4154:2", "source": "\t\"ＰＰの個人貢献度％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4155:2", "source": "\t\"ＰＰ内戦闘不能復帰時間短縮\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4156:2", "source": "\t\"ﾓﾝｽﾀｰ襲来時HP回復(%)\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4157:2", "source": "\t\"攻撃属性値+X上昇（闇）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4158:2", "source": "\t\"攻撃属性値+X上昇（光）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4159:2", "source": "\t\"攻撃属性値+X上昇（火）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4160:2", "source": "\t\"攻撃属性値+X上昇（水）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4161:2", "source": "\t\"攻撃属性値+X上昇（土）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4162:2", "source": "\t\"攻撃属性値+X上昇（風）\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4163:2", "source": "\t\"耐久度減少確率減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4164:2", "source": "\t\"状態異常成功率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4165:2", "source": "\t\"食べ物系アイテム効果上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4166:2", "source": "\t\"ポーション系アイテム効果上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4167:2", "source": "\t\"人間系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4168:2", "source": "\t\"鳥系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4169:2", "source": "\t\"動物系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4170:2", "source": "\t\"昆虫系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4171:2", "source": "\t\"魔法生物系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4172:2", "source": "\t\"植物系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4173:2", "source": "\t\"水中生物系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4174:2", "source": "\t\"機械系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4175:2", "source": "\t\"岩系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4176:2", "source": "\t\"精霊系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4177:2", "source": "\t\"死霊系攻撃ダメージ上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4178:2", "source": "\t\"人間系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4179:2", "source": "\t\"鳥系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4180:2", "source": "\t\"動物系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4181:2", "source": "\t\"昆虫系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4182:2", "source": "\t\"魔法生物系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4183:2", "source": "\t\"植物系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4184:2", "source": "\t\"水中生物系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4185:2", "source": "\t\"機械系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4186:2", "source": "\t\"岩系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4187:2", "source": "\t\"精霊系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4188:2", "source": "\t\"死霊系被攻撃ダメージ減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4189:2", "source": "\t\"人間系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4190:2", "source": "\t\"鳥系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4191:2", "source": "\t\"動物系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4192:2", "source": "\t\"昆虫系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4193:2", "source": "\t\"魔法生物系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4194:2", "source": "\t\"植物系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4195:2", "source": "\t\"水中生物系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4196:2", "source": "\t\"機械系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4197:2", "source": "\t\"岩系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4198:2", "source": "\t\"精霊系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4199:2", "source": "\t\"死霊系基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4200:2", "source": "\t\"人間系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4201:2", "source": "\t\"鳥系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4202:2", "source": "\t\"動物系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4203:2", "source": "\t\"昆虫系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4204:2", "source": "\t\"魔法生物系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4205:2", "source": "\t\"植物系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4206:2", "source": "\t\"水中生物系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4207:2", "source": "\t\"機械系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4208:2", "source": "\t\"岩系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4209:2", "source": "\t\"精霊系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4210:2", "source": "\t\"死霊系職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4211:2", "source": "\t\"人間系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4212:2", "source": "\t\"鳥系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4213:2", "source": "\t\"動物系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4214:2", "source": "\t\"昆虫系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4215:2", "source": "\t\"魔法生物系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4216:2", "source": "\t\"植物系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4217:2", "source": "\t\"水中生物系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4218:2", "source": "\t\"機械系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4219:2", "source": "\t\"岩系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4220:2", "source": "\t\"精霊系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4221:2", "source": "\t\"死霊系命中上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4222:2", "source": "\t\"人間系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4223:2", "source": "\t\"鳥系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4224:2", "source": "\t\"動物系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4225:2", "source": "\t\"昆虫系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4226:2", "source": "\t\"魔法生物系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4227:2", "source": "\t\"植物系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4228:2", "source": "\t\"水中生物系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4229:2", "source": "\t\"機械系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4230:2", "source": "\t\"岩系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4231:2", "source": "\t\"精霊系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4232:2", "source": "\t\"死霊系回避上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4233:2", "source": "\t\"人間系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4234:2", "source": "\t\"鳥系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4235:2", "source": "\t\"動物系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4236:2", "source": "\t\"昆虫系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4237:2", "source": "\t\"魔法生物系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4238:2", "source": "\t\"植物系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4239:2", "source": "\t\"水中生物系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4240:2", "source": "\t\"機械系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4241:2", "source": "\t\"岩系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4242:2", "source": "\t\"精霊系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4243:2", "source": "\t\"死霊系クリティカル率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4244:2", "source": "\t\"マリオネット使用時間延長\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4245:2", "source": "\t\"マリオネット再使用時間短縮\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4246:2", "source": "\t\"ｱﾅｻﾞｰﾌﾞｯｸ効果時間延長(分)\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4247:2", "source": "\t\"ｱﾅｻﾞｰﾌﾞｯｸ再使用時間短縮\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4248:2", "source": "\t\"売却価格上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4249:2", "source": "\t\"購入価格減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4250:2", "source": "\t\"力強化成功確率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4251:2", "source": "\t\"魔力強化成功確率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4252:2", "source": "\t\"命強化成功確率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4253:2", "source": "\t\"ｸﾘﾃｨｶﾙ強化成功確率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4254:2", "source": "\t\"スロット拡張成功確率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4255:2", "source": "\t\"ｶｰﾄﾞｱｾﾝﾌﾞﾙ成功確率％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4256:2", "source": "\t\"獲得エクスパンションＰ＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4257:2", "source": "\t\"獲得セクトＰ％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4258:2", "source": "\t\"獲得マテリアルＰ％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4259:2", "source": "\t\"釣りレア確率＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4260:2", "source": "\t\"釣り大物確率＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4261:2", "source": "\t\"作物成長度＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4262:2", "source": "\t\"作物愛情度＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4263:2", "source": "\t\"憑依速度上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4264:2", "source": "\t\"憑依者貫通率軽減\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4265:2", "source": "\t\"ワールドゲージＰ＋％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4266:2", "source": "\t\"クエスト報酬ＥＰ＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4267:2", "source": "\t\"クエスト報酬ＭＰ＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4268:2", "source": "\t\"クエスト報酬％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4269:2", "source": "\t\"アビス・マター入手量＋上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4270:2", "source": "\t\"アビス・マター入手量％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4271:2", "source": "\t\"獲得基本経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4272:2", "source": "\t\"獲得職業経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4273:2", "source": "\t\"生産時獲得経験値％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4274:2", "source": "\t\"獲得ページ経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4275:2", "source": "\t\"ﾃﾞｭｱﾙｼﾞｮﾌﾞ獲得経験値上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4276:2", "source": "\t\"獲得ＣＰ％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4277:2", "source": "\t\"レアドロップ率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4278:2", "source": "\t\"AC入場ペナルティ時間短縮\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4279:2", "source": "\t\"対ﾁｬﾝﾌﾟﾀﾞﾒｰｼﾞ減少軽減\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4280:2", "source": "\t\"騎士団演習報酬％上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4281:2", "source": "\t\"騎士団演習再入場時間短縮\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4282:2", "source": "\t\"スケール変更\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4283:2", "source": "\t\"ドロップアイテム追加確率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4284:2", "source": "\t\"合成失敗物精製確率上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4285:2", "source": "\t\"合成失敗物精製確率減少\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4286:2", "source": "\t\"猛毒耐性力上昇\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4345:2", "source": " \"ステータスチップ：STR\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4346:2", "source": " \"ステータスチップ：DEX\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4347:2", "source": " \"ステータスチップ：INT\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4348:2", "source": " \"ステータスチップ：VIT\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4349:2", "source": " \"ステータスチップ：AGI\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4350:2", "source": " \"ステータスチップ：MAG\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4351:2", "source": " \"スキルチップ：共通系\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4352:2", "source": " \"スキルチップ：ファイター系\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4353:2", "source": " \"スキルチップ：スペルユーザー系\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4397:2", "source": "パーツ融合システム", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4398:2", "source": "パーツ", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4399:2", "source": "能力", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4400:2", "source": "のパーツに", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4401:2", "source": "の能力を追加します", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4402:2", "source": "の能力を追加します", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4403:2", "source": "成功しました", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4404:2", "source": "失敗しました", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4405:2", "source": "キャンセルしました", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4406:2", "source": "所持金が足りませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4407:2", "source": "装備品の条件が合いませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4408:2", "source": "装備品の種類が一致しませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4409:2", "source": "装備品の性別の条件が一致しませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4410:2", "source": "装備品の職業の条件が一致しませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4411:2", "source": "装備品の騎士団限定条件が一致しませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4412:2", "source": "イベントアイテムは変更できません", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4413:2", "source": "見た目のほうがLvが低いため変更出来ません", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4414:2", "source": "何らかの条件で失敗しました", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4419:2", "source": " \"チップ購入\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4420:2", "source": " \"所持経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4421:2", "source": " \"必要経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4422:2", "source": " \"残り経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4423:2", "source": " \"所持職業経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4424:2", "source": " \"必要職業経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4425:2", "source": " \"残り職業経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4426:2", "source": " \"個数\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4427:2", "source": " \"基本経験値が不足しています。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4428:2", "source": " \"職業経験値が不足しています。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4429:2", "source": " \"これ以上、アイテムが持てません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4430:2", "source": " \"購入に失敗しました。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4433:2", "source": " \"パーツを外す\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4437:2", "source": " \"チップ倉庫\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4444:2", "source": " \"スキル\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4445:2", "source": " \"リミテーション\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4446:2", "source": " \"預けられるのは%d種までです\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4447:2", "source": "%d個収納できませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4448:2", "source": "%sを%d個預けました", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4449:2", "source": "%sを%d個引き出しました", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4453:2", "source": " \"メニュー\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4457:2", "source": " \"マップインフォメーション\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4458:2", "source": " \"マップインフォメーション対象外マップです\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4461:2", "source": " \"憑依カタログ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4462:2", "source": " \"憑依カタログ対象外マップです\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4465:2", "source": " \"憑依者情報\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4468:2", "source": " \"M・ATK\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4469:2", "source": " \"S・HIT\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4470:2", "source": " \"L・HIT\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4472:2", "source": " \"M・DEF\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4473:2", "source": " \"S・AVO\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4474:2", "source": " \"L・AVO\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4475:2", "source": " \"最大HP\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4476:2", "source": " \"最大MP\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4477:2", "source": " \"最大SP\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4478:2", "source": " \"憑依アイテムを$r探している最中に$r憑依アイテムがなくなって$rしまう場合があります。$r『位置情報更新』ボタンを押して、$r情報を更新しましょう。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4479:2", "source": " \"選択中の憑依アイテムへのガイドを終了しますか？\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4480:2", "source": " \"選択中の憑依アイテムは$rなくなってしまいました\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4481:2", "source": " \"装備条件が合わない為、指定した憑依アイテム情報を開けません\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4486:2", "source": " \"イベントナビゲーション\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4487:2", "source": " \"詳細を確認したいイベントを選択してください\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4488:2", "source": " \"達成度\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4496:2", "source": " \"イベントナビゲーションを開始しますか？\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4505:2", "source": " \"ナビゲーション情報\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4515:2", "source": " \"ダンジョン残り時間\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4516:2", "source": "崩壊まで   時間   分", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4519:2", "source": " \"アイテムを選んで下さい\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4520:2", "source": " \"チェンジする\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4521:2", "source": " \"合体する\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4522:2", "source": " \"やめておく\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4525:2", "source": " \"アイテムチェンジの選択\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4526:2", "source": " \"合体するアイテムを選んで下さい\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4527:2", "source": " \"合体するアイテム\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4528:2", "source": " \"チェンジ中のアイテムは設定出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4529:2", "source": " \"チェンジ出来る状態ではありません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4530:2", "source": " \"bodyに持ってない為、チェンジは出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4531:2", "source": " \"アイテム所持数を減らしてから、チェンジをして下さい。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4532:2", "source": " \"変形できるアイテムがありませんでした。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4533:2", "source": " \"条件を満たしていない為、チェンジは出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4534:2", "source": " \"休眠中の為、チェンジは出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4535:2", "source": " \"故障中の為、チェンジは出来ません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4536:2", "source": " \"何かしらの原因で失敗しました。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4539:2", "source": " \"頭\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4540:2", "source": " \"羽\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4541:2", "source": " \"羽の色\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4542:2", "source": " \"しっぽ\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4543:2", "source": " \"特典\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4544:2", "source": " \"アイテム\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4545:2", "source": " \"LV変更\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4547:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4548:2", "source": "グレイス", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4549:2", "source": "光輪", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4550:2", "source": "アンクルフェザー", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4551:2", "source": "背負い魔１", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4552:2", "source": "背負い魔２", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4553:2", "source": "背負い魔３", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4554:2", "source": "マリオネット１", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4555:2", "source": "マリオネット２", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4556:2", "source": "マリオネット３", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4557:2", "source": "パートナー１", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4558:2", "source": "パートナー２", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4560:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4561:2", "source": "背負い魔１", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4562:2", "source": "背負い魔２", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4563:2", "source": "背負い魔３", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4564:2", "source": "マリオネット１", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4565:2", "source": "マリオネット２", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4566:2", "source": "マリオネット３", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4567:2", "source": "パートナー１", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4568:2", "source": "パートナー２", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4570:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4571:2", "source": "輪（パワーズ）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4572:2", "source": "輪（セラフィム）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4573:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4574:2", "source": "２枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4575:2", "source": "３枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4576:2", "source": "Ｅｘ羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4577:2", "source": "Ｅｘ２枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4578:2", "source": "Ｅｘ３枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4579:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4580:2", "source": "羽（赤）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4581:2", "source": "羽（紫）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4582:2", "source": "羽（青）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4583:2", "source": "羽（水色）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4584:2", "source": "羽（緑）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4585:2", "source": "羽（黄緑）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4586:2", "source": "羽（黄色）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4587:2", "source": "羽（橙）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4588:2", "source": "羽（黒）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4589:2", "source": "羽（灰）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4590:2", "source": "羽（白）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4592:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4593:2", "source": "尻尾（三又）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4594:2", "source": "尻尾（スリム）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4595:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4596:2", "source": "２枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4597:2", "source": "３枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4598:2", "source": "Ｅｘ羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4599:2", "source": "Ｅｘ２枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4600:2", "source": "Ｅｘ３枚羽", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4601:2", "source": "デフォルト", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4602:2", "source": "羽（赤）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4603:2", "source": "羽（紫）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4604:2", "source": "羽（青）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4605:2", "source": "羽（水色）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4606:2", "source": "羽（緑）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4607:2", "source": "羽（黄緑）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4608:2", "source": "羽（黄色）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4609:2", "source": "羽（橙）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4610:2", "source": "羽（黒）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4611:2", "source": "羽（灰）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4612:2", "source": "羽（白）", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4614:2", "source": "本当に変更しますか？", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4616:2", "source": " \"転生特典を増やす\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4617:2", "source": " \"現在のページ経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4618:2", "source": " \"転生特典を増やすのに$r必要なページ経験値\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4619:2", "source": " \"「アナザーブック」が開放されていません。$rイベントナビゲーションの「アナザークロニクル」の$r「アナザークロニクル入手」をクリアしてください。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4620:2", "source": " \"ページ経験値が足りません\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4621:2", "source": " \"増える転生特典の一覧\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4623:2", "source": " \"何らかの原因で受け取りに失敗しました。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4624:2", "source": " \"既に受け取り済みです。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4625:2", "source": " \"アイテム所持数に空きがありません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4626:2", "source": " \"アイテムを受け取れない状態です。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4629:2", "source": " \"何らかの原因で失敗しました。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4630:2", "source": " \"イベント中は特典を増やすことができません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4631:2", "source": " \"ページ経験値が足りません。\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4635:2", "source": "毎日スタンプ帳 ", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "rejected"}
+{"id": "table/strtable.csv:4636:2", "source": "ラジオ体操スタンプ帳 ", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "rejected"}
+{"id": "table/strtable.csv:4669:2", "source": "武具の耐久力が不足しているため行うことができませんでした。 ", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "rejected"}
+{"id": "table/strtable.csv:4670:2", "source": "取得経験値が変動したためスキルをキャンセルし、バックパッカーボーナス経験を取得しませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4671:2", "source": "取得経験値が変動したため$rスキルをキャンセルし、バックパッカーボーナス経験を$r取得しませんでした", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4682:2", "source": "キャラクター名が灰色で表示されてる方は$r消費物以外の条件を満たしていない為、$r参加する事ができません。$r参加出来ない理由はキャラクター名に$rカーソルを合わせるとバル―ンで表示します。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4730:2", "source": " \"イベント中の為、ビューモードには出来ません\"", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4755:2", "source": " %04d年%02d月%02d日 %02d時%02d分", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4756:2", "source": " ----年--月--日 --時--分", "reason": "formatting_requires_runtime_display_confirmation", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4773:2", "source": "詳しくは、飛空城甲板にある操作パネルから「ヘルプ」→「維持に関して」を参照ください。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4774:2", "source": "【注意】飛空城が滞納状態になっています。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4775:2", "source": "差し押さえ予定日まで滞納し続けた場合、飛空城は差し押さえ状態となります。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4776:2", "source": "【警告】飛空城が差し押さえ状態になっています。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4777:2", "source": "強制撤去予定日まで滞納し続けた場合、飛空城は維持不能状態となります。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4778:2", "source": "維持不能状態になりますと、飛空城に配置した家具は全て消滅し、一切保障されません。", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4779:2", "source": "【告知】飛空城の差し押さえ状態が２６週間続いた為", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4780:2", "source": "飛空城に配置されていた全ての家具が強制撤去され消滅しました。", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4827:2", "source": "アトラクションユニット「ファーム」の撤去は$rこのファーム内の植えられている作物と$r収穫BOXの中身が無くなってしまいますが、$r撤去しますか？", "reason": "pending_translation_review", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4871:2", "source": "名称     :", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4872:2", "source": "詳細     :", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4873:2", "source": "追加効果 :", "reason": "concatenation_or_sentence_fragment", "patch_check": "accepted"}
+{"id": "table/strtable.csv:4874:2", "source": "エクスパンションポイントを$r%dP消費しますがよろしいですか？", "reason": "pending_translation_review", "patch_check": "accepted"}

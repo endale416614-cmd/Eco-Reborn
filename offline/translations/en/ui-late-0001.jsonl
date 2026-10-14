@@ -1,0 +1,176 @@
+{"id": "table/strtable.csv:4900:2", "source": "状態", "english": "Status", "status": "draft"}
+{"id": "table/strtable.csv:4901:2", "source": "指導ポイント", "english": "Guidance Points", "status": "draft"}
+{"id": "table/strtable.csv:4902:2", "source": "実績ポイント", "english": "Achievement Points", "status": "draft"}
+{"id": "table/strtable.csv:4903:2", "source": "師匠になりました", "english": "You are now a mentor.", "status": "draft"}
+{"id": "table/strtable.csv:4904:2", "source": "何らかの原因で失敗しました", "english": "The request failed.", "status": "draft"}
+{"id": "table/strtable.csv:4905:2", "source": "相手が見つかりませんでした", "english": "The other player could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:4906:2", "source": "既に師匠がいます", "english": "A mentor is already assigned.", "status": "draft"}
+{"id": "table/strtable.csv:4907:2", "source": "拒否されました", "english": "The request was declined.", "status": "draft"}
+{"id": "table/strtable.csv:4908:2", "source": "他の人から招待を受けています", "english": "You have an invitation from another player.", "status": "draft"}
+{"id": "table/strtable.csv:4909:2", "source": "そのキャラクターは弟子になれません", "english": "That character cannot become an apprentice.", "status": "draft"}
+{"id": "table/strtable.csv:4910:2", "source": "これ以上弟子を取ることが出来ません", "english": "You cannot take any more apprentices.", "status": "draft"}
+{"id": "table/strtable.csv:4911:2", "source": "拒否しました", "english": "You declined the request.", "status": "draft"}
+{"id": "table/strtable.csv:4912:2", "source": "相手と師弟関係を結べる状態ではありません", "english": "You cannot form a mentor-apprentice relationship with that player right now.", "status": "draft"}
+{"id": "table/strtable.csv:4913:2", "source": "相手の師弟関係設定が不許可になっています", "english": "The other player has disabled mentor-apprentice requests.", "status": "draft"}
+{"id": "table/strtable.csv:4914:2", "source": "申請中です", "english": "Request pending.", "status": "draft"}
+{"id": "table/strtable.csv:4915:2", "source": "弟子になりました", "english": "You are now an apprentice.", "status": "draft"}
+{"id": "table/strtable.csv:4916:2", "source": "何らかの原因で失敗しました", "english": "The request failed.", "status": "draft"}
+{"id": "table/strtable.csv:4917:2", "source": "相手が見つかりませんでした", "english": "The other player could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:4918:2", "source": "既に違う人の弟子になっています", "english": "Already apprenticed to someone else.", "status": "draft"}
+{"id": "table/strtable.csv:4919:2", "source": "拒否されました", "english": "The request was declined.", "status": "draft"}
+{"id": "table/strtable.csv:4920:2", "source": "他の人から招待を受けています", "english": "You have an invitation from another player.", "status": "draft"}
+{"id": "table/strtable.csv:4921:2", "source": "そのキャラクターは師匠になれません", "english": "That character cannot become a mentor.", "status": "draft"}
+{"id": "table/strtable.csv:4922:2", "source": "既に師匠がいます", "english": "A mentor is already assigned.", "status": "draft"}
+{"id": "table/strtable.csv:4923:2", "source": "拒否しました", "english": "You declined the request.", "status": "draft"}
+{"id": "table/strtable.csv:4924:2", "source": "相手と師弟関係を結べる状態ではありません", "english": "You cannot form a mentor-apprentice relationship with that player right now.", "status": "draft"}
+{"id": "table/strtable.csv:4925:2", "source": "相手の師弟関係設定が不許可になっています", "english": "The other player has disabled mentor-apprentice requests.", "status": "draft"}
+{"id": "table/strtable.csv:4926:2", "source": "申請中です", "english": "Request pending.", "status": "draft"}
+{"id": "table/strtable.csv:4927:2", "source": "師弟関係が解消されました", "english": "The mentor-apprentice relationship has ended.", "status": "draft"}
+{"id": "table/strtable.csv:4928:2", "source": "師弟関係の解消が失敗しました", "english": "Failed to end the mentor-apprentice relationship.", "status": "draft"}
+{"id": "table/strtable.csv:4929:2", "source": "新たに弟子を取れるようになりました", "english": "You can now take another apprentice.", "status": "draft"}
+{"id": "table/strtable.csv:4930:2", "source": "師弟関係で分からないことがあればアクロポリスに居る天戒に聞いてみよう", "english": "If you have questions about mentor-apprentice relationships, ask Tenkai in Acropolis.", "status": "draft"}
+{"id": "table/strtable.csv:4934:2", "source": "ステータス", "english": "Status", "status": "draft"}
+{"id": "table/strtable.csv:4935:2", "source": "スキル", "english": "Skills", "status": "draft"}
+{"id": "table/strtable.csv:4936:2", "source": "アイテム", "english": "Items", "status": "draft"}
+{"id": "table/strtable.csv:4937:2", "source": "装備", "english": "Equipment", "status": "draft"}
+{"id": "table/strtable.csv:4938:2", "source": "フレンド", "english": "Friends", "status": "draft"}
+{"id": "table/strtable.csv:4939:2", "source": "クエスト", "english": "Quests", "status": "draft"}
+{"id": "table/strtable.csv:4940:2", "source": "メール", "english": "Mail", "status": "draft"}
+{"id": "table/strtable.csv:4941:2", "source": "コメントリスト", "english": "Comment List", "status": "draft"}
+{"id": "table/strtable.csv:4942:2", "source": "ナビ", "english": "Navigation", "status": "draft"}
+{"id": "table/strtable.csv:4943:2", "source": "ECOショップ", "english": "ECO Shop", "status": "draft"}
+{"id": "table/strtable.csv:4944:2", "source": "マクロ", "english": "Macros", "status": "draft"}
+{"id": "table/strtable.csv:4945:2", "source": "オプション", "english": "Options", "status": "draft"}
+{"id": "table/strtable.csv:4946:2", "source": "ヘルプ", "english": "Help", "status": "draft"}
+{"id": "table/strtable.csv:4947:2", "source": "かんたんAI設定", "english": "Simple AI Settings", "status": "draft"}
+{"id": "table/strtable.csv:4948:2", "source": "旅人のメモ", "english": "Traveler’s Memo", "status": "draft"}
+{"id": "table/strtable.csv:4949:2", "source": "ステータスウィンドウを表示します$r/ui_status", "english": "Open the Status window.$r/ui_status", "status": "draft"}
+{"id": "table/strtable.csv:4950:2", "source": "スキルウィンドウを表示します$r/ui_skill", "english": "Open the Skills window.$r/ui_skill", "status": "draft"}
+{"id": "table/strtable.csv:4951:2", "source": "アイテムウィンドウを表示します$r/ui_item", "english": "Open the Items window.$r/ui_item", "status": "draft"}
+{"id": "table/strtable.csv:4952:2", "source": "装備ウィンドウを表示します$r/ui_equip", "english": "Open the Equipment window.$r/ui_equip", "status": "draft"}
+{"id": "table/strtable.csv:4953:2", "source": "フレンドリストウィンドウを表示します$r/ui_friend", "english": "Open the Friends window.$r/ui_friend", "status": "draft"}
+{"id": "table/strtable.csv:4954:2", "source": "クエストウィンドウを表示します$r/ui_quest", "english": "Open the Quests window.$r/ui_quest", "status": "draft"}
+{"id": "table/strtable.csv:4955:2", "source": "メールウィンドウを表示します", "english": "Show the mail window", "status": "draft"}
+{"id": "table/strtable.csv:4956:2", "source": "募集コメントリストウィンドウを表示します$r/ui_commentlist", "english": "Open the Recruitment Comments window.$r/ui_commentlist", "status": "draft"}
+{"id": "table/strtable.csv:4957:2", "source": "イベントナビゲーションウィンドウを表示します", "english": "Open the Event Navigation window.", "status": "draft"}
+{"id": "table/strtable.csv:4958:2", "source": "ECO(課金)ショップウィンドウを表示します", "english": "Open the ECO Shop (paid items) window.", "status": "draft"}
+{"id": "table/strtable.csv:4959:2", "source": "マクロウィンドウを表示します$r/ui_macro", "english": "Open the Macros window.$r/ui_macro", "status": "draft"}
+{"id": "table/strtable.csv:4960:2", "source": "システムウィンドウを表示させます$r/ui_system", "english": "Open the System window.$r/ui_system", "status": "draft"}
+{"id": "table/strtable.csv:4961:2", "source": "ヘルプを表示させます$r/help", "english": "Open Help.$r/help", "status": "draft"}
+{"id": "table/strtable.csv:4962:2", "source": "パートナー装備していれば$rかんたんAI設定ウィンドウを表示させます", "english": "If a Partner is equipped,$ropen Simple AI Settings.", "status": "draft"}
+{"id": "table/strtable.csv:4963:2", "source": "旅人のメモウィンドウを表示させます", "english": "Open the Traveler’s Memo window.", "status": "draft"}
+{"id": "table/strtable.csv:4964:2", "source": "パートナーを装備していない為、ウィンドウは開けませんでした", "english": "Could not open the window because no Partner is equipped.", "status": "draft"}
+{"id": "table/strtable.csv:4965:2", "source": "パートナーではない為、ウィンドウは開けませんでした", "english": "Could not open the window because the equipped unit is not a Partner.", "status": "draft"}
+{"id": "table/strtable.csv:4966:2", "source": "ライドパートナーの為、ウィンドウは開けませんでした", "english": "Could not open the window because the equipped Partner is a Ride Partner.", "status": "draft"}
+{"id": "table/strtable.csv:4971:2", "source": " \"ステータス        \"", "english": " \"Status        \"", "status": "draft"}
+{"id": "table/strtable.csv:4972:2", "source": " \"スキル            \"", "english": " \"Skills            \"", "status": "draft"}
+{"id": "table/strtable.csv:4973:2", "source": " \"アイテム          \"", "english": " \"Items          \"", "status": "draft"}
+{"id": "table/strtable.csv:4974:2", "source": " \"装備              \"", "english": " \"Equipment              \"", "status": "draft"}
+{"id": "table/strtable.csv:4975:2", "source": " \"フレンド          \"", "english": " \"Friends          \"", "status": "draft"}
+{"id": "table/strtable.csv:4976:2", "source": " \"クエスト          \"", "english": " \"Quests          \"", "status": "draft"}
+{"id": "table/strtable.csv:4977:2", "source": " \"メールギフト      \"", "english": " \"Mail Gifts      \"", "status": "draft"}
+{"id": "table/strtable.csv:4978:2", "source": " \"募集コメントリスト\"", "english": " \"Recruitment Comments\"", "status": "draft"}
+{"id": "table/strtable.csv:4979:2", "source": " \"イベントナビ      \"", "english": " \"Event Navigation      \"", "status": "draft"}
+{"id": "table/strtable.csv:4980:2", "source": " \"ECOショップ       \"", "english": " \"ECO Shop       \"", "status": "draft"}
+{"id": "table/strtable.csv:4981:2", "source": "マクロ                ", "english": "Macros                ", "status": "draft"}
+{"id": "table/strtable.csv:4982:2", "source": "システムオプション    ", "english": "System Options    ", "status": "draft"}
+{"id": "table/strtable.csv:4983:2", "source": "ヘルプ                ", "english": "Help                ", "status": "draft"}
+{"id": "table/strtable.csv:4985:2", "source": "旅人のメモ        ", "english": "Traveler’s Memo        ", "status": "draft"}
+{"id": "table/strtable.csv:4986:2", "source": "毎日スタンプ帳      ", "english": "Daily Stamp Book      ", "status": "draft"}
+{"id": "table/strtable.csv:4987:2", "source": "露店設定          ", "english": "Vending Stall Settings          ", "status": "draft"}
+{"id": "table/strtable.csv:4988:2", "source": "パーティー        ", "english": "Party        ", "status": "draft"}
+{"id": "table/strtable.csv:4989:2", "source": "リング            ", "english": "Ring            ", "status": "draft"}
+{"id": "table/strtable.csv:4990:2", "source": "ブロック          ", "english": "Block          ", "status": "draft"}
+{"id": "table/strtable.csv:4991:2", "source": "師弟              ", "english": "Mentor / Apprentice              ", "status": "draft"}
+{"id": "table/strtable.csv:4992:2", "source": "チーム（奈落）    ", "english": "Team (Abyss)    ", "status": "draft"}
+{"id": "table/strtable.csv:4993:2", "source": "ミッション        ", "english": "Missions        ", "status": "draft"}
+{"id": "table/strtable.csv:4994:2", "source": "オートラン        ", "english": "Auto-run        ", "status": "draft"}
+{"id": "table/strtable.csv:4995:2", "source": "ミニマップ        ", "english": "Minimap        ", "status": "draft"}
+{"id": "table/strtable.csv:4996:2", "source": "ワールドマップ    ", "english": "World Map    ", "status": "draft"}
+{"id": "table/strtable.csv:4997:2", "source": "自分に憑依        ", "english": "Self-Possession        ", "status": "draft"}
+{"id": "table/strtable.csv:4998:2", "source": "憑依解除          ", "english": "End Possession          ", "status": "draft"}
+{"id": "table/strtable.csv:4999:2", "source": "憑依を外す        ", "english": "Remove Possession        ", "status": "draft"}
+{"id": "table/strtable.csv:5000:2", "source": "憑依カタログ      ", "english": "Possession Catalog      ", "status": "draft"}
+{"id": "table/strtable.csv:5001:2", "source": "たまいれ解除      ", "english": "Remove Tamaire      ", "status": "draft", "note": "Tamaire is a game-specific term; retain a phonetic label pending verified English terminology."}
+{"id": "table/strtable.csv:5002:2", "source": "ECOドリーム       ", "english": "ECO Dream       ", "status": "draft"}
+{"id": "table/strtable.csv:5003:2", "source": "リサイクルゲージ  ", "english": "Recycle Gauge  ", "status": "draft"}
+{"id": "table/strtable.csv:5004:2", "source": "軍勢力ゲージ      ", "english": "Army Strength Gauge      ", "status": "draft"}
+{"id": "table/strtable.csv:5005:2", "source": "キャラクターオプション", "english": "Character Options", "status": "draft"}
+{"id": "table/strtable.csv:5006:2", "source": "ログアウト        ", "english": "Log Out        ", "status": "draft"}
+{"id": "table/strtable.csv:5007:2", "source": "フォームチェンジ  ", "english": "Change Form  ", "status": "draft"}
+{"id": "table/strtable.csv:5008:2", "source": "パートナーステータス表示    ", "english": "Show Partner Status    ", "status": "draft"}
+{"id": "table/strtable.csv:5009:2", "source": "かんたんAI設定ウィンドウ表示", "english": "Show Simple AI Settings", "status": "draft"}
+{"id": "table/strtable.csv:5010:2", "source": "AIカスタムウィンドウ表示    ", "english": "Show AI Customization Window    ", "status": "draft"}
+{"id": "table/strtable.csv:5011:2", "source": "モンスタースタンプ帳", "english": "Monster Stamp Book", "status": "draft"}
+{"id": "table/strtable.csv:5012:2", "source": "プロテクトルーム  ", "english": "Protection Room  ", "status": "draft"}
+{"id": "table/strtable.csv:5013:2", "source": "特典              ", "english": "Benefits              ", "status": "draft"}
+{"id": "table/strtable.csv:5014:2", "source": "NCポイント交換    ", "english": "Exchange NC Points    ", "status": "draft"}
+{"id": "table/strtable.csv:5015:2", "source": "アナザーブック", "english": "Another Book", "status": "draft"}
+{"id": "table/strtable.csv:5016:2", "source": "状態表示設定", "english": "Status Display Settings", "status": "draft"}
+{"id": "table/strtable.csv:5017:2", "source": "まいにちダンジョン", "english": "Daily Dungeon", "status": "draft"}
+{"id": "table/strtable.csv:5018:2", "source": "称号　　　　　　　", "english": "Title　　　　　　　", "status": "draft"}
+{"id": "table/strtable.csv:5020:2", "source": "世界状況        ", "english": "World Status        ", "status": "draft"}
+{"id": "table/strtable.csv:5021:2", "source": "オプション      ", "english": "Options      ", "status": "draft"}
+{"id": "table/strtable.csv:5022:2", "source": "パートナー      ", "english": "Partner      ", "status": "draft"}
+{"id": "table/strtable.csv:5026:2", "source": "配置中のアトラクションユニットレベルが%dになりました", "english": "The placed attraction unit reached level %d.", "status": "draft"}
+{"id": "table/strtable.csv:5027:2", "source": "ウネが拡張され、種がより多く植えられるようになりました", "english": "The planting bed was expanded, so you can plant more seeds.", "status": "draft"}
+{"id": "table/strtable.csv:5029:2", "source": "差し押さえ状態", "english": "Seized", "status": "draft"}
+{"id": "table/strtable.csv:5030:2", "source": "強制撤去状態", "english": "Subject to forced removal", "status": "draft"}
+{"id": "table/strtable.csv:5032:2", "source": "種まきウィンドウ", "english": "Planting Window", "status": "draft"}
+{"id": "table/strtable.csv:5033:2", "source": "対象外のアイテムです", "english": "This item cannot be used here.", "status": "draft"}
+{"id": "table/strtable.csv:5034:2", "source": "種をまけない状態", "english": "Seeds cannot be planted right now.", "status": "draft"}
+{"id": "table/strtable.csv:5035:2", "source": "他のユーザーが種を植えたため、ウィンドウが閉じられました", "english": "The window closed because another user planted a seed.", "status": "draft"}
+{"id": "table/strtable.csv:5037:2", "source": "作物情報ウィンドウ", "english": "Crop Information Window", "status": "draft"}
+{"id": "table/strtable.csv:5038:2", "source": "種の名前", "english": "Seed Name", "status": "draft"}
+{"id": "table/strtable.csv:5039:2", "source": "種の主", "english": "Seed Owner", "status": "draft"}
+{"id": "table/strtable.csv:5040:2", "source": "収穫時期", "english": "Harvest Time", "status": "draft"}
+{"id": "table/strtable.csv:5041:2", "source": "%d 日　【%d時間 %d分】", "english": "%d days　【%d hours %d minutes】", "status": "draft"}
+{"id": "table/strtable.csv:5042:2", "source": "-%d 日　【-%d時間 %d分】", "english": "-%d days　【-%d hours %d minutes】", "status": "draft"}
+{"id": "table/strtable.csv:5043:2", "source": "成長度", "english": "Growth", "status": "draft"}
+{"id": "table/strtable.csv:5044:2", "source": "愛情度", "english": "Affection", "status": "draft"}
+{"id": "table/strtable.csv:5045:2", "source": "作物の世話", "english": "Tend Crops", "status": "draft"}
+{"id": "table/strtable.csv:5046:2", "source": "収穫", "english": "Harvest", "status": "draft"}
+{"id": "table/strtable.csv:5047:2", "source": "基本栽培", "english": "Basic Cultivation", "status": "draft"}
+{"id": "table/strtable.csv:5048:2", "source": "高等栽培", "english": "Advanced Cultivation", "status": "draft"}
+{"id": "table/strtable.csv:5049:2", "source": "実行できない栽培", "english": "This cultivation action cannot be performed.", "status": "draft"}
+{"id": "table/strtable.csv:5050:2", "source": "栽培済み", "english": "Already cultivated", "status": "draft"}
+{"id": "table/strtable.csv:5051:2", "source": "成長度が足りないため、間引けませんでした", "english": "Could not thin the crop because it has not grown enough.", "status": "draft"}
+{"id": "table/strtable.csv:5052:2", "source": "この作物は収穫されたため、ウィンドウが閉じられました", "english": "The window closed because this crop was harvested.", "status": "draft"}
+{"id": "table/strtable.csv:5053:2", "source": "設置したリングのリングメンバーではない為、使用できません", "english": "Only members of the Ring that placed this can use it.", "status": "draft"}
+{"id": "table/strtable.csv:5054:2", "source": "このウネに自身の作物が存在しない為、使用できません", "english": "You have no crops in this planting bed.", "status": "draft"}
+{"id": "table/strtable.csv:5057:2", "source": "収穫リストウィンドウ", "english": "Harvest List Window", "status": "draft"}
+{"id": "table/strtable.csv:5058:2", "source": "%s %d個", "english": "%s %d items", "status": "draft"}
+{"id": "table/strtable.csv:5059:2", "source": "を手に入れました", "english": " obtained", "status": "draft"}
+{"id": "table/strtable.csv:5060:2", "source": "%sを%d個を収穫しました", "english": "Harvested %s x%d.", "status": "draft"}
+{"id": "table/strtable.csv:5061:2", "source": "実行できない栽培", "english": "This cultivation action cannot be performed.", "status": "draft"}
+{"id": "table/strtable.csv:5062:2", "source": "誰かが収穫BOXを利用中", "english": "Someone is using the Harvest Box.", "status": "draft"}
+{"id": "table/strtable.csv:5063:2", "source": "収穫BOXに31種類以上ある状態のため、これ以上収穫できません", "english": "The Harvest Box contains 31 or more item types, so no more can be harvested.", "status": "draft"}
+{"id": "table/strtable.csv:5064:2", "source": "収穫BOXを整理してから収穫して下さい", "english": "Organize the Harvest Box before harvesting.", "status": "draft"}
+{"id": "table/strtable.csv:5065:2", "source": "%sは、これ以上収穫BOXに入りませんでした", "english": "%s could not fit in the Harvest Box.", "status": "draft"}
+{"id": "table/strtable.csv:5067:2", "source": "収穫BOX", "english": "Harvest Box", "status": "draft"}
+{"id": "table/strtable.csv:5068:2", "source": "なんらかの原因で失敗しました", "english": "It failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:5069:2", "source": "アイテム所持数が100個を超えるため取得に失敗しました", "english": "Could not obtain the item because your inventory would exceed 100 items.", "status": "draft"}
+{"id": "table/strtable.csv:5070:2", "source": "指定した格納場所は使用できません", "english": "The selected storage location cannot be used.", "status": "draft"}
+{"id": "table/strtable.csv:5073:2", "source": "ファーム図鑑", "english": "Farm Encyclopedia", "status": "draft"}
+{"id": "table/strtable.csv:5074:2", "source": "%sを%d個を登録します", "english": "Register %s x%d.", "status": "draft"}
+{"id": "table/strtable.csv:5075:2", "source": "%sを%d個を登録します。$r登録に必要な数を超えた為、個数を制限しました。", "english": "Register %s x%d.$rThe amount was limited because it exceeded the required quantity.", "status": "draft"}
+{"id": "table/strtable.csv:5076:2", "source": "登録対象外の$sアイテムです", "english": "This $s item cannot be registered.", "status": "draft"}
+{"id": "table/strtable.csv:5077:2", "source": "アイテムをこれ以上の登録することは出来ません", "english": "No more items can be registered.", "status": "draft"}
+{"id": "table/strtable.csv:5078:2", "source": "登録に必要な数を超えているため$rアイテムを登録することは出来ませんでした。", "english": "The required quantity has been exceeded,$rso the item could not be registered.", "status": "draft"}
+{"id": "table/strtable.csv:5079:2", "source": "自身、あるいはリングメンバーの方が$rアナザーコンプリートの褒賞受領せずに$r再度、アナザーコンプリートに至った場合$r前回のアナザーコンプリート分の褒賞は$r受け取れなくなります。$r$r本当に登録しても宜しいですか？", "english": "If you or a Ring member$rreaches Another completion again$rwithout claiming the reward for the prior completion,$rthat prior reward$rwill no longer be available.$r$rAre you sure you want to register?", "status": "draft"}
+{"id": "table/strtable.csv:5080:2", "source": "（あと %d 個）", "english": "(%d remaining)", "status": "draft"}
+{"id": "table/strtable.csv:5081:2", "source": "アイテム所持数が100個を超えるため取得に失敗しました", "english": "Could not obtain the item because your inventory would exceed 100 items.", "status": "draft"}
+{"id": "table/strtable.csv:5082:2", "source": "未鑑定品のため登録できませんでした", "english": "Could not register because the item is unidentified.", "status": "draft"}
+{"id": "table/strtable.csv:5085:2", "source": "水生生物図鑑", "english": "Aquatic Life Encyclopedia", "status": "draft"}
+{"id": "table/strtable.csv:5086:2", "source": "番号", "english": "No.", "status": "draft"}
+{"id": "table/strtable.csv:5087:2", "source": "名前", "english": "Name", "status": "draft"}
+{"id": "table/strtable.csv:5088:2", "source": "好みの餌色", "english": "Preferred Bait Color", "status": "draft"}
+{"id": "table/strtable.csv:5089:2", "source": "インベントリが一杯で、受け取れない", "english": "Cannot receive this because your inventory is full.", "status": "draft"}
+{"id": "table/strtable.csv:5090:2", "source": "所持可能金額を超えてしまうので、受け取れない", "english": "Cannot receive this because it would exceed your maximum currency.", "status": "draft"}
+{"id": "table/strtable.csv:5092:2", "source": "餌装備", "english": "Equip Bait", "status": "draft"}
+{"id": "table/strtable.csv:5093:2", "source": "水質変更に失敗しました", "english": "Failed to change the water quality.", "status": "draft"}
+{"id": "table/strtable.csv:5094:2", "source": "イベント実行中のため変更できません", "english": "Cannot change this while an event is in progress.", "status": "draft"}
+{"id": "table/strtable.csv:5095:2", "source": "前回の水質変更から６０分が経過していないため変更できません", "english": "Cannot change this until 60 minutes have passed since the previous water-quality change.", "status": "draft"}
+{"id": "table/strtable.csv:5096:2", "source": "飛空城が差し押さえ状態のため変更できません", "english": "Cannot change this while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:5097:2", "source": "強制撤去状態のため変更できません", "english": "Cannot change this while it is subject to forced removal.", "status": "draft"}
+{"id": "table/strtable.csv:5099:2", "source": "何も釣れなかった", "english": "Nothing was caught.", "status": "draft"}

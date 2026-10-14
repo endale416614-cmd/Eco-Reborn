@@ -1,0 +1,156 @@
+{"id":"table/strtable.csv:5721:2","source":"魔法攻撃力(最大)","english":"Max Magic Attack","status":"draft"}
+{"id":"table/strtable.csv:5722:2","source":"近距離命中力","english":"Melee Accuracy","status":"draft"}
+{"id":"table/strtable.csv:5723:2","source":"遠距離命中力","english":"Ranged Accuracy","status":"draft"}
+{"id":"table/strtable.csv:5724:2","source":"物理防御力(－)","english":"Physical Defense (−)","status":"draft"}
+{"id":"table/strtable.csv:5725:2","source":"物理防御力(％)","english":"Physical Defense (%)","status":"draft"}
+{"id":"table/strtable.csv:5726:2","source":"魔法防御力(－)","english":"Magic Defense (−)","status":"draft"}
+{"id":"table/strtable.csv:5727:2","source":"魔法防御力(％)","english":"Magic Defense (%)","status":"draft"}
+{"id":"table/strtable.csv:5728:2","source":"近距離回避力","english":"Melee Evasion","status":"draft"}
+{"id":"table/strtable.csv:5729:2","source":"遠距離回避力","english":"Ranged Evasion","status":"draft"}
+{"id":"table/strtable.csv:5730:2","source":"攻撃速度","english":"Attack Speed","status":"draft"}
+{"id":"table/strtable.csv:5731:2","source":"詠唱速度","english":"Cast Speed","status":"draft"}
+{"id":"table/strtable.csv:5732:2","source":"系統","english":"Family","status":"draft"}
+{"id":"table/strtable.csv:5733:2","source":"種別","english":"Type","status":"draft"}
+{"id":"table/strtable.csv:5734:2","source":"転生","english":"Rebirth","status":"draft"}
+{"id":"table/strtable.csv:5735:2","source":"未転生","english":"Not Reborn","status":"draft"}
+{"id":"table/strtable.csv:5736:2","source":"転生済","english":"Reborn","status":"draft"}
+{"id":"table/strtable.csv:5737:2","source":"レベル差によるステータス減衰発生中","english":"Stats reduced due to level difference","status":"draft"}
+{"id":"table/strtable.csv:5738:2","source":"最大ＨＰ。耐久力に依存します。","english":"Max HP. Depends on Stamina.","status":"draft"}
+{"id":"table/strtable.csv:5739:2","source":"最大ＭＰ。魔法攻撃に依存します。","english":"Max MP. Depends on Magic Attack.","status":"draft"}
+{"id":"table/strtable.csv:5740:2","source":"最大ＳＰ。近接攻撃に依存します。","english":"Max SP. Depends on Melee Attack.","status":"draft"}
+{"id":"table/strtable.csv:5741:2","source":"最小物理攻撃力。近接攻撃に依存します。","english":"Min Physical Attack. Depends on Melee Attack.","status":"draft"}
+{"id":"table/strtable.csv:5742:2","source":"最大物理攻撃力。近接攻撃に依存します。","english":"Max Physical Attack. Depends on Melee Attack.","status":"draft"}
+{"id":"table/strtable.csv:5743:2","source":"最小魔法攻撃力。魔法攻撃に依存します。","english":"Min Magic Attack. Depends on Magic Attack.","status":"draft"}
+{"id":"table/strtable.csv:5744:2","source":"最大魔法攻撃力。魔法攻撃に依存します。","english":"Max Magic Attack. Depends on Magic Attack.","status":"draft"}
+{"id":"table/strtable.csv:5745:2","source":"近距離命中力。攻撃の精度に依存します。","english":"Melee Accuracy. Depends on attack accuracy.","status":"draft"}
+{"id":"table/strtable.csv:5746:2","source":"遠距離命中力。攻撃の精度に依存します。","english":"Ranged Accuracy. Depends on attack accuracy.","status":"draft"}
+{"id":"table/strtable.csv:5747:2","source":"追加物理防御力。耐久力に依存します。","english":"Additional Physical Defense. Depends on Stamina.","status":"draft"}
+{"id":"table/strtable.csv:5748:2","source":"基本物理防御力。耐久力に依存します。","english":"Base Physical Defense. Depends on Stamina.","status":"draft"}
+{"id":"table/strtable.csv:5749:2","source":"追加魔法防御力。精神力に依存します。","english":"Additional Magic Defense. Depends on Mental Strength.","status":"draft"}
+{"id":"table/strtable.csv:5750:2","source":"基本魔法防御力。精神力に依存します。","english":"Base Magic Defense. Depends on Mental Strength.","status":"draft"}
+{"id":"table/strtable.csv:5751:2","source":"近距離回避力。フットワークに依存します。","english":"Melee Evasion. Depends on Footwork.","status":"draft"}
+{"id":"table/strtable.csv:5752:2","source":"遠距離回避力。フットワークに依存します。","english":"Ranged Evasion. Depends on Footwork.","status":"draft"}
+{"id":"table/strtable.csv:5753:2","source":"攻撃速度。フットワークに依存します。","english":"Attack Speed. Depends on Footwork.","status":"draft"}
+{"id":"table/strtable.csv:5754:2","source":"詠唱速度。精神力に依存します。","english":"Cast Speed. Depends on Mental Strength.","status":"draft"}
+{"id":"table/strtable.csv:5755:2","source":"現在のパートナーの系統","english":"Current Partner family","status":"draft"}
+{"id":"table/strtable.csv:5756:2","source":"＜パートナーランク＞","english":"<Partner Rank>","status":"draft"}
+{"id":"table/strtable.csv:5757:2","source":"次の食事まで","english":"Until next meal","status":"draft"}
+{"id":"table/strtable.csv:5758:2","source":"信頼度ＵＰ","english":"Trust UP","status":"draft"}
+{"id":"table/strtable.csv:5759:2","source":"成長ポイント","english":"Growth Points","status":"draft"}
+{"id":"table/strtable.csv:5760:2","source":"近接攻撃を強くする","english":"Increase Melee Attack","status":"draft"}
+{"id":"table/strtable.csv:5761:2","source":"魔法攻撃を強くする","english":"Increase Magic Attack","status":"draft"}
+{"id":"table/strtable.csv:5762:2","source":"耐久力を鍛える","english":"Train Stamina","status":"draft"}
+{"id":"table/strtable.csv:5763:2","source":"精神力を鍛える","english":"Train Mental Strength","status":"draft"}
+{"id":"table/strtable.csv:5764:2","source":"攻撃の精度を上げる","english":"Improve attack accuracy","status":"draft"}
+{"id":"table/strtable.csv:5765:2","source":"フットワークを鍛える","english":"Train Footwork","status":"draft"}
+{"id":"table/strtable.csv:5766:2","source":"最大ＳＰ$r物理攻撃力(最小)$r物理攻撃力(最大)","english":"Max SP$rPhysical Attack (Min)$rPhysical Attack (Max)","status":"draft"}
+{"id":"table/strtable.csv:5767:2","source":"最大ＭＰ$r魔法攻撃力(最小)$r魔法攻撃力(最大)","english":"Max MP$rMagic Attack (Min)$rMagic Attack (Max)","status":"draft"}
+{"id":"table/strtable.csv:5768:2","source":"最大ＨＰ$r物理防御力(－)$r物理防御力(％)","english":"Max HP$rPhysical Defense (−)$rPhysical Defense (%)","status":"draft"}
+{"id":"table/strtable.csv:5769:2","source":"魔法防御力(－)$r魔法防御力(％)$r詠唱速度","english":"Magic Defense (−)$rMagic Defense (%)$rCast Speed","status":"draft"}
+{"id":"table/strtable.csv:5770:2","source":"近距離命中力$r遠距離命中力","english":"Melee Accuracy$rRanged Accuracy","status":"draft"}
+{"id":"table/strtable.csv:5771:2","source":"近距離回避力$r遠距離回避力$r攻撃速度","english":"Melee Evasion$rRanged Evasion$rAttack Speed","status":"draft"}
+{"id":"table/strtable.csv:5772:2","source":"＜武器＞","english":"<Weapon>","status":"draft"}
+{"id":"table/strtable.csv:5773:2","source":"＜防具＞","english":"<Armor>","status":"draft"}
+{"id":"table/strtable.csv:5774:2","source":"＜食べ物＞","english":"<Food>","status":"draft"}
+{"id":"table/strtable.csv:5775:2","source":"自動で食事するのを許可する","english":"Allow automatic feeding","status":"draft"}
+{"id":"table/strtable.csv:5776:2","source":"食事をすることができません","english":"Cannot eat","status":"draft"}
+{"id":"table/strtable.csv:5778:2","source":"黒","english":"Black","status":"draft"}
+{"id":"table/strtable.csv:5779:2","source":"紫","english":"Purple","status":"draft"}
+{"id":"table/strtable.csv:5780:2","source":"青","english":"Blue","status":"draft"}
+{"id":"table/strtable.csv:5781:2","source":"水色","english":"Light Blue","status":"draft"}
+{"id":"table/strtable.csv:5782:2","source":"緑","english":"Green","status":"draft"}
+{"id":"table/strtable.csv:5783:2","source":"黄緑","english":"Yellow-Green","status":"draft"}
+{"id":"table/strtable.csv:5784:2","source":"黄色","english":"Yellow","status":"draft"}
+{"id":"table/strtable.csv:5785:2","source":"橙色","english":"Orange","status":"draft"}
+{"id":"table/strtable.csv:5786:2","source":"赤","english":"Red","status":"draft"}
+{"id":"table/strtable.csv:5787:2","source":"桃色","english":"Pink","status":"draft"}
+{"id":"table/strtable.csv:5788:2","source":"マシナファーム時にパートナー情報ウィンドウを開く事は出来ません","english":"Cannot open the Partner Information window while in Machina Form.","status":"draft","note":"Source says マシナファーム; translated as Machina Form from the surrounding DEM-mode context, while preserving the source spelling discrepancy."}
+{"id":"table/strtable.csv:5789:2","source":"パートナーが装備されていません","english":"No Partner is equipped.","status":"draft"}
+{"id":"table/strtable.csv:5790:2","source":"回復時間","english":"Recovery Time","status":"draft"}
+{"id":"table/strtable.csv:5791:2","source":"残り %s 分","english":"%s minutes remaining","status":"draft"}
+{"id":"table/strtable.csv:5794:2","source":"パートナーセリフカスタマイズ","english":"Partner Speech Customization","status":"draft"}
+{"id":"table/strtable.csv:5795:2","source":"状況選択","english":"Select Situation","status":"draft"}
+{"id":"table/strtable.csv:5796:2","source":"発言頻度","english":"Speech Frequency","status":"draft"}
+{"id":"table/strtable.csv:5798:2","source":"セリフ入力","english":"Enter Speech","status":"draft"}
+{"id":"table/strtable.csv:5799:2","source":"※全角６２文字、半角１２４文字、最大５行まで$r（改行も文字数にカウントされます）","english":"※62 fullwidth or 124 halfwidth characters; max 5 lines.$r(Newlines count toward the character limit.)","status":"draft"}
+{"id":"table/strtable.csv:5800:2","source":"発言しない","english":"Do not speak","status":"draft"}
+{"id":"table/strtable.csv:5801:2","source":"稀に発言する","english":"Speak rarely","status":"draft"}
+{"id":"table/strtable.csv:5802:2","source":"たまに発言する","english":"Speak occasionally","status":"draft"}
+{"id":"table/strtable.csv:5803:2","source":"ほどよく発言する","english":"Speak sometimes","status":"draft"}
+{"id":"table/strtable.csv:5804:2","source":"頻繁に発言する","english":"Speak frequently","status":"draft"}
+{"id":"table/strtable.csv:5805:2","source":"絶対に発言する","english":"Always speak","status":"draft"}
+{"id":"table/strtable.csv:5806:2","source":"セリフ内容にＮＧワードが含まれています","english":"The speech contains a prohibited word.","status":"draft"}
+{"id":"table/strtable.csv:5807:2","source":"セリフ内容にＮＧワードが含まれています","english":"The speech contains a prohibited word.","status":"draft"}
+{"id":"table/strtable.csv:5808:2","source":"セリフが保存されていませんが状況選択を変更しますか？","english":"Speech has not been saved. Change the selected situation?","status":"draft"}
+{"id":"table/strtable.csv:5809:2","source":"セリフが保存されていませんが終了してよろしいですか？","english":"Speech has not been saved. Are you sure you want to exit?","status":"draft"}
+{"id":"table/strtable.csv:5810:2","source":"パートナーのセリフを保存しました","english":"Partner speech saved.","status":"draft"}
+{"id":"table/strtable.csv:5811:2","source":"セリフ内容にＮＧワードが含まれていたため保存に失敗しました","english":"Could not save because the speech contained a prohibited word.","status":"draft"}
+{"id":"table/strtable.csv:5812:2","source":"何らかの理由で保存に失敗しました","english":"Could not save for some reason.","status":"draft"}
+{"id":"table/strtable.csv:5813:2","source":"現在装備中のパートナーに$r設定されているセリフを全て初期化しますか？","english":"Reset all speech settings$rfor the currently equipped Partner?","status":"draft"}
+{"id":"table/strtable.csv:5819:2","source":"ネットカフェからログイン中","english":"Logged in from an internet cafe","status":"draft"}
+{"id":"table/strtable.csv:5820:2","source":"【所持ＮＣポイント：%s】","english":"【NC Points held: %s】","status":"draft"}
+{"id":"table/strtable.csv:5821:2","source":"飛空城の発着場がないため移動できません","english":"Cannot move because there is no Flying Castle dock.","status":"draft"}
+{"id":"table/strtable.csv:5822:2","source":"エミル世界以外からは移動できません","english":"Cannot move from outside the World of Emil.","status":"draft"}
+{"id":"table/strtable.csv:5823:2","source":"ネットカフェポイントを%d入手しました","english":"Obtained %d internet cafe points.","status":"draft"}
+{"id":"table/strtable.csv:5824:2","source":"ネットカフェポイントを%d失いました","english":"Lost %d internet cafe points.","status":"draft"}
+{"id":"table/strtable.csv:5825:2","source":"有効期限を過ぎたため、ネットカフェポイントを%d失いました","english":"Lost %d internet cafe points because they expired.","status":"draft"}
+{"id":"table/strtable.csv:5826:2","source":"%d年%d月%d日%d時に所有されているネットカフェポイントの有効期限が切れます。","english":"Your internet cafe points expire on %d/%d/%d at %d:00.","status":"draft"}
+{"id":"table/strtable.csv:5827:2","source":"有効期限が切れた場合、所有している%dネットカフェポイントは0になります。","english":"When they expire, your %d internet cafe points will be reduced to 0.","status":"draft"}
+{"id":"table/strtable.csv:5828:2","source":"このメッセージはネットカフェポイントをすべてご利用いただくか、","english":"This message will disappear when you use all your internet cafe points,","status":"draft"}
+{"id":"table/strtable.csv:5829:2","source":"ECO公認店舗を利用して有効期限を延長する事で表示されなくなります。","english":"or extend their expiration by using an ECO-authorized shop.","status":"draft"}
+{"id":"table/strtable.csv:5833:2","source":"奈落階層登録チームリスト","english":"Abyss Floor Team List","status":"draft"}
+{"id":"table/strtable.csv:5834:2","source":"チーム名","english":"Team Name","status":"draft"}
+{"id":"table/strtable.csv:5835:2","source":"名前（参加人数）","english":"Name (Member Count)","status":"draft"}
+{"id":"table/strtable.csv:5836:2","source":"階層","english":"Floor","status":"draft"}
+{"id":"table/strtable.csv:5837:2","source":"条件","english":"Requirements","status":"draft"}
+{"id":"table/strtable.csv:5838:2","source":"コメント","english":"Comment","status":"draft"}
+{"id":"table/strtable.csv:5839:2","source":"詳細","english":"Details","status":"draft"}
+{"id":"table/strtable.csv:5845:2","source":"%d階","english":"Floor %d","status":"draft"}
+{"id":"table/strtable.csv:5846:2","source":"パスワードが必要です","english":"Password required.","status":"draft"}
+{"id":"table/strtable.csv:5847:2","source":"加入中のチームから脱退します","english":"Leave your current team.","status":"draft"}
+{"id":"table/strtable.csv:5848:2","source":"立ち上げたチームを解散します","english":"Disband the team you created.","status":"draft"}
+{"id":"table/strtable.csv:5849:2","source":"%sさんがチームから脱退しました","english":"%s left the team.","status":"draft"}
+{"id":"table/strtable.csv:5850:2","source":"加入申請中です","english":"Application pending.","status":"draft"}
+{"id":"table/strtable.csv:5851:2","source":"%sに参加しました","english":"Joined %s.","status":"draft"}
+{"id":"table/strtable.csv:5852:2","source":"何らかの原因で失敗しました","english":"Failed for some reason.","status":"draft"}
+{"id":"table/strtable.csv:5853:2","source":"チームが満員のため入れませんでした","english":"Could not join because the team is full.","status":"draft"}
+{"id":"table/strtable.csv:5854:2","source":"パスワードが違います","english":"Incorrect password.","status":"draft"}
+{"id":"table/strtable.csv:5855:2","source":"条件に合わなかったため入れませんでした","english":"Could not join because you do not meet the requirements.","status":"draft"}
+{"id":"table/strtable.csv:5856:2","source":"参加できませんでした","english":"Could not join.","status":"draft"}
+{"id":"table/strtable.csv:5857:2","source":"リーダーがいないため入れませんでした","english":"Could not join because there is no leader.","status":"draft"}
+{"id":"table/strtable.csv:5858:2","source":"チームが解散されているため入れませんでした","english":"Could not join because the team has been disbanded.","status":"draft"}
+{"id":"table/strtable.csv:5859:2","source":"既にチームに参加しています","english":"You are already in a team.","status":"draft"}
+{"id":"table/strtable.csv:5860:2","source":"参加申し込みの上限に達しているため、申請を行えませんでした","english":"Cannot apply because you have reached the application limit.","status":"draft"}
+{"id":"table/strtable.csv:5861:2","source":"申請許可を待っているユーザーは多数居たため、加入することは出来ませんでした","english":"Could not join because many users are waiting for approval.","status":"draft"}
+{"id":"table/strtable.csv:5862:2","source":"参加申請","english":"Join Request","status":"draft"}
+{"id":"table/strtable.csv:5863:2","source":"%sさんからチーム参加の申請がきています。$rＬＶ：%d　ＪＯＢ：%s","english":"%s has requested to join your team.$rLV: %d  JOB: %s","status":"draft"}
+{"id":"table/strtable.csv:5864:2","source":"参加を拒否しました","english":"Join request declined.","status":"draft"}
+{"id":"table/strtable.csv:5865:2","source":"チーム「%s」を脱退しました","english":"You left team “%s”.","status":"draft"}
+{"id":"table/strtable.csv:5866:2","source":"既にチームが解散されています","english":"The team has already been disbanded.","status":"draft"}
+{"id":"table/strtable.csv:5867:2","source":"チーム「%s」を解散しました","english":"You disbanded team “%s”.","status":"draft"}
+{"id":"table/strtable.csv:5868:2","source":"規定時間が経過したため、チームが解散されました","english":"The team was disbanded because the time limit expired.","status":"draft"}
+{"id":"table/strtable.csv:5869:2","source":"既にチームが解散されています","english":"The team has already been disbanded.","status":"draft"}
+{"id":"table/strtable.csv:5870:2","source":"何らかの原因で失敗しました","english":"Failed for some reason.","status":"draft"}
+{"id":"table/strtable.csv:5871:2","source":"参加申請を出したユーザーがロビー内に居なかったため、参加申請はキャンセルされました","english":"The application was canceled because the applicant was not in the lobby.","status":"draft"}
+{"id":"table/strtable.csv:5872:2","source":"既に他のチームに加入しているため、加入することが出来ませんでした。","english":"Could not join because you are already in another team.","status":"draft"}
+{"id":"table/strtable.csv:5873:2","source":"奈落階層内：%d階","english":"Inside the Abyss: Floor %d","status":"draft"}
+{"id":"table/strtable.csv:5876:2","source":"チーム登録","english":"Register Team","status":"draft"}
+{"id":"table/strtable.csv:5877:2","source":"作成する","english":"Create","status":"draft"}
+{"id":"table/strtable.csv:5879:2","source":"チーム名","english":"Team Name","status":"draft"}
+{"id":"table/strtable.csv:5880:2","source":"コメント","english":"Comment","status":"draft"}
+{"id":"table/strtable.csv:5881:2","source":"パスワード（半角英数8文字まで）","english":"Password (up to 8 alphanumeric characters)","status":"draft"}
+{"id":"table/strtable.csv:5882:2","source":"ログポイントからのリスタート","english":"Restart from Log Point","status":"draft"}
+{"id":"table/strtable.csv:5883:2","source":"チャットルームの作成","english":"Create Chat Room","status":"draft"}
+{"id":"table/strtable.csv:5884:2","source":"詳細設定","english":"Advanced Settings","status":"draft"}
+{"id":"table/strtable.csv:5885:2","source":"LV帯","english":"Level Range","status":"draft"}
+{"id":"table/strtable.csv:5886:2","source":"チームの登録に失敗しました","english":"Failed to register the team.","status":"draft"}
+{"id":"table/strtable.csv:5887:2","source":"チーム名を設定してください。","english":"Please set a team name.","status":"draft"}
+{"id":"table/strtable.csv:5888:2","source":"何らかの原因で失敗しました","english":"Failed for some reason.","status":"draft"}
+{"id":"table/strtable.csv:5889:2","source":"既にチームを登録しているため、チーム登録が行えませんでした","english":"Could not register because you have already registered a team.","status":"draft"}
+{"id":"table/strtable.csv:5890:2","source":"既に他のチームに加入しているため、チーム登録が行えませんでした","english":"Could not register because you are already in another team.","status":"draft"}
+{"id":"table/strtable.csv:5891:2","source":"チームの登録数が上限に達しているため、チーム登録が行えませんでした","english":"Could not register because the team registration limit has been reached.","status":"draft"}
+{"id":"table/strtable.csv:5892:2","source":"チームを登録しました","english":"Team registered.","status":"draft"}
+{"id":"table/strtable.csv:5893:2","source":"何らかの原因で失敗しました","english":"Failed for some reason.","status":"draft"}
+{"id":"table/strtable.csv:5894:2","source":"チーム登録数の上限に達しているため、チームを登録することが出来ませんでした","english":"Could not register because the team registration limit has been reached.","status":"draft"}
+{"id":"table/strtable.csv:5895:2","source":"チーム名を設定してください","english":"Please set a team name.","status":"draft"}
+{"id":"table/strtable.csv:5898:2","source":"詳細条件","english":"Team Details","status":"draft"}

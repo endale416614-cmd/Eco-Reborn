@@ -1,0 +1,14 @@
+# Fresh account: create a character, enter the start room, walk, and check the position survives a relog.
+login
+create Tester
+select 0
+enter
+expect-spawn 63 58 20013003
+loaded
+move 63 62 90
+relog                 # disconnect without logout: the server saves the batched position
+expect-saved 63 62
+expect-spawn 63 62
+loaded
+logout
+servers-alive

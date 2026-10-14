@@ -1,0 +1,100 @@
+{"id": "table/strtable.csv:168:2", "source": "パーティーチャット", "english": "Party chat", "status": "draft"}
+{"id": "table/strtable.csv:169:2", "source": "リングチャット", "english": "Ring chat", "status": "draft"}
+{"id": "table/strtable.csv:170:2", "source": "ウィスパーチャット", "english": "Whisper chat", "status": "draft"}
+{"id": "table/strtable.csv:171:2", "source": "チャットルーム", "english": "Chat room", "status": "draft"}
+{"id": "table/strtable.csv:172:2", "source": "ミニゲームチャットルーム", "english": "Minigame chat room", "status": "draft"}
+{"id": "table/strtable.csv:174:2", "source": "消費するＥＰ数を増加させます", "english": "Increases the amount of EP consumed.", "status": "draft"}
+{"id": "table/strtable.csv:175:2", "source": "消費するＥＰ数を減少させます", "english": "Reduces the amount of EP consumed.", "status": "draft"}
+{"id": "table/strtable.csv:177:2", "source": "属性値ウィンドウを表示します", "english": "Displays the attribute values window.", "status": "draft"}
+{"id": "table/strtable.csv:178:2", "source": "イベントウィンドウを表示します", "english": "Displays the event window.", "status": "draft"}
+{"id": "table/strtable.csv:179:2", "source": "メニューウィンドウを表示します", "english": "Displays the menu window.", "status": "draft"}
+{"id": "table/strtable.csv:181:2", "source": "エモーションウィンドウを表示します", "english": "Displays the emote window.", "status": "draft"}
+{"id": "table/strtable.csv:182:2", "source": "職業チャット", "english": "Job chat", "status": "draft"}
+{"id": "table/strtable.csv:183:2", "source": "状態異常リストを表示します", "english": "Displays the status ailment list.", "status": "draft"}
+{"id": "table/strtable.csv:184:2", "source": "マクロ内容を切り替えます", "english": "Switches macro content.", "status": "draft"}
+{"id": "table/strtable.csv:185:2", "source": "マクロ内容を切り替えます", "english": "Switches macro content.", "status": "draft"}
+{"id": "table/strtable.csv:187:2", "source": "プロテクトルームチャット", "english": "Protect Room chat", "status": "draft", "note": "“Protect Room” is retained as a possible game-specific term; confirm against game context."}
+{"id": "table/strtable.csv:189:2", "source": "ログインサーバー接続ランプ", "english": "Login server connection indicator", "status": "draft"}
+{"id": "table/strtable.csv:190:2", "source": "ログインサーバーログインランプ", "english": "Login server sign-in indicator", "status": "draft"}
+{"id": "table/strtable.csv:191:2", "source": "メッセージサーバー接続ランプ", "english": "Message server connection indicator", "status": "draft"}
+{"id": "table/strtable.csv:192:2", "source": "メッセージサーバーログインランプ", "english": "Message server sign-in indicator", "status": "draft"}
+{"id": "table/strtable.csv:193:2", "source": "ゲームサーバー接続ランプ", "english": "Game server connection indicator", "status": "draft"}
+{"id": "table/strtable.csv:194:2", "source": "ゲームサーバーログインランプ", "english": "Game server sign-in indicator", "status": "draft"}
+{"id": "table/strtable.csv:195:2", "source": "スクリーンショットモードボタン", "english": "Screenshot mode button", "status": "draft"}
+{"id": "table/strtable.csv:197:2", "source": "ウィンドウサイズを変更する", "english": "Change the window size.", "status": "draft"}
+{"id": "table/strtable.csv:199:2", "source": "エミル", "english": "Emil", "status": "draft"}
+{"id": "table/strtable.csv:200:2", "source": "タイタニア", "english": "Titania", "status": "draft"}
+{"id": "table/strtable.csv:201:2", "source": "ドミニオン", "english": "Dominion", "status": "draft"}
+{"id": "table/strtable.csv:203:2", "source": "ハイエミル", "english": "High Emil", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:204:2", "source": "アークタイタニア", "english": "Arch-Titania", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:205:2", "source": "イクスドミニオン", "english": "Ix Dominion", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:209:2", "source": "ノービス", "english": "Novice", "status": "draft"}
+{"id": "table/strtable.csv:210:2", "source": "ジョーカー", "english": "Joker", "status": "draft"}
+{"id": "table/strtable.csv:212:2", "source": "ソードマン", "english": "Swordman", "status": "draft"}
+{"id": "table/strtable.csv:213:2", "source": "ブレイドマスター", "english": "Blade Master", "status": "draft"}
+{"id": "table/strtable.csv:214:2", "source": "バウンティハンター", "english": "Bounty Hunter", "status": "draft"}
+{"id": "table/strtable.csv:215:2", "source": "グラディエイター", "english": "Gladiator", "status": "draft"}
+{"id": "table/strtable.csv:217:2", "source": "フェンサー", "english": "Fencer", "status": "draft"}
+{"id": "table/strtable.csv:218:2", "source": "ナイト", "english": "Knight", "status": "draft"}
+{"id": "table/strtable.csv:219:2", "source": "ダークストーカー", "english": "Darkstalker", "status": "draft"}
+{"id": "table/strtable.csv:220:2", "source": "ガーディアン", "english": "Guardian", "status": "draft"}
+{"id": "table/strtable.csv:222:2", "source": "スカウト", "english": "Scout", "status": "draft"}
+{"id": "table/strtable.csv:223:2", "source": "アサシン", "english": "Assassin", "status": "draft"}
+{"id": "table/strtable.csv:224:2", "source": "コマンド", "english": "Commando", "status": "draft"}
+{"id": "table/strtable.csv:225:2", "source": "イレイザー", "english": "Eraser", "status": "draft"}
+{"id": "table/strtable.csv:227:2", "source": "アーチャー", "english": "Archer", "status": "draft"}
+{"id": "table/strtable.csv:228:2", "source": "ストライカー", "english": "Striker", "status": "draft"}
+{"id": "table/strtable.csv:229:2", "source": "ガンナー", "english": "Gunner", "status": "draft"}
+{"id": "table/strtable.csv:230:2", "source": "ホークアイ", "english": "Hawkeye", "status": "draft"}
+{"id": "table/strtable.csv:232:2", "source": "ウィザード", "english": "Wizard", "status": "draft"}
+{"id": "table/strtable.csv:233:2", "source": "ソーサラー", "english": "Sorcerer", "status": "draft"}
+{"id": "table/strtable.csv:234:2", "source": "セージ", "english": "Sage", "status": "draft"}
+{"id": "table/strtable.csv:235:2", "source": "フォースマスター", "english": "Force Master", "status": "draft"}
+{"id": "table/strtable.csv:237:2", "source": "シャーマン", "english": "Shaman", "status": "draft"}
+{"id": "table/strtable.csv:238:2", "source": "エレメンタラー", "english": "Elementaler", "status": "draft"}
+{"id": "table/strtable.csv:239:2", "source": "エンチャンター", "english": "Enchanter", "status": "draft"}
+{"id": "table/strtable.csv:240:2", "source": "アストラリスト", "english": "Astralist", "status": "draft"}
+{"id": "table/strtable.csv:242:2", "source": "ウァテス", "english": "Vates", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:243:2", "source": "ドルイド", "english": "Druid", "status": "draft"}
+{"id": "table/strtable.csv:244:2", "source": "バード", "english": "Bard", "status": "draft"}
+{"id": "table/strtable.csv:245:2", "source": "カーディナル", "english": "Cardinal", "status": "draft"}
+{"id": "table/strtable.csv:247:2", "source": "ウォーロック", "english": "Warlock", "status": "draft"}
+{"id": "table/strtable.csv:248:2", "source": "カバリスト", "english": "Cabalist", "status": "draft"}
+{"id": "table/strtable.csv:249:2", "source": "ネクロマンサー", "english": "Necromancer", "status": "draft"}
+{"id": "table/strtable.csv:250:2", "source": "ソウルテイカー", "english": "Soul Taker", "status": "draft"}
+{"id": "table/strtable.csv:252:2", "source": "タタラベ", "english": "Tatarabe", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:253:2", "source": "ブラックスミス", "english": "Blacksmith", "status": "draft"}
+{"id": "table/strtable.csv:254:2", "source": "マシンナリー", "english": "Machinery", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:255:2", "source": "マエストロ", "english": "Maestro", "status": "draft"}
+{"id": "table/strtable.csv:257:2", "source": "ファーマー", "english": "Farmer", "status": "draft"}
+{"id": "table/strtable.csv:258:2", "source": "アルケミスト", "english": "Alchemist", "status": "draft"}
+{"id": "table/strtable.csv:259:2", "source": "マリオネスト", "english": "Marionest", "status": "draft", "note": "Term transliterated; confirm preferred official English terminology."}
+{"id": "table/strtable.csv:260:2", "source": "ハーヴェスト", "english": "Harvest", "status": "draft"}
+{"id": "table/strtable.csv:262:2", "source": "レンジャー", "english": "Ranger", "status": "draft"}
+{"id": "table/strtable.csv:263:2", "source": "エクスプローラー", "english": "Explorer", "status": "draft"}
+{"id": "table/strtable.csv:264:2", "source": "トレジャーハンター", "english": "Treasure Hunter", "status": "draft"}
+{"id": "table/strtable.csv:265:2", "source": "ストライダー", "english": "Strider", "status": "draft"}
+{"id": "table/strtable.csv:267:2", "source": "マーチャント", "english": "Merchant", "status": "draft"}
+{"id": "table/strtable.csv:268:2", "source": "トレーダー", "english": "Trader", "status": "draft"}
+{"id": "table/strtable.csv:269:2", "source": "ギャンブラー", "english": "Gambler", "status": "draft"}
+{"id": "table/strtable.csv:270:2", "source": "ロイヤルディーラー", "english": "Royal Dealer", "status": "draft"}
+{"id": "table/strtable.csv:273:2", "source": "ブリーダー", "english": "Breeder", "status": "draft"}
+{"id": "table/strtable.csv:274:2", "source": "ガーデナー", "english": "Gardener", "status": "draft"}
+{"id": "table/strtable.csv:276:2", "source": "キャラクター本体のアイテム収納枠です", "english": "Item storage slots for the character’s body.", "status": "draft"}
+{"id": "table/strtable.csv:277:2", "source": "キャラクター右手のアイテム収納枠です$rカバン類を装備する必要があります", "english": "Item storage slots for the character’s right hand.$rYou must equip a bag.", "status": "draft"}
+{"id": "table/strtable.csv:278:2", "source": "キャラクター左手のアイテム収納枠です$rカバン類を装備する必要があります", "english": "Item storage slots for the character’s left hand.$rYou must equip a bag.", "status": "draft"}
+{"id": "table/strtable.csv:279:2", "source": "キャラクター背中のアイテム収納枠です$rリュック類を装備する必要があります", "english": "Item storage slots on the character’s back.$rYou must equip a backpack.", "status": "draft"}
+{"id": "table/strtable.csv:281:2", "source": "セーブポイントに戻りますか？", "english": "Return to your save point?", "status": "draft"}
+{"id": "table/strtable.csv:292:2", "source": "コミュニティ", "english": "Community", "status": "draft"}
+{"id": "table/strtable.csv:293:2", "source": "%sさんから$rフレンド登録要請を受けました", "english": "%s sent you$ra friend request.", "status": "draft"}
+{"id": "table/strtable.csv:294:2", "source": "フレンド登録要請", "english": "Friend request", "status": "draft"}
+{"id": "table/strtable.csv:295:2", "source": "%sの%sさんから$rフレンド登録要請を受けました", "english": "%s's %s$rhas sent you a friend request.", "status": "draft", "note": "Assumes the first placeholder names the group and the second the sender; verify substitution context."}
+{"id": "table/strtable.csv:296:2", "source": "%sさんをフレンドリストから削除します", "english": "Remove %s from your friends list.", "status": "draft"}
+{"id": "table/strtable.csv:297:2", "source": "フレンド申請された場合に、自動的に拒否する不許可設定を ON にしますか？$r※自キャラの右クリックメニューの設定で変更できます", "english": "Automatically reject incoming friend requests?$r※ You can change this in the right-click menu settings for your character.", "status": "draft"}
+{"id": "table/strtable.csv:299:2", "source": "ウィスパー", "english": "Whisper", "status": "draft"}
+{"id": "table/strtable.csv:300:2", "source": "メール", "english": "Mail", "status": "draft"}
+{"id": "table/strtable.csv:301:2", "source": "フレンドリストから削除", "english": "Remove from friends list", "status": "draft"}
+{"id": "table/strtable.csv:303:2", "source": "ウィスパー", "english": "Whisper", "status": "draft"}
+{"id": "table/strtable.csv:304:2", "source": "メール送信先に追加", "english": "Add as a mail recipient", "status": "draft"}
+{"id": "table/strtable.csv:305:2", "source": "フレンドリストから削除", "english": "Remove from friends list", "status": "draft"}
+{"id": "table/strtable.csv:307:2", "source": "フレンドに誘う", "english": "Invite as a friend", "status": "draft"}

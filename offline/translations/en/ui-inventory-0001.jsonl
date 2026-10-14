@@ -1,0 +1,186 @@
+{"id": "table/strtable.csv:676:2", "source": "水色系に染色済み", "english": "Dyed light blue", "status": "draft"}
+{"id": "table/strtable.csv:677:2", "source": "緑色系に染色済み", "english": "Dyed green", "status": "draft"}
+{"id": "table/strtable.csv:678:2", "source": "黄緑色系に染色済み", "english": "Dyed yellow-green", "status": "draft"}
+{"id": "table/strtable.csv:679:2", "source": "金色系に染色済み", "english": "Dyed gold", "status": "draft"}
+{"id": "table/strtable.csv:680:2", "source": "橙色系に染色済み", "english": "Dyed orange", "status": "draft"}
+{"id": "table/strtable.csv:681:2", "source": "黒色系に染色済み", "english": "Dyed black", "status": "draft"}
+{"id": "table/strtable.csv:682:2", "source": "灰色系に染色済み", "english": "Dyed gray", "status": "draft"}
+{"id": "table/strtable.csv:683:2", "source": "銀色系に染色済み", "english": "Dyed silver", "status": "draft"}
+{"id": "table/strtable.csv:684:2", "source": "特殊な色に染色済み", "english": "Dyed a special color", "status": "draft"}
+{"id": "table/strtable.csv:685:2", "source": "特殊な色に染色済み", "english": "Dyed a special color", "status": "draft"}
+{"id": "table/strtable.csv:687:2", "source": "効果次元", "english": "Effect dimension", "status": "draft"}
+{"id": "table/strtable.csv:688:2", "source": "天界で使用可能", "english": "Usable in the Celestial Realm", "status": "draft"}
+{"id": "table/strtable.csv:689:2", "source": "地上界で使用可能", "english": "Usable in the Ground Realm", "status": "draft"}
+{"id": "table/strtable.csv:690:2", "source": "冥界で使用可能", "english": "Underworld", "status": "draft"}
+{"id": "table/strtable.csv:691:2", "source": "天界と地上界で使用可能", "english": "Usable in the Celestial and Ground Realms", "status": "draft"}
+{"id": "table/strtable.csv:692:2", "source": "地上界と冥界で使用可能", "english": "Underworld", "status": "draft"}
+{"id": "table/strtable.csv:693:2", "source": "天界と冥界で使用可能", "english": "Underworld", "status": "draft"}
+{"id": "table/strtable.csv:698:2", "source": "最大重量", "english": "Maximum weight", "status": "draft"}
+{"id": "table/strtable.csv:699:2", "source": "最大容量", "english": "Maximum capacity", "status": "draft"}
+{"id": "table/strtable.csv:700:2", "source": "移動力", "english": "Movement Speed", "status": "draft"}
+{"id": "table/strtable.csv:710:2", "source": "攻撃力(叩き)", "english": "Blunt attack", "status": "draft"}
+{"id": "table/strtable.csv:711:2", "source": "攻撃力(斬り)", "english": "Slashing attack", "status": "draft"}
+{"id": "table/strtable.csv:712:2", "source": "攻撃力(突き)", "english": "Piercing attack", "status": "draft"}
+{"id": "table/strtable.csv:713:2", "source": "魔法攻撃力", "english": "Magic attack", "status": "draft"}
+{"id": "table/strtable.csv:714:2", "source": "防御力(減算)", "english": "Defense (flat)", "status": "draft"}
+{"id": "table/strtable.csv:715:2", "source": "防御力(割合)", "english": "Defense (%)", "status": "draft"}
+{"id": "table/strtable.csv:716:2", "source": "魔法防御力(減算)", "english": "Magic defense (flat)", "status": "draft"}
+{"id": "table/strtable.csv:717:2", "source": "魔法防御力(割合)", "english": "Magic defense (%)", "status": "draft"}
+{"id": "table/strtable.csv:718:2", "source": "近距離命中", "english": "Melee accuracy", "status": "draft"}
+{"id": "table/strtable.csv:719:2", "source": "遠距離命中", "english": "Ranged accuracy", "status": "draft"}
+{"id": "table/strtable.csv:720:2", "source": "魔法命中", "english": "Magic accuracy", "status": "draft"}
+{"id": "table/strtable.csv:721:2", "source": "近距離回避", "english": "Melee evasion", "status": "draft"}
+{"id": "table/strtable.csv:722:2", "source": "遠距離回避", "english": "Ranged evasion", "status": "draft"}
+{"id": "table/strtable.csv:723:2", "source": "魔法抵抗", "english": "Magic resistance", "status": "draft"}
+{"id": "table/strtable.csv:724:2", "source": "クリティカル", "english": "Critical rate", "status": "draft"}
+{"id": "table/strtable.csv:725:2", "source": "クリティカル回避", "english": "Critical evasion", "status": "draft"}
+{"id": "table/strtable.csv:726:2", "source": "回復力", "english": "Recovery power", "status": "draft"}
+{"id": "table/strtable.csv:727:2", "source": "魔法回復力", "english": "Magic recovery power", "status": "draft"}
+{"id": "table/strtable.csv:728:2", "source": "スタミナ回復力", "english": "Stamina recovery", "status": "draft"}
+{"id": "table/strtable.csv:729:2", "source": "攻撃速度", "english": "Attack speed", "status": "draft"}
+{"id": "table/strtable.csv:730:2", "source": "詠唱速度", "english": "Cast speed", "status": "draft"}
+{"id": "table/strtable.csv:731:2", "source": "スロット数", "english": "Slot count", "status": "draft"}
+{"id": "table/strtable.csv:733:2", "source": "物理攻撃力", "english": "Physical attack", "status": "draft"}
+{"id": "table/strtable.csv:735:2", "source": "無属性値", "english": "Neutral element value", "status": "draft"}
+{"id": "table/strtable.csv:736:2", "source": "火属性値", "english": "Fire element value", "status": "draft"}
+{"id": "table/strtable.csv:737:2", "source": "水属性値", "english": "Water element value", "status": "draft"}
+{"id": "table/strtable.csv:738:2", "source": "風属性値", "english": "Wind element value", "status": "draft"}
+{"id": "table/strtable.csv:739:2", "source": "地属性値", "english": "Earth element value", "status": "draft"}
+{"id": "table/strtable.csv:740:2", "source": "光属性値", "english": "Light element value", "status": "draft"}
+{"id": "table/strtable.csv:741:2", "source": "闇属性値", "english": "Dark element value", "status": "draft"}
+{"id": "table/strtable.csv:743:2", "source": "毒性をもつ", "english": "Inflicts Poison", "status": "draft"}
+{"id": "table/strtable.csv:744:2", "source": "石化性をもつ", "english": "Inflicts Petrification", "status": "draft"}
+{"id": "table/strtable.csv:745:2", "source": "麻痺性をもつ", "english": "Inflicts Paralysis", "status": "draft"}
+{"id": "table/strtable.csv:746:2", "source": "睡眠性をもつ", "english": "Inflicts Sleep", "status": "draft"}
+{"id": "table/strtable.csv:747:2", "source": "沈黙性をもつ", "english": "Inflicts Silence", "status": "draft"}
+{"id": "table/strtable.csv:748:2", "source": "鈍足性をもつ", "english": "Inflicts Slow", "status": "draft"}
+{"id": "table/strtable.csv:749:2", "source": "混乱性をもつ", "english": "Inflicts Confusion", "status": "draft"}
+{"id": "table/strtable.csv:750:2", "source": "凍結性をもつ", "english": "Inflicts Freeze", "status": "draft"}
+{"id": "table/strtable.csv:751:2", "source": "気絶性をもつ", "english": "Inflicts Stun", "status": "draft"}
+{"id": "table/strtable.csv:753:2", "source": "毒状態を解く", "english": "Removes Poison", "status": "draft"}
+{"id": "table/strtable.csv:754:2", "source": "石化状態を解く", "english": "Removes Petrification", "status": "draft"}
+{"id": "table/strtable.csv:755:2", "source": "麻痺状態を解く", "english": "Removes Paralysis", "status": "draft"}
+{"id": "table/strtable.csv:756:2", "source": "睡眠状態を解く", "english": "Removes Sleep", "status": "draft"}
+{"id": "table/strtable.csv:757:2", "source": "沈黙状態を解く", "english": "Removes Silence", "status": "draft"}
+{"id": "table/strtable.csv:758:2", "source": "鈍足状態を解く", "english": "Removes Slow", "status": "draft"}
+{"id": "table/strtable.csv:759:2", "source": "混乱状態を解く", "english": "Removes Confusion", "status": "draft"}
+{"id": "table/strtable.csv:760:2", "source": "凍結状態を解く", "english": "Removes Freeze", "status": "draft"}
+{"id": "table/strtable.csv:761:2", "source": "気絶状態を解く", "english": "Removes Stun", "status": "draft"}
+{"id": "table/strtable.csv:763:2", "source": "装備可能条件", "english": "Equipment requirements", "status": "draft"}
+{"id": "table/strtable.csv:764:2", "source": "武具融合により装備可能条件が変更されています", "english": "Equipment requirements changed by weapon fusion", "status": "draft"}
+{"id": "table/strtable.csv:766:2", "source": "装備可能STR", "english": "Required STR", "status": "draft"}
+{"id": "table/strtable.csv:767:2", "source": "装備可能MAG", "english": "Required MAG", "status": "draft"}
+{"id": "table/strtable.csv:768:2", "source": "装備可能VIT", "english": "Required VIT", "status": "draft"}
+{"id": "table/strtable.csv:769:2", "source": "装備可能DEX", "english": "Required DEX", "status": "draft"}
+{"id": "table/strtable.csv:770:2", "source": "装備可能AGI", "english": "Required AGI", "status": "draft"}
+{"id": "table/strtable.csv:771:2", "source": "装備可能INT", "english": "Required INT", "status": "draft"}
+{"id": "table/strtable.csv:773:2", "source": "装備可能種族", "english": "Required race", "status": "draft"}
+{"id": "table/strtable.csv:774:2", "source": "全種族装備可能", "english": "Usable by all races", "status": "draft"}
+{"id": "table/strtable.csv:775:2", "source": "装備可能性別", "english": "Required gender", "status": "draft"}
+{"id": "table/strtable.csv:776:2", "source": "男性専用装備", "english": "Male only", "status": "draft"}
+{"id": "table/strtable.csv:777:2", "source": "女性専用装備", "english": "Female only", "status": "draft"}
+{"id": "table/strtable.csv:778:2", "source": "男女兼用", "english": "Unisex", "status": "draft"}
+{"id": "table/strtable.csv:779:2", "source": "装備可能LV", "english": "Required level", "status": "draft"}
+{"id": "table/strtable.csv:780:2", "source": "融合前装備可能LV", "english": "Required level before fusion", "status": "draft"}
+{"id": "table/strtable.csv:782:2", "source": "装備可能職業", "english": "Required job", "status": "draft"}
+{"id": "table/strtable.csv:783:2", "source": "全職業装備可能", "english": "Usable by all jobs", "status": "draft"}
+{"id": "table/strtable.csv:784:2", "source": "ファイター系", "english": "Fighter classes", "status": "draft"}
+{"id": "table/strtable.csv:785:2", "source": "スペルユーザー系", "english": "Spell-user classes", "status": "draft"}
+{"id": "table/strtable.csv:786:2", "source": "バックパッカー系", "english": "Backpacker classes", "status": "draft"}
+{"id": "table/strtable.csv:788:2", "source": "ジョイントジョブ", "english": "Joint job", "status": "draft"}
+{"id": "table/strtable.csv:791:2", "source": "見た目情報", "english": "Appearance information", "status": "draft"}
+{"id": "table/strtable.csv:792:2", "source": "種別タイプ", "english": "Type", "status": "draft"}
+{"id": "table/strtable.csv:793:2", "source": "素材武具情報", "english": "Material equipment information", "status": "draft"}
+{"id": "table/strtable.csv:795:2", "source": "転生", "english": "Rebirth", "status": "draft"}
+{"id": "table/strtable.csv:797:2", "source": "休眠中", "english": "Dormant", "status": "draft"}
+{"id": "table/strtable.csv:798:2", "source": "装備時使用可能スキル", "english": "Skills usable while equipped", "status": "draft"}
+{"id": "table/strtable.csv:799:2", "source": "装備時パッシブスキル", "english": "Passive skills while equipped", "status": "draft"}
+{"id": "table/strtable.csv:800:2", "source": "憑依時使用可能スキル", "english": "Skills usable while possessed", "status": "draft"}
+{"id": "table/strtable.csv:801:2", "source": "憑依時パッシブスキル", "english": "Passive skills while possessed", "status": "draft"}
+{"id": "table/strtable.csv:803:2", "source": "%sをスケッチ", "english": "Sketch %s", "status": "draft"}
+{"id": "table/strtable.csv:804:2", "source": "%sフィギュア", "english": "%s figure", "status": "draft"}
+{"id": "table/strtable.csv:807:2", "source": "装備可能Ｐランク", "english": "Required P Rank", "status": "draft"}
+{"id": "table/strtable.csv:809:2", "source": "装備可能所属軍", "english": "Required military division", "status": "draft"}
+{"id": "table/strtable.csv:810:2", "source": "アクロニア騎士団東軍に所属", "english": "Acronia Knights: Eastern Division", "status": "draft"}
+{"id": "table/strtable.csv:811:2", "source": "アクロニア騎士団西軍に所属", "english": "Acronia Knights: Western Division", "status": "draft"}
+{"id": "table/strtable.csv:812:2", "source": "アクロニア騎士団南軍に所属", "english": "Acronia Knights: Southern Division", "status": "draft"}
+{"id": "table/strtable.csv:813:2", "source": "アクロニア騎士団北軍に所属", "english": "Acronia Knights: Northern Division", "status": "draft"}
+{"id": "table/strtable.csv:815:2", "source": "アイテムの基本的な情報を表示します", "english": "Shows basic item information", "status": "draft"}
+{"id": "table/strtable.csv:816:2", "source": "アイテムの戦闘に関わる情報を表示します", "english": "Shows combat-related item information", "status": "draft"}
+{"id": "table/strtable.csv:817:2", "source": "アイテムのイリスカード情報を表示します", "english": "Shows Iris Card information", "status": "draft"}
+{"id": "table/strtable.csv:818:2", "source": "チップアイテムの情報を表示します", "english": "Shows chip item information", "status": "draft"}
+{"id": "table/strtable.csv:819:2", "source": "アイテムの見た目情報を表示します", "english": "Shows item appearance information", "status": "draft"}
+{"id": "table/strtable.csv:820:2", "source": "パーツアイテムの融合情報を表示します", "english": "Shows parts fusion information", "status": "draft"}
+{"id": "table/strtable.csv:822:2", "source": "装着カード", "english": "Equipped card", "status": "draft"}
+{"id": "table/strtable.csv:823:2", "source": "スロット拡張素材", "english": "Slot expansion material", "status": "draft"}
+{"id": "table/strtable.csv:825:2", "source": "見た目使用中情報", "english": "Appearance currently in use", "status": "draft"}
+{"id": "table/strtable.csv:826:2", "source": "パーツ融合情報", "english": "Parts fusion information", "status": "draft"}
+{"id": "table/strtable.csv:827:2", "source": "アイテム名", "english": "Item name", "status": "draft"}
+{"id": "table/strtable.csv:830:2", "source": "雑貨", "english": "Miscellaneous", "status": "draft"}
+{"id": "table/strtable.csv:831:2", "source": "かぶる物", "english": "Headwear", "status": "draft"}
+{"id": "table/strtable.csv:832:2", "source": "装飾品", "english": "Accessories", "status": "draft"}
+{"id": "table/strtable.csv:833:2", "source": "着る物", "english": "Clothing", "status": "draft"}
+{"id": "table/strtable.csv:834:2", "source": "背負い袋", "english": "Backpack", "status": "draft"}
+{"id": "table/strtable.csv:835:2", "source": "羽織る物", "english": "Coat", "status": "draft"}
+{"id": "table/strtable.csv:836:2", "source": "靴下", "english": "Socks", "status": "draft"}
+{"id": "table/strtable.csv:837:2", "source": "靴", "english": "Shoes", "status": "draft"}
+{"id": "table/strtable.csv:838:2", "source": "短剣", "english": "Dagger", "status": "draft"}
+{"id": "table/strtable.csv:839:2", "source": "剣", "english": "Sword", "status": "draft"}
+{"id": "table/strtable.csv:840:2", "source": "盾", "english": "Shield", "status": "draft"}
+{"id": "table/strtable.csv:841:2", "source": "鎚", "english": "Hammer", "status": "draft"}
+{"id": "table/strtable.csv:842:2", "source": "斧", "english": "Axe", "status": "draft"}
+{"id": "table/strtable.csv:843:2", "source": "槍", "english": "Spear", "status": "draft"}
+{"id": "table/strtable.csv:844:2", "source": "杖", "english": "Staff", "status": "draft"}
+{"id": "table/strtable.csv:845:2", "source": "投げる物", "english": "Thrown item", "status": "draft"}
+{"id": "table/strtable.csv:846:2", "source": "弓", "english": "Bow", "status": "draft"}
+{"id": "table/strtable.csv:847:2", "source": "矢", "english": "Arrow", "status": "draft"}
+{"id": "table/strtable.csv:848:2", "source": "銃", "english": "Gun", "status": "draft"}
+{"id": "table/strtable.csv:849:2", "source": "弾丸", "english": "Bullet", "status": "draft"}
+{"id": "table/strtable.csv:850:2", "source": "手提げ袋", "english": "Handbag", "status": "draft"}
+{"id": "table/strtable.csv:851:2", "source": "本", "english": "Book", "status": "draft"}
+{"id": "table/strtable.csv:852:2", "source": "楽器", "english": "Instrument", "status": "draft"}
+{"id": "table/strtable.csv:853:2", "source": "ロープ", "english": "Rope", "status": "draft"}
+{"id": "table/strtable.csv:854:2", "source": "カード", "english": "Card", "status": "draft"}
+{"id": "table/strtable.csv:855:2", "source": "魔法物", "english": "Magic item", "status": "draft"}
+{"id": "table/strtable.csv:857:2", "source": "特殊武器", "english": "Special weapon", "status": "draft"}
+{"id": "table/strtable.csv:858:2", "source": "特殊武器", "english": "Special weapon", "status": "draft"}
+{"id": "table/strtable.csv:859:2", "source": "爪", "english": "Claw", "status": "draft"}
+{"id": "table/strtable.csv:860:2", "source": "ナックル", "english": "Knuckle", "status": "draft"}
+{"id": "table/strtable.csv:861:2", "source": "宝石", "english": "Gemstone", "status": "draft"}
+{"id": "table/strtable.csv:862:2", "source": "食べ物", "english": "Food", "status": "draft"}
+{"id": "table/strtable.csv:863:2", "source": "飲み物", "english": "Drink", "status": "draft"}
+{"id": "table/strtable.csv:864:2", "source": "人形", "english": "Doll", "status": "draft"}
+{"id": "table/strtable.csv:865:2", "source": "箱", "english": "Box", "status": "draft"}
+{"id": "table/strtable.csv:866:2", "source": "種", "english": "Seed", "status": "draft"}
+{"id": "table/strtable.csv:867:2", "source": "スタンプ", "english": "Stamp", "status": "draft"}
+{"id": "table/strtable.csv:868:2", "source": "道具", "english": "Tool", "status": "draft"}
+{"id": "table/strtable.csv:869:2", "source": "イベントアイテム", "english": "Event item", "status": "draft"}
+{"id": "table/strtable.csv:870:2", "source": "パートナー", "english": "Partner", "status": "draft"}
+{"id": "table/strtable.csv:871:2", "source": "背負い魔", "english": "Back Demon", "status": "draft", "note": "Literal translation; the game-specific category meaning of 背負い魔 is uncertain."}
+{"id": "table/strtable.csv:872:2", "source": "イベントアイテム", "english": "Event item", "status": "draft"}
+{"id": "table/strtable.csv:873:2", "source": "２足歩行ロボ", "english": "Bipedal robot", "status": "draft"}
+{"id": "table/strtable.csv:874:2", "source": "ライドパートナー", "english": "Ride partner", "status": "draft"}
+{"id": "table/strtable.csv:875:2", "source": "フード", "english": "Food", "status": "draft"}
+{"id": "table/strtable.csv:876:2", "source": "家具", "english": "Furniture", "status": "draft"}
+{"id": "table/strtable.csv:877:2", "source": "何かの部品", "english": "Part", "status": "draft", "note": "Generic source label; retained as a literal category name."}
+{"id": "table/strtable.csv:878:2", "source": "飛空城の部品", "english": "Flying Castle part", "status": "draft"}
+{"id": "table/strtable.csv:879:2", "source": "不思議なモノ", "english": "Mysterious item", "status": "draft"}
+{"id": "table/strtable.csv:880:2", "source": "強化パーツ", "english": "Enhancement part", "status": "draft"}
+{"id": "table/strtable.csv:881:2", "source": "シンボル", "english": "Symbol", "status": "draft"}
+{"id": "table/strtable.csv:882:2", "source": "エフェクト装備", "english": "Effect gear", "status": "draft"}
+{"id": "table/strtable.csv:883:2", "source": "イリスカード", "english": "Iris Card", "status": "draft"}
+{"id": "table/strtable.csv:884:2", "source": "ＤＥＭパーツ", "english": "DEM part", "status": "draft"}
+{"id": "table/strtable.csv:885:2", "source": "ＤＥＭ強化チップ", "english": "DEM enhancement chip", "status": "draft"}
+{"id": "table/strtable.csv:886:2", "source": "顔", "english": "Face", "status": "draft"}
+{"id": "table/strtable.csv:887:2", "source": "表情", "english": "Expression", "status": "draft"}
+{"id": "table/strtable.csv:888:2", "source": "パートナー用武器", "english": "Partner weapon", "status": "draft"}
+{"id": "table/strtable.csv:889:2", "source": "パートナー用防具", "english": "Partner armor", "status": "draft"}
+{"id": "table/strtable.csv:890:2", "source": "アクトキューブ", "english": "Act Cube", "status": "draft"}
+{"id": "table/strtable.csv:891:2", "source": "おやつ", "english": "Treat", "status": "draft"}
+{"id": "table/strtable.csv:892:2", "source": "アナザーページ紙片", "english": "Another Page fragment", "status": "draft"}
+{"id": "table/strtable.csv:895:2", "source": "ポーション", "english": "Potion", "status": "draft"}
+{"id": "table/strtable.csv:896:2", "source": "食べ物", "english": "Food", "status": "draft"}
+{"id": "table/strtable.csv:897:2", "source": "マリオネット", "english": "Marionette", "status": "draft"}
+{"id": "table/strtable.csv:898:2", "source": "マリオネット", "english": "Marionette", "status": "draft"}
+{"id": "table/strtable.csv:899:2", "source": "宝箱", "english": "Treasure chest", "status": "draft"}
+{"id": "table/strtable.csv:900:2", "source": "コンテナ", "english": "Container", "status": "draft"}

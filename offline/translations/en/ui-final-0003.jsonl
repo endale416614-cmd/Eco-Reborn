@@ -1,0 +1,168 @@
+{"id": "table/strtable.csv:6351:2", "source": "個", "english": " items", "status": "draft"}
+{"id": "table/strtable.csv:6352:2", "source": "以上の物を交換します。よろしいですか？", "english": "Exchange the above items?", "status": "draft"}
+{"id": "table/strtable.csv:6353:2", "source": "以上の物を購入します。よろしいですか？", "english": "Purchase the above items?", "status": "draft"}
+{"id": "table/strtable.csv:6355:2", "source": "使用期間が設定されている$rアイテム（青文字）が含まれています。$rこのアイテムは交換した瞬間から$rカウントダウンが始まります。$r$rよろしいですか？", "english": "Your selection includes$rtime-limited items (shown in blue).$rFor these items, the countdown starts$rwhen they are exchanged.$r$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:6356:2", "source": "ギフトで送ることのできない$rアイテム（青文字）が含まれています。$r$r選択しなおしてください。", "english": "Your selection contains items$rthat cannot be sent as gifts (shown in blue).$r$rPlease change your selection.", "status": "draft"}
+{"id": "table/strtable.csv:6357:2", "source": "何らかの原因で交換に失敗しました。", "english": "The exchange failed for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:6358:2", "source": "アイテム所持数に空きがありません。", "english": "There is no free space in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:6359:2", "source": "ネットカフェポイントが足りません。", "english": "Not enough internet cafe points.", "status": "draft"}
+{"id": "table/strtable.csv:6360:2", "source": "ゴールドが足りません。", "english": "Not enough Gold.", "status": "draft"}
+{"id": "table/strtable.csv:6363:2", "source": "ファッション", "english": "Fashion", "status": "draft"}
+{"id": "table/strtable.csv:6364:2", "source": "お顔スイッチャー", "english": "Face Switcher", "status": "draft"}
+{"id": "table/strtable.csv:6365:2", "source": "紹介状", "english": "Introduction Letter", "status": "draft"}
+{"id": "table/strtable.csv:6366:2", "source": "検索", "english": "Search", "status": "draft"}
+{"id": "table/strtable.csv:6367:2", "source": "顔", "english": "Face", "status": "draft"}
+{"id": "table/strtable.csv:6368:2", "source": "目の色", "english": "Eye Color", "status": "draft"}
+{"id": "table/strtable.csv:6369:2", "source": "髪型", "english": "Hairstyle", "status": "draft"}
+{"id": "table/strtable.csv:6370:2", "source": "オプション", "english": "Options", "status": "draft"}
+{"id": "table/strtable.csv:6371:2", "source": "髪色", "english": "Hair Color", "status": "draft"}
+{"id": "table/strtable.csv:6372:2", "source": "デフォルト", "english": "Default", "status": "draft"}
+{"id": "table/strtable.csv:6373:2", "source": "リファイン", "english": "Refined", "status": "draft"}
+{"id": "table/strtable.csv:6374:2", "source": "現在のキャラでは装備できません", "english": "This cannot be equipped by the current character.", "status": "draft"}
+{"id": "table/strtable.csv:6375:2", "source": "ファッション情報がありません", "english": "No fashion data.", "status": "draft"}
+{"id": "table/strtable.csv:6376:2", "source": "ファッション情報を保存しました", "english": "Fashion data saved.", "status": "draft"}
+{"id": "table/strtable.csv:6377:2", "source": "ファッション情報の保存に失敗しました", "english": "Failed to save fashion data.", "status": "draft"}
+{"id": "table/strtable.csv:6378:2", "source": "ファッション情報の保存数が上限に達しています", "english": "The maximum number of saved fashion sets has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:6379:2", "source": "名前を入力してください", "english": "Enter a name.", "status": "draft"}
+{"id": "table/strtable.csv:6380:2", "source": "ファッション情報を削除しました", "english": "Fashion data deleted.", "status": "draft"}
+{"id": "table/strtable.csv:6381:2", "source": "削除に失敗しました", "english": "Failed to delete.", "status": "draft"}
+{"id": "table/strtable.csv:6382:2", "source": "「%s」を削除してもよろしいですか？", "english": "Delete \"%s\"?", "status": "draft"}
+{"id": "table/strtable.csv:6385:2", "source": "マネキン設定", "english": "Mannequin Settings", "status": "draft"}
+{"id": "table/strtable.csv:6386:2", "source": "基本", "english": "Basic", "status": "draft"}
+{"id": "table/strtable.csv:6387:2", "source": "顔", "english": "Face", "status": "draft"}
+{"id": "table/strtable.csv:6388:2", "source": "髪", "english": "Hair", "status": "draft"}
+{"id": "table/strtable.csv:6389:2", "source": "転生特典", "english": "Rebirth Bonus", "status": "draft"}
+{"id": "table/strtable.csv:6390:2", "source": "性別", "english": "Gender", "status": "draft"}
+{"id": "table/strtable.csv:6391:2", "source": "スケール", "english": "Scale", "status": "draft"}
+{"id": "table/strtable.csv:6392:2", "source": "種族", "english": "Race", "status": "draft"}
+{"id": "table/strtable.csv:6393:2", "source": "顔", "english": "Face", "status": "draft"}
+{"id": "table/strtable.csv:6394:2", "source": "目の色", "english": "Eye Color", "status": "draft"}
+{"id": "table/strtable.csv:6395:2", "source": "表情", "english": "Expression", "status": "draft"}
+{"id": "table/strtable.csv:6396:2", "source": "髪型", "english": "Hairstyle", "status": "draft"}
+{"id": "table/strtable.csv:6397:2", "source": "オプション", "english": "Options", "status": "draft"}
+{"id": "table/strtable.csv:6398:2", "source": "髪色", "english": "Hair Color", "status": "draft"}
+{"id": "table/strtable.csv:6399:2", "source": "デフォルト", "english": "Default", "status": "draft"}
+{"id": "table/strtable.csv:6400:2", "source": "リファイン", "english": "Refined", "status": "draft"}
+{"id": "table/strtable.csv:6401:2", "source": "セリフ", "english": "Line", "status": "draft"}
+{"id": "table/strtable.csv:6402:2", "source": "なし", "english": "None", "status": "draft"}
+{"id": "table/strtable.csv:6404:2", "source": "装備条件が合っていないため装備できません", "english": "Cannot be equipped because the equipment requirements are not met.", "status": "draft"}
+{"id": "table/strtable.csv:6405:2", "source": "レンタルアイテムは装備できません", "english": "Rental items cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6406:2", "source": "イベントアイテムは装備できません", "english": "Event items cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6407:2", "source": "設定を初期化します$rよろしいですか？", "english": "Reset the settings?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:6408:2", "source": "設定を確定します$rよろしいですか？", "english": "Apply the settings?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:6409:2", "source": "設定を破棄します$rよろしいですか？", "english": "Discard the settings?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:6410:2", "source": "マネキン設定を変更しました。", "english": "Mannequin settings changed.", "status": "draft"}
+{"id": "table/strtable.csv:6411:2", "source": "変更できない状態の為、マネキン設定を変更できません。", "english": "The mannequin settings cannot be changed right now.", "status": "draft"}
+{"id": "table/strtable.csv:6412:2", "source": "イベント中はマネキン設定を変更できません。", "english": "Mannequin settings cannot be changed during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6413:2", "source": "トレード中はマネキン設定を変更できません。", "english": "Mannequin settings cannot be changed during a trade.", "status": "draft"}
+{"id": "table/strtable.csv:6414:2", "source": "憑依中はマネキン設定を変更できません。", "english": "Mannequin settings cannot be changed during possession.", "status": "draft"}
+{"id": "table/strtable.csv:6415:2", "source": "変更できない設定の為、マネキン設定を変更できません。", "english": "These settings cannot be changed.", "status": "draft"}
+{"id": "table/strtable.csv:6416:2", "source": "男性専用の髪型です", "english": "Hairstyle for male characters only", "status": "draft"}
+{"id": "table/strtable.csv:6417:2", "source": "女性専用の髪型です", "english": "Hairstyle for female characters only", "status": "draft"}
+{"id": "table/strtable.csv:6422:2", "source": "マネキン管理", "english": "Mannequin Management", "status": "draft"}
+{"id": "table/strtable.csv:6424:2", "source": "「マネキン利用枠開放チケット」を使用してマネキンを配置可能にします。$rよろしいですか？", "english": "Use a “Mannequin Slot Unlock Ticket” to unlock a mannequin slot.$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:6425:2", "source": "「マネキン利用枠開放チケット」を所持していません。$rECOショップを開きますか？", "english": "You do not have a “Mannequin Slot Unlock Ticket.”$rOpen the ECO Shop?", "status": "draft"}
+{"id": "table/strtable.csv:6426:2", "source": "マネキン利用可能枠を開放しました。", "english": "Mannequin slot unlocked.", "status": "draft"}
+{"id": "table/strtable.csv:6427:2", "source": "開放できない状態の為、マネキン利用可能枠を開放できません。", "english": "Mannequin slots cannot be unlocked right now.", "status": "draft"}
+{"id": "table/strtable.csv:6428:2", "source": "開放に必要なアイテムを所持していない為、マネキン利用可能枠を開放できません。", "english": "You do not have the item required to unlock a mannequin slot.", "status": "draft"}
+{"id": "table/strtable.csv:6432:2", "source": "マネキン拡張", "english": "Mannequin Expansion", "status": "draft"}
+{"id": "table/strtable.csv:6433:2", "source": "拡張アイテム選択", "english": "Select Expansion Item", "status": "draft"}
+{"id": "table/strtable.csv:6434:2", "source": "登録されている拡張情報", "english": "Registered Expansion Data", "status": "draft"}
+{"id": "table/strtable.csv:6435:2", "source": "選択した枠に見た目を登録します。$r登録済みの見た目は上書きされます。", "english": "Register this appearance to the selected slot.$rExisting appearance data will be overwritten.", "status": "draft"}
+{"id": "table/strtable.csv:6436:2", "source": "現在の性別では試用できません。", "english": "This appearance cannot be tried on with your current gender.", "status": "draft"}
+{"id": "table/strtable.csv:6437:2", "source": "モーション", "english": "Motion", "status": "draft"}
+{"id": "table/strtable.csv:6438:2", "source": "「%s」を使用して$r「%s」を登録します。$rよろしいですか？", "english": "Use \"%s\"$rto register \"%s\".$rProceed?", "status": "draft"}
+{"id": "table/strtable.csv:6439:2", "source": "見た目をマネキンに保管しました。", "english": "Stored the appearance on the mannequin.", "status": "draft"}
+{"id": "table/strtable.csv:6440:2", "source": "保管できない状態の為、見た目をマネキンに保管できません。", "english": "The appearance cannot be stored on the mannequin right now.", "status": "draft"}
+{"id": "table/strtable.csv:6441:2", "source": "保管に必要なアイテムを所持していない為、見た目をマネキンに保管できません。", "english": "You do not have the item required to store the appearance on the mannequin.", "status": "draft"}
+{"id": "table/strtable.csv:6447:2", "source": "状態表示設定", "english": "Status Display Settings", "status": "draft"}
+{"id": "table/strtable.csv:6448:2", "source": "状態アイコン", "english": "Status Icon", "status": "draft"}
+{"id": "table/strtable.csv:6449:2", "source": "状態名", "english": "Status Name", "status": "draft"}
+{"id": "table/strtable.csv:6450:2", "source": "描画優先度", "english": "Draw Priority", "status": "draft"}
+{"id": "table/strtable.csv:6452:2", "source": "ファイル名", "english": "File Name", "status": "draft"}
+{"id": "table/strtable.csv:6453:2", "source": "Lv:0 で設定された場合、$rアイコンが表示されなくなります", "english": "If set to Lv:0,$rthe icon will not be displayed.", "status": "draft"}
+{"id": "table/strtable.csv:6454:2", "source": "状態表示設定を保存しました", "english": "Status display settings saved.", "status": "draft"}
+{"id": "table/strtable.csv:6455:2", "source": "状態表示設定の保存に失敗しました", "english": "Failed to save status display settings.", "status": "draft"}
+{"id": "table/strtable.csv:6456:2", "source": "設定名を入力してください", "english": "Enter a settings name.", "status": "draft"}
+{"id": "table/strtable.csv:6457:2", "source": "状態表示設定の保存数が上限に達しています", "english": "The maximum number of saved status display settings has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:6458:2", "source": "設定が保存されていません。$r設定を初期化しますか？", "english": "Settings have not been saved.$rReset the settings?", "status": "draft"}
+{"id": "table/strtable.csv:6459:2", "source": "設定が保存されていません。$r状態表示設定を読み込みますか？", "english": "Settings have not been saved.$rLoad status display settings?", "status": "draft"}
+{"id": "table/strtable.csv:6460:2", "source": "状態表示設定の読み込みに失敗しました", "english": "Failed to load status display settings.", "status": "draft"}
+{"id": "table/strtable.csv:6461:2", "source": "「%s」を削除してもよろしいですか？", "english": "Delete \"%s\"?", "status": "draft"}
+{"id": "table/strtable.csv:6462:2", "source": "状態表示設定を削除しました", "english": "Status display settings deleted.", "status": "draft"}
+{"id": "table/strtable.csv:6463:2", "source": "状態表示設定の削除に失敗しました", "english": "Failed to delete status display settings.", "status": "draft"}
+{"id": "table/strtable.csv:6464:2", "source": "設定が保存されていません。$rウインドウを閉じてもよろしいですか？", "english": "Settings have not been saved.$rClose the window?", "status": "draft"}
+{"id": "table/strtable.csv:6465:2", "source": "全て", "english": "All", "status": "draft"}
+{"id": "table/strtable.csv:6466:2", "source": "状態異常系", "english": "Ailments", "status": "draft"}
+{"id": "table/strtable.csv:6467:2", "source": "状態異常耐性系", "english": "Ailment Resistance", "status": "draft"}
+{"id": "table/strtable.csv:6468:2", "source": "属性上昇系", "english": "Attribute Boosts", "status": "draft"}
+{"id": "table/strtable.csv:6469:2", "source": "ステータス上昇系", "english": "Stat Boosts", "status": "draft"}
+{"id": "table/strtable.csv:6470:2", "source": "ステータス減少系", "english": "Stat Reductions", "status": "draft"}
+{"id": "table/strtable.csv:6471:2", "source": "コミュニオン系", "english": "Communion", "status": "draft"}
+{"id": "table/strtable.csv:6472:2", "source": "ディレイキャンセル系", "english": "Delay Cancel", "status": "draft"}
+{"id": "table/strtable.csv:6473:2", "source": "その他", "english": "Other", "status": "draft"}
+{"id": "table/strtable.csv:6474:2", "source": "ヘルプを開く", "english": "Open Help", "status": "draft"}
+{"id": "table/strtable.csv:6475:2", "source": "状態が発生した順に表示する", "english": "Display statuses in the order they occur.", "status": "draft"}
+{"id": "table/strtable.csv:6476:2", "source": "描画優先度を同じ数値に設定した場合、$r発生した順に表示するようにします$r（自身のキャラの状態表示ウインドウのみ）", "english": "If multiple statuses have the same draw priority,$rdisplay them in the order they occurred.$r(Only in your own Status Display window)", "status": "draft"}
+{"id": "table/strtable.csv:6479:2", "source": "ストーリーフィールドキャプチャーリスト", "english": "Story Field Capture List", "status": "draft"}
+{"id": "table/strtable.csv:6480:2", "source": "あらすじ", "english": "Synopsis", "status": "draft"}
+{"id": "table/strtable.csv:6481:2", "source": "主な登場キャラクター", "english": "Main Characters", "status": "draft"}
+{"id": "table/strtable.csv:6482:2", "source": "ユニットキャラクター", "english": "Unit Characters", "status": "draft"}
+{"id": "table/strtable.csv:6483:2", "source": "主なレアアイテム", "english": "Notable Rare Items", "status": "draft"}
+{"id": "table/strtable.csv:6484:2", "source": "%d 分", "english": "%d min", "status": "draft"}
+{"id": "table/strtable.csv:6485:2", "source": "LV %d 以上", "english": "Lv. %d or higher", "status": "draft"}
+{"id": "table/strtable.csv:6486:2", "source": "LV %d 以下", "english": "Lv. %d or lower", "status": "draft"}
+{"id": "table/strtable.csv:6487:2", "source": "未転生", "english": "Not reborn", "status": "draft"}
+{"id": "table/strtable.csv:6488:2", "source": "転生済", "english": "Reborn", "status": "draft"}
+{"id": "table/strtable.csv:6489:2", "source": "【受注者のみ】ネットカフェ限定", "english": "[Quest taker only] Internet cafe exclusive", "status": "draft"}
+{"id": "table/strtable.csv:6490:2", "source": "【受注者のみ】%d時～%d時限定", "english": "[Quest taker only] Available from %d:00 to %d:00", "status": "draft"}
+{"id": "table/strtable.csv:6491:2", "source": "クエストポイント： %d 消費", "english": "Quest Points: %d consumed", "status": "draft"}
+{"id": "table/strtable.csv:6492:2", "source": "無し", "english": "None", "status": "draft"}
+{"id": "table/strtable.csv:6493:2", "source": "終了確認", "english": "Confirm Exit", "status": "draft"}
+{"id": "table/strtable.csv:6494:2", "source": "キャプチャーを受注せずに終了しますか？", "english": "Exit without accepting the capture?", "status": "draft"}
+{"id": "table/strtable.csv:6495:2", "source": "確認", "english": "Confirm", "status": "draft"}
+{"id": "table/strtable.csv:6496:2", "source": "ユニットにパートナーが設定されています。$rキャプチャーを変更すると設定が破棄されます$r変更しますか？", "english": "A Partner is assigned to the unit.$rChanging the capture will discard that assignment.$rChange it?", "status": "draft"}
+{"id": "table/strtable.csv:6499:2", "source": "キャプチャー参加者リスト", "english": "Capture Participant List", "status": "draft"}
+{"id": "table/strtable.csv:6500:2", "source": "下記のキャラクターが参加可能", "english": "The following characters can participate.", "status": "draft"}
+{"id": "table/strtable.csv:6501:2", "source": "同じロビーに居ないと参加できません", "english": "You must be in the same lobby to participate.", "status": "draft"}
+{"id": "table/strtable.csv:6502:2", "source": "キャラクター名が灰色で表示されてる方は$r消費物以外の条件を満たしていない為、$r参加する事ができません。$r参加出来ない理由はキャラクター名に$rカーソルを合わせるとバル―ンで表示します。", "english": "Characters shown in gray$rhave not met requirements other than consumed items,$rso they cannot participate.$rHover over a character's name$rto see the reason in a tooltip.", "status": "draft"}
+{"id": "table/strtable.csv:6503:2", "source": "以下の理由で『%s』に参加できません", "english": "You cannot participate in \"%s\" for the following reason(s).", "status": "draft"}
+{"id": "table/strtable.csv:6504:2", "source": "以下の理由で受注しようとしているキャプチャーに参加できません", "english": "You cannot participate in the selected capture for the following reason(s).", "status": "draft"}
+{"id": "table/strtable.csv:6505:2", "source": "レベルの条件を満たしておりません", "english": "The level requirement is not met.", "status": "draft"}
+{"id": "table/strtable.csv:6506:2", "source": "転生情報の条件を満たしておりません", "english": "The rebirth requirement is not met.", "status": "draft"}
+{"id": "table/strtable.csv:6507:2", "source": "特定のイベントをクリアしておりません", "english": "A required event has not been cleared.", "status": "draft"}
+{"id": "table/strtable.csv:6508:2", "source": "キャプチャーに参加できないメンバーがいます。$rこのまま、受注してもよろしいですか？", "english": "Some members cannot participate in the capture.$rAccept the request anyway?", "status": "draft"}
+{"id": "table/strtable.csv:6511:2", "source": "残り時間", "english": "Time Remaining", "status": "draft"}
+{"id": "table/strtable.csv:6512:2", "source": "フィールドポイント", "english": "Field Points", "status": "draft"}
+{"id": "table/strtable.csv:6513:2", "source": "残り%4d体", "english": "Targets remaining: %4d", "status": "draft"}
+{"id": "table/strtable.csv:6514:2", "source": "残り%4d秒", "english": "%4d seconds remaining", "status": "draft"}
+{"id": "table/strtable.csv:6515:2", "source": "%s$r残り%4d分", "english": "%s$r%4d min remaining", "status": "draft"}
+{"id": "table/strtable.csv:6516:2", "source": "大目標情報に新たな目標が追加されました", "english": "A new major objective has been added.", "status": "draft"}
+{"id": "table/strtable.csv:6517:2", "source": "中目標情報に新たな目標が追加されました", "english": "A new secondary objective has been added.", "status": "draft"}
+{"id": "table/strtable.csv:6520:2", "source": "ユニット状況(%d/%d)", "english": "Unit Status (%d/%d)", "status": "draft"}
+{"id": "table/strtable.csv:6521:2", "source": "特殊効果", "english": "Special Effects", "status": "draft"}
+{"id": "table/strtable.csv:6522:2", "source": "効果対象", "english": "Effect Target", "status": "draft"}
+{"id": "table/strtable.csv:6523:2", "source": "ユニット%d", "english": "Unit %d", "status": "draft"}
+{"id": "table/strtable.csv:6524:2", "source": "ユニット%dの思考を変更しました", "english": "Changed the behavior of Unit %d.", "status": "draft"}
+{"id": "table/strtable.csv:6525:2", "source": "ユニット%dの思考の変更に失敗しました", "english": "Failed to change the behavior of Unit %d.", "status": "draft"}
+{"id": "table/strtable.csv:6526:2", "source": "ユニット%dの移動先を指定して下さい", "english": "Select a destination for Unit %d.", "status": "draft"}
+{"id": "table/strtable.csv:6527:2", "source": "ユニット%dの移動を開始します", "english": "Unit %d is moving.", "status": "draft"}
+{"id": "table/strtable.csv:6528:2", "source": "ユニット%dの移動指示に失敗しました", "english": "Failed to issue a move command to Unit %d.", "status": "draft"}
+{"id": "table/strtable.csv:6529:2", "source": "移動を開始しますか？", "english": "Begin moving?", "status": "draft"}
+{"id": "table/strtable.csv:6530:2", "source": "周囲を索敵して敵を見つけたら、攻撃しに向かいます", "english": "Search the area and move to attack any enemies you find.", "status": "draft"}
+{"id": "table/strtable.csv:6531:2", "source": "敵から攻撃されたら、反撃し始めます", "english": "Counterattack when attacked by an enemy.", "status": "draft"}
+{"id": "table/strtable.csv:6532:2", "source": "敵から攻撃されても、反撃しません", "english": "Do not counterattack when attacked by an enemy.", "status": "draft"}
+{"id": "table/strtable.csv:6533:2", "source": "敵に向かって通常攻撃、攻撃スキルを使用します", "english": "Use normal attacks and attack skills against enemies.", "status": "draft"}
+{"id": "table/strtable.csv:6534:2", "source": "敵に向かって通常攻撃か、味方に向かって回復スキルを使用します", "english": "Use normal attacks against enemies or healing skills on allies.", "status": "draft"}
+{"id": "table/strtable.csv:6535:2", "source": "敵に向かって通常攻撃か、味方に向かって補助スキルを使用します", "english": "Use normal attacks against enemies or support skills on allies.", "status": "draft"}
+{"id": "table/strtable.csv:6536:2", "source": "戦闘していないときに、近くに主人が居ればついていきます", "english": "When not fighting, follow the nearby owner.", "status": "draft"}
+{"id": "table/strtable.csv:6537:2", "source": "戦闘していないときに、指定した座標に向けて一直線に移動します$r壁などの障害物に当たって進む事ができなくなった場合、その障害物の前で留まります", "english": "When not fighting, move in a straight line toward the specified coordinates.$rIf an obstacle such as a wall blocks the way, stop in front of it.", "status": "draft"}
+{"id": "table/strtable.csv:6538:2", "source": "出撃しておりません", "english": "Not deployed.", "status": "draft"}
+{"id": "table/strtable.csv:6541:2", "source": "ストーリーフィールドルームリスト", "english": "Story Field Room List", "status": "draft"}
+{"id": "table/strtable.csv:6542:2", "source": "普通", "english": "Normal", "status": "draft"}
+{"id": "table/strtable.csv:6543:2", "source": "難しい", "english": "Hard", "status": "draft"}
+{"id": "table/strtable.csv:6544:2", "source": "ルームリストの検索状況をリセットします", "english": "Reset the room list search status", "status": "draft"}
+{"id": "table/strtable.csv:6547:2", "source": "ストーリーフィールドルーム作成", "english": "Create Story Field Room", "status": "draft"}
+{"id": "table/strtable.csv:6548:2", "source": "ストーリーフィールドルーム編集", "english": "Edit Story Field Room", "status": "draft"}
+{"id": "table/strtable.csv:6549:2", "source": "あらすじ", "english": "Synopsis", "status": "draft"}
+{"id": "table/strtable.csv:6550:2", "source": "主な登場キャラクター", "english": "Main Characters", "status": "draft"}

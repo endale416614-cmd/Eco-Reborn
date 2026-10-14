@@ -1,0 +1,150 @@
+{"id":"table/strtable.csv:4257:2","source":"\t\"獲得セクトＰ％上昇\"","english":"\t\"Sect Point Gain Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4258:2","source":"\t\"獲得マテリアルＰ％上昇\"","english":"\t\"Material Point Gain Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4259:2","source":"\t\"釣りレア確率＋上昇\"","english":"\t\"Rare Fishing Rate Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4260:2","source":"\t\"釣り大物確率＋上昇\"","english":"\t\"Large Fish Catch Rate Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4261:2","source":"\t\"作物成長度＋上昇\"","english":"\t\"Crop Growth Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4262:2","source":"\t\"作物愛情度＋上昇\"","english":"\t\"Crop Affection Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4263:2","source":"\t\"憑依速度上昇\"","english":"\t\"Possession Speed Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4264:2","source":"\t\"憑依者貫通率軽減\"","english":"\t\"Possessor Penetration Rate Reduction\"","status":"draft"}
+{"id":"table/strtable.csv:4265:2","source":"\t\"ワールドゲージＰ＋％上昇\"","english":"\t\"World Gauge Point Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4266:2","source":"\t\"クエスト報酬ＥＰ＋上昇\"","english":"\t\"Quest Reward EP Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4267:2","source":"\t\"クエスト報酬ＭＰ＋上昇\"","english":"\t\"Quest Reward MP Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4268:2","source":"\t\"クエスト報酬％上昇\"","english":"\t\"Quest Reward Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4269:2","source":"\t\"アビス・マター入手量＋上昇\"","english":"\t\"Abyss Matter Amount Obtained Increase (+)\"","status":"draft"}
+{"id":"table/strtable.csv:4270:2","source":"\t\"アビス・マター入手量％上昇\"","english":"\t\"Abyss Matter Amount Obtained Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4271:2","source":"\t\"獲得基本経験値上昇\"","english":"\t\"Base EXP Gain Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4272:2","source":"\t\"獲得職業経験値上昇\"","english":"\t\"Job EXP Gain Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4273:2","source":"\t\"生産時獲得経験値％上昇\"","english":"\t\"EXP Gain during Production Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4274:2","source":"\t\"獲得ページ経験値上昇\"","english":"\t\"Page EXP Gain Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4275:2","source":"\t\"ﾃﾞｭｱﾙｼﾞｮﾌﾞ獲得経験値上昇\"","english":"\t\"Dual Job EXP Gain Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4276:2","source":"\t\"獲得ＣＰ％上昇\"","english":"\t\"CP Gain Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4277:2","source":"\t\"レアドロップ率上昇\"","english":"\t\"Rare Drop Rate Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4278:2","source":"\t\"AC入場ペナルティ時間短縮\"","english":"\t\"AC Entry Penalty Time Reduction\"","status":"draft"}
+{"id":"table/strtable.csv:4279:2","source":"\t\"対ﾁｬﾝﾌﾟﾀﾞﾒｰｼﾞ減少軽減\"","english":"\t\"Damage Penalty Reduction against Champions\"","status":"draft"}
+{"id":"table/strtable.csv:4280:2","source":"\t\"騎士団演習報酬％上昇\"","english":"\t\"Knight Order Exercise Reward Increase (%)\"","status":"draft"}
+{"id":"table/strtable.csv:4281:2","source":"\t\"騎士団演習再入場時間短縮\"","english":"\t\"Knight Order Exercise Re-entry Time Reduction\"","status":"draft"}
+{"id":"table/strtable.csv:4282:2","source":"\t\"スケール変更\"","english":"\t\"Scale Change\"","status":"draft"}
+{"id":"table/strtable.csv:4283:2","source":"\t\"ドロップアイテム追加確率上昇\"","english":"\t\"Additional Item Drop Chance Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4284:2","source":"\t\"合成失敗物精製確率上昇\"","english":"\t\"Failed Synthesis Item Refinement Rate Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4285:2","source":"\t\"合成失敗物精製確率減少\"","english":"\t\"Failed Synthesis Item Refinement Rate Reduction\"","status":"draft"}
+{"id":"table/strtable.csv:4286:2","source":"\t\"猛毒耐性力上昇\"","english":"\t\"Severe Poison Resistance Increase\"","status":"draft"}
+{"id":"table/strtable.csv:4345:2","source":" \"ステータスチップ：STR\"","english":" \"Stat Chip: STR\"","status":"draft"}
+{"id":"table/strtable.csv:4346:2","source":" \"ステータスチップ：DEX\"","english":" \"Stat Chip: DEX\"","status":"draft"}
+{"id":"table/strtable.csv:4347:2","source":" \"ステータスチップ：INT\"","english":" \"Stat Chip: INT\"","status":"draft"}
+{"id":"table/strtable.csv:4348:2","source":" \"ステータスチップ：VIT\"","english":" \"Stat Chip: VIT\"","status":"draft"}
+{"id":"table/strtable.csv:4349:2","source":" \"ステータスチップ：AGI\"","english":" \"Stat Chip: AGI\"","status":"draft"}
+{"id":"table/strtable.csv:4350:2","source":" \"ステータスチップ：MAG\"","english":" \"Stat Chip: MAG\"","status":"draft"}
+{"id":"table/strtable.csv:4351:2","source":" \"スキルチップ：共通系\"","english":" \"Skill Chip: Common\"","status":"draft"}
+{"id":"table/strtable.csv:4352:2","source":" \"スキルチップ：ファイター系\"","english":" \"Skill Chip: Fighter\"","status":"draft"}
+{"id":"table/strtable.csv:4353:2","source":" \"スキルチップ：スペルユーザー系\"","english":" \"Skill Chip: Spell User\"","status":"draft"}
+{"id":"table/strtable.csv:4397:2","source":"パーツ融合システム","english":"Parts Fusion System","status":"draft"}
+{"id":"table/strtable.csv:4398:2","source":"パーツ","english":"Parts","status":"draft"}
+{"id":"table/strtable.csv:4399:2","source":"能力","english":"Stats","status":"draft"}
+{"id":"table/strtable.csv:4403:2","source":"成功しました","english":"Succeeded.","status":"draft"}
+{"id":"table/strtable.csv:4404:2","source":"失敗しました","english":"Failed.","status":"draft"}
+{"id":"table/strtable.csv:4405:2","source":"キャンセルしました","english":"Canceled.","status":"draft"}
+{"id":"table/strtable.csv:4406:2","source":"所持金が足りませんでした","english":"Not enough money.","status":"draft"}
+{"id":"table/strtable.csv:4407:2","source":"装備品の条件が合いませんでした","english":"The equipment requirements do not match.","status":"draft"}
+{"id":"table/strtable.csv:4408:2","source":"装備品の種類が一致しませんでした","english":"The equipment types do not match.","status":"draft"}
+{"id":"table/strtable.csv:4409:2","source":"装備品の性別の条件が一致しませんでした","english":"The equipment gender requirements do not match.","status":"draft"}
+{"id":"table/strtable.csv:4410:2","source":"装備品の職業の条件が一致しませんでした","english":"The equipment job requirements do not match.","status":"draft"}
+{"id":"table/strtable.csv:4411:2","source":"装備品の騎士団限定条件が一致しませんでした","english":"The equipment Knight Order requirements do not match.","status":"draft"}
+{"id":"table/strtable.csv:4412:2","source":"イベントアイテムは変更できません","english":"Event items cannot be changed.","status":"draft"}
+{"id":"table/strtable.csv:4413:2","source":"見た目のほうがLvが低いため変更出来ません","english":"The appearance item level is too low to change.","status":"draft"}
+{"id":"table/strtable.csv:4414:2","source":"何らかの条件で失敗しました","english":"Failed because a requirement was not met.","status":"draft"}
+{"id":"table/strtable.csv:4419:2","source":" \"チップ購入\"","english":" \"Chip Purchase\"","status":"draft"}
+{"id":"table/strtable.csv:4420:2","source":" \"所持経験値\"","english":" \"EXP Held\"","status":"draft"}
+{"id":"table/strtable.csv:4421:2","source":" \"必要経験値\"","english":" \"EXP Required\"","status":"draft"}
+{"id":"table/strtable.csv:4422:2","source":" \"残り経験値\"","english":" \"EXP Remaining\"","status":"draft"}
+{"id":"table/strtable.csv:4423:2","source":" \"所持職業経験値\"","english":" \"Job EXP Held\"","status":"draft"}
+{"id":"table/strtable.csv:4424:2","source":" \"必要職業経験値\"","english":" \"Job EXP Required\"","status":"draft"}
+{"id":"table/strtable.csv:4425:2","source":" \"残り職業経験値\"","english":" \"Job EXP Remaining\"","status":"draft"}
+{"id":"table/strtable.csv:4426:2","source":" \"個数\"","english":" \"Quantity\"","status":"draft"}
+{"id":"table/strtable.csv:4427:2","source":" \"基本経験値が不足しています。\"","english":" \"Not enough Base EXP.\"","status":"draft"}
+{"id":"table/strtable.csv:4428:2","source":" \"職業経験値が不足しています。\"","english":" \"Not enough Job EXP.\"","status":"draft"}
+{"id":"table/strtable.csv:4429:2","source":" \"これ以上、アイテムが持てません。\"","english":" \"You cannot carry any more items.\"","status":"draft"}
+{"id":"table/strtable.csv:4430:2","source":" \"購入に失敗しました。\"","english":" \"Purchase failed.\"","status":"draft"}
+{"id":"table/strtable.csv:4433:2","source":" \"パーツを外す\"","english":" \"Remove Parts\"","status":"draft"}
+{"id":"table/strtable.csv:4437:2","source":" \"チップ倉庫\"","english":" \"Chip Storage\"","status":"draft"}
+{"id":"table/strtable.csv:4444:2","source":" \"スキル\"","english":" \"Skills\"","status":"draft"}
+{"id":"table/strtable.csv:4445:2","source":" \"リミテーション\"","english":" \"Limitation\"","status":"draft"}
+{"id":"table/strtable.csv:4446:2","source":" \"預けられるのは%d種までです\"","english":" \"You can store up to %d types.\"","status":"draft"}
+{"id":"table/strtable.csv:4447:2","source":"%d個収納できませんでした","english":"Could not store %d items.","status":"draft"}
+{"id":"table/strtable.csv:4448:2","source":"%sを%d個預けました","english":"Deposited %s; quantity: %d.","status":"draft"}
+{"id":"table/strtable.csv:4449:2","source":"%sを%d個引き出しました","english":"Withdrew %s; quantity: %d.","status":"draft"}
+{"id":"table/strtable.csv:4453:2","source":" \"メニュー\"","english":" \"Menu\"","status":"draft"}
+{"id":"table/strtable.csv:4457:2","source":" \"マップインフォメーション\"","english":" \"Map Information\"","status":"draft"}
+{"id":"table/strtable.csv:4458:2","source":" \"マップインフォメーション対象外マップです\"","english":" \"This map is not supported by Map Information.\"","status":"draft"}
+{"id":"table/strtable.csv:4461:2","source":" \"憑依カタログ\"","english":" \"Possession Catalog\"","status":"draft"}
+{"id":"table/strtable.csv:4462:2","source":" \"憑依カタログ対象外マップです\"","english":" \"This map is not supported by the Possession Catalog.\"","status":"draft"}
+{"id":"table/strtable.csv:4465:2","source":" \"憑依者情報\"","english":" \"Possessor Information\"","status":"draft"}
+{"id":"table/strtable.csv:4468:2","source":" \"M・ATK\"","english":" \"M.ATK\"","status":"draft"}
+{"id":"table/strtable.csv:4469:2","source":" \"S・HIT\"","english":" \"S.HIT\"","status":"draft"}
+{"id":"table/strtable.csv:4470:2","source":" \"L・HIT\"","english":" \"L.HIT\"","status":"draft"}
+{"id":"table/strtable.csv:4472:2","source":" \"M・DEF\"","english":" \"M.DEF\"","status":"draft"}
+{"id":"table/strtable.csv:4473:2","source":" \"S・AVO\"","english":" \"S.AVO\"","status":"draft"}
+{"id":"table/strtable.csv:4474:2","source":" \"L・AVO\"","english":" \"L.AVO\"","status":"draft"}
+{"id":"table/strtable.csv:4475:2","source":" \"最大HP\"","english":" \"Max HP\"","status":"draft"}
+{"id":"table/strtable.csv:4476:2","source":" \"最大MP\"","english":" \"Max MP\"","status":"draft"}
+{"id":"table/strtable.csv:4477:2","source":" \"最大SP\"","english":" \"Max SP\"","status":"draft"}
+{"id":"table/strtable.csv:4478:2","source":" \"憑依アイテムを$r探している最中に$r憑依アイテムがなくなって$rしまう場合があります。$r『位置情報更新』ボタンを押して、$r情報を更新しましょう。\"","english":" \"The possession item$rmay disappear while you are searching$rfor it.$rPress 『Update Position』$rto refresh$rthe information.\"","status":"draft"}
+{"id":"table/strtable.csv:4479:2","source":" \"選択中の憑依アイテムへのガイドを終了しますか？\"","english":" \"End the guide to the selected possession item?\"","status":"draft"}
+{"id":"table/strtable.csv:4480:2","source":" \"選択中の憑依アイテムは$rなくなってしまいました\"","english":" \"The selected possession item$ris no longer available.\"","status":"draft"}
+{"id":"table/strtable.csv:4481:2","source":" \"装備条件が合わない為、指定した憑依アイテム情報を開けません\"","english":" \"Cannot open information for the selected possession item because the equipment requirements are not met.\"","status":"draft"}
+{"id":"table/strtable.csv:4486:2","source":" \"イベントナビゲーション\"","english":" \"Event Navigation\"","status":"draft"}
+{"id":"table/strtable.csv:4487:2","source":" \"詳細を確認したいイベントを選択してください\"","english":" \"Select an event to view its details.\"","status":"draft"}
+{"id":"table/strtable.csv:4488:2","source":" \"達成度\"","english":" \"Progress\"","status":"draft"}
+{"id":"table/strtable.csv:4496:2","source":" \"イベントナビゲーションを開始しますか？\"","english":" \"Start Event Navigation?\"","status":"draft"}
+{"id":"table/strtable.csv:4505:2","source":" \"ナビゲーション情報\"","english":" \"Navigation Information\"","status":"draft"}
+{"id":"table/strtable.csv:4515:2","source":" \"ダンジョン残り時間\"","english":" \"Dungeon Time Remaining\"","status":"draft"}
+{"id":"table/strtable.csv:4516:2","source":"崩壊まで   時間   分","english":"Collapse in   Hours   Minutes","status":"draft"}
+{"id":"table/strtable.csv:4519:2","source":" \"アイテムを選んで下さい\"","english":" \"Select an item.\"","status":"draft"}
+{"id":"table/strtable.csv:4520:2","source":" \"チェンジする\"","english":" \"Change\"","status":"draft"}
+{"id":"table/strtable.csv:4521:2","source":" \"合体する\"","english":" \"Combine\"","status":"draft"}
+{"id":"table/strtable.csv:4522:2","source":" \"やめておく\"","english":" \"Cancel\"","status":"draft"}
+{"id":"table/strtable.csv:4525:2","source":" \"アイテムチェンジの選択\"","english":" \"Item Change Selection\"","status":"draft"}
+{"id":"table/strtable.csv:4526:2","source":" \"合体するアイテムを選んで下さい\"","english":" \"Select an item to combine.\"","status":"draft"}
+{"id":"table/strtable.csv:4527:2","source":" \"合体するアイテム\"","english":" \"Item to Combine\"","status":"draft"}
+{"id":"table/strtable.csv:4528:2","source":" \"チェンジ中のアイテムは設定出来ません。\"","english":" \"An item being changed cannot be selected.\"","status":"draft"}
+{"id":"table/strtable.csv:4529:2","source":" \"チェンジ出来る状態ではありません。\"","english":" \"You cannot change items in your current state.\"","status":"draft"}
+{"id":"table/strtable.csv:4530:2","source":" \"bodyに持ってない為、チェンジは出来ません。\"","english":" \"Cannot change this: it is not in your Body inventory.\"","status":"draft"}
+{"id":"table/strtable.csv:4531:2","source":" \"アイテム所持数を減らしてから、チェンジをして下さい。\"","english":" \"Reduce the number of items in your inventory before changing this item.\"","status":"draft"}
+{"id":"table/strtable.csv:4532:2","source":" \"変形できるアイテムがありませんでした。\"","english":" \"There are no items that can be transformed.\"","status":"draft"}
+{"id":"table/strtable.csv:4533:2","source":" \"条件を満たしていない為、チェンジは出来ません。\"","english":" \"Cannot change this because the requirements are not met.\"","status":"draft"}
+{"id":"table/strtable.csv:4534:2","source":" \"休眠中の為、チェンジは出来ません。\"","english":" \"Cannot change this while it is dormant.\"","status":"draft"}
+{"id":"table/strtable.csv:4535:2","source":" \"故障中の為、チェンジは出来ません。\"","english":" \"Cannot change this while it is broken.\"","status":"draft"}
+{"id":"table/strtable.csv:4536:2","source":" \"何かしらの原因で失敗しました。\"","english":" \"Failed for an unknown reason.\"","status":"draft"}
+{"id":"table/strtable.csv:4539:2","source":" \"頭\"","english":" \"Head\"","status":"draft"}
+{"id":"table/strtable.csv:4540:2","source":" \"羽\"","english":" \"Wings\"","status":"draft"}
+{"id":"table/strtable.csv:4541:2","source":" \"羽の色\"","english":" \"Wing Color\"","status":"draft"}
+{"id":"table/strtable.csv:4542:2","source":" \"しっぽ\"","english":" \"Tail\"","status":"draft"}
+{"id":"table/strtable.csv:4543:2","source":" \"特典\"","english":" \"Bonus\"","status":"draft"}
+{"id":"table/strtable.csv:4544:2","source":" \"アイテム\"","english":" \"Item\"","status":"draft"}
+{"id":"table/strtable.csv:4545:2","source":" \"LV変更\"","english":" \"Change Level\"","status":"draft"}
+{"id":"table/strtable.csv:4547:2","source":"デフォルト","english":"Default","status":"draft"}
+{"id":"table/strtable.csv:4548:2","source":"グレイス","english":"Grace","status":"draft","note":"Working literal rendering; canonical Global name unverified."}
+{"id":"table/strtable.csv:4549:2","source":"光輪","english":"Light Ring","status":"draft"}
+{"id":"table/strtable.csv:4550:2","source":"アンクルフェザー","english":"Ankle Feather","status":"draft","note":"Working literal rendering; canonical Global name unverified."}
+{"id":"table/strtable.csv:4551:2","source":"背負い魔１","english":"Back Demon 1","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4552:2","source":"背負い魔２","english":"Back Demon 2","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4553:2","source":"背負い魔３","english":"Back Demon 3","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4554:2","source":"マリオネット１","english":"Marionette 1","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4555:2","source":"マリオネット２","english":"Marionette 2","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4556:2","source":"マリオネット３","english":"Marionette 3","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4557:2","source":"パートナー１","english":"Partner 1","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4558:2","source":"パートナー２","english":"Partner 2","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4560:2","source":"デフォルト","english":"Default","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4561:2","source":"背負い魔１","english":"Back Demon 1","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4562:2","source":"背負い魔２","english":"Back Demon 2","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4563:2","source":"背負い魔３","english":"Back Demon 3","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4564:2","source":"マリオネット１","english":"Marionette 1","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4565:2","source":"マリオネット２","english":"Marionette 2","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4566:2","source":"マリオネット３","english":"Marionette 3","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4567:2","source":"パートナー１","english":"Partner 1","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4568:2","source":"パートナー２","english":"Partner 2","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4570:2","source":"デフォルト","english":"Default","status":"draft"}
+{"id":"table/strtable.csv:4571:2","source":"輪（パワーズ）","english":"Ring (Powers)","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4572:2","source":"輪（セラフィム）","english":"Ring (Seraphim)","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4573:2","source":"デフォルト","english":"Default","status":"draft"}
+{"id":"table/strtable.csv:4574:2","source":"２枚羽","english":"2 Wings","status":"draft","note":"Working option label; canonical Global name unverified."}
+{"id":"table/strtable.csv:4575:2","source":"３枚羽","english":"3 Wings","status":"draft","note":"Working option label; canonical Global name unverified."}

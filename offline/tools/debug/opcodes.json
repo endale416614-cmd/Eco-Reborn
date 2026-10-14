@@ -1,0 +1,2107 @@
+{
+ "client": {
+  "000a": {
+   "aliases": [
+    "CSMG_SEND_VERSION"
+   ],
+   "name": "ConnectionInit",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "0010": {
+   "aliases": [
+    "CSMG_LOGIN"
+   ],
+   "name": "UserLogin",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "001f": {
+   "aliases": [],
+   "name": "CSMG_LOGOUT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0032": {
+   "aliases": [
+    "CSMG_PING"
+   ],
+   "name": "ConnectionCheck",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "01fd": {
+   "aliases": [
+    "CSMG_CHAR_SLOT"
+   ],
+   "name": "ChangeMap",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "0208": {
+   "aliases": [],
+   "name": "CSMG_PLAYER_STATS_UP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "020d": {
+   "aliases": [],
+   "name": "CSMG_ACTOR_REQUEST_PC_INFO",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0222": {
+   "aliases": [],
+   "name": "CSMG_PLAYER_ELEMENTS",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0227": {
+   "aliases": [],
+   "name": "CSMG_SKILL_LEARN",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "022b": {
+   "aliases": [],
+   "name": "CSMG_SKILL_LEVEL_UP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0258": {
+   "aliases": [],
+   "name": "CSMG_PLAYER_STATS_PRE_CALC",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "02be": {
+   "aliases": [],
+   "name": "CSMG_NPC_JOB_SWITCH",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "03e8": {
+   "aliases": [],
+   "name": "CSMG_CHAT_PUBLIC",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0406": {
+   "aliases": [],
+   "name": "CSMG_CHAT_PARTY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0410": {
+   "aliases": [],
+   "name": "CSMG_CHAT_RING",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "041a": {
+   "aliases": [],
+   "name": "CSMG_CHAT_SIGN",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "05e6": {
+   "aliases": [],
+   "name": "CSMG_NPC_EVENT_START",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0600": {
+   "aliases": [],
+   "name": "CSMG_NPC_INPUTBOX",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0605": {
+   "aliases": [],
+   "name": "CSMG_NPC_SELECT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0614": {
+   "aliases": [],
+   "name": "CSMG_NPC_SHOP_BUY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0616": {
+   "aliases": [],
+   "name": "CSMG_NPC_SHOP_SELL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0617": {
+   "aliases": [],
+   "name": "CSMG_NPC_SHOP_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0637": {
+   "aliases": [],
+   "name": "CSMG_DEM_CHIP_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0638": {
+   "aliases": [],
+   "name": "CSMG_DEM_CHIP_CATEGORY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "063c": {
+   "aliases": [],
+   "name": "CSMG_DEM_CHIP_BUY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0641": {
+   "aliases": [],
+   "name": "CSMG_VSHOP_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "064a": {
+   "aliases": [],
+   "name": "CSMG_VSHOP_CATEGORY_REQUEST",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0654": {
+   "aliases": [],
+   "name": "CSMG_VSHOP_BUY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "07d0": {
+   "aliases": [],
+   "name": "CSMG_ITEM_DROP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "07e4": {
+   "aliases": [],
+   "name": "CSMG_ITEM_GET",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "09c4": {
+   "aliases": [],
+   "name": "CSMG_ITEM_USE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "09e2": {
+   "aliases": [],
+   "name": "CSMG_ITEM_MOVE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "09e7": {
+   "aliases": [],
+   "name": "CSMG_ITEM_EQUIPT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "09f7": {
+   "aliases": [],
+   "name": "CSMG_ITEM_WARE_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "09fb": {
+   "aliases": [],
+   "name": "CSMG_ITEM_WARE_GET",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "09fd": {
+   "aliases": [],
+   "name": "CSMG_ITEM_WARE_PUT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0a0a": {
+   "aliases": [],
+   "name": "CSMG_TRADE_REQUEST",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0a0d": {
+   "aliases": [],
+   "name": "CSMG_TRADE_REQUEST_ANSWER",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0a14": {
+   "aliases": [],
+   "name": "CSMG_TRADE_CONFIRM",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0a15": {
+   "aliases": [],
+   "name": "CSMG_TRADE_PERFORM",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0a16": {
+   "aliases": [],
+   "name": "CSMG_TRADE_CANCEL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0a1b": {
+   "aliases": [],
+   "name": "CSMG_TRADE_ITEM",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0f9f": {
+   "aliases": [],
+   "name": "CSMG_SKILL_ATTACK",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0fa3": {
+   "aliases": [],
+   "name": "CSMG_PLAYER_RETURN_HOME",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "0fa5": {
+   "aliases": [
+    "CSMG_SKILL_CHANGE_BATTLE_STATUS"
+   ],
+   "name": "AttackModeChange",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "11f8": {
+   "aliases": [
+    "CSMG_PLAYER_MOVE"
+   ],
+   "name": "CharaMove",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "11fe": {
+   "aliases": [
+    "CSMG_PLAYER_MAP_LOADED"
+   ],
+   "name": "RequestMove",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "1216": {
+   "aliases": [],
+   "name": "CSMG_CHAT_EMOTION",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "121b": {
+   "aliases": [
+    "CSMG_CHAT_MOTION"
+   ],
+   "name": "MotionChange",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "12cb": {
+   "aliases": [],
+   "name": "CSMG_NPC_PET_SELECT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1387": {
+   "aliases": [],
+   "name": "CSMG_SKILL_CAST",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13b7": {
+   "aliases": [],
+   "name": "CSMG_NPC_SYNTHESE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13b9": {
+   "aliases": [],
+   "name": "CSMG_NPC_SYNTHESE_FINISH",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13ba": {
+   "aliases": [],
+   "name": "CSMG_CHAT_SIT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13c5": {
+   "aliases": [],
+   "name": "CSMG_ITEM_ENHANCE_SELECT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13c7": {
+   "aliases": [
+    "CSMG_ITEM_ENHANCE_CONFIRM"
+   ],
+   "name": "FinishMapMove",
+   "source": "EcoServerEmulator/MapServer/MapServerInterface.json"
+  },
+  "13c9": {
+   "aliases": [],
+   "name": "CSMG_ITEM_ENHANCE_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13d9": {
+   "aliases": [],
+   "name": "CSMG_ITEM_FUSION",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13dd": {
+   "aliases": [],
+   "name": "CSMG_ITEM_FUSION_CANCEL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13e3": {
+   "aliases": [],
+   "name": "CSMG_IRIS_ADD_SLOT_ITEM_SELECT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13e5": {
+   "aliases": [],
+   "name": "CSMG_IRIS_ADD_SLOT_CONFIRM",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "13e7": {
+   "aliases": [],
+   "name": "CSMG_IRIS_ADD_SLOT_CANCEL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "140b": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_ASSEMBLE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "140d": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_ASSEMBLE_CANCEL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "177a": {
+   "aliases": [],
+   "name": "CSMG_POSSESSION_REQUEST",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "177f": {
+   "aliases": [],
+   "name": "CSMG_POSSESSION_CANCEL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17e8": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_SELL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17ea": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_SELL_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17eb": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_SELL_SETUP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17f2": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_WAREHOUSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17f4": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_WAREHOUSE_SET",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17f8": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_WAREHOUSE_GET",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "17fc": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_OPEN",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1803": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_SELL_BUY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "181a": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_BUY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "181c": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_BUY_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "181d": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_BUY_SETUP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1827": {
+   "aliases": [],
+   "name": "CSMG_GOLEM_SHOP_BUY_SELL",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1965": {
+   "aliases": [],
+   "name": "CSMG_QUEST_SELECT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1991": {
+   "aliases": [],
+   "name": "CSMG_QUEST_DETAIL_REQUEST",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "19c9": {
+   "aliases": [],
+   "name": "CSMG_PARTY_INVITE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "19cb": {
+   "aliases": [],
+   "name": "CSMG_PARTY_INVITE_ANSWER",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "19cd": {
+   "aliases": [],
+   "name": "CSMG_PARTY_QUIT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "19d2": {
+   "aliases": [],
+   "name": "CSMG_PARTY_KICK",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "19d7": {
+   "aliases": [],
+   "name": "CSMG_PARTY_NAME",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1aae": {
+   "aliases": [],
+   "name": "CSMG_RING_INVITE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1ab7": {
+   "aliases": [],
+   "name": "CSMG_RING_INVITE_ANSWER",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1ab8": {
+   "aliases": [],
+   "name": "CSMG_RING_INVITE_ANSWER",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1abd": {
+   "aliases": [],
+   "name": "CSMG_RING_QUIT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1ac2": {
+   "aliases": [],
+   "name": "CSMG_RING_KICK",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1ad6": {
+   "aliases": [],
+   "name": "CSMG_RING_RIGHT_SET",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1adb": {
+   "aliases": [],
+   "name": "CSMG_RING_EMBLEM_UPLOAD",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1af5": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_BBS_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1afe": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_BBS_POST",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1b08": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_BBS_REQUEST_PAGE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1b8a": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_RECRUIT_CREATE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1b94": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_RECRUIT_DELETE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1b9e": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_RECRUIT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1ba8": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_RECRUIT_JOIN",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1bae": {
+   "aliases": [],
+   "name": "CSMG_COMMUNITY_RECRUIT_REQUEST_ANS",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1bf8": {
+   "aliases": [],
+   "name": "CSMG_FGARDEN_EQUIPT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1c02": {
+   "aliases": [],
+   "name": "CSMG_FGARDEN_FURNITURE_SETUP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1c07": {
+   "aliases": [],
+   "name": "CSMG_FGARDEN_FURNITURE_USE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1c0c": {
+   "aliases": [],
+   "name": "CSMG_FGARDEN_FURNITURE_REMOVE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1c11": {
+   "aliases": [],
+   "name": "CSMG_FGARDEN_FURNITURE_RECONFIG",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1d4c": {
+   "aliases": [],
+   "name": "CSMG_PLAYER_GREETINGS",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1db0": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_OPEN",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1db2": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1db6": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_INSERT",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1dbb": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_REMOVE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1dc9": {
+   "aliases": [],
+   "name": "CSMG_IRIS_CARD_LOCK",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e47": {
+   "aliases": [],
+   "name": "CSMG_DEM_DEMIC_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e4c": {
+   "aliases": [],
+   "name": "CSMG_DEM_DEMIC_INITIALIZE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e4e": {
+   "aliases": [],
+   "name": "CSMG_DEM_DEMIC_CONFIRM",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e50": {
+   "aliases": [],
+   "name": "CSMG_DEM_STATS_PRE_CALC",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e5b": {
+   "aliases": [],
+   "name": "CSMG_DEM_COST_LIMIT_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e5c": {
+   "aliases": [],
+   "name": "CSMG_DEM_COST_LIMIT_BUY",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e7d": {
+   "aliases": [],
+   "name": "CSMG_DEM_FORM_CHANGE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e83": {
+   "aliases": [],
+   "name": "CSMG_DEM_PARTS_CLOSE",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e87": {
+   "aliases": [],
+   "name": "CSMG_DEM_PARTS_EQUIP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  },
+  "1e88": {
+   "aliases": [],
+   "name": "CSMG_DEM_PARTS_UNEQUIP",
+   "source": "SagaECO/SagaMap/Manager/MapClientManager.cs"
+  }
+ },
+ "role_overrides": {
+  "login": {
+   "client": {
+    "0001": {
+     "aliases": [
+      "CSMG_SEND_VERSION"
+     ],
+     "name": "VersionCheck",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "000a": {
+     "aliases": [
+      "CSMG_PING"
+     ],
+     "name": "ConnectionCheck",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "001f": {
+     "aliases": [
+      "CSMG_LOGIN"
+     ],
+     "name": "UserLogin",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "002a": {
+     "aliases": [
+      "CSMG_CHAR_STATUS"
+     ],
+     "name": "GetMailAndFriendList",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "0032": {
+     "aliases": [
+      "CSMG_REQUEST_MAP_SERVER"
+     ],
+     "name": "RequestMapServer",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "0034": {
+     "aliases": [],
+     "name": "RequestCharaID",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "00a0": {
+     "aliases": [
+      "CSMG_CHAR_CREATE"
+     ],
+     "name": "CreateChara",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "00a5": {
+     "aliases": [],
+     "name": "CSMG_CHAR_DELETE",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "00a7": {
+     "aliases": [
+      "CSMG_CHAR_SELECT"
+     ],
+     "name": "RequestMapID",
+     "source": "EcoServerEmulator/LoginServer/LoginServerInterface.json"
+    },
+    "00c9": {
+     "aliases": [],
+     "name": "CSMG_CHAT_WHISPER",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "00d2": {
+     "aliases": [],
+     "name": "CSMG_FRIEND_ADD",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "00d4": {
+     "aliases": [],
+     "name": "CSMG_FRIEND_ADD_REPLY",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "00d7": {
+     "aliases": [],
+     "name": "CSMG_FRIEND_DELETE",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "00e1": {
+     "aliases": [],
+     "name": "CSMG_FRIEND_DETAIL_UPDATE",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "00e6": {
+     "aliases": [],
+     "name": "CSMG_FRIEND_MAP_UPDATE",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "0104": {
+     "aliases": [],
+     "name": "CSMG_RING_EMBLEM_NEW",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "0109": {
+     "aliases": [],
+     "name": "CSMG_RING_EMBLEM",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "0172": {
+     "aliases": [],
+     "name": "CSMG_WRP_REQUEST",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "fff0": {
+     "aliases": [],
+     "name": "INTERN_LOGIN_REGISTER",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    },
+    "fff1": {
+     "aliases": [],
+     "name": "INTERN_LOGIN_REQUEST_CONFIG",
+     "source": "SagaECO/SagaLogin/Manager/LoginClientManager.cs"
+    }
+   },
+   "server": {
+    "0002": {
+     "aliases": [],
+     "name": "SSMG_VERSION_ACK",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_VERSION_ACK.cs"
+    },
+    "000b": {
+     "aliases": [],
+     "name": "SSMG_PONG",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_PONG.cs"
+    },
+    "001e": {
+     "aliases": [],
+     "name": "SSMG_LOGIN_ALLOWED",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_LOGIN_ALLOWED.cs"
+    },
+    "0020": {
+     "aliases": [],
+     "name": "SSMG_LOGIN_ACK",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_LOGIN_ACK.cs"
+    },
+    "0028": {
+     "aliases": [],
+     "name": "SSMG_CHAR_DATA",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAR_DATA.cs"
+    },
+    "0029": {
+     "aliases": [],
+     "name": "SSMG_CHAR_EQUIP",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAR_EQUIP.cs"
+    },
+    "0033": {
+     "aliases": [],
+     "name": "SSMG_SEND_TO_MAP_SERVER",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_SEND_TO_MAP_SERVER.cs"
+    },
+    "00a1": {
+     "aliases": [],
+     "name": "SSMG_CHAR_CREATE_ACK",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAR_CREATE_ACK.cs"
+    },
+    "00a6": {
+     "aliases": [],
+     "name": "SSMG_CHAR_DELETE_ACK",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAR_DELETE_ACK.cs"
+    },
+    "00a8": {
+     "aliases": [],
+     "name": "SSMG_CHAR_SELECT_ACK",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAR_SELECT_ACK.cs"
+    },
+    "00ca": {
+     "aliases": [],
+     "name": "SSMG_CHAT_WHISPER_FAILED",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAT_WHISPER_FAILED.cs"
+    },
+    "00ce": {
+     "aliases": [],
+     "name": "SSMG_CHAT_WHISPER",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAT_WHISPER.cs"
+    },
+    "00d3": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_ADD",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_ADD.cs"
+    },
+    "00d5": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_ADD_OK",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_ADD_OK.cs"
+    },
+    "00d6": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_ADD_FAILED",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_ADD_FAILED.cs"
+    },
+    "00d8": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_DELETE",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_DELETE.cs"
+    },
+    "00dc": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_CHAR_INFO",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_CHAR_INFO.cs"
+    },
+    "00dd": {
+     "aliases": [],
+     "name": "SSMG_CHAR_STATUS",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_CHAR_STATUS.cs"
+    },
+    "00e3": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_DETAIL_UPDATE",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_DETAIL_UPDATE.cs"
+    },
+    "00e8": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_MAP_UPDATE",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_MAP_UPDATE.cs"
+    },
+    "00ed": {
+     "aliases": [],
+     "name": "SSMG_FRIEND_STATUS_UPDATE",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_FRIEND_STATUS_UPDATE.cs"
+    },
+    "010a": {
+     "aliases": [],
+     "name": "SSMG_RING_EMBLEM",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_RING_EMBLEM.cs"
+    },
+    "0173": {
+     "aliases": [],
+     "name": "SSMG_WRP_LIST",
+     "source": "SagaECO/SagaLogin/Packets/Server/SSMG_WRP_LIST.cs"
+    }
+   }
+  },
+  "world": {
+   "client": {
+    "0001": {
+     "aliases": [],
+     "name": "VersionCheck",
+     "source": "EcoServerEmulator/WorldServer/WorldServerInterface.json"
+    },
+    "000a": {
+     "aliases": [],
+     "name": "ConnectionCheck",
+     "source": "EcoServerEmulator/WorldServer/WorldServerInterface.json"
+    },
+    "001f": {
+     "aliases": [],
+     "name": "UserLogin",
+     "source": "EcoServerEmulator/WorldServer/WorldServerInterface.json"
+    },
+    "002f": {
+     "aliases": [],
+     "name": "LoginStatusCheck",
+     "source": "EcoServerEmulator/WorldServer/WorldServerInterface.json"
+    },
+    "0031": {
+     "aliases": [],
+     "name": "RequestServerList",
+     "source": "EcoServerEmulator/WorldServer/WorldServerInterface.json"
+    }
+   },
+   "server": {}
+  }
+ },
+ "server": {
+  "000b": {
+   "aliases": [],
+   "name": "SSMG_VERSION_ACK",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_VERSION_ACK.cs"
+  },
+  "000f": {
+   "aliases": [],
+   "name": "SSMG_LOGIN_ALLOWED",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_LOGIN_ALLOWED.cs"
+  },
+  "0011": {
+   "aliases": [],
+   "name": "SSMG_LOGIN_ACK",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_LOGIN_ACK.cs"
+  },
+  "0020": {
+   "aliases": [],
+   "name": "SSMG_LOGOUT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_LOGOUT.cs"
+  },
+  "0033": {
+   "aliases": [],
+   "name": "SSMG_PONG",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PONG.cs"
+  },
+  "01ff": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_INFO.cs"
+  },
+  "0203": {
+   "aliases": [],
+   "name": "SSMG_ITEM_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_INFO.cs"
+  },
+  "020e": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_PC_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_PC_INFO.cs"
+  },
+  "020f": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_SIZE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_SIZE.cs"
+  },
+  "0212": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_STATUS",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_STATUS.cs"
+  },
+  "0217": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_STATUS_EXTEND",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_STATUS_EXTEND.cs"
+  },
+  "021c": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_HPMPSP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_HPMPSP.cs"
+  },
+  "0221": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_MAX_HPMPSP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_MAX_HPMPSP.cs"
+  },
+  "0223": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_ELEMENTS",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_ELEMENTS.cs"
+  },
+  "0226": {
+   "aliases": [],
+   "name": "SSMG_SKILL_LIST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_LIST.cs"
+  },
+  "0228": {
+   "aliases": [],
+   "name": "SSMG_SKILL_LEARN",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_LEARN.cs"
+  },
+  "022c": {
+   "aliases": [],
+   "name": "SSMG_SKILL_LEVEL_UP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_LEVEL_UP.cs"
+  },
+  "022e": {
+   "aliases": [],
+   "name": "SSMG_SKILL_RESERVE_LIST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_RESERVE_LIST.cs"
+  },
+  "022f": {
+   "aliases": [],
+   "name": "SSMG_SKILL_JOINT_LIST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_JOINT_LIST.cs"
+  },
+  "0230": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_CAPACITY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_CAPACITY.cs"
+  },
+  "0231": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_MAX_CAPACITY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_MAX_CAPACITY.cs"
+  },
+  "0235": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_EXP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_EXP.cs"
+  },
+  "0236": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_WRP_RANKING",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_WRP_RANKING.cs"
+  },
+  "023a": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_LEVEL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_LEVEL.cs"
+  },
+  "023f": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_LEVEL_UP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_LEVEL_UP.cs"
+  },
+  "0244": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_JOB",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_JOB.cs"
+  },
+  "0259": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_STATS_PRE_CALC",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_STATS_PRE_CALC.cs"
+  },
+  "02bc": {
+   "aliases": [],
+   "name": "SSMG_NPC_JOB_SWITCH",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_JOB_SWITCH.cs"
+  },
+  "03e9": {
+   "aliases": [],
+   "name": "SSMG_CHAT_PUBLIC",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_PUBLIC.cs"
+  },
+  "03f2": {
+   "aliases": [],
+   "name": "SSMG_SYSTEM_MESSAGE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SYSTEM_MESSAGE.cs"
+  },
+  "03f7": {
+   "aliases": [],
+   "name": "SSMG_NPC_MESSAGE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_MESSAGE.cs"
+  },
+  "03f8": {
+   "aliases": [],
+   "name": "SSMG_NPC_MESSAGE_START",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_MESSAGE_START.cs"
+  },
+  "03f9": {
+   "aliases": [],
+   "name": "SSMG_NPC_MESSAGE_END",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_MESSAGE_END.cs"
+  },
+  "0407": {
+   "aliases": [],
+   "name": "SSMG_CHAT_PARTY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_PARTY.cs"
+  },
+  "0411": {
+   "aliases": [],
+   "name": "SSMG_CHAT_RING",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_RING.cs"
+  },
+  "041b": {
+   "aliases": [],
+   "name": "SSMG_CHAT_SIGN",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_SIGN.cs"
+  },
+  "041f": {
+   "aliases": [],
+   "name": "SSMG_CHAT_WHOLE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_WHOLE.cs"
+  },
+  "05dc": {
+   "aliases": [],
+   "name": "SSMG_NPC_EVENT_START",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_EVENT_START.cs"
+  },
+  "05dd": {
+   "aliases": [],
+   "name": "SSMG_NPC_EVENT_END",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_EVENT_END.cs"
+  },
+  "05e2": {
+   "aliases": [],
+   "name": "SSMG_NPC_SHOW",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SHOW.cs"
+  },
+  "05e3": {
+   "aliases": [],
+   "name": "SSMG_NPC_HIDE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_HIDE.cs"
+  },
+  "05e7": {
+   "aliases": [],
+   "name": "SSMG_NPC_CHANGE_VIEW",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_CHANGE_VIEW.cs"
+  },
+  "05e8": {
+   "aliases": [],
+   "name": "SSMG_NPC_CURRENT_EVENT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_CURRENT_EVENT.cs"
+  },
+  "05e9": {
+   "aliases": [],
+   "name": "SSMG_NPC_MOVE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_MOVE.cs"
+  },
+  "05eb": {
+   "aliases": [],
+   "name": "SSMG_NPC_WAIT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_WAIT.cs"
+  },
+  "05f5": {
+   "aliases": [],
+   "name": "SSMG_NPC_PLAY_SOUND",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_PLAY_SOUND.cs"
+  },
+  "05ff": {
+   "aliases": [],
+   "name": "SSMG_NPC_INPUTBOX",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_INPUTBOX.cs"
+  },
+  "0604": {
+   "aliases": [],
+   "name": "SSMG_NPC_SELECT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SELECT.cs"
+  },
+  "0609": {
+   "aliases": [],
+   "name": "SSMG_NPC_FADE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_FADE.cs"
+  },
+  "060e": {
+   "aliases": [],
+   "name": "SSMG_NPC_SHOW_EFFECT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SHOW_EFFECT.cs"
+  },
+  "0613": {
+   "aliases": [],
+   "name": "SSMG_NPC_SHOP_BUY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SHOP_BUY.cs"
+  },
+  "0615": {
+   "aliases": [],
+   "name": "SSMG_NPC_SHOP_SELL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SHOP_SELL.cs"
+  },
+  "0622": {
+   "aliases": [],
+   "name": "SSMG_NPC_SHOW_UI",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SHOW_UI.cs"
+  },
+  "0636": {
+   "aliases": [],
+   "name": "SSMG_DEM_CHIP_SHOP_CATEGORY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_CHIP_SHOP_CATEGORY.cs"
+  },
+  "0639": {
+   "aliases": [],
+   "name": "SSMG_DEM_CHIP_SHOP_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_CHIP_SHOP_HEADER.cs"
+  },
+  "063a": {
+   "aliases": [],
+   "name": "SSMG_DEM_CHIP_SHOP_DATA",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_CHIP_SHOP_DATA.cs"
+  },
+  "063b": {
+   "aliases": [],
+   "name": "SSMG_DEM_CHIP_SHOP_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_CHIP_SHOP_FOOTER.cs"
+  },
+  "0640": {
+   "aliases": [],
+   "name": "SSMG_VSHOP_CATEGORY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_VSHOP_CATEGORY.cs"
+  },
+  "064f": {
+   "aliases": [],
+   "name": "SSMG_VSHOP_INFO_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_VSHOP_INFO_HEADER.cs"
+  },
+  "0650": {
+   "aliases": [],
+   "name": "SSMG_VSHOP_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_VSHOP_INFO.cs"
+  },
+  "0651": {
+   "aliases": [],
+   "name": "SSMG_VSHOP_INFO_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_VSHOP_INFO_FOOTER.cs"
+  },
+  "067c": {
+   "aliases": [],
+   "name": "SSMG_NPC_SHOW_PIC",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SHOW_PIC.cs"
+  },
+  "07d1": {
+   "aliases": [],
+   "name": "SSMG_ITEM_PUT_ERROR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_PUT_ERROR.cs"
+  },
+  "07d5": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ACTOR_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ACTOR_APPEAR.cs"
+  },
+  "07df": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ACTOR_DISAPPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ACTOR_DISAPPEAR.cs"
+  },
+  "07e6": {
+   "aliases": [],
+   "name": "SSMG_ITEM_GET_ERROR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_GET_ERROR.cs"
+  },
+  "09c5": {
+   "aliases": [],
+   "name": "SSMG_ITEM_USE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_USE.cs"
+  },
+  "09c6": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ACTIVE_FLOOR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ACTIVE_FLOOR.cs"
+  },
+  "09c7": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ACTIVE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ACTIVE.cs"
+  },
+  "09c8": {
+   "aliases": [
+    "SSMG_ITEM_EFFECT"
+   ],
+   "name": "SSMG_ITEM_ACTIVE_SELF",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ACTIVE_SELF.cs"
+  },
+  "09ce": {
+   "aliases": [],
+   "name": "SSMG_ITEM_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_DELETE.cs"
+  },
+  "09cf": {
+   "aliases": [],
+   "name": "SSMG_ITEM_COUNT_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_COUNT_UPDATE.cs"
+  },
+  "09d1": {
+   "aliases": [],
+   "name": "SSMG_ITEM_IDENTIFY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_IDENTIFY.cs"
+  },
+  "09d4": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ADD",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ADD.cs"
+  },
+  "09d5": {
+   "aliases": [],
+   "name": "SSMG_ITEM_IRIS_CARD_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_IRIS_CARD_INFO.cs"
+  },
+  "09e3": {
+   "aliases": [],
+   "name": "SSMG_ITEM_CONTAINER_CHANGE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_CONTAINER_CHANGE.cs"
+  },
+  "09e8": {
+   "aliases": [],
+   "name": "SSMG_ITEM_EQUIP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_EQUIP.cs"
+  },
+  "09e9": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ACTOR_EQUIP_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ACTOR_EQUIP_UPDATE.cs"
+  },
+  "09ec": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_GOLD_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_GOLD_UPDATE.cs"
+  },
+  "09f6": {
+   "aliases": [],
+   "name": "SSMG_ITEM_WARE_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_WARE_HEADER.cs"
+  },
+  "09f9": {
+   "aliases": [],
+   "name": "SSMG_ITEM_WARE_ITEM",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_WARE_ITEM.cs"
+  },
+  "09fa": {
+   "aliases": [],
+   "name": "SSMG_ITEM_WARE_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_WARE_FOOTER.cs"
+  },
+  "09fc": {
+   "aliases": [],
+   "name": "SSMG_ITEM_WARE_GET_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_WARE_GET_RESULT.cs"
+  },
+  "09fe": {
+   "aliases": [],
+   "name": "SSMG_ITEM_WARE_PUT_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_WARE_PUT_RESULT.cs"
+  },
+  "0a0b": {
+   "aliases": [],
+   "name": "SSMG_TRADE_REQUEST_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_REQUEST_RESULT.cs"
+  },
+  "0a0c": {
+   "aliases": [],
+   "name": "SSMG_TRADE_REQUEST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_REQUEST.cs"
+  },
+  "0a0f": {
+   "aliases": [],
+   "name": "SSMG_TRADE_START",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_START.cs"
+  },
+  "0a19": {
+   "aliases": [],
+   "name": "SSMG_TRADE_STATUS",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_STATUS.cs"
+  },
+  "0a1c": {
+   "aliases": [],
+   "name": "SSMG_TRADE_END",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_END.cs"
+  },
+  "0a1e": {
+   "aliases": [],
+   "name": "SSMG_TRADE_ITEM_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_ITEM_INFO.cs"
+  },
+  "0a1f": {
+   "aliases": [],
+   "name": "SSMG_TRADE_GOLD",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_GOLD.cs"
+  },
+  "0a20": {
+   "aliases": [],
+   "name": "SSMG_TRADE_ITEM_HEAD",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_ITEM_HEAD.cs"
+  },
+  "0a21": {
+   "aliases": [],
+   "name": "SSMG_TRADE_ITEM_FOOT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_TRADE_ITEM_FOOT.cs"
+  },
+  "0bb8": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_EVENT_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_EVENT_APPEAR.cs"
+  },
+  "0bb9": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_EVENT_DISAPPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_EVENT_DISAPPEAR.cs"
+  },
+  "0bba": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_EVENT_TITLE_CHANGE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_EVENT_TITLE_CHANGE.cs"
+  },
+  "0c80": {
+   "aliases": [
+    "SSMG_NPC_SET_EVENT_AREA"
+   ],
+   "name": "SSMG_NPC_CANCEL_EVENT_AREA",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_CANCEL_EVENT_AREA.cs"
+  },
+  "0fa1": {
+   "aliases": [],
+   "name": "SSMG_SKILL_ATTACK_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_ATTACK_RESULT.cs"
+  },
+  "0fa2": {
+   "aliases": [],
+   "name": "SSMG_SKILL_COMBO_ATTACK_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_COMBO_ATTACK_RESULT.cs"
+  },
+  "0fa6": {
+   "aliases": [],
+   "name": "SSMG_SKILL_CHANGE_BATTLE_STATUS",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_CHANGE_BATTLE_STATUS.cs"
+  },
+  "0fa7": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_MODE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_MODE.cs"
+  },
+  "0fbf": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_ATTACK_TYPE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_ATTACK_TYPE.cs"
+  },
+  "11f9": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_MOVE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_MOVE.cs"
+  },
+  "11fd": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_CHANGE_MAP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_CHANGE_MAP.cs"
+  },
+  "120c": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_PC_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_PC_APPEAR.cs"
+  },
+  "1211": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_DELETE.cs"
+  },
+  "1217": {
+   "aliases": [],
+   "name": "SSMG_CHAT_EMOTION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_EMOTION.cs"
+  },
+  "121c": {
+   "aliases": [],
+   "name": "SSMG_CHAT_MOTION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_CHAT_MOTION.cs"
+  },
+  "1220": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_MOB_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_MOB_APPEAR.cs"
+  },
+  "1225": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_MOB_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_MOB_DELETE.cs"
+  },
+  "122f": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_PET_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_PET_APPEAR.cs"
+  },
+  "1234": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_PET_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_PET_DELETE.cs"
+  },
+  "1239": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_SPEED",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_SPEED.cs"
+  },
+  "12c0": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_PET_GROW",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_PET_GROW.cs"
+  },
+  "12ca": {
+   "aliases": [],
+   "name": "SSMG_NPC_PET_SELECT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_PET_SELECT.cs"
+  },
+  "1389": {
+   "aliases": [],
+   "name": "SSMG_SKILL_CAST_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_CAST_RESULT.cs"
+  },
+  "138d": {
+   "aliases": [],
+   "name": "SSMG_SKILL_ACTIVE_FLOOR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_ACTIVE_FLOOR.cs"
+  },
+  "1392": {
+   "aliases": [],
+   "name": "SSMG_SKILL_ACTIVE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_ACTIVE.cs"
+  },
+  "13a1": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_SKILL_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_SKILL_APPEAR.cs"
+  },
+  "13a6": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_SKILL_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_SKILL_DELETE.cs"
+  },
+  "13ab": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_SKILL_MOVE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_SKILL_MOVE.cs"
+  },
+  "13b0": {
+   "aliases": [],
+   "name": "SSMG_SKILL_ACTIVE_ACTOR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_SKILL_ACTIVE_ACTOR.cs"
+  },
+  "13b5": {
+   "aliases": [],
+   "name": "SSMG_NPC_SYNTHESE_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SYNTHESE_HEADER.cs"
+  },
+  "13b6": {
+   "aliases": [],
+   "name": "SSMG_NPC_SYNTHESE_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SYNTHESE_INFO.cs"
+  },
+  "13b8": {
+   "aliases": [],
+   "name": "SSMG_NPC_SYNTHESE_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_SYNTHESE_RESULT.cs"
+  },
+  "13bc": {
+   "aliases": [],
+   "name": "SSMG_FG_CHANGE_WEATHER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_CHANGE_WEATHER.cs"
+  },
+  "13bd": {
+   "aliases": [],
+   "name": "SSMG_FG_CHANGE_SKY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_CHANGE_SKY.cs"
+  },
+  "13c4": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ENHANCE_LIST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ENHANCE_LIST.cs"
+  },
+  "13c6": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ENHANCE_DETAIL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ENHANCE_DETAIL.cs"
+  },
+  "13c8": {
+   "aliases": [],
+   "name": "SSMG_ITEM_ENHANCE_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_ENHANCE_RESULT.cs"
+  },
+  "13d8": {
+   "aliases": [],
+   "name": "SSMG_ITEM_FUSION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_FUSION.cs"
+  },
+  "13da": {
+   "aliases": [],
+   "name": "SSMG_ITEM_FUSION_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ITEM_FUSION_RESULT.cs"
+  },
+  "13e2": {
+   "aliases": [],
+   "name": "SSMG_IRIS_ADD_SLOT_ITEM_LIST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_ADD_SLOT_ITEM_LIST.cs"
+  },
+  "13e4": {
+   "aliases": [],
+   "name": "SSMG_IRIS_ADD_SLOT_MATERIAL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_ADD_SLOT_MATERIAL.cs"
+  },
+  "13e6": {
+   "aliases": [],
+   "name": "SSMG_IRIS_ADD_SLOT_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_ADD_SLOT_RESULT.cs"
+  },
+  "140a": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_ASSEMBLE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_ASSEMBLE.cs"
+  },
+  "140c": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_ASSEMBLE_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_ASSEMBLE_RESULT.cs"
+  },
+  "157c": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_BUFF",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_BUFF.cs"
+  },
+  "177b": {
+   "aliases": [],
+   "name": "SSMG_POSSESSION_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_POSSESSION_RESULT.cs"
+  },
+  "1780": {
+   "aliases": [],
+   "name": "SSMG_POSSESSION_CANCEL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_POSSESSION_CANCEL.cs"
+  },
+  "17d4": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_ACTOR_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_ACTOR_APPEAR.cs"
+  },
+  "17d5": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_ACTOR_DISAPPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_ACTOR_DISAPPEAR.cs"
+  },
+  "17df": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SET_TYPE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SET_TYPE.cs"
+  },
+  "17e9": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_SELL_SETUP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_SELL_SETUP.cs"
+  },
+  "17ec": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_SELL_SET",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_SELL_SET.cs"
+  },
+  "17f3": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_WAREHOUSE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_WAREHOUSE.cs"
+  },
+  "17f6": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_WAREHOUSE_ITEM",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_WAREHOUSE_ITEM.cs"
+  },
+  "17f7": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_WAREHOUSE_ITEM_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_WAREHOUSE_ITEM_FOOTER.cs"
+  },
+  "17f9": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_WAREHOUSE_GET",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_WAREHOUSE_GET.cs"
+  },
+  "17fd": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_OPEN_FAILED",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_OPEN_FAILED.cs"
+  },
+  "17fe": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_OPEN_OK",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_OPEN_OK.cs"
+  },
+  "1800": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_HEADER.cs"
+  },
+  "1801": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_ITEM",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_ITEM.cs"
+  },
+  "1802": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_FOOTER.cs"
+  },
+  "1804": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_SELL_ANSWER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_SELL_ANSWER.cs"
+  },
+  "1805": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_SELL_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_SELL_RESULT.cs"
+  },
+  "181b": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_BUY_SETUP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_BUY_SETUP.cs"
+  },
+  "181e": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_BUY_SET",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_BUY_SET.cs"
+  },
+  "1824": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_BUY_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_BUY_HEADER.cs"
+  },
+  "1826": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_BUY_ITEM",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_BUY_ITEM.cs"
+  },
+  "182e": {
+   "aliases": [],
+   "name": "SSMG_GOLEM_SHOP_BUY_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_GOLEM_SHOP_BUY_RESULT.cs"
+  },
+  "18e3": {
+   "aliases": [],
+   "name": "SSMG_FG_TAKEOFF",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_TAKEOFF.cs"
+  },
+  "1964": {
+   "aliases": [],
+   "name": "SSMG_QUEST_LIST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_LIST.cs"
+  },
+  "1969": {
+   "aliases": [],
+   "name": "SSMG_QUEST_ACTIVATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_ACTIVATE.cs"
+  },
+  "196a": {
+   "aliases": [],
+   "name": "SSMG_QUEST_WINDOW",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_WINDOW.cs"
+  },
+  "196e": {
+   "aliases": [],
+   "name": "SSMG_QUEST_POINT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_POINT.cs"
+  },
+  "1973": {
+   "aliases": [],
+   "name": "SSMG_QUEST_COUNT_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_COUNT_UPDATE.cs"
+  },
+  "1978": {
+   "aliases": [],
+   "name": "SSMG_QUEST_RESTTIME_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_RESTTIME_UPDATE.cs"
+  },
+  "1987": {
+   "aliases": [],
+   "name": "SSMG_QUEST_STATUS_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_STATUS_UPDATE.cs"
+  },
+  "198c": {
+   "aliases": [],
+   "name": "SSMG_QUEST_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_DELETE.cs"
+  },
+  "1992": {
+   "aliases": [],
+   "name": "SSMG_QUEST_DETAIL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_QUEST_DETAIL.cs"
+  },
+  "19ca": {
+   "aliases": [],
+   "name": "SSMG_PARTY_INVITE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_INVITE.cs"
+  },
+  "19cc": {
+   "aliases": [],
+   "name": "SSMG_PARTY_INVITE_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_INVITE_RESULT.cs"
+  },
+  "19ce": {
+   "aliases": [],
+   "name": "SSMG_PARTY_QUIT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_QUIT.cs"
+  },
+  "19d3": {
+   "aliases": [],
+   "name": "SSMG_PARTY_KICK",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_KICK.cs"
+  },
+  "19d9": {
+   "aliases": [],
+   "name": "SSMG_PARTY_NAME",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_NAME.cs"
+  },
+  "19dc": {
+   "aliases": [],
+   "name": "SSMG_PARTY_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_INFO.cs"
+  },
+  "19dd": {
+   "aliases": [],
+   "name": "SSMG_PARTY_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_DELETE.cs"
+  },
+  "19e1": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER.cs"
+  },
+  "19e6": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER_STATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER_STATE.cs"
+  },
+  "19eb": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER_HPMPSP",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER_HPMPSP.cs"
+  },
+  "19f0": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER_POSITION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER_POSITION.cs"
+  },
+  "19f5": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER_DETAIL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER_DETAIL.cs"
+  },
+  "19fa": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER_BUFF",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER_BUFF.cs"
+  },
+  "1a2c": {
+   "aliases": [],
+   "name": "SSMG_NPC_NAVIGATION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_NAVIGATION.cs"
+  },
+  "1a2d": {
+   "aliases": [],
+   "name": "SSMG_NPC_NAVIGATION_CANCEL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_NPC_NAVIGATION_CANCEL.cs"
+  },
+  "1a5f": {
+   "aliases": [],
+   "name": "SSMG_ACTOR_OPTION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ACTOR_OPTION.cs"
+  },
+  "1a90": {
+   "aliases": [],
+   "name": "SSMG_THEATER_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_THEATER_INFO.cs"
+  },
+  "1a9a": {
+   "aliases": [],
+   "name": "SSMG_THEATER_SCHEDULE_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_THEATER_SCHEDULE_HEADER.cs"
+  },
+  "1a9b": {
+   "aliases": [],
+   "name": "SSMG_THEATER_SCHEDULE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_THEATER_SCHEDULE.cs"
+  },
+  "1a9c": {
+   "aliases": [],
+   "name": "SSMG_THEATER_SCHEDULE_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_THEATER_SCHEDULE_FOOTER.cs"
+  },
+  "1aaf": {
+   "aliases": [],
+   "name": "SSMG_RING_INVITE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_INVITE.cs"
+  },
+  "1ab3": {
+   "aliases": [
+    "SSMG_RING_INVITE_RESULT"
+   ],
+   "name": "SSMG_RING_INVITE_ANSWER_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_INVITE_ANSWER_RESULT.cs"
+  },
+  "1abe": {
+   "aliases": [],
+   "name": "SSMG_RING_QUIT_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_QUIT_RESULT.cs"
+  },
+  "1acc": {
+   "aliases": [],
+   "name": "SSMG_RING_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_INFO.cs"
+  },
+  "1acd": {
+   "aliases": [],
+   "name": "SSMG_RING_QUIT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_QUIT.cs"
+  },
+  "1ace": {
+   "aliases": [],
+   "name": "SSMG_RING_MEMBER_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_MEMBER_INFO.cs"
+  },
+  "1ad1": {
+   "aliases": [],
+   "name": "SSMG_RING_NAME",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_NAME.cs"
+  },
+  "1ad7": {
+   "aliases": [],
+   "name": "SSMG_RING_RIGHT_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_RIGHT_UPDATE.cs"
+  },
+  "1ad8": {
+   "aliases": [],
+   "name": "SSMG_RING_INFO_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_INFO_UPDATE.cs"
+  },
+  "1adc": {
+   "aliases": [],
+   "name": "SSMG_RING_EMBLEM_UPLOAD_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_RING_EMBLEM_UPLOAD_RESULT.cs"
+  },
+  "1af4": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_BBS_OPEN",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_BBS_OPEN.cs"
+  },
+  "1aff": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_BBS_POST_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_BBS_POST_RESULT.cs"
+  },
+  "1b09": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_BBS_PAGE_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_BBS_PAGE_INFO.cs"
+  },
+  "1b58": {
+   "aliases": [],
+   "name": "SSMG_KNIGHTWAR_APPLICATION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_KNIGHTWAR_APPLICATION.cs"
+  },
+  "1b5d": {
+   "aliases": [],
+   "name": "SSMG_KNIGHTWAR_STATUS",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_KNIGHTWAR_STATUS.cs"
+  },
+  "1b62": {
+   "aliases": [],
+   "name": "SSMG_KNIGHTWAR_SCORE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_KNIGHTWAR_SCORE.cs"
+  },
+  "1b67": {
+   "aliases": [],
+   "name": "SSMG_LOGIN_FINISHED",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_LOGIN_FINISHED.cs"
+  },
+  "1b6c": {
+   "aliases": [],
+   "name": "SSMG_KNIGHTWAR_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_KNIGHTWAR_RESULT.cs"
+  },
+  "1b85": {
+   "aliases": [],
+   "name": "SSMG_ODWAR_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_ODWAR_RESULT.cs"
+  },
+  "1b8b": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_RECRUIT_CREATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_RECRUIT_CREATE.cs"
+  },
+  "1b95": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_RECRUIT_DELETE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_RECRUIT_DELETE.cs"
+  },
+  "1b9f": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_RECRUIT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_RECRUIT.cs"
+  },
+  "1ba9": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_RECRUIT_JOIN_RES",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_RECRUIT_JOIN_RES.cs"
+  },
+  "1bad": {
+   "aliases": [],
+   "name": "SSMG_COMMUNITY_RECRUIT_REQUEST",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_COMMUNITY_RECRUIT_REQUEST.cs"
+  },
+  "1bbc": {
+   "aliases": [],
+   "name": "SSMG_STAMP_INFO",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_STAMP_INFO.cs"
+  },
+  "1bc1": {
+   "aliases": [],
+   "name": "SSMG_STAMP_USE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_STAMP_USE.cs"
+  },
+  "1be4": {
+   "aliases": [],
+   "name": "SSMG_PLAYER_GOTO_FG",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PLAYER_GOTO_FG.cs"
+  },
+  "1bef": {
+   "aliases": [],
+   "name": "SSMG_FG_ACTOR_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_ACTOR_APPEAR.cs"
+  },
+  "1bf9": {
+   "aliases": [],
+   "name": "SSMG_FG_EQUIPT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_EQUIPT.cs"
+  },
+  "1c03": {
+   "aliases": [],
+   "name": "SSMG_FG_ACTOR_APPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_ACTOR_APPEAR.cs"
+  },
+  "1c08": {
+   "aliases": [],
+   "name": "SSMG_FG_FURNITURE_MOTION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_FURNITURE_MOTION.cs"
+  },
+  "1c0d": {
+   "aliases": [],
+   "name": "SSMG_FG_ACTOR_DISAPPEAR",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_ACTOR_DISAPPEAR.cs"
+  },
+  "1c12": {
+   "aliases": [],
+   "name": "SSMG_FG_FURNITURE_RECONFIG",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_FURNITURE_RECONFIG.cs"
+  },
+  "1c34": {
+   "aliases": [],
+   "name": "SSMG_FG_CREATE_MATERIAL",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_FG_CREATE_MATERIAL.cs"
+  },
+  "1c84": {
+   "aliases": [],
+   "name": "SSMG_PARTY_MEMBER_DUNGEON_POSITION",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_PARTY_MEMBER_DUNGEON_POSITION.cs"
+  },
+  "1db1": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_OPEN_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_OPEN_RESULT.cs"
+  },
+  "1db7": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_INSERT_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_INSERT_RESULT.cs"
+  },
+  "1dbc": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_REMOVE_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_REMOVE_RESULT.cs"
+  },
+  "1dc5": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_ITEM_ABILITY",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_ITEM_ABILITY.cs"
+  },
+  "1dca": {
+   "aliases": [],
+   "name": "SSMG_IRIS_CARD_LOCK_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_IRIS_CARD_LOCK_RESULT.cs"
+  },
+  "1e46": {
+   "aliases": [],
+   "name": "SSMG_DEM_DEMIC_HEADER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_DEMIC_HEADER.cs"
+  },
+  "1e4a": {
+   "aliases": [],
+   "name": "SSMG_DEM_DEMIC_DATA",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_DEMIC_DATA.cs"
+  },
+  "1e4b": {
+   "aliases": [],
+   "name": "SSMG_DEM_DEMIC_FOOTER",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_DEMIC_FOOTER.cs"
+  },
+  "1e4d": {
+   "aliases": [],
+   "name": "SSMG_DEM_DEMIC_INITIALIZED",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_DEMIC_INITIALIZED.cs"
+  },
+  "1e4f": {
+   "aliases": [],
+   "name": "SSMG_DEM_DEMIC_CONFIRM_RESULT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_DEMIC_CONFIRM_RESULT.cs"
+  },
+  "1e51": {
+   "aliases": [],
+   "name": "SSMG_DEM_STATS_PRE_CALC",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_STATS_PRE_CALC.cs"
+  },
+  "1e5a": {
+   "aliases": [],
+   "name": "SSMG_DEM_COST_LIMIT",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_COST_LIMIT.cs"
+  },
+  "1e5d": {
+   "aliases": [],
+   "name": "SSMG_DEM_COST_LIMIT_UPDATE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_COST_LIMIT_UPDATE.cs"
+  },
+  "1e7e": {
+   "aliases": [],
+   "name": "SSMG_DEM_FORM_CHANGE",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_FORM_CHANGE.cs"
+  },
+  "1e82": {
+   "aliases": [],
+   "name": "SSMG_DEM_PARTS",
+   "source": "SagaECO/SagaMap/Packets/Server/SSMG_DEM_PARTS.cs"
+  }
+ }
+}

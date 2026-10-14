@@ -1,0 +1,100 @@
+{"id": "table/strtable.csv:1685:2", "source": "シアター内では解像度・アンチエイリアスの変更はできません", "english": "Resolution and anti-aliasing cannot be changed in the theater.", "status": "draft"}
+{"id": "table/strtable.csv:1687:2", "source": "ゲーム画面を全体表示、ウィンドウ内表示に切り替えます。", "english": "Switch between fullscreen and windowed display.", "status": "draft"}
+{"id": "table/strtable.csv:1688:2", "source": "ゲーム画面の大きさの設定です。$r色数の指定はフルスクリーン時のみ選択出来ます。", "english": "Sets the game display size.$rColor depth can only be selected in fullscreen mode.", "status": "draft"}
+{"id": "table/strtable.csv:1689:2", "source": "非アクティブウィンドウの透明度の設定です。", "english": "Sets inactive window transparency.", "status": "draft"}
+{"id": "table/strtable.csv:1690:2", "source": "アクティブウィンドウの透明度の設定です。", "english": "Sets active window transparency.", "status": "draft"}
+{"id": "table/strtable.csv:1691:2", "source": "キャラクターやNPCの下に描画される影の設定です。$r処理が重い時は「無し」にして下さい。", "english": "Sets shadows beneath characters and NPCs.$rSet this to “None” if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1692:2", "source": "キャラクターやNPCの下に描画される影の範囲の設定です。$r処理が重い時は範囲を狭めて下さい。", "english": "Sets the range of shadows beneath characters and NPCs.$rReduce the range if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1693:2", "source": "建物や地形の描画範囲の設定です。$r処理が重い時は範囲を狭めて下さい。", "english": "Sets the drawing range for buildings and terrain.$rReduce the range if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1694:2", "source": "キャラクターやNPCの描画範囲の設定です。$r処理が重い時は範囲を狭めて下さい。", "english": "Sets the drawing range for characters and NPCs.$rReduce the range if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1695:2", "source": "エフェクトの表示設定です。$r処理が重いときは「最小」にして下さい。", "english": "Sets effect display.$rSet this to “Minimum” if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1696:2", "source": "ミニマップの透明度の設定です。", "english": "Sets minimap transparency.", "status": "draft"}
+{"id": "table/strtable.csv:1697:2", "source": "キャラクターの輪郭線の表示・非表示の切り替えです。$r処理が重い時は「OFF」にして下さい。", "english": "Toggles character outlines.$rSet this to “OFF” if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1698:2", "source": "ゲーム画面を滑らかに見せる処理の切り替えです。$r「最適」が一番処理は重いですが綺麗に見えます。$r処理が重いときは「無し」にして下さい。", "english": "Toggles smoothing for the game display.$r“Best” uses the most resources but looks the smoothest.$rSet this to “None” if performance is poor.", "status": "draft"}
+{"id": "table/strtable.csv:1699:2", "source": "Skinの変更を行います。", "english": "Changes the skin.", "status": "draft"}
+{"id": "table/strtable.csv:1700:2", "source": "キャラクターや敵の発言時に出る吹き出しの表示・非表示の設定です。", "english": "Shows or hides speech bubbles for characters and enemies.", "status": "draft"}
+{"id": "table/strtable.csv:1701:2", "source": "キャラクターや敵の発言時に出る吹き出しの表示時間の設定です。", "english": "Sets how long character and enemy speech bubbles remain visible.", "status": "draft"}
+{"id": "table/strtable.csv:1702:2", "source": "カーソルを特定の場所に合わせた時に出る、説明文の表示・非表示の設定です。", "english": "Shows or hides help text when the cursor is over certain areas.", "status": "draft"}
+{"id": "table/strtable.csv:1703:2", "source": "キャラクターやNPCの名前の表示方法の設定です。", "english": "Sets how character and NPC names are displayed.", "status": "draft"}
+{"id": "table/strtable.csv:1704:2", "source": "キャラクターに表示されるバーの表示・非表示の設定です。", "english": "Shows or hides bars displayed over characters.", "status": "draft"}
+{"id": "table/strtable.csv:1705:2", "source": "ゴーレムショップにカーソルを合わせた時に出す$rコメントの表示・非表示の設定です。", "english": "When you point to a Golem Shop,$rsets whether its comments are shown.", "status": "draft"}
+{"id": "table/strtable.csv:1706:2", "source": "キャラクターの看板のコメント表示・非表示設定です。", "english": "Shows or hides character signboard comments.", "status": "draft"}
+{"id": "table/strtable.csv:1707:2", "source": "オブジェクトの看板のコメント表示・非表示設定です。", "english": "Shows or hides object signboard comments.", "status": "draft"}
+{"id": "table/strtable.csv:1708:2", "source": "プレーヤー露店の吹き出しの表示・非表示設定です。", "english": "Shows or hides speech bubbles for player shops.", "status": "draft"}
+{"id": "table/strtable.csv:1709:2", "source": "自分のキャラクターに表示されるHPバーの表示・非表示の設定です。", "english": "Shows or hides your character’s HP bar.", "status": "draft"}
+{"id": "table/strtable.csv:1710:2", "source": "自分のキャラクターに表示されるMPバーの表示・非表示の設定です。", "english": "Shows or hides your character’s MP bar.", "status": "draft"}
+{"id": "table/strtable.csv:1711:2", "source": "自分のキャラクターに表示されるSPバーの表示・非表示の設定です。", "english": "Shows or hides your character’s SP bar.", "status": "draft"}
+{"id": "table/strtable.csv:1712:2", "source": "キャラクターの頭の上に表示されるHP,MP,SP,EPバーの表示位置設定です。", "english": "Sets the position of the HP, MP, SP, and EP bars above characters.", "status": "draft"}
+{"id": "table/strtable.csv:1713:2", "source": "モンスターに表示されるバーの表示・非表示の設定です。", "english": "Shows or hides monster bars.", "status": "draft"}
+{"id": "table/strtable.csv:1714:2", "source": "ゴーレムの表示の設定です。", "english": "Sets Golem display.", "status": "draft"}
+{"id": "table/strtable.csv:1715:2", "source": "ログウィンドウのフォントのサイズを変更します。", "english": "Changes the log window font size.", "status": "draft"}
+{"id": "table/strtable.csv:1716:2", "source": "プレーヤー露店のアイコン表示・非表示の設定です。", "english": "Shows or hides player shop icons.", "status": "draft"}
+{"id": "table/strtable.csv:1717:2", "source": "リングエンブレムの表示の設定です。", "english": "Sets Ring emblem display.", "status": "draft"}
+{"id": "table/strtable.csv:1718:2", "source": "パーティー名、リング名の表示の設定です。", "english": "Sets display of party and Ring names.", "status": "draft"}
+{"id": "table/strtable.csv:1719:2", "source": "パートナーの発言のログ出力の設定です。", "english": "Sets whether Partner speech is written to the log.", "status": "draft"}
+{"id": "table/strtable.csv:1720:2", "source": "処理速度に余裕がある場合CPU負荷を軽くすることができます。", "english": "Reduces CPU load when processing capacity is available.", "status": "draft"}
+{"id": "table/strtable.csv:1721:2", "source": "遠くのポリゴンのチラつきを防ぎます。", "english": "Prevents distant polygons from flickering.", "status": "draft"}
+{"id": "table/strtable.csv:1722:2", "source": "カーソルの更新頻度を下げて処理を軽くすることができます。", "english": "Reduces processing load by lowering the cursor update rate.", "status": "draft"}
+{"id": "table/strtable.csv:1723:2", "source": "飛空庭のひもの表示の設定です。非表示にしても$r自分のキャラクターのひもは必ず表示されます。", "english": "Sets whether the Sky Garden rope is shown.$rYour character’s rope is always visible even when this is off.", "status": "draft"}
+{"id": "table/strtable.csv:1724:2", "source": "スキル等のエフェクトによる画面のゆれを無効にします。", "english": "Disables screen shake caused by skill and other effects.", "status": "draft"}
+{"id": "table/strtable.csv:1725:2", "source": "非戦闘状態でも武器を表示するようにします。", "english": "Displays weapons even when not in combat.", "status": "draft"}
+{"id": "table/strtable.csv:1726:2", "source": "NPC、ゴーレム、プレーヤー露店の試着ボタンの表示・非表示を設定します。", "english": "Shows or hides try-on buttons for NPCs, Golems, and player shops.", "status": "draft"}
+{"id": "table/strtable.csv:1727:2", "source": "称号の表示の設定です。", "english": "Sets title display.", "status": "draft"}
+{"id": "table/strtable.csv:1728:2", "source": "画面全体をゆがませる効果の設定です。", "english": "Sets full-screen distortion effects.", "status": "draft"}
+{"id": "table/strtable.csv:1729:2", "source": "自分のキャラクターに表示されるEPバーの表示・非表示の設定です。", "english": "Shows or hides your character’s EP bar.", "status": "draft"}
+{"id": "table/strtable.csv:1730:2", "source": "イベントナビゲーションマーカーの設定です。", "english": "Sets event navigation markers.", "status": "draft"}
+{"id": "table/strtable.csv:1731:2", "source": "NPCに話しかけた時に表示される画像の表示・非表示の設定です。", "english": "Shows or hides images displayed when talking to NPCs.", "status": "draft"}
+{"id": "table/strtable.csv:1732:2", "source": "会話ウィンドウのフレームの設定です。", "english": "Sets the conversation window frame.", "status": "draft"}
+{"id": "table/strtable.csv:1733:2", "source": "UIレイアウトの設定です。", "english": "Sets the UI layout.", "status": "draft"}
+{"id": "table/strtable.csv:1734:2", "source": "パートナー装備した時、かんたんAI設定の表示・非表示の設定です。", "english": "Shows or hides the Simple AI settings when equipping a Partner.", "status": "draft"}
+{"id": "table/strtable.csv:1735:2", "source": "キャラクターモデルの簡易表示の設定です。", "english": "Sets simplified character models.", "status": "draft"}
+{"id": "table/strtable.csv:1739:2", "source": "ローディング時モデル表示の設定です。", "english": "Sets whether models are shown while loading.", "status": "draft"}
+{"id": "table/strtable.csv:1740:2", "source": "パートナーの発言時に出る吹き出しの表示・非表示の設定です。", "english": "Shows or hides Partner speech bubbles.", "status": "draft"}
+{"id": "table/strtable.csv:1741:2", "source": "パートナーの発言のログウィンドウへの表示・非表示の設定です。", "english": "Shows or hides Partner speech in the log window.", "status": "draft"}
+{"id": "table/strtable.csv:1742:2", "source": "ダメージ関係の数値をログに表示", "english": "Displays damage-related numbers in the log.", "status": "draft"}
+{"id": "table/strtable.csv:1743:2", "source": "バックグラウンドローディング機能の設定です。", "english": "Sets background loading.", "status": "draft"}
+{"id": "table/strtable.csv:1744:2", "source": "憑依中のパートナーの表示・非表示の設定です。", "english": "Shows or hides a Partner during possession.", "status": "draft"}
+{"id": "table/strtable.csv:1745:2", "source": "憑依中のパートナーの取得した経験値と信頼度ログの表示・非表示の設定です。", "english": "Shows or hides logs for EXP and trust gained by a Partner during possession.", "status": "draft"}
+{"id": "table/strtable.csv:1746:2", "source": "エモーションアイコンにカーソルを合わせた際、プレビューを再生します。", "english": "Plays a preview when the cursor is over an emote icon.", "status": "draft"}
+{"id": "table/strtable.csv:1749:2", "source": "戦闘時、自動的に攻撃させる設定です。$r「シングルクリック」は一回のクリックで自動戦闘に切り替わるようになります。", "english": "Sets whether to attack automatically in combat.$rWith “Single Click,” one click switches to auto-combat.", "status": "draft"}
+{"id": "table/strtable.csv:1750:2", "source": "右クリック時のカメラの動き方の設定です。$r「A」は右クリックして動かした分のみカメラを動かします。$r「B」は右クリックしている間カメラを動かし続けます。", "english": "Sets camera movement when right-clicking.$r“A” moves the camera by the distance you drag while right-clicking.$r“B” keeps moving the camera while you hold the right button.", "status": "draft"}
+{"id": "table/strtable.csv:1751:2", "source": "マウスの右をダブルクリックした時のカメラの向きを設定します。", "english": "Sets the camera direction when you double-click the right mouse button.", "status": "draft"}
+{"id": "table/strtable.csv:1752:2", "source": "メッセージ受信時に自動的に別ウィンドウを作成するか、ログウィンドウに表示するかの設定です。$r入力欄にて「ウ」を押してから$r名前[半角スペース]メッセージ$rでも送信出来ます。", "english": "Sets whether incoming messages open a separate window or appear in the log.$rYou can also select “ウ” (Whisper) in the input area,$rthen enter: name[space]message$rto send a whisper.", "status": "draft"}
+{"id": "table/strtable.csv:1753:2", "source": "ウィンドウの配置を補助する設定です。", "english": "Assists with arranging windows.", "status": "draft"}
+{"id": "table/strtable.csv:1754:2", "source": "左クリックを一定時間押した時、キャラクターを自動移動に切り替える設定です。", "english": "Sets whether holding the left mouse button switches your character to auto-move.", "status": "draft"}
+{"id": "table/strtable.csv:1755:2", "source": "キャラクターやNPCにカーソルを合わせやすくする設定です。$rShiftキーを押すと一時的に解除されます。", "english": "Makes characters and NPCs easier to target.$rPress Shift to temporarily disable this.", "status": "draft"}
+{"id": "table/strtable.csv:1756:2", "source": "ウィンドウの表示位置を初期位置に戻します。", "english": "Resets window positions to their defaults.", "status": "draft"}
+{"id": "table/strtable.csv:1757:2", "source": "情報ウィンドウの表示位置を切り替えます。", "english": "Switches the position of the information window.", "status": "draft"}
+{"id": "table/strtable.csv:1758:2", "source": "情報ウィンドウを表示する対象を設定します。", "english": "Sets the target shown in the information window.", "status": "draft"}
+{"id": "table/strtable.csv:1759:2", "source": "合成系のスキルを必ず自分に対して使用するか$r対象を選択するかの設定です。", "english": "Sets whether synthesis skills always target you,$ror let you choose a target.", "status": "draft"}
+{"id": "table/strtable.csv:1760:2", "source": "視点解除マップにおいて従来と同じカメラモードにします。", "english": "Uses the old camera mode on maps where the camera can be unlocked.", "status": "draft"}
+{"id": "table/strtable.csv:1761:2", "source": "所持アイテムを地面に置くときに確認メッセージを出します。$r飛空庭では必ず確認メッセージが出ます。", "english": "Shows a confirmation when dropping an item on the ground.$rA confirmation is always shown in a Flying Garden.", "status": "draft"}
+{"id": "table/strtable.csv:1762:2", "source": "エンシェントアークにおいて、NPC会話のログウィンドウへの表示・非表示の設定です。", "english": "In Ancient Ark, shows or hides NPC dialogue in the log window.", "status": "draft"}
+{"id": "table/strtable.csv:1763:2", "source": "Ctrl + C で選択中の文字列をコピーできるようにします。", "english": "Allows copying selected text with Ctrl + C.", "status": "draft"}
+{"id": "table/strtable.csv:1764:2", "source": "Ctrl + X で選択中の文字列を切り取りできるようにします。", "english": "Allows cutting selected text with Ctrl + X.", "status": "draft"}
+{"id": "table/strtable.csv:1765:2", "source": "憑依ドロップアイテムを右クリック時にアイテム情報ウィンドウと憑依情報ウィンドウを表示する機能設定です。", "english": "Sets whether right-clicking a possession-drop item opens its item and possession information windows.", "status": "draft"}
+{"id": "table/strtable.csv:1766:2", "source": "エンシェントアークにおいて、常に最新のNPC会話を表示するようにします。", "english": "In Ancient Ark, always displays the latest NPC dialogue.", "status": "draft"}
+{"id": "table/strtable.csv:1767:2", "source": "エンシェントアークにおいて、NPC会話ウインドウ非表示中に会話が追加された時、会話ウインドウを自動で表示するようにします", "english": "In Ancient Ark, automatically opens the dialogue window when new dialogue arrives while it is hidden.", "status": "draft"}
+{"id": "table/strtable.csv:1768:2", "source": "飛空庭に家具を配置する際、家具同士の当たり判定を有効にします", "english": "Enables collision between furniture when placing it in a Flying Garden.", "status": "draft"}
+{"id": "table/strtable.csv:1770:2", "source": "パーティーメンバーの情報ウィンドウを自動的に開く設定です。", "english": "Automatically opens party members’ information windows.", "status": "draft"}
+{"id": "table/strtable.csv:1771:2", "source": "チャットルームに入室した時とチャットルーム発言を受け取った時、$r自動的にチャットルームウィンドウを開きます。", "english": "When you enter a chat room or receive a message,$rit automatically opens the chat room window.", "status": "draft"}
+{"id": "table/strtable.csv:1772:2", "source": "使用中のエクストラアイテムの効果が切れた場合、維持して購入、利用するかを確認するウィンドウが表示されます。", "english": "When an Extra Item effect expires, shows a window asking whether to renew it by purchasing and using another.", "status": "draft"}
+{"id": "table/strtable.csv:1773:2", "source": "職業チャットのログをchat2フォルダに保存する・しないを設定します。", "english": "Sets whether job chat logs are saved in the chat2 folder.", "status": "draft"}
+{"id": "table/strtable.csv:1774:2", "source": "特定のマップチェンジ後、カメラ位置がキャラクターの正面になります。", "english": "After certain map changes, faces the camera toward your character.", "status": "draft"}
+{"id": "table/strtable.csv:1776:2", "source": "サウンドエフェクトのON・OFFです。", "english": "Turns sound effects on or off.", "status": "draft"}
+{"id": "table/strtable.csv:1777:2", "source": "バックグラウンドミュージックのON・OFFです。", "english": "Turns background music on or off.", "status": "draft"}
+{"id": "table/strtable.csv:1778:2", "source": "サウンドエフェクトの音量の設定です。", "english": "Sets sound effect volume.", "status": "draft"}
+{"id": "table/strtable.csv:1779:2", "source": "バックグラウンドミュージックの音量の設定です。", "english": "Sets background music volume.", "status": "draft"}
+{"id": "table/strtable.csv:1780:2", "source": "音声のON・OFFです。", "english": "Turns voice audio on or off.", "status": "draft"}
+{"id": "table/strtable.csv:1781:2", "source": "音声の音量の設定です。", "english": "Sets voice volume.", "status": "draft"}
+{"id": "table/strtable.csv:1783:2", "source": "SNS連携を有効にします。", "english": "Enables SNS integration.", "status": "draft"}
+{"id": "table/strtable.csv:1784:2", "source": "SNS投稿ウインドウを開く際に注意文を表示します。", "english": "Shows a warning when opening the SNS posting window.", "status": "draft"}
+{"id": "table/strtable.csv:1785:2", "source": "連携有効時のSSに表示する項目を設定します。", "english": "Sets what appears in screenshots when integration is enabled.", "status": "draft"}
+{"id": "table/strtable.csv:1786:2", "source": "自身のキャラクター名を表示します。", "english": "Shows your character name.", "status": "draft"}
+{"id": "table/strtable.csv:1787:2", "source": "各種チャットを表示します。", "english": "Shows chat messages.", "status": "draft"}
+{"id": "table/strtable.csv:1788:2", "source": "露店コメントを表示します。", "english": "Shows player shop comments.", "status": "draft"}
+{"id": "table/strtable.csv:1789:2", "source": "ゴーレムショップコメントを表示します。", "english": "Shows Golem Shop comments.", "status": "draft"}
+{"id": "table/strtable.csv:1790:2", "source": "看板コメントを表示します。", "english": "Shows signboard comments.", "status": "draft"}
+{"id": "table/strtable.csv:1791:2", "source": "リングエンブレムを表示します。", "english": "Shows Ring emblems.", "status": "draft"}
+{"id": "table/strtable.csv:1792:2", "source": "各種ウインドウを表示します。", "english": "Shows windows.", "status": "draft"}
+{"id": "table/strtable.csv:1793:2", "source": "動画撮影機能を有効にします。", "english": "Enables video capture.", "status": "draft"}

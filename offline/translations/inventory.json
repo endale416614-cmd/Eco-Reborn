@@ -1,0 +1,1476 @@
+{
+  "files": [
+    {
+      "file": "table/aa_capture.csv",
+      "sha256": "f5a55c79b9b7410eb9c9b4493a7af21261b04f5b6b1cb626c6b1986b41a234db",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 108
+    },
+    {
+      "file": "table/aa_castinfo.csv",
+      "sha256": "731520039468b7266abe9be9d152e5511d9da88c7486a6bf41bf25ff8d316ca0",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 248
+    },
+    {
+      "file": "table/aa_gimmick.csv",
+      "sha256": "3facfa05c7f7cca2cde9b5c8d86770ff3d503531c53befa3d878f7875e82a27b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4772
+    },
+    {
+      "file": "table/aa_npc_group.csv",
+      "sha256": "a731a68f41de729eecdb13b885b46f79e71b1e6d84dd6b71eca5e4a414bf2be5",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 21
+    },
+    {
+      "file": "table/aftermapambient.csv",
+      "sha256": "9182bc9e85cb39a0c552a41a722edd0f839d2ae65c5a5d215837eb02e7c94035",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/another_aa_talk.csv",
+      "sha256": "dd1698f7ff80a333d4f7b698706871b9d76d15ccd0cb8adf265c89fd2428f41f",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 8872
+    },
+    {
+      "file": "table/another_page.csv",
+      "sha256": "c455f4ca70d18cbfd157db6c050b6fc7473154e516d8da9db5b94b6207fd8a81",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 65
+    },
+    {
+      "file": "table/another_skill_exptable.csv",
+      "sha256": "e63bf1f0417706d499e62d7c606d00a6d3d7750f9e9864757eb998e83209bd79",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/another_skillinfo.csv",
+      "sha256": "4826e3f8a027c2161f1241d0ab76310979bd8ad43a74ad4f0db1c88a3b632028",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 155
+    },
+    {
+      "file": "table/another_transform_skill.csv",
+      "sha256": "4b3b67b95b5a35248789855ad80f64e4ce5b9eba9590baa9a2017848a524c2ea",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/autorun_submap.csv",
+      "sha256": "0ed9033168a5903537e534251a4ffc788cab06a3460fb76fd88a5eacb21de343",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1213
+    },
+    {
+      "file": "table/bingo_info.csv",
+      "sha256": "b3434b4fe1ad8171bae23f951f216a0f0fa1912fbf3fed509a82a06943a95e5c",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 18
+    },
+    {
+      "file": "table/bingo_reward.csv",
+      "sha256": "fb5afe732d0d93f586fc3599b4fae4edf8fcaa53ef208b3ca65680038b20d399",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/card_assembly.csv",
+      "sha256": "221e29d196c6066e260955e1dbce3f22f62bb866d1a64337ec82c4274d2cb0b8",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/card_assembly_exptable.csv",
+      "sha256": "798bd8e6e0972c97d1078785d601bc60d0adb011fcb3fdf205cdec87b4ed0ab3",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/chr_act_tbl.csv",
+      "sha256": "97b7d24b3fcf3a351418669ce0f928dbe79b59ee0e825735bcdaec8eb16869e5",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/chronicle_reward.csv",
+      "sha256": "57cb1957f94891827549a5a45ef64f13d1b9dcd3ce5124c0c67bcbd89f56d405",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/chronicle_reward_exp.csv",
+      "sha256": "1d4febe800156a734c50a57b83651a66c72fd56f3a82a69afb07754ee6b0d4e9",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/combat_npc.csv",
+      "sha256": "ae3118c563f7205c6839539c71dc0ec4c6bf779903ed820e157a303888e9a460",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 514
+    },
+    {
+      "file": "table/command.csv",
+      "sha256": "63753f5791422b9c9d863ed29ec643813665e7240267771ecc77f1d71aae6808",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 5
+    },
+    {
+      "file": "table/dailydungeon.csv",
+      "sha256": "ade89d4853c6442019b2a85fc8adffee0c0b9ae6775600c32798135e09795df6",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 96
+    },
+    {
+      "file": "table/damptymoon.csv",
+      "sha256": "0840e98b1f0a1d4a44dc0e7e6850fe23efedef83f84252472797d08dfd4186cd",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/defaultmacro.csv",
+      "sha256": "929c1a3de92bcb1351de102163b2a7c41cfa4672a46de5c0ce66f0e87718ae64",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "format": "xml",
+      "not_cataloged": "XML content in a .csv source",
+      "candidate_count": 0
+    },
+    {
+      "file": "table/defaultopenwnd.csv",
+      "sha256": "f6998ca93fec4de2a46572348cf995255244e1ff342b208af4a9a4d54455106b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/defaultoption.csv",
+      "sha256": "bcfa9af25aee3e298009165a653893b9ad8648baeda6c06267add29bbf112dcb",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/dem_act_tbl.csv",
+      "sha256": "e7cd7686b45b28a90cf4822b625719339414fb2f63794c292b1e37f10a9087e9",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/demic_chip.csv",
+      "sha256": "c6043123f4551ff8f1f824c980d758cd46e496bce9f5e6984abae43acd884283",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 929
+    },
+    {
+      "file": "table/demic_chip_layer.csv",
+      "sha256": "66af76473b3324620432549c1280164f10330ddfc26c9867196fada5b864a723",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2
+    },
+    {
+      "file": "table/demic_chip_model.csv",
+      "sha256": "12778dee919ee40f21e34424c7c9ab94fc67f9ad03a8373a867b68ab616fb814",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/dualjob_info.csv",
+      "sha256": "3e487008343271b5c0a4a63fbbd78a62c66e3d4f54a238850f7e428b492db455",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 24
+    },
+    {
+      "file": "table/dualjob_skill_learn.csv",
+      "sha256": "2c2ab8b0629944db0f31a406950a0172b9c11da68521d838c3b2da624254d5dd",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 930
+    },
+    {
+      "file": "table/eclipse.csv",
+      "sha256": "a1c0a729903479d49d2fdbbc6ad5575fc850a0ef69abe8ea4a0c378b05db9842",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/eclipse2.csv",
+      "sha256": "7cc3269300c03bccdf6b960e0027ebbbfc1703a4006ccd058acc20daf07a0540",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/emotion.csv",
+      "sha256": "fef2a7f7b305dc66e98e8f179de457480208a5faed1bffe13a7fde43df999458",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 121
+    },
+    {
+      "file": "table/everyday_stamp.csv",
+      "sha256": "702bd8612d713af5761652dc146dc8773600b5a1fc95cb7e71515c958751ea9c",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2
+    },
+    {
+      "file": "table/exlooks.csv",
+      "sha256": "b5470da1d15a6c7004dd44fe81e4575f5a292ed0505b4f98b692bc81c2236f79",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 15
+    },
+    {
+      "file": "table/face_info.csv",
+      "sha256": "b546ed5791a0fb3447708c282311eeff737ee3990ce943d1ce79ae503a1f3b93",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 220
+    },
+    {
+      "file": "table/face_type.csv",
+      "sha256": "a821b4edc0bc294477974af0cf7c4cf0c59333fef0da7141265b1bfde79fb25f",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4
+    },
+    {
+      "file": "table/fcastle_cultivate.csv",
+      "sha256": "2d2e859d301e3299524111364f6b3da30aa08a7a3f897eb2f6946389c66898a5",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 7
+    },
+    {
+      "file": "table/fcastle_expansion.csv",
+      "sha256": "96470463ded78d20af63209abf295b01af803f39d6437dac28d6e57fb66c416e",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 198
+    },
+    {
+      "file": "table/fcastle_expansion_func.csv",
+      "sha256": "c544811a656736c2f8eec706318fd0d90353966324534a373ca7cf79da376ec3",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 200
+    },
+    {
+      "file": "table/fcastle_farm_book.csv",
+      "sha256": "49be862cf248195bd67abfc07e3237fc7f007efeece71279e8fc4b8b27bcf6b2",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 12
+    },
+    {
+      "file": "table/fcastle_foundation.csv",
+      "sha256": "2d2c1bad3510f3be14f91fa367e26e89ac5a8423c52993c6faad3860dc829198",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2
+    },
+    {
+      "file": "table/fcastle_seed.csv",
+      "sha256": "a85a9256110fd2dcf0fc86b76c69905a3b4f89c5addbbb5212369c24261b1790",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/fcastle_seedbedinfo.csv",
+      "sha256": "5ceac07f31b1787d19ec5e06f4fa8fd276d5da5c17cce699625bba907ecf3186",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/fcastle_unitinfo.csv",
+      "sha256": "072fc295f5b5d421db06f5783c784b9a298a3b63f2304550339c7fc9f31c1592",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/fishing_book.csv",
+      "sha256": "627708d794135f5226ae1a209819413804f3a6684b49d1b3e7c5268967265015",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 192
+    },
+    {
+      "file": "table/fishing_food.csv",
+      "sha256": "6d23dce0cf7fa69df14e44ff2ef91087084959a3bc3e23deeb18366d8d14fb1c",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/fishing_rod.csv",
+      "sha256": "95a19f8cf36d6934adff47a877183b006c7912625bc231085e5d80d02c8c4022",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/furniture.csv",
+      "sha256": "302813dc98f3d23805cfd4e715fdba36894a6ec992b0e37d399f05495fbf0dde",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2819
+    },
+    {
+      "file": "table/furniture_ride.csv",
+      "sha256": "d41e3b7a1c7649014f039a5902302e354cd87ef937aaf524f0821a3e108d60ff",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 313
+    },
+    {
+      "file": "table/furniturepict.csv",
+      "sha256": "27ca7203d08d41d590d2d818344d1cc50de676be072dc0b4172b8c857e124f02",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2715
+    },
+    {
+      "file": "table/galaxy.csv",
+      "sha256": "9d3aee537ea3023efa72e3fb8c4ac4a7927ad8022565ea1ed9b61f7dde6876cb",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/gather.csv",
+      "sha256": "851c09a56ca3e730fc1f72bb0170a291a9f9dedc6beb5e710a83c9b41b33b2a1",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/hair_info.csv",
+      "sha256": "f888c982adce9b5792f1582d2f5f5552c0a97bc9d45ab03d8ffd87e45a4bf342",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2930
+    },
+    {
+      "file": "table/hathair.csv",
+      "sha256": "351a8274375f7aa34cded533ee4d4447ce3299b088b1ce3e75987d17638eb115",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/heaven_info.csv",
+      "sha256": "f35baef6dc6d5c39700f7141290450d065d16610f220f571a5f0aea173a414f7",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 24
+    },
+    {
+      "file": "table/hinode.csv",
+      "sha256": "bc6778315bbe4fe3beddfa635b21dba5877fe5aef7ebb1ec3ce1dd1471b4715f",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/iris_ability_vector_info.csv",
+      "sha256": "6cd5dfae078640fdee4c2c50502ad5dbbffcd4dd9ccb7b4bc083782bd150f1e5",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 213
+    },
+    {
+      "file": "table/iris_card.csv",
+      "sha256": "b301730cb8e0290c84d07df04210ecbcfc49a8a3546d48aa6333259c7e8c38c0",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 19754
+    },
+    {
+      "file": "table/iris_combination.csv",
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/iris_gacha_blank.csv",
+      "sha256": "17e1053008437577fac74fa422ba101ce6aa2fddd4262823e98109cbfbbb3cd4",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 11
+    },
+    {
+      "file": "table/iris_gacha_window.csv",
+      "sha256": "f4a921fcd25468c71fd0db5b5d678b2f19585da205003ada8f6f3a4731496dec",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 216
+    },
+    {
+      "file": "table/iris_simple_setting_info.csv",
+      "sha256": "12d776ae1dfc67f850295bf126a00696bac71668205a6098bad0d1a0d6aca482",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 87
+    },
+    {
+      "file": "table/it_maptype.csv",
+      "sha256": "54a7fe72dbd5860763d83b1b25b7dbcf5ee1a649c8faf2bb597574512243ee46",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 69
+    },
+    {
+      "file": "table/item.csv",
+      "sha256": "97cda4ead096a0f7f2698daaec4785140d893054544bfcde929de857e8108a81",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 25630
+    },
+    {
+      "file": "table/item2.csv",
+      "sha256": "82596f33e35cc6297ff3962937447d2fc12dad6d2ebee44dce5bf107a8a5b394",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 455
+    },
+    {
+      "file": "table/item3.csv",
+      "sha256": "aa561966d2d5ce2f7ce4a9b12e5f991b398a3fe7866c99b71cda15475e14a5ee",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1634
+    },
+    {
+      "file": "table/item4.csv",
+      "sha256": "244f1c71e696feb93439a44722114ffdbe40e4530274316fcc98ed4dc96a94f0",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 15160
+    },
+    {
+      "file": "table/item5.csv",
+      "sha256": "1c0fcbbf194a75adc6d246ea9680fa093f805c8bad1a08d76dad3ba9485f55f7",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 6210
+    },
+    {
+      "file": "table/item6.csv",
+      "sha256": "e42c1a9f1b08b6a5e53d27920d10e667ed2f7fda6e5687ff5a6c8b1ba66163de",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2551
+    },
+    {
+      "file": "table/item7.csv",
+      "sha256": "18a45991f514a7a9135f41b408c73f60dff3365a7efd5e9346215711782053c7",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 32842
+    },
+    {
+      "file": "table/item_choice_list.csv",
+      "sha256": "590dea20874aa732fbfca82067dbcaab79c5c1b5b1a85ea893abe670ef6ec765",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 7154
+    },
+    {
+      "file": "table/item_exchange.csv",
+      "sha256": "a976b5da30e37a689851a659180bbfdb51a2e25eb6bb0de676e2552eb029e6dc",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4672
+    },
+    {
+      "file": "table/item_recycle.csv",
+      "sha256": "9d8be439cd7f8b468d2d677f18a6904be1cc9897f40ec804ed01c00b21df3788",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/item_rental.csv",
+      "sha256": "f24337bade88ff2e74de1d3e9914344b77447572b8fc4cfffb70d4a194f2162b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 365
+    },
+    {
+      "file": "table/item_setlockflag.csv",
+      "sha256": "2ce3929df0b9869a016814382570680da9ebc29bbc007cbf274f6508f5cf4c92",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1191
+    },
+    {
+      "file": "table/item_spec_open.csv",
+      "sha256": "4d163a3e382b35198f45e03081b86ea5b433d1dbb130ba21d864be173d5323ac",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/item_synthe1.csv",
+      "sha256": "65acf9ba808d32051c1382f76243df393dc687eda60171b521b8100c6192fa62",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/item_transform.csv",
+      "sha256": "05d9f37eb6e456c33af637180e2b14531141b699a2e70a73c65a41ec2a57cfa3",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 120
+    },
+    {
+      "file": "table/itemboost.csv",
+      "sha256": "a9e70c30ac498a0f315fb407d06d7093331df884c5c5c780ae26f10c41023c74",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/itemboost_exptable.csv",
+      "sha256": "e3c17b4b71789c1465495e9fa690d8615d95cb49d2064f6256f5ed5b4e049300",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/itemdelivery.csv",
+      "sha256": "3a8442fd122ef92ab4262c249e632886281a40e2974111a69248d920d894267e",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4
+    },
+    {
+      "file": "table/itempict.csv",
+      "sha256": "d27281eb3940bf9c44c5f4d88817a80c2b6c3e07012a8863fe082110a0d2eb20",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 9262
+    },
+    {
+      "file": "table/kwar_transport_area.csv",
+      "sha256": "6ce5224254f2180524530f233bfaf8eef075191ffbfa0e83cea1f38badcacbf3",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1
+    },
+    {
+      "file": "table/lensflare.csv",
+      "sha256": "2cc6b3c62ff08f2a2a3fe3f1a900636cd7bfcffae38f69335904759fb147b9be",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/lensflare2.csv",
+      "sha256": "1ebe1ad5c00308782d1adae81c680b23c02e00b177efede37e15ec05b82784eb",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/light_dir.csv",
+      "sha256": "8b3104dcde697d3160f70431da45f6406e3caca8081accb632008fecb7a03a37",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4
+    },
+    {
+      "file": "table/loading_model.csv",
+      "sha256": "2e45eca7c8c59232a06b3bc9544a4b2a347dca44714beef3c4f902317248a9c7",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/lod.csv",
+      "sha256": "0d52e80813af6adb4afed55a97d4e6ca954847e0bf82300c0759d5862a009d52",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/map_info.csv",
+      "sha256": "c573aaf0f12654f15c9ff41ad69af6f33192f89ae714e8539717d8f319bdb249",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 362
+    },
+    {
+      "file": "table/mapname.csv",
+      "sha256": "16cbd5252825c2411ce2b24b484a0fa785a3f9fa9853deda2f9b252125ba6089",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1404
+    },
+    {
+      "file": "table/mapname_autorun.csv",
+      "sha256": "2045fb7a44aff5342e0960e794d9f7c6b342a5cce9146e160163310e71068d2b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 74
+    },
+    {
+      "file": "table/mapname_overlap.csv",
+      "sha256": "4edefed4552ee8c445590abf6177f6926c68d9c4bc239d85093acba9e6f40b24",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 35
+    },
+    {
+      "file": "table/marionette.csv",
+      "sha256": "65887e16f43387ebbce20f5d1614cd9f61abc25bfea41ed8d2d09f46e40e85b4",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 116
+    },
+    {
+      "file": "table/marionettepict.csv",
+      "sha256": "670d038d1d39802f7cfe9eb6b14e244436ea7c862330da6718c91fcb7f1243da",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 96
+    },
+    {
+      "file": "table/markmonsterinfo.csv",
+      "sha256": "7e448dbc99916c38144b241c78d87393fbd9dacd8fda6e60a5b7684701d3ea6f",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/minigame_info.csv",
+      "sha256": "3d02d751bc69555695a304343b8814007e514a20ef9aafb62a7b1c392917d6ee",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/mission_info.csv",
+      "sha256": "40ca5449b3af1df4c53e0577c776ae4e339c7710ec56e353f15ff56c4c96e03c",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 36
+    },
+    {
+      "file": "table/mission_instructions.csv",
+      "sha256": "2a08372358407d7d0265b5ff80f4e179d8cdb52b36e50f6d8bb27983f453fc9b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 60
+    },
+    {
+      "file": "table/monster.csv",
+      "sha256": "5f33b659d283bdd258cf5ad0d87fd2ca16063832e2b7ea40f9329f538d8fa92b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 5240
+    },
+    {
+      "file": "table/monstergroup.csv",
+      "sha256": "26081863439470579422ffb5f459f290fecc0267225a7db5f66dddccb4ea4aee",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/monsterpict.csv",
+      "sha256": "69a450add58c86935d4a90d5ef84147bc194e7fd03a34f22793d179117a32116",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 3046
+    },
+    {
+      "file": "table/motion.csv",
+      "sha256": "cec88f6c086019be64cedf0fa88ea490f1e138c78ac3a8535a5992757d64b8ae",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 387
+    },
+    {
+      "file": "table/motion_info.csv",
+      "sha256": "d1769b28f5fd4aab5d47be63d486a3a57746df5dfdef08fb38a03667564a62cc",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 80
+    },
+    {
+      "file": "table/motion_wait.csv",
+      "sha256": "47e6244f4305e8bea2bd18035cfc5d7f210095f75c4327a5bc886be592c69d52",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 8
+    },
+    {
+      "file": "table/naviinfo.csv",
+      "sha256": "7ad37ef2f72774fa50d006b2a028091d07223d20ea25bdf0dde6b1d621b29602",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 5764
+    },
+    {
+      "file": "table/naviinfo_category.csv",
+      "sha256": "bec151206194be6105a7e09a0ce03893aeda54010adaa9c7da8b604404a295a8",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 24
+    },
+    {
+      "file": "table/ngword.csv",
+      "sha256": "fa507885d29171b9f5e5c4775181271b1df423af0fde48f28ce63163f2463347",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 207
+    },
+    {
+      "file": "table/normalmoon.csv",
+      "sha256": "09584fb880b513210fbfecf1ffa62c82ba3e66aa2a1398d33bd48af3f3bd292a",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/normalmoon_50102.csv",
+      "sha256": "d0f0aada2b909247db87bab547b4eadeeeac8c25d407ed1586d73676f521604a",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/normalmoon_m059.csv",
+      "sha256": "3417cd420987c5f23cf3b8f14161883eec408256ae45ba92090dfc814b290e50",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/npc.csv",
+      "sha256": "dfb490c021c65e96787a12e34df3d261f6ff54175d343317c2d07d69d317c93e",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4751
+    },
+    {
+      "file": "table/npc2.csv",
+      "sha256": "75f48ec9e10b7c0cb04187b0aafa79e99c644d4a8f71d133ae31d34eb5165d46",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1590
+    },
+    {
+      "file": "table/npc_face_pict.csv",
+      "sha256": "7c5a1b3cee4f7ed6f38c157c1d1efa9d61ab941efbeb459d24e205a1a70b9861",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 834
+    },
+    {
+      "file": "table/npcgrp.csv",
+      "sha256": "59819acf540ce4e0deb2a43981924fc66b0e92c5e82f4b16480943e427c2fe0a",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 914
+    },
+    {
+      "file": "table/npcpict.csv",
+      "sha256": "feaf79fd321c8f849225fdadb0f4f89f81df762c5e1fdf82d89e6c88c4e1edf9",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1997
+    },
+    {
+      "file": "table/odwar_order_info.csv",
+      "sha256": "693443ee4b537ea58102e00c5e94967a1d463efe1e607a1edff790f4c11fbe0e",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 3258
+    },
+    {
+      "file": "table/odwar_order_param.csv",
+      "sha256": "db15e97bd3643d492ab7b3dd08687436d689aa0e712069bad73b64bb5972a443",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 274
+    },
+    {
+      "file": "table/partner_actcube.csv",
+      "sha256": "4b84f56f924972b505a68b57deef2b80a2170ccf5bfde0f868057d47f334d099",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 3594
+    },
+    {
+      "file": "table/partner_actcube_process.csv",
+      "sha256": "1418f48f4a764b0cf2475e4e9a6d55504725d42224861752daaf4ab8593c967b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_equip.csv",
+      "sha256": "62c0b77431e8682794b2efe0e0d982b2bf9c190226e9cef0e37bd8a1478819da",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 338
+    },
+    {
+      "file": "table/partner_equip_change.csv",
+      "sha256": "0de352df2719934cd4a402bcf265ac27568a3796c0697ffa8cb6504d74c05a55",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_food.csv",
+      "sha256": "5089699c9c1e644e33bc66d291f07565ca6653bf37e51ef0f1481e8ab0b4a54a",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_info.csv",
+      "sha256": "4893680e41c82303b72097af89771e6f6913ab968e8a2467ca9027a49ca2b057",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 906
+    },
+    {
+      "file": "table/partner_itempict.csv",
+      "sha256": "780780975140bf71d29866e892047211a7294a4b1bf73d0a1a5552691cb26503",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 109
+    },
+    {
+      "file": "table/partner_motion_together.csv",
+      "sha256": "1408f9582f20b50c0a6d240b6be46a559b631aa689e3129850f38da4243b6782",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 80
+    },
+    {
+      "file": "table/partner_protect_announce.csv",
+      "sha256": "7f438dd89be239c1fb40e47fc185aa943e24f2dcbfc26f34991bf15e73977be1",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 15
+    },
+    {
+      "file": "table/partner_protect_info.csv",
+      "sha256": "6b6818e823b1751d17f0e9aa3b8d78ca130f05b678f15b04132f01864c5e573d",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 14
+    },
+    {
+      "file": "table/partner_protect_reward.csv",
+      "sha256": "d9a071d90881a1608770fdc6fdb17d496128d8c96f27ceb4dbc84f871f60af47",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_protect_skill_learn.csv",
+      "sha256": "d37d4cac77e734076f722416ea1936916f4f79027bf25405448626142838a94c",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_soul_status_param.csv",
+      "sha256": "acfc182102cf4cc15eb3285326c48d4423ac3e1c076133128f92ba136c0387b8",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_talk_custom_index.csv",
+      "sha256": "544b05c99b8e637d68367a832304533cb1f26d7fce3a0cf67a15745d02cfb364",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 32
+    },
+    {
+      "file": "table/partner_talk_custom_info.csv",
+      "sha256": "6cabefb4af4836b1d9826294be35d7b39e73f2cd72e48d52282e106b45b32670",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/partner_type.csv",
+      "sha256": "056c1230ae5882792dfb56fcf32f9d8a8c64c24167e465bd06a4744c13357a78",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 20
+    },
+    {
+      "file": "table/pet.csv",
+      "sha256": "f4e50fcccac3d04b0552f19c26bb00796d7c1251aa0b62a128165bd67d118d14",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 14
+    },
+    {
+      "file": "table/pet_robot_limit.csv",
+      "sha256": "5389390cb92bdad754dcaeb941db79b0e5b404bc0bfb38958a405795898c1073",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1
+    },
+    {
+      "file": "table/potential_boost_exptable.csv",
+      "sha256": "75c5e4a88ea1f6ff143de034f85e86eae6e388c3402d215cb0f809416d883d64",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4
+    },
+    {
+      "file": "table/quest.csv",
+      "sha256": "1ad1b92b3ec6dd2acd7207a31a155706b0ba85ae294dbc2c7881e35820fc49b8",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1357
+    },
+    {
+      "file": "table/recipe_catalog_group.csv",
+      "sha256": "0e75ce26a4b90f83c62f80637de04ebd83ac78ae5a416b20f2e1d054aa5f6439",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 29
+    },
+    {
+      "file": "table/sample_chara.csv",
+      "sha256": "60944fd392ff585db3651e6e47dfd5359cce3ccfad8869ef2d5717fdbfe08ba7",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/shortcut_menu.csv",
+      "sha256": "18528ccbeb4fbbc0156eceb6a888f5eb780d870c63e9be5a3e9ca5fe62e02ce5",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/slot_enchant.csv",
+      "sha256": "8939c65c0a867b548543fb060e76c0c46686324d5cc566da4b5e0dea9ed673f4",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/slot_enchant_exptable.csv",
+      "sha256": "5832c1acbcdfd816a0776ecea4e6755ca3d2a3bd914395b6fc053b4ee5bdcf93",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/smark_combat_npc.csv",
+      "sha256": "3d5fff08f38c5285e304565b9d8ef29ca87e3a2bf86b402d3f42ce5fc68240f3",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/smarkmonsterinfo.csv",
+      "sha256": "231c800200630a9f5ede8c291544a97bfae0027e746b7fe3326d1e71d775e834",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 2
+    },
+    {
+      "file": "table/soul_status_param.csv",
+      "sha256": "3e64769163ede4bd02de378d0ef6d85675f11d343b33ced74a304bad8d09438f",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4
+    },
+    {
+      "file": "table/sound.csv",
+      "sha256": "6cfe8ec4e9dae5dd5dc576430a54c3a31e37b3e567f4dc34f06ea8f9e1cbb8e8",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 663
+    },
+    {
+      "file": "table/sound_bgm.csv",
+      "sha256": "a232c602c5311b68f0585e8e93539109fb74a1952c1bfe6fcbf1d0f5e442a5df",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 110
+    },
+    {
+      "file": "table/stamp.csv",
+      "sha256": "fdea53106c4ff96a3792aa1d89346653a605ee9903f61e4a464ee02abbab7d0d",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 268
+    },
+    {
+      "file": "table/status_assign.csv",
+      "sha256": "5a1368a5f1dd796296323ebf9aa944dc9b69a90020fe49bd17844a9d1379b1d5",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 244
+    },
+    {
+      "file": "table/status_assign_pri.csv",
+      "sha256": "31cd33684a6c674a29c1f8d852012797bed52a2ebe627ee4959cca5536f41b1b",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 13
+    },
+    {
+      "file": "table/storyfield_capture.csv",
+      "sha256": "54776e28972889ba464641d6364b9cf5ed44a16fe51b5baf6210ea6068708b43",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 271
+    },
+    {
+      "file": "table/storyfield_castinfo.csv",
+      "sha256": "598e704f0f575b78aa4128d8eda4735fc041c4d4d89384a575fc7894b290369d",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 438
+    },
+    {
+      "file": "table/storyfield_map_wall.csv",
+      "sha256": "38f90fb4b7bcc75c8f9852aa64767131a15018350a3048a64aa9973b85b3b3df",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/storyfield_talk.csv",
+      "sha256": "50285a72206a3363b2f3a5fb6816c0aed153db107e9d333e7a4997f1fd6b82c0",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1520
+    },
+    {
+      "file": "table/strtable.csv",
+      "sha256": "cf632735e7b9b727d85a13d2ac61a1581b82959c444c9537d9704a30d2817820",
+      "partial": true,
+      "encoding": "cp932",
+      "errors": [
+        "Error"
+      ],
+      "error_line": 419,
+      "candidate_count": 276
+    },
+    {
+      "file": "table/sub_act_tbl.csv",
+      "sha256": "e35f5f8eca5659469ff84fa0a43c9a5983aeca2a93b99185dd17142690eb50f1",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/sub_map_tbl.csv",
+      "sha256": "db1d5f89a2b806f19161d74fe9e9937590d4a1e7de5b5dbfc3254618d23b2604",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 508
+    },
+    {
+      "file": "table/subjugate.csv",
+      "sha256": "0ab8ff73729361709dcb4715dc0427d1110ea34a8747c1a310ccd71f304465ea",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 11
+    },
+    {
+      "file": "table/sunset.csv",
+      "sha256": "26bad649fab6cb90cf08f47886bfbe132a0da585885887ed9c145db4d8c65386",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/sunset2.csv",
+      "sha256": "8ed787eb55d2405022d1108bc9c843d0e3e67060901a85f0d3a5bc0d60baed49",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/sync_data.csv",
+      "sha256": "e3df2a2b922c6d22c212b4011283f24fefc941f8779182e2a7b707f685d4cb60",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/tinymoon.csv",
+      "sha256": "40ccb068b27d7ac35a7aa79e92f3852691a1adf06d3db3787608a4e7e18a827f",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/title_connect.csv",
+      "sha256": "f7926b9ebc4f721c824cf22d43a029890bcb13ef8d0c2773a2b1ca128d4e87b8",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 573
+    },
+    {
+      "file": "table/title_if.csv",
+      "sha256": "1a7add32dbb9ccf264f039a404c877d904487f4899093dc2a52ecc57ea4cc3f0",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 261
+    },
+    {
+      "file": "table/title_info.csv",
+      "sha256": "f13203689c8df6eabf756f44e68f02e9c08258ee3f90ff7588cc3b1905b1d563",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 1537
+    },
+    {
+      "file": "table/transport.csv",
+      "sha256": "79c2b5413ab6cd13f60f8415fa128c03831e689cfa48d3ea2cae2483d98e2e39",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/trap_info.csv",
+      "sha256": "187242afb6163413cbf3be661154cf10b1540bc8e534835fac91af6b68919c6a",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/travelmemo_maplist.csv",
+      "sha256": "e6d8b94d6b0742475132ae8bb347b5d0e3116e9bc7a23ef02d382c29e1b53568",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 905
+    },
+    {
+      "file": "table/union_world_kwarinfo.csv",
+      "sha256": "4cdd2094013e583d2cf78ca005c90d55fba83b563c7294b40903f9a70ff239b6",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 4
+    },
+    {
+      "file": "table/unit_base.csv",
+      "sha256": "6428f5606631ee861fb241be91ff92d83f0ebd2d58eec75f1f77ab7cfa4dd804",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/unit_effect.csv",
+      "sha256": "08ff2944ee2208353621fa51d3dc056bd352a3174c4f50dde80b1d56662a2c03",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 48
+    },
+    {
+      "file": "table/unit_effect_combination.csv",
+      "sha256": "ed07f002f6eb46c6a87ea9ae7fe6cd02c0692d9c556afc7f0aa3a8b4e6d8f9af",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/unit_effect_condition.csv",
+      "sha256": "7794b48a5d4f2ad4ec0d694cc7524e26ada095b59b0433145bb71ce9292f11db",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/unit_effect_one.csv",
+      "sha256": "456b181a1c85196771d381eee35923c5d5b9f329351e41b0dbdabbf509239de7",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 117
+    },
+    {
+      "file": "table/usescrbump.csv",
+      "sha256": "2d30f08d98d54daf2914b20accef767f47169684cb9b06b2fb28afc8f0923127",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/weapon_visible.csv",
+      "sha256": "0a6500798c8f9f52cf1d7da7eb507b2b568226d03fa4b00dcbb9ed09a5efffd0",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 8
+    },
+    {
+      "file": "table/window_param.csv",
+      "sha256": "d539b1f3697c0acb6ebdd8a164b776ca2131c0ce6a61142b8f561d51cc1357bc",
+      "partial": false,
+      "encoding": "utf-8-sig",
+      "errors": [],
+      "format": "xml",
+      "not_cataloged": "XML content in a .csv source",
+      "candidate_count": 0
+    },
+    {
+      "file": "table/worldmap_info.csv",
+      "sha256": "ce7ac6b6e72eeba5973c38ccf4e16e183ca7adc8c49ffb2186e8288d59169270",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 110
+    },
+    {
+      "file": "table/worldmap_node.csv",
+      "sha256": "d3e167d7af922fffc8912ecd56ccbd9096b12aae3cf95814af89a8540022f779",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "table/yuyake.csv",
+      "sha256": "be2a3cbc069b7f15df701b5118d0ef3f668bcf180d8d0da2d409c26b1833fd65",
+      "partial": false,
+      "encoding": "cp932",
+      "errors": [],
+      "candidate_count": 0
+    },
+    {
+      "file": "text/GuestIDAgreement.txt",
+      "sha256": "f9817593af8118bde19b409ebe6dfef301ca88eaefb77d9106016e27ffb71e46",
+      "partial": false,
+      "encoding": "utf-16le",
+      "errors": [],
+      "candidate_count": 0
+    }
+  ],
+  "candidate_count": 200312
+}

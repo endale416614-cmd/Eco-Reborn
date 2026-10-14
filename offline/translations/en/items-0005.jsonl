@@ -1,0 +1,109 @@
+{"id":"table/item.csv:501:4","source":"絆のかけら","english":"Bond Shard","status":"draft"}
+{"id":"table/item.csv:503:4","source":"炎の召喚石","english":"Fire Summoning Stone","status":"draft"}
+{"id":"table/item.csv:504:4","source":"ナニかの合金（イベント）","english":"Some Kind of Alloy (Event)","status":"draft","note":"The source uses an indefinite “something” alloy; kept non-specific."}
+{"id":"table/item.csv:505:4","source":"水の召喚石","english":"Water Summoning Stone","status":"draft"}
+{"id":"table/item.csv:507:4","source":"大地の召喚石","english":"Earth Summoning Stone","status":"draft"}
+{"id":"table/item.csv:509:4","source":"風の召喚石","english":"Wind Summoning Stone","status":"draft"}
+{"id":"table/item.csv:510:4","source":"電気石","english":"Electric Stone","status":"draft"}
+{"id":"table/item.csv:511:4","source":"闇の召喚石","english":"Darkness Summoning Stone","status":"draft"}
+{"id":"table/item.csv:512:4","source":"光の召喚石","english":"Light Summoning Stone","status":"draft"}
+{"id":"table/item.csv:513:4","source":"霊玉（青）","english":"Spirit Orb (Blue)","status":"draft"}
+{"id":"table/item.csv:514:4","source":"霊玉（赤）","english":"Spirit Orb (Red)","status":"draft"}
+{"id":"table/item.csv:515:4","source":"メロディーストーン","english":"Melody Stone","status":"draft"}
+{"id":"table/item.csv:517:4","source":"ガラス玉","english":"Glass Bead","status":"draft"}
+{"id":"table/item.csv:520:4","source":"パートナーガード","english":"Partner Guard","status":"draft"}
+{"id":"table/item.csv:521:4","source":"火山岩","english":"Volcanic Rock","status":"draft"}
+{"id":"table/item.csv:522:4","source":"ドミニオン鋼","english":"Dominion Steel","status":"draft"}
+{"id":"table/item.csv:524:4","source":"霊玉（黄）","english":"Spirit Orb (Yellow)","status":"draft"}
+{"id":"table/item.csv:525:4","source":"異端の霊玉（青）","english":"Heretical Spirit Orb (Blue)","status":"draft"}
+{"id":"table/item.csv:526:4","source":"異端の霊玉（赤）","english":"Heretical Spirit Orb (Red)","status":"draft"}
+{"id":"table/item.csv:527:4","source":"異端の霊玉（黄）","english":"Heretical Spirit Orb (Yellow)","status":"draft"}
+{"id":"table/item.csv:528:4","source":"戦場の輝き","english":"Battlefield Radiance","status":"draft"}
+{"id":"table/item.csv:529:4","source":"奇跡のかけら","english":"Miracle Fragment","status":"draft"}
+{"id":"table/item.csv:530:4","source":"烈風石の欠片","english":"Gale Stone Fragment","status":"draft"}
+{"id":"table/item.csv:531:4","source":"戦場の奇石","english":"Battlefield Strange Stone","status":"draft"}
+{"id":"table/item.csv:532:4","source":"ディメンション烈風石の欠片","english":"Dimension Gale Stone Fragment","status":"draft"}
+{"id":"table/item.csv:533:4","source":"マリオネット・ベリル","english":"Marionette Beryl","status":"draft"}
+{"id":"table/item.csv:534:4","source":"ナニカの入った宝石","english":"Gem with Something Inside","status":"draft"}
+{"id":"table/item.csv:535:4","source":"ゴーレム・ベリル","english":"Golem Beryl","status":"draft"}
+{"id":"table/item.csv:536:4","source":"こころのかけら","english":"Heart Fragment","status":"draft"}
+{"id":"table/item.csv:537:4","source":"大きなこころのかけら（イベント）","english":"Large Heart Fragment (Event)","status":"draft"}
+{"id":"table/item.csv:541:4","source":"降竜石","english":"Dragonfall Stone","status":"draft","note":"Name rendered literally; established English item canon is not available in the supplied source."}
+{"id":"table/item.csv:542:4","source":"ポロンのこころのかけら","english":"Poron’s Heart Fragment","status":"draft","note":"Poron is a provisional transliteration of ポロン; English canon is unverified."}
+{"id":"table/item.csv:543:4","source":"ブルートオーブ（イベント）","english":"Bruto Orb (Event)","status":"draft","note":"Bruto is a provisional transliteration of ブルート; English canon is unverified."}
+{"id":"table/item.csv:544:4","source":"ダイヤモンド","english":"Diamond","status":"draft"}
+{"id":"table/item.csv:545:4","source":"最適化モジュール（ダイヤモンド）","english":"Optimization Module (Diamond)","status":"draft"}
+{"id":"table/item.csv:546:4","source":"キュービック・ジルコニア","english":"Cubic Zirconia","status":"draft"}
+{"id":"table/item.csv:547:4","source":"アメジスト","english":"Amethyst","status":"draft"}
+{"id":"table/item.csv:548:4","source":"最適化モジュール（アメジスト）","english":"Optimization Module (Amethyst)","status":"draft"}
+{"id":"table/item.csv:549:4","source":"インペリアルトパーズ","english":"Imperial Topaz","status":"draft"}
+{"id":"table/item.csv:550:4","source":"最適化モジュール（トパーズ）","english":"Optimization Module (Topaz)","status":"draft"}
+{"id":"table/item.csv:551:4","source":"ハートルビー","english":"Heart Ruby","status":"draft"}
+{"id":"table/item.csv:552:4","source":"最適化モジュール（ルビー）","english":"Optimization Module (Ruby)","status":"draft"}
+{"id":"table/item.csv:553:4","source":"アクアマリン","english":"Aquamarine","status":"draft"}
+{"id":"table/item.csv:554:4","source":"最適化モジュール（サファイア）","english":"Optimization Module (Sapphire)","status":"draft"}
+{"id":"table/item.csv:555:4","source":"ペリドット","english":"Peridot","status":"draft"}
+{"id":"table/item.csv:556:4","source":"エメラルド","english":"Emerald","status":"draft"}
+{"id":"table/item.csv:557:4","source":"ラピス・ラズリ","english":"Lapis Lazuli","status":"draft"}
+{"id":"table/item.csv:558:4","source":"コケトリスの瞳","english":"Cockatrice Eye","status":"draft"}
+{"id":"table/item.csv:559:4","source":"海竜の瞳","english":"Sea Dragon Eye","status":"draft"}
+{"id":"table/item.csv:560:4","source":"サラマンダーの紅玉","english":"Salamander Ruby","status":"draft"}
+{"id":"table/item.csv:561:4","source":"紫金の宝玉","english":"Purple-Gold Jewel","status":"draft","note":"Color term rendered literally; official item terminology is unverified."}
+{"id":"table/item.csv:562:4","source":"茜色の宝玉","english":"Madder-Red Jewel","status":"draft","note":"Color term rendered literally; official item terminology is unverified."}
+{"id":"table/item.csv:563:4","source":"若菜の宝玉","english":"Young Greens Jewel","status":"draft","note":"Color term rendered literally; official item terminology is unverified."}
+{"id":"table/item.csv:564:4","source":"山吹の宝玉","english":"Goldenrod Jewel","status":"draft","note":"Color term rendered literally; official item terminology is unverified."}
+{"id":"table/item.csv:565:4","source":"漆黒の宝玉","english":"Jet-Black Jewel","status":"draft"}
+{"id":"table/item.csv:566:4","source":"フシギなえのぐ","english":"Mysterious Paint","status":"draft"}
+{"id":"table/item.csv:567:4","source":"アナザーウルフの力","english":"Another Wolf’s Power","status":"draft","note":"Another Wolf is a literal rendering of the source name; canon unverified."}
+{"id":"table/item.csv:568:4","source":"盾のえのぐ","english":"Shield Paint","status":"draft"}
+{"id":"table/item.csv:569:4","source":"生命のえのぐ","english":"Life Paint","status":"draft"}
+{"id":"table/item.csv:570:4","source":"賢者のえのぐ","english":"Sage Paint","status":"draft"}
+{"id":"table/item.csv:571:4","source":"愛のえのぐ","english":"Love Paint","status":"draft"}
+{"id":"table/item.csv:572:4","source":"力のえのぐ","english":"Strength Paint","status":"draft"}
+{"id":"table/item.csv:573:4","source":"精神のえのぐ","english":"Mind Paint","status":"draft"}
+{"id":"table/item.csv:574:4","source":"ファルコンアイ","english":"Falcon Eye","status":"draft"}
+{"id":"table/item.csv:575:4","source":"ルチル","english":"Rutile","status":"draft"}
+{"id":"table/item.csv:576:4","source":"チーターロック","english":"Cheetah Rock","status":"draft","note":"Creature/name rendering is literal; official English name is unverified."}
+{"id":"table/item.csv:577:4","source":"マリオネット・ニンフ","english":"Marionette Nymph","status":"draft"}
+{"id":"table/item.csv:578:4","source":"ゴーレム・ニンフ","english":"Golem Nymph","status":"draft"}
+{"id":"table/item.csv:579:4","source":"ヒスイ","english":"Jade","status":"draft"}
+{"id":"table/item.csv:580:4","source":"ディメンション翡翠","english":"Dimension Jade","status":"draft","note":"Dimension dungeon/location wording is based on the supplied name; canon unverified."}
+{"id":"table/item.csv:581:4","source":"ガーネット","english":"Garnet","status":"draft"}
+{"id":"table/item.csv:582:4","source":"５等星","english":"Fifth-Magnitude Star","status":"draft"}
+{"id":"table/item.csv:583:4","source":"４等星","english":"Fourth-Magnitude Star","status":"draft"}
+{"id":"table/item.csv:584:4","source":"３等星","english":"Third-Magnitude Star","status":"draft"}
+{"id":"table/item.csv:585:4","source":"２等星","english":"Second-Magnitude Star","status":"draft"}
+{"id":"table/item.csv:586:4","source":"１等星","english":"First-Magnitude Star","status":"draft"}
+{"id":"table/item.csv:587:4","source":"思い出星（イベント）","english":"Memory Star (Event)","status":"draft"}
+{"id":"table/item.csv:588:4","source":"破結界石（イベント）","english":"Barrier-Breaking Stone","status":"draft"}
+{"id":"table/item.csv:589:4","source":"オリハルコン","english":"Orichalcum","status":"draft"}
+{"id":"table/item.csv:590:4","source":"ラピスラズリのかけら","english":"Lapis Lazuli Fragment","status":"draft"}
+{"id":"table/item.csv:591:4","source":"オリハルコン（クエスト）","english":"Orichalcum (Quest)","status":"draft"}
+{"id":"table/item.csv:593:4","source":"Ｊ・Ｂのイヤリング","english":"J.B.’s Earring","status":"draft","note":"Designer name J.B. retained as written; no expansion supplied."}
+{"id":"table/item.csv:595:4","source":"王妃のイヤリング（右）","english":"Queen’s Earring (Right)","status":"draft"}
+{"id":"table/item.csv:596:4","source":"王妃のイヤリング（左）","english":"Queen’s Earring (Left)","status":"draft"}
+{"id":"table/item.csv:598:4","source":"サラマンドラの首飾り","english":"Salamander Necklace","status":"draft"}
+{"id":"table/item.csv:599:4","source":"マリオネット・サラマンドラ","english":"Marionette Salamander","status":"draft"}
+{"id":"table/item.csv:600:4","source":"ゴーレム・サラマンドラ","english":"Golem Salamander","status":"draft"}
+{"id":"table/item.csv:601:4","source":"エミルのサラマンドラ（イベント）","english":"Emil’s Salamander (Event)","status":"draft"}
+{"id":"table/item.csv:602:4","source":"サラマンドラの首飾り（クエスト）","english":"Salamander Necklace (Quest)","status":"draft"}
+{"id":"table/item.csv:606:4","source":"サラマンドラの心臓（イベント）","english":"Salamander Heart (Event)","status":"draft"}
+{"id":"table/item.csv:607:4","source":"琥珀","english":"Amber","status":"draft"}
+{"id":"table/item.csv:608:4","source":"ディメンション琥珀","english":"Dimension Amber","status":"draft"}
+{"id":"table/item.csv:609:4","source":"水晶","english":"Crystal","status":"draft"}
+{"id":"table/item.csv:610:4","source":"ディメンション水晶","english":"Dimension Crystal","status":"draft"}
+{"id":"table/item.csv:611:4","source":"水晶共振体","english":"Crystal Resonator","status":"draft"}
+{"id":"table/item.csv:612:4","source":"硅石","english":"Silica Stone","status":"draft"}
+{"id":"table/item.csv:613:4","source":"水晶のかけら","english":"Crystal Shard","status":"draft"}
+{"id":"table/item.csv:614:4","source":"ライギョーのウロコ","english":"Raigyo Scale","status":"draft"}
+{"id":"table/item.csv:615:4","source":"ライギョーの金のウロコ","english":"Golden Raigyo Scale","status":"draft"}
+{"id":"table/item.csv:616:4","source":"石ころ","english":"Pebble","status":"draft"}
+{"id":"table/item.csv:617:4","source":"固い石ころ","english":"Hard Pebble","status":"draft"}
+{"id":"table/item.csv:618:4","source":"次元安定石","english":"Dimensional Stabilization Stone","status":"draft","note":"Formal item name is retained from description; official English name is unverified."}
+{"id":"table/item.csv:619:4","source":"とがった石","english":"Pointed Stone","status":"draft"}
+{"id":"table/item.csv:620:4","source":"火打石","english":"Flint","status":"draft"}
+{"id":"table/item.csv:621:4","source":"金属の混じった石","english":"Metal-Containing Stone","status":"draft"}
+{"id":"table/item.csv:622:4","source":"金属の混じった石１","english":"Metal-Containing Stone 1","status":"draft"}
+{"id":"table/item.csv:623:4","source":"金属の混じった石２","english":"Metal-Containing Stone 2","status":"draft"}
+{"id":"table/item.csv:624:4","source":"金属の混じった石３","english":"Metal-Containing Stone 3","status":"draft"}
+{"id":"table/item.csv:625:4","source":"金属の混じった石４","english":"Metal-Containing Stone 4","status":"draft"}

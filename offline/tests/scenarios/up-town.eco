@@ -1,0 +1,23 @@
+# Up Town: walk, talk to an NPC, emote, change stance, log out, and come back to the same tile.
+login
+create Tester
+place 10023000 130 139 4
+select 0
+enter
+expect-spawn 130 139 10023000
+loaded
+move 131 139 90
+move 130 139 270
+move 131 139 90
+npc 11000155          # Elena; no dialogue ported yet, so the "not available" notice
+emote 131
+send 0258 06000800030003000a00040003 0259   # status window stat preview (Emil start stats)
+stance 1
+stance 0
+logout                # logout saves the batched position
+expect-saved 131 139 10023000
+relog
+expect-spawn 131 139 10023000
+loaded
+logout
+servers-alive

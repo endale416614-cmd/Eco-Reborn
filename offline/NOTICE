@@ -1,0 +1,260 @@
+Protocol framing, handshake, and encryption behavior in this prototype are
+adapted from cm-MMK-2/EcoServerEmulator, Apache-2.0, commit
+56b4846a81c0136c6b09fccdf16e67e73da3f8b0:
+https://github.com/cm-MMK-2/EcoServerEmulator/tree/56b4846a81c0136c6b09fccdf16e67e73da3f8b0
+
+The SagaECO files used as inputs to the optional content audit remain in the
+separate research/SagaECO checkout under that repository's GPL-3.0 license;
+they are not included in or relicensed by this prototype.
+
+The headless training-actor inspection reads the external SagaECO
+Configuration/DB monster.csv and Spawns/20013003.xml records for mob
+30030018, and checks them against the separately licensed terrain data
+described below. These source records establish a water training sandbag at
+(61,65), amount 1, range 0, delay 10, with 9999 HP. This reports facts from
+external data; no SagaECO source code is copied into this prototype, and the
+data remains under its separate GPL-3.0 license.
+
+Movement wire-format facts (0x11F8/0x11F9, coordinate scale and direction
+octants) were checked against that SagaECO checkout. The prototype's fallback
+entrance for map 20013003 is (63,58), from portal P10000499, checked against
+MapInfo.zip walkability. This is a chosen existing entrance for the prototype,
+not a claim about the official new-character spawn or complete client parity.
+
+The optional headless hunt replay reads external QuestDB_1.xml quest 10000001.
+Its independently implemented single-objective counter follows numeric rule
+facts checked against SagaECO MapClient.QuestMobKilled/SendQuestCount and
+SkillHandler's own/shared party kill calls: mob 10000000 on map 10025000,
+five kills, excluding credit shared from another party member. No SagaECO
+implementation is copied. The external quest data retains its GPL-3.0 license.
+The replay does not implement quest acceptance, expiry, rewards, persistence,
+or live-client packets and is not evidence of playable quests.
+
+The separate timed hunt replay additionally checks quest 10000001's Time=60
+and independently models explicit time-check/kill ordering from numeric and
+state-transition facts in SagaECO Event.QuestActivate, MapClient.SendQuestTime,
+and MapClient.SendQuestCount. The 60-minute deadline applies on time checks;
+completed quests remain completed, and failed quests cannot complete through
+later kills. No SagaECO implementation is copied. No scheduler, acceptance,
+rewards, persistence, or live-client quest packets are implemented.
+
+The optional lifecycle replay independently models quest 10000001 acceptance,
+explicit cancellation, deadline checks, and kills from caller-supplied initial
+quest points and fame. Its numeric rules follow SagaECO Event.HandleQuest,
+Event.QuestActivate, MapClient quest-count handling, and the external quest
+record: acceptance spends one point, OPEN cancellation clears progress and
+reduces fame by one with a zero floor, and cancellation does not refund points.
+Quest MinLV=255 is treated as the source wildcard. No SagaECO implementation
+is copied. The replay does not implement NPC selection or difficulty prompts,
+completed-quest turn-in, rewards, persistence, combat, or live-client quest
+packets. The cleanup event independently models SagaECO Event.HandleQuest
+calling quest cleanup only after FAILED; it clears status, progress, and
+deadline, reduces fame by one to a floor of zero, and does not refund a quest
+point. No confirmation prompt is modeled. No SagaECO implementation is copied.
+The external quest data retains its GPL-3.0 license.
+
+The separate saved lifecycle command persists its independently implemented
+quest state for an existing prototype character. It commits each validated
+event batch with the character ownership check in one transaction.
+Caller-supplied initial points and fame apply only when that character has no
+saved quest state. SagaECO and EcoServerEmulator provide different
+quest-point defaults and do not establish the current client's initial
+values; this command accepts them explicitly. No SagaECO implementation is
+copied, and the command does not implement live timers, combat, NPC dialogue,
+rewards, or client packets.
+
+The explicit initialize-novice-progress command adds an optional initial
+progression row for an existing character using additive SQLite schema
+version 4. The row stores only baseline values: level 1/1, EXP 0/0, stat
+points 2 and skill points 3. NOVICE job, no joint and ordinary races 0-2
+define this command's scope; they are not row fields or source-established
+eligibility rules. Only baseline initialization is accepted, not import of
+already-leveled progression. The baseline is independently encoded from
+legacy numeric/default facts in SagaLogin/Network/Client/LoginClient.cs:475-478,
+505-506 and SagaDB/Actor/ActorPC.cs (CEXP/JEXP are unsigned integers with
+zero defaults). These sources do not verify the current client's starting
+progression. Existing progression rows are preserved. No SagaECO code is
+copied; this headless initializer does not implement automatic character
+initialization, leveling, live packets, inventory, or quest turn-in.
+
+The explicit initialize-novice-base-stats command stores the six configured
+ordinary-race starting attributes in optional save fields. Its independent
+numeric table follows SagaECO Configuration/Config/SagaLogin.xml StartStatus
+records (Emil: STR/DEX/INT/VIT/AGI/MAG = 8/3/3/10/4/3; Titania =
+6/3/6/4/2/10; Dominion = 10/5/1/1/5/8); SagaLogin/Network/Client/LoginClient.cs
+assigns these configured fields to the new character. The DEM record is
+validated as part of the source file but remains outside this command's
+ordinary-race scope. These are numeric source facts only: no SagaECO
+implementation or configuration file is copied into the prototype, and the
+external source retains its separate GPL-3.0 license. This command does not
+initialize characters automatically or add starting inventory.
+
+The explicit initialize-starter-inventory command records the five supplied
+StartItem entries for each ordinary race and gender in SagaLogin.xml. Its item
+IDs, counts and container names are independently read from those records and
+validated against the external SagaECO Configuration/DB/item.csv catalog; the
+two DEM groups are checked but excluded from the ordinary-character snapshot.
+The snapshot records the five configured item IDs and the persistence fields
+needed to represent those rows. UPPER_BODY, LOWER_BODY and SHOES use the three
+equipped containers; both BODY rows remain in BODY inventory, including the
+sword. Internal slot keys identify Rust snapshot rows and are not imported
+legacy DBIDs. An absent snapshot is initialized atomically; partial or
+conflicting rows are refused.
+No SagaECO implementation or configuration data is copied into the prototype,
+and the external sources retain their separate GPL-3.0 license. This additive
+schema version 6 command requires an already initialized novice progress row
+and does not run automatically, grant quest rewards, implement generic item
+state, update inventory, equip items, calculate status, or send live packets.
+
+The starter catalog validator also checks zero HP/MP/SP and six primary-stat
+bonuses on the thirteen equipped wearable IDs, using the column mappings in
+SagaDB/Item/ItemFactory.cs:105-116 and equipment summation facts in
+SagaMap/PC/StatusFactory.cs:1125-1133. BODY items are excluded from these bonus
+checks. Catalog checks do not establish absent item-instance or other status
+modifiers; no status calculation or SagaECO implementation is copied here.
+
+The separate apply-novice-exp command uses caller-supplied, already-scaled
+base and first-job EXP deltas. Without explicit persisted status context,
+totals remain bounded to 0..55. Schema v7 can store an explicit unmodified
+ordinary NOVICE declaration and calculated/current HP/MP/SP. With initialized
+race stats, exact starter inventory and map 20013003/flags 0, cumulative EXP
+may reach 155; strict EXP >55 advances each track independently to level 2.
+The external exp.xml supplies thresholds 0/55/155. ExperienceManager.cs:
+956-1040 establishes +3 base stat points, +1 first-job skill point, strict
+comparison and level-up refill. StatusFactory.cs:423-473,480-485,570-575,
+660-665,749-777 supplies resource arithmetic and novice factors. MapInfo.cs
+and MapInfoFactory.LoadFlags establish default zero flags when the target
+map has no entry in the external MapFlags.xml. The command validates those
+external inputs and starter catalog fields before opening a save.
+These numeric/source facts inform independent Rust arithmetic; no SagaECO
+implementation or external table is embedded. The declaration establishes
+the limited headless state explicitly, not by inferring missing old columns.
+This is not automatic combat EXP, quest reward delivery or client proof.
+
+The initialize-gold command saves explicitly supplied carried gold once in an
+optional schema v8 row. ActorPC.cs:1376-1394 establishes the accepted property
+range 0..99,999,999; AccessActorDb.cs:307 hydrates that property. Rust refuses
+out-of-range input rather than clamping it. Migration leaves gold unknown.
+This independent persistence prerequisite grants no rewards. Source review of
+Event.cs:307-324 and ExperienceManager.cs:351-429 confirms that complete quest
+turn-in also requires EXP, CP, EP, fame, ring and item effects. The supplied
+SagaMap.xml:65-67 sets QuestRate=100 and QuestGoldRate=600; the listed 80-gold
+reward therefore implies 480 at that configuration, not an automatic grant.
+
+The initialize-reward-context command explicitly stores caller-known EP and CP
+and a caller declaration of no ring in optional schema v9. Migration leaves
+these values unknown. EP is bounded to 0..30 for this ringless ordinary novice
+context, based on StatusFactory.cs:389-415; CP is bounded to 0..99,999,999 by
+ActorPC.cs:1400-1415. Matching repeat initialization preserves the values and
+conflicts refuse. The exact --declare-no-ring flag is required; missing data
+never establishes ring absence. Initialize novice progression, base stats and
+starter inventory, then use apply-novice-exp ... 0 0 --declare-unmodified-status
+to declare the required ordinary novice status before this command. The status
+initializer relies on those base stats and the exact starter snapshot. Source
+EP leveling behavior preserves current EP subject to MaxEP; this context uses
+the source-supported ringless MaxEP30. This command does not deliver rewards,
+and COMPLETED quests remain occupied. Older binaries refuse schema v9 saves.
+
+The initialize-reward-inventory command adds optional schema v10 context and
+separate reward-instance storage while preserving the five starter rows.
+Its explicit declaration establishes a complete initial inventory; migration
+does not infer completeness or grant items. Inventory.cs:55,489-631 uses a
+shared uint slot sequence across BODY/bags/equipment. Rust assigns local keys
+after its five starter keys, not imported legacy IDs. ItemFactory.cs:194-202,
+Item.cs:23-30,60-70,235-250,988-992 and Event.cs:902-942 establish new-instance
+defaults: count1, catalog durability, identified, PictID0, unmodified and
+non-rental with no cards. Rental time is irrelevant for this non-rental scope.
+Quest/config/catalog fields are validated externally before opening a save.
+No table text or legacy implementation is embedded. The virtual quest-update
+hook depends on the handling NPC Event instance (Event.cs:307-324,408-414);
+missing NPC context cannot establish a no-op. No turn-in or rewards are granted
+by this prerequisite; full gameplay and English coverage remain unverified.
+
+The explicit turn-in-completed-quest command accepts only the existing
+COMPLETED lifecycle row for quest 10000001 and requires the caller's exact
+--declare-npc-event-11000435 declaration. Source review confirms Event 11000435
+inherits an empty OnQuestUpdate; the flag declares the scoped headless
+HandleQuest invocation context on that Event instance. It does not mean rewards
+were already applied, or run OnEvent or HandleQuest, and does not establish NPC
+placement, live routing, dialogue, or a playable quest.
+The completed branch runs before new-acceptance group filtering. The command
+validates the external quest/reward definitions, SagaMap rates, EXP table,
+starter/reward catalog and map flags before opening the existing save, then
+atomically applies the bounded source-derived turn-in to a character with
+explicitly initialized progression/status, stats, complete inventory, gold,
+EP/CP and no-ring context. Copy the save first.
+For this quest and supplied map rates, it grants base/job EXP 55/55, gold 480,
+CP 0, EP +1 up to 30, fame +1, and item60060000 in the next shared BODY slot
+with the supported default instance fields, then clears COMPLETED. EXP totals
+cannot exceed 155 and fame cannot exceed 2,147,483,647; integer overflow,
+unsupported state and missing context refuse the transaction. A repeated
+turn-in has no COMPLETED row and refuses without grants. Generic replay cleanup
+remains FAILED-only. These are source facts and bounded offline behavior, not
+evidence of live NPC dispatch or complete client compatibility.
+
+The separately licensed extracted start-map data and its original GPL-3.0
+license/provenance are in data/COPYING and data/NOTICE.txt. The Rust executable
+loads this external file; it does not embed the dataset.
+
+The experimental standalone text-archive research reader uses format facts
+checked against https://github.com/coremaze/AECO-Archive. Its limited decoder
+was independently implemented; no source from that unlicensed repository is
+bundled here. This reader is not part of the server executable.
+
+The dictionary insertion depth limit of 100 bytes was checked against
+compression/src/compression.cpp:27-40 at AECO-Archive commit
+255d84cbf6cba475dd19a71e6b1e3c8d4407a8fe. Independent Rust code limits the
+combined previous/current phrase path accordingly. Synthetic code sequences
+and read-only supplied archive checks verify this bounded extension; no
+unlicensed implementation or client table payload is bundled.
+
+Dictionary recycling rules were checked against the same pinned source,
+compression/src/compression.cpp:36-117 and 295-345, with array layout from
+compression/include/compression.hpp. The independent Rust implementation
+orders all phrase codes so descendants precede ancestors, touches expanded
+phrase nodes from leaf to root, places new children before phrase parents
+(or at the tail for literal parents), and reuses the head after removing its
+old child edge. If the head is the parent being extended, that update stops.
+The source contains apparently unreachable branches; their intent was not
+guessed. Synthetic regression tests and read-only supplied archive checks
+cover this extension. Selecting one archive ordinal does not certify other
+payloads, text encoding, translations, or runtime client compatibility.
+
+The standalone map-text byte audit reads the supplied Japanese table archive
+in memory and compares numeric first-field candidates with entry basenames
+from the external SagaECO MapInfo.zip. The source reader uses those basenames
+as effective map IDs (SagaDB/Map/MapInfoFactory.cs:228). No table text, map
+payload, translation, or SagaECO implementation is copied into the tool.
+The external legacy metadata retains its separate GPL-3.0 license. The audit
+does not establish the Japanese tables' encoding/schema, English label
+coverage, or current-client compatibility; its report contains only static
+labels and aggregate counts.
+
+The map-text row filter was independently implemented from bounded static
+inspection of the supplied Japanese executable: row initializer VA 0x9B97B0
+skips CR/LF-only records and records beginning with byte 0x23 (check at
+0x9B985E), without trimming spaces first. Only this record-selection rule
+is adopted; the audit keeps its stricter framing and unsupported-quote guards.
+No executable, disassembly, decoded client text or proprietary implementation
+is bundled. The standalone byte audit validates supplied table bytes as CP932
+using Windows MultiByteToWideChar with MB_ERR_INVALID_CHARS and an explicit
+input length; it emits no converted text and does not establish runtime
+encoding or table meaning. Table-specific conversion uses a code-page global
+initialized to 932. The supplied `strtable.csv` table entry includes the
+literal record CLIENT_DATA_CODE_PAGE,"932"; the audit accepts that guarded
+form. Whether the client loads this file and uses that value at runtime is
+unverified. See the Windows API documentation:
+https://learn.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-multibytetowidechar.
+
+The current single-player map view uses a runtime player actor key of 16,
+separate from the durable character primary key. This numeric convention was
+checked against research/SagaECO/SagaMap/Map.cs at the GPL-3.0 revision above
+and PlutoProject's map actor allocation at karorogunso/SagaECO commit
+43d90a1bfd1f7ac1ee2172e7c8377953a1b67099. Their implementations were not copied
+or translated into Rust. The change is independently implemented from numeric
+identity facts and target-client evidence: the old durable key was already
+present in the client's actor tree before map entry, and the native player
+initializer rejects duplicate tree keys. See research/CSHARP_REFERENCE_PORT.md
+and research/rea/README.md for source and current-build verification limits.
+The fixed runtime key is scoped to one player per map view; it is not a shared
+world allocator or a co-op implementation. Existing save identities are retained.

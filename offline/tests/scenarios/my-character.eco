@@ -1,0 +1,12 @@
+# Run with:  eco-reborn autotest tests/scenarios/my-character.eco --save saves/world.sqlite
+# Uses a throwaway copy of your save: logs in your existing slot 0 character, enters the map it
+# saved, relogs and logs out. Your real save is never opened for writing.
+login
+select 0
+enter
+loaded
+servers-alive
+relog
+loaded
+logout
+servers-alive

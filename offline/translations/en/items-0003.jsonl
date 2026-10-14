@@ -1,0 +1,151 @@
+{"id":"table/item.csv:267:4","source":"北の果物の木の種","english":"Northern Fruit Tree Seed","status":"draft"}
+{"id":"table/item.csv:268:4","source":"キノコの種","english":"Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:269:4","source":"草の種１","english":"Grass Seed 1","status":"draft"}
+{"id":"table/item.csv:270:4","source":"草の種２","english":"Grass Seed 2","status":"draft"}
+{"id":"table/item.csv:271:4","source":"草の種３","english":"Grass Seed 3","status":"draft"}
+{"id":"table/item.csv:272:4","source":"草の種４","english":"Grass Seed 4","status":"draft"}
+{"id":"table/item.csv:273:4","source":"園芸巨麦の種","english":"Garden Giant Barley Seed","status":"draft"}
+{"id":"table/item.csv:274:4","source":"園芸巨麦雑草の種","english":"Garden Giant Barley Weed Seed","status":"draft"}
+{"id":"table/item.csv:275:4","source":"園芸巨麦雑草の種（大）","english":"Large Garden Giant Barley Weed Seed","status":"draft"}
+{"id":"table/item.csv:276:4","source":"園芸巨麦雑草の種（中）","english":"Medium Garden Giant Barley Weed Seed","status":"draft"}
+{"id":"table/item.csv:277:4","source":"園芸雑草の種（大）","english":"Large Garden Weed Seed","status":"draft"}
+{"id":"table/item.csv:278:4","source":"園芸赤い花の種","english":"Garden Red Flower Seed","status":"draft"}
+{"id":"table/item.csv:279:4","source":"園芸青い花の種","english":"Garden Blue Flower Seed","status":"draft"}
+{"id":"table/item.csv:280:4","source":"園芸黄色い花の種","english":"Garden Yellow Flower Seed","status":"draft"}
+{"id":"table/item.csv:281:4","source":"園芸橙の花の種","english":"Garden Orange Flower Seed","status":"draft"}
+{"id":"table/item.csv:282:4","source":"園芸白い花の種","english":"Garden White Flower Seed","status":"draft"}
+{"id":"table/item.csv:283:4","source":"園芸紫色の花の種","english":"Garden Purple Flower Seed","status":"draft"}
+{"id":"table/item.csv:284:4","source":"園芸花の種","english":"Garden Flower Seed","status":"draft"}
+{"id":"table/item.csv:285:4","source":"園芸キノコの種","english":"Garden Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:286:4","source":"園芸青キノコの種","english":"Garden Blue Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:287:4","source":"園芸緑キノコの種","english":"Garden Green Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:288:4","source":"園芸オレンジキノコの種","english":"Garden Orange Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:289:4","source":"園芸茶キノコの種","english":"Garden Brown Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:290:4","source":"園芸黒キノコの種","english":"Garden Black Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:291:4","source":"園芸キノコの種（大）","english":"Large Garden Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:292:4","source":"園芸青キノコの種（大）","english":"Large Garden Blue Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:293:4","source":"園芸緑キノコの種（大）","english":"Large Garden Green Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:294:4","source":"園芸オレンジキノコの種（大）","english":"Large Garden Orange Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:295:4","source":"園芸茶キノコの種（大）","english":"Large Garden Brown Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:296:4","source":"園芸黒キノコの種（大）","english":"Large Garden Black Mushroom Seed","status":"draft"}
+{"id":"table/item.csv:297:4","source":"さくらの種","english":"Cherry Blossom Seed","status":"draft"}
+{"id":"table/item.csv:298:4","source":"珍しい種","english":"Rare Seed","status":"draft"}
+{"id":"table/item.csv:299:4","source":"シルバーカーネーションの種","english":"Silver Carnation Seed","status":"draft"}
+{"id":"table/item.csv:300:4","source":"怪しい木の種","english":"Strange Tree Seed","status":"draft"}
+{"id":"table/item.csv:301:4","source":"おまけの種","english":"Bonus Seed","status":"draft","note":"Working literal item name; displayed name is known, canonical English rendering unverified."}
+{"id":"table/item.csv:302:4","source":"ナッツ","english":"Nuts","status":"draft"}
+{"id":"table/item.csv:303:4","source":"おとななナッツ","english":"Grown-Up Nuts","status":"draft","note":"Working rendering of the source wordplay; exact intended English name is unverified."}
+{"id":"table/item.csv:304:4","source":"えんどう豆","english":"Peas","status":"draft"}
+{"id":"table/item.csv:305:4","source":"巨麦","english":"Giant Barley","status":"draft"}
+{"id":"table/item.csv:306:4","source":"パンの実","english":"Bread Tree Fruit","status":"draft"}
+{"id":"table/item.csv:307:4","source":"パンの実（クエスト）","english":"Bread Tree Fruit (Quest)","status":"draft"}
+{"id":"table/item.csv:308:4","source":"ナン","english":"Naan","status":"draft"}
+{"id":"table/item.csv:309:4","source":"きのこパン","english":"Mushroom Bread","status":"draft"}
+{"id":"table/item.csv:310:4","source":"ナン（クエスト）","english":"Naan (Quest)","status":"draft"}
+{"id":"table/item.csv:311:4","source":"上等なパンの実","english":"Fine Bread Tree Fruit","status":"draft"}
+{"id":"table/item.csv:312:4","source":"肉","english":"Meat","status":"draft"}
+{"id":"table/item.csv:313:4","source":"くんせい肉","english":"Smoked Meat","status":"draft"}
+{"id":"table/item.csv:314:4","source":"肉（クエスト）","english":"Meat (Quest)","status":"draft"}
+{"id":"table/item.csv:315:4","source":"上等な肉","english":"Fine Meat","status":"draft"}
+{"id":"table/item.csv:316:4","source":"ジューシーなお肉","english":"Juicy Meat","status":"draft"}
+{"id":"table/item.csv:317:4","source":"ジューシーなくんせい肉","english":"Juicy Smoked Meat","status":"draft"}
+{"id":"table/item.csv:318:4","source":"赤紫色のギトギトお肉","english":"Greasy Red-Purple Meat","status":"draft"}
+{"id":"table/item.csv:319:4","source":"上等なくんせい肉","english":"Fine Smoked Meat","status":"draft"}
+{"id":"table/item.csv:320:4","source":"ターキー","english":"Turkey","status":"draft"}
+{"id":"table/item.csv:321:4","source":"串焼き肉","english":"Skewered Meat","status":"draft"}
+{"id":"table/item.csv:322:4","source":"おいしい串焼き肉","english":"Tasty Skewered Meat","status":"draft"}
+{"id":"table/item.csv:323:4","source":"ジューシーな串焼き肉","english":"Juicy Skewered Meat","status":"draft"}
+{"id":"table/item.csv:324:4","source":"骨","english":"Bone","status":"draft"}
+{"id":"table/item.csv:325:4","source":"ゴールデンボーン","english":"Golden Bone","status":"draft"}
+{"id":"table/item.csv:326:4","source":"バウバウ","english":"Bowwow","status":"draft","note":"Partner name; canonical Global spelling unverified."}
+{"id":"table/item.csv:327:4","source":"ココア","english":"Cocoa","status":"draft","note":"Partner name; canonical Global spelling unverified."}
+{"id":"table/item.csv:328:4","source":"丈夫な骨","english":"Sturdy Bone","status":"draft"}
+{"id":"table/item.csv:329:4","source":"ミルキー","english":"Milky","status":"draft","note":"Partner name; canonical Global spelling unverified."}
+{"id":"table/item.csv:330:4","source":"ミント","english":"Mint","status":"draft","note":"Partner name; canonical Global spelling unverified."}
+{"id":"table/item.csv:331:4","source":"ぶち","english":"Buchi","status":"draft","note":"Partner name; canonical Global spelling unverified."}
+{"id":"table/item.csv:333:4","source":"レタス","english":"Lettuce","status":"draft"}
+{"id":"table/item.csv:334:4","source":"菜っ葉","english":"Leafy Greens","status":"draft"}
+{"id":"table/item.csv:335:4","source":"きのこ","english":"Mushroom","status":"draft"}
+{"id":"table/item.csv:336:4","source":"あぶないきのこ","english":"Dangerous Mushroom","status":"draft"}
+{"id":"table/item.csv:337:4","source":"いけないきのこ","english":"Forbidden Mushroom","status":"draft"}
+{"id":"table/item.csv:338:4","source":"白いきのこ","english":"White Mushroom","status":"draft"}
+{"id":"table/item.csv:339:4","source":"おかしなきのこ","english":"Strange Mushroom","status":"draft"}
+{"id":"table/item.csv:340:4","source":"あやしいきのこ","english":"Suspicious Mushroom","status":"draft"}
+{"id":"table/item.csv:341:4","source":"いけないきのこ（クエスト）","english":"Forbidden Mushroom (Quest)","status":"draft"}
+{"id":"table/item.csv:342:4","source":"まつたけさま","english":"Matsutake-sama","status":"draft","note":"Honorific item name; exact canonical English label unverified."}
+{"id":"table/item.csv:344:4","source":"シャケ","english":"Salmon","status":"draft"}
+{"id":"table/item.csv:346:4","source":"干し魚","english":"Dried Fish","status":"draft"}
+{"id":"table/item.csv:347:4","source":"不思議な干し魚","english":"Mysterious Dried Fish","status":"draft"}
+{"id":"table/item.csv:348:4","source":"キチン","english":"Chitin","status":"draft"}
+{"id":"table/item.csv:349:4","source":"キチン（クエスト）","english":"Chitin (Quest)","status":"draft"}
+{"id":"table/item.csv:350:4","source":"クローラーキャリアー（緑）","english":"Crawler Carrier (Green)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:351:4","source":"クローラーキャリアー（赤）","english":"Crawler Carrier (Red)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:352:4","source":"クローラーキャリアー（紫）","english":"Crawler Carrier (Purple)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:353:4","source":"クローラーキャリアー（青）","english":"Crawler Carrier (Blue)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:354:4","source":"クローラーキャリアー（黄）","english":"Crawler Carrier (Yellow)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:355:4","source":"クローラーキャリアー（岩）","english":"Crawler Carrier (Rock)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:356:4","source":"クローラーキャリアー（白）","english":"Crawler Carrier (White)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:357:4","source":"クローラーキャリアー（毛）","english":"Crawler Carrier (Fur)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:358:4","source":"ミニキャリアー（緑）","english":"Mini Carrier (Green)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:359:4","source":"ミニキャリアー（赤）","english":"Mini Carrier (Red)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:360:4","source":"ミニキャリアー（紫）","english":"Mini Carrier (Purple)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:361:4","source":"ミニキャリアー（青）","english":"Mini Carrier (Blue)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:362:4","source":"ミニキャリアー（黄）","english":"Mini Carrier (Yellow)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:363:4","source":"ミニキャリアー（岩）","english":"Mini Carrier (Rock)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:364:4","source":"ミニキャリアー（白）","english":"Mini Carrier (White)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:365:4","source":"ミニキャリアー（毛）","english":"Mini Carrier (Fur)","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:366:4","source":"プチクローラー","english":"Petit Crawler","status":"draft","note":"Crawler/Carrier are working literal renderings; canonical English names for these partner items are unverified."}
+{"id":"table/item.csv:367:4","source":"プラスチック","english":"Plastic","status":"draft"}
+{"id":"table/item.csv:368:4","source":"クチバシ","english":"Beak","status":"draft"}
+{"id":"table/item.csv:369:4","source":"卵","english":"Egg","status":"draft"}
+{"id":"table/item.csv:370:4","source":"ゆで卵","english":"Boiled Egg","status":"draft"}
+{"id":"table/item.csv:371:4","source":"高級卵","english":"Premium Egg","status":"draft"}
+{"id":"table/item.csv:372:4","source":"高級ゆで卵","english":"Premium Boiled Egg","status":"draft"}
+{"id":"table/item.csv:373:4","source":"巨麦の穂","english":"Giant Barley Ear","status":"draft"}
+{"id":"table/item.csv:374:4","source":"穀物袋","english":"Grain Sack","status":"draft"}
+{"id":"table/item.csv:375:4","source":"穀物袋（クエスト）","english":"Grain Sack (Quest)","status":"draft"}
+{"id":"table/item.csv:377:4","source":"紅白餅","english":"Red-and-White Rice Cake","status":"draft"}
+{"id":"table/item.csv:378:4","source":"肉まん","english":"Meat Bun","status":"draft"}
+{"id":"table/item.csv:379:4","source":"キチンまん","english":"Chitin Bun","status":"draft"}
+{"id":"table/item.csv:380:4","source":"カレーまん","english":"Curry Bun","status":"draft"}
+{"id":"table/item.csv:381:4","source":"キャビアまん","english":"Caviar Bun","status":"draft"}
+{"id":"table/item.csv:382:4","source":"チーズまん","english":"Cheese Bun","status":"draft"}
+{"id":"table/item.csv:383:4","source":"岩塩","english":"Rock Salt","status":"draft"}
+{"id":"table/item.csv:384:4","source":"バター","english":"Butter","status":"draft"}
+{"id":"table/item.csv:385:4","source":"チーズ","english":"Cheese","status":"draft"}
+{"id":"table/item.csv:386:4","source":"ペッパー","english":"Pepper","status":"draft"}
+{"id":"table/item.csv:387:4","source":"ライギョーの汗","english":"Raigyo's Sweat","status":"draft","note":"Raigyo is a source proper name; canonical Global spelling unverified."}
+{"id":"table/item.csv:388:4","source":"香辛料","english":"Spice","status":"draft"}
+{"id":"table/item.csv:389:4","source":"鍋煮込み","english":"Hot Pot","status":"draft"}
+{"id":"table/item.csv:390:4","source":"スペシャルシチュー","english":"Special Stew","status":"draft"}
+{"id":"table/item.csv:391:4","source":"やみ鍋","english":"Mystery Hot Pot","status":"draft"}
+{"id":"table/item.csv:392:4","source":"やみ鍋","english":"Mystery Hot Pot","status":"draft"}
+{"id":"table/item.csv:393:4","source":"やみ鍋","english":"Mystery Hot Pot","status":"draft"}
+{"id":"table/item.csv:394:4","source":"やみ鍋","english":"Mystery Hot Pot","status":"draft"}
+{"id":"table/item.csv:395:4","source":"きのこシチュー","english":"Mushroom Stew","status":"draft"}
+{"id":"table/item.csv:396:4","source":"鍋煮込み（クエスト）","english":"Hot Pot (Quest)","status":"draft"}
+{"id":"table/item.csv:397:4","source":"カレー","english":"Curry","status":"draft"}
+{"id":"table/item.csv:398:4","source":"おいしいカレー","english":"Delicious Curry","status":"draft"}
+{"id":"table/item.csv:399:4","source":"きのこカレー","english":"Mushroom Curry","status":"draft"}
+{"id":"table/item.csv:400:4","source":"チーズカレー","english":"Cheese Curry","status":"draft"}
+{"id":"table/item.csv:401:4","source":"みんなのカレー","english":"Everyone's Curry","status":"draft"}
+{"id":"table/item.csv:402:4","source":"カレー（クエスト）","english":"Curry (Quest)","status":"draft"}
+{"id":"table/item.csv:403:4","source":"氷砂糖","english":"Rock Sugar","status":"draft"}
+{"id":"table/item.csv:404:4","source":"マジックキャンディー","english":"Magic Candy","status":"draft"}
+{"id":"table/item.csv:405:4","source":"上等なマジックキャンディー","english":"Premium Magic Candy","status":"draft"}
+{"id":"table/item.csv:406:4","source":"妖精のキャンディー","english":"Fairy Candy","status":"draft"}
+{"id":"table/item.csv:407:4","source":"アイスキャンディー（クエスト）","english":"Ice Pop (Quest)","status":"draft"}
+{"id":"table/item.csv:409:4","source":"栄養剤・ぐんぐんアメ","english":"Nutrition Supplement: Growth Candy","status":"draft","note":"Working rendering of the candy name; exact official English name unverified."}
+{"id":"table/item.csv:410:4","source":"おみくじキャンディー","english":"Fortune Candy","status":"draft"}
+{"id":"table/item.csv:411:4","source":"月のかけら","english":"Moon Fragment","status":"draft"}
+{"id":"table/item.csv:415:4","source":"ハートフルキャンディー","english":"Heartful Candy","status":"draft","note":"Working item-name rendering; canonical Global label unverified."}
+{"id":"table/item.csv:416:4","source":"欠けたキャンディー","english":"Chipped Candy","status":"draft"}
+{"id":"table/item.csv:417:4","source":"欠けているキャンディー","english":"Damaged Candy","status":"draft"}
+{"id":"table/item.csv:418:4","source":"タイタニアキャンディー","english":"Titania Candy","status":"draft","note":"Titania is a source proper name; canonical English item name unverified."}
+{"id":"table/item.csv:419:4","source":"スノードロップ","english":"Snowdrop","status":"draft"}
+{"id":"table/item.csv:420:4","source":"マジックキャンディー（クエスト）","english":"Magic Candy (Quest)","status":"draft"}
+{"id":"table/item.csv:421:4","source":"チョコレート","english":"Chocolate","status":"draft"}
+{"id":"table/item.csv:422:4","source":"欠けたチョコレート","english":"Chipped Chocolate","status":"draft"}
+{"id":"table/item.csv:423:4","source":"欠けているチョコレート","english":"Chocolate with a Piece Missing","status":"draft"}
+{"id":"table/item.csv:424:4","source":"エミルチョコレート","english":"Emil Chocolate","status":"draft","note":"Emil is a source proper name; canonical English item name unverified."}
+{"id":"table/item.csv:425:4","source":"チョコレート（クエスト）","english":"Chocolate (Quest)","status":"draft"}

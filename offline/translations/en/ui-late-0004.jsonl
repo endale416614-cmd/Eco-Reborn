@@ -1,0 +1,151 @@
+{"id": "table/strtable.csv:5500:2", "source": "アクロポリスからノーザンシティへの空路が開通", "english": "The air route from Acropolis to Northern City is now open.", "status": "draft"}
+{"id": "table/strtable.csv:5501:2", "source": "騎士団演習総合ポイント", "english": "Knight Order Exercise Total Points", "status": "draft"}
+{"id": "table/strtable.csv:5503:2", "source": "優秀軍に所属しているメンバーに効果が付与されます", "english": "The effect applies to members of the top Army.", "status": "draft"}
+{"id": "table/strtable.csv:5504:2", "source": "次回ワールドボーナス効果を得られる暫定ワールド", "english": "Provisional world for the next World Bonus", "status": "draft"}
+{"id": "table/strtable.csv:5505:2", "source": "今週の勝利ワールド", "english": "This Week's Winning World", "status": "draft"}
+{"id": "table/strtable.csv:5506:2", "source": "今回のワールドボーナス:", "english": "Current World Bonus:", "status": "draft"}
+{"id": "table/strtable.csv:5507:2", "source": "次回のワールドボーナス:", "english": "Next World Bonus:", "status": "draft"}
+{"id": "table/strtable.csv:5508:2", "source": "獲得経験値%.1f倍", "english": "EXP gain x%.1f", "status": "draft"}
+{"id": "table/strtable.csv:5509:2", "source": "クエスト報酬%.1f倍", "english": "Quest rewards x%.1f", "status": "draft"}
+{"id": "table/strtable.csv:5514:2", "source": "※毎週日曜日の騎士団演習ワールド対抗戦で決定されます", "english": "※Determined by the Knight Order Exercise World Battle every Sunday.", "status": "draft"}
+{"id": "table/strtable.csv:5517:2", "source": "軍勢力ゲージ", "english": "Army Strength Gauge", "status": "draft"}
+{"id": "table/strtable.csv:5518:2", "source": "現在の優秀ワールド", "english": "Current Top World", "status": "draft"}
+{"id": "table/strtable.csv:5519:2", "source": "先週の勝利ワールド", "english": "Last Week's Winning World", "status": "draft"}
+{"id": "table/strtable.csv:5520:2", "source": "効果発動中", "english": "Effect Active", "status": "draft"}
+{"id": "table/strtable.csv:5521:2", "source": "ワールドボーナス:", "english": "World Bonus:", "status": "draft"}
+{"id": "table/strtable.csv:5522:2", "source": "獲得経験値%.1f倍", "english": "EXP gain x%.1f", "status": "draft"}
+{"id": "table/strtable.csv:5523:2", "source": "クエスト報酬%.1f倍", "english": "Quest rewards x%.1f", "status": "draft"}
+{"id": "table/strtable.csv:5530:2", "source": "ワールド対抗戦の結果", "english": "World Battle Results", "status": "draft"}
+{"id": "table/strtable.csv:5531:2", "source": "今回の勝利ワールド", "english": "This Battle's Winning World", "status": "draft"}
+{"id": "table/strtable.csv:5532:2", "source": "発動する効果", "english": "Active Effects", "status": "draft"}
+{"id": "table/strtable.csv:5533:2", "source": "ワールドボーナス:", "english": "World Bonus:", "status": "draft"}
+{"id": "table/strtable.csv:5536:2", "source": "何らかの原因で失敗しました", "english": "The operation failed.", "status": "draft"}
+{"id": "table/strtable.csv:5537:2", "source": "何らかの原因で失敗しました", "english": "The operation failed.", "status": "draft"}
+{"id": "table/strtable.csv:5540:2", "source": "フリーメッセージを入力してください", "english": "Enter a message.", "status": "draft"}
+{"id": "table/strtable.csv:5541:2", "source": "認証時に表示されたPINを入力してください", "english": "Enter the PIN shown during authentication.", "status": "draft"}
+{"id": "table/strtable.csv:5542:2", "source": "Twitterの認証を行うため$r外部サイトに接続します。よろしいですか？", "english": "You will connect to an external site to authenticate with Twitter.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:5543:2", "source": "Twitterの認証を行うため外部サイトに接続します。$r現在の認証情報は破棄されますが、よろしいですか？", "english": "You will connect to an external site to authenticate with Twitter.$rYour current authentication information will be discarded. Continue?", "status": "draft"}
+{"id": "table/strtable.csv:5544:2", "source": "Twitter認証を行ってください", "english": "Please authenticate with Twitter.", "status": "draft"}
+{"id": "table/strtable.csv:5545:2", "source": "ツイートメッセージを入力してください", "english": "Enter a tweet.", "status": "draft"}
+{"id": "table/strtable.csv:5546:2", "source": "スクリーンショットに自分以外のキャラクター名が表示されている場合やチャットウインドウに自分以外のキャラクターの発言が表示されている場合は、そのキャラクターの使用者に必ず了解を得てから使用してください。", "english": "If a screenshot shows another character's name or chat shows their message, obtain that character user's consent before using it.", "status": "draft"}
+{"id": "table/strtable.csv:5548:2", "source": "連携Twitterアカウント", "english": "Linked Twitter Account", "status": "draft"}
+{"id": "table/strtable.csv:5551:2", "source": "認証されていません", "english": "Not authenticated.", "status": "draft"}
+{"id": "table/strtable.csv:5552:2", "source": "ファイルの読み込みに失敗しました", "english": "Failed to load the file.", "status": "draft"}
+{"id": "table/strtable.csv:5553:2", "source": "PINを入力してください", "english": "Enter the PIN.", "status": "draft"}
+{"id": "table/strtable.csv:5554:2", "source": "PINの認証に失敗しました", "english": "PIN authentication failed.", "status": "draft"}
+{"id": "table/strtable.csv:5555:2", "source": "PINの認証が完了しました", "english": "PIN authentication complete.", "status": "draft"}
+{"id": "table/strtable.csv:5556:2", "source": "メッセージの投稿に失敗しました", "english": "Failed to post the message.", "status": "draft"}
+{"id": "table/strtable.csv:5557:2", "source": "メッセージが投稿されました", "english": "Message posted.", "status": "draft"}
+{"id": "table/strtable.csv:5558:2", "source": "本文を入力してください", "english": "Enter the message text.", "status": "draft"}
+{"id": "table/strtable.csv:5559:2", "source": "ユーザー情報の取得に失敗しました", "english": "Failed to retrieve user information.", "status": "draft"}
+{"id": "table/strtable.csv:5560:2", "source": "画像ファイルが無効です", "english": "The image file is invalid.", "status": "draft"}
+{"id": "table/strtable.csv:5561:2", "source": "認証サーバへのアクセスに失敗しました", "english": "Failed to access the authentication server.", "status": "draft"}
+{"id": "table/strtable.csv:5564:2", "source": "TwitterAPIの利用制限に達しています", "english": "The Twitter API usage limit has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:5565:2", "source": "Twitterアプリケーションの連携が無効です", "english": "The Twitter application link is disabled.", "status": "draft"}
+{"id": "table/strtable.csv:5566:2", "source": "1日のツイート数制限に達しています", "english": "The daily tweet limit has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:5567:2", "source": "文字数が制限を越えているため投稿できません", "english": "Cannot post because the message exceeds the character limit.", "status": "draft"}
+{"id": "table/strtable.csv:5568:2", "source": "同じ内容を連続で投稿することはできません", "english": "You cannot post the same content repeatedly.", "status": "draft"}
+{"id": "table/strtable.csv:5569:2", "source": "文字数が制限を越えているため投稿できません", "english": "Cannot post because the message exceeds the character limit.", "status": "draft"}
+{"id": "table/strtable.csv:5570:2", "source": "画像アップロード数の制限に達しています", "english": "The image upload limit has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:5572:2", "source": "Twitter連携機能のご案内", "english": "About Twitter Integration", "status": "draft"}
+{"id": "table/strtable.csv:5573:2", "source": "・Twitter連携機能を使うと、「Shift+PrintScreen」を押すことで$r  ECOで撮影したスクリーンショットをツイートすることができます。$r・スクリーンショットなしでツイートだけしたい場合、ECOゲーム画面の$r  Twitterアイコンをダブルクリックしても投稿ウィンドウが開きます。$r・Twitter連携機能は、ECOゲーム画面右上の「×」ボタン左にある$r  システムメニュー内の「連携」タブで設定変更をすることができます。$r・Twitter連携機能を使いたくない場合は、「連携」タブにある$r  「Twitter連携」の項目をOFFにしてください。$r  ゲーム画面からTwitterアイコンも表示されなくなります。$r・ツイート内容には自動的に#ecotubuのハッシュタグと、短縮URLが付与されます。", "english": "・With Twitter Integration, press Shift+PrintScreen$r  to tweet a screenshot taken in ECO.$r・To tweet without a screenshot, double-click the Twitter icon$r  on the ECO game screen to open the posting window.$r・Change settings in the Integration tab of the System menu$r  to the left of the × button at the top right.$r・To stop using Twitter Integration, open the Integration tab$r  and turn Twitter Integration OFF.$r  The Twitter icon will also disappear from the game screen.$r・Tweets automatically include #ecotubu and a shortened URL.", "status": "draft"}
+{"id": "table/strtable.csv:5574:2", "source": "次回もまた表示する", "english": "Show this again next time.", "status": "draft"}
+{"id": "table/strtable.csv:5576:2", "source": "ご注意", "english": "Important", "status": "draft"}
+{"id": "table/strtable.csv:5577:2", "source": "・スクリーンショットに自分以外のキャラクター名が表示されている場合や、$r  チャットウインドウに自分以外のキャラクターの発言が表示されている場合は、$r  そのキャラクターの使用者に必ず了解を得てから使用してください。$r・ツイートする際には、投稿で使用するTwitterアカウントをよくご確認ください。$r・この機能はOpenSSLツールキットを利用するためにOpenSSLプロジェクトによって$r  開発されたソフトウェアを含みます。", "english": "・If a screenshot shows another character’s name,$r  or their message appears in chat,$r  obtain the character user’s consent before using it.$r・Check which Twitter account you are using when you tweet.$r・This feature includes software developed by the OpenSSL Project$r  for use with the OpenSSL Toolkit.", "status": "draft"}
+{"id": "table/strtable.csv:5578:2", "source": "次回もまた表示する", "english": "Show this again next time.", "status": "draft"}
+{"id": "table/strtable.csv:5581:2", "source": "現在借りている「心」の情報を表示", "english": "Show information about the borrowed “Heart”", "status": "draft"}
+{"id": "table/strtable.csv:5582:2", "source": "「心」を外す", "english": "Remove “Heart”", "status": "draft"}
+{"id": "table/strtable.csv:5583:2", "source": "「心」を外しますか？", "english": "Remove “Heart”?", "status": "draft"}
+{"id": "table/strtable.csv:5585:2", "source": "借りている「心」があと%d時間で外れます。", "english": "Your borrowed “Heart” will be removed in %d hours.", "status": "draft"}
+{"id": "table/strtable.csv:5586:2", "source": "借りている「心」があと%d分で外れます。", "english": "Your borrowed “Heart” will be removed in %d minutes.", "status": "draft"}
+{"id": "table/strtable.csv:5588:2", "source": "48時間が経過したため、借りていた「心」は外れました。", "english": "Your borrowed “Heart” was removed after 48 hours.", "status": "draft"}
+{"id": "table/strtable.csv:5589:2", "source": "「心」が外されました", "english": "“Heart” removed.", "status": "draft"}
+{"id": "table/strtable.csv:5592:2", "source": "心登録リスト", "english": "Heart Registration List", "status": "draft"}
+{"id": "table/strtable.csv:5593:2", "source": "表示LV帯変更", "english": "Change Display Level Range", "status": "draft"}
+{"id": "table/strtable.csv:5594:2", "source": "フレンドリストの「心」のみを表示", "english": "Show only “Hearts” from the Friends List", "status": "draft"}
+{"id": "table/strtable.csv:5595:2", "source": "FT系", "english": "FT Class", "status": "draft"}
+{"id": "table/strtable.csv:5596:2", "source": "SU系", "english": "SU Class", "status": "draft"}
+{"id": "table/strtable.csv:5597:2", "source": "BP系", "english": "BP Class", "status": "draft"}
+{"id": "table/strtable.csv:5601:2", "source": "ジョブ系統", "english": "Job Family", "status": "draft"}
+{"id": "table/strtable.csv:5602:2", "source": "名前", "english": "Name", "status": "draft"}
+{"id": "table/strtable.csv:5603:2", "source": "コメント", "english": "Comment", "status": "draft"}
+{"id": "table/strtable.csv:5604:2", "source": "フレンドリスト", "english": "Friends List", "status": "draft"}
+{"id": "table/strtable.csv:5607:2", "source": "「心」による上昇値", "english": "Stats increased by “Heart”", "status": "draft"}
+{"id": "table/strtable.csv:5608:2", "source": "＜ステータス＞", "english": "<Status>", "status": "draft"}
+{"id": "table/strtable.csv:5609:2", "source": "最大HP", "english": "Max HP", "status": "draft"}
+{"id": "table/strtable.csv:5610:2", "source": "最大MP", "english": "Max MP", "status": "draft"}
+{"id": "table/strtable.csv:5611:2", "source": "最大SP", "english": "Max SP", "status": "draft"}
+{"id": "table/strtable.csv:5612:2", "source": "物理攻撃力（最小）", "english": "Min Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:5613:2", "source": "物理攻撃力（最大）", "english": "Max Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:5614:2", "source": "魔法攻撃力（最小）", "english": "Min Magic Attack", "status": "draft"}
+{"id": "table/strtable.csv:5615:2", "source": "魔法攻撃力（最大）", "english": "Max Magic Attack", "status": "draft"}
+{"id": "table/strtable.csv:5616:2", "source": "近距離命中力", "english": "Melee Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:5617:2", "source": "遠距離命中力", "english": "Ranged Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:5618:2", "source": "物理防御力（減算）", "english": "Physical Defense (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:5619:2", "source": "物理防御力（割合）", "english": "Physical Defense (Percent)", "status": "draft"}
+{"id": "table/strtable.csv:5620:2", "source": "魔法防御力（減算）", "english": "Magic Defense (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:5621:2", "source": "魔法防御力（割合）", "english": "Magic Defense (Percent)", "status": "draft"}
+{"id": "table/strtable.csv:5622:2", "source": "近距離回避力", "english": "Melee Evasion", "status": "draft"}
+{"id": "table/strtable.csv:5623:2", "source": "遠距離回避力", "english": "Ranged Evasion", "status": "draft"}
+{"id": "table/strtable.csv:5624:2", "source": "攻撃速度", "english": "Attack Speed", "status": "draft"}
+{"id": "table/strtable.csv:5625:2", "source": "詠唱速度", "english": "Cast Speed", "status": "draft"}
+{"id": "table/strtable.csv:5626:2", "source": "最大重量", "english": "Max Weight", "status": "draft"}
+{"id": "table/strtable.csv:5627:2", "source": "最大容量", "english": "Max Capacity", "status": "draft"}
+{"id": "table/strtable.csv:5628:2", "source": "最大HP", "english": "Max HP", "status": "draft"}
+{"id": "table/strtable.csv:5629:2", "source": "最大MP", "english": "Max MP", "status": "draft"}
+{"id": "table/strtable.csv:5630:2", "source": "最大SP", "english": "Max SP", "status": "draft"}
+{"id": "table/strtable.csv:5647:2", "source": "選択した心のユーザーに借りた履歴を$rエミル・クロニクル・オンラインSNSで表示します。", "english": "Show the borrowing record to the selected Heart’s owner$ron the Emil Chronicle Online SNS.", "status": "draft"}
+{"id": "table/strtable.csv:5648:2", "source": "※YESを選択して心を借りた場合$r借りている間の取得経験値が少し多く入手できます", "english": "※If you select YES to borrow a Heart,$ryou will gain slightly more EXP while borrowing it.", "status": "draft"}
+{"id": "table/strtable.csv:5651:2", "source": "該当する「心」が見つかりませんでした。$r以降のリストにも「心」は登録されていません。", "english": "No matching “Heart” was found.$rThere are no more Hearts in the list.", "status": "draft"}
+{"id": "table/strtable.csv:5652:2", "source": "「心」の返却まで残り %d時間 %d分", "english": "Time until returning “Heart”: %d hours %d minutes", "status": "draft"}
+{"id": "table/strtable.csv:5653:2", "source": "「心」の返却まで残り %d分", "english": "Time until returning “Heart”: %d minutes", "status": "draft"}
+{"id": "table/strtable.csv:5655:2", "source": "選択した「心」は、借りることができませんでした。", "english": "Could not borrow the selected “Heart”.", "status": "draft"}
+{"id": "table/strtable.csv:5659:2", "source": "デュアルジョブ", "english": "Dual Job", "status": "draft"}
+{"id": "table/strtable.csv:5660:2", "source": "デュアルジョブ習得", "english": "Learn Dual Job", "status": "draft"}
+{"id": "table/strtable.csv:5661:2", "source": "デュアルジョブ：%s", "english": "Dual Job: %s", "status": "draft"}
+{"id": "table/strtable.csv:5662:2", "source": "ジョブレベル　：%3d", "english": "Job Level: %3d", "status": "draft"}
+{"id": "table/strtable.csv:5663:2", "source": "名前", "english": "Name", "status": "draft"}
+{"id": "table/strtable.csv:5664:2", "source": "現在/最大LV", "english": "Current / Max Level", "status": "draft"}
+{"id": "table/strtable.csv:5665:2", "source": "次のスキルレベルまで", "english": "Until Next Skill Level", "status": "draft"}
+{"id": "table/strtable.csv:5666:2", "source": "習得に必要なJOBLV:%3d", "english": "JOB LV required to learn: %3d", "status": "draft"}
+{"id": "table/strtable.csv:5667:2", "source": "次のレベルに必要なJOBLV:%3d", "english": "JOB LV required for next level: %3d", "status": "draft"}
+{"id": "table/strtable.csv:5668:2", "source": "スキルレベルは最大です", "english": "Skill is at maximum level.", "status": "draft"}
+{"id": "table/strtable.csv:5669:2", "source": "選択スキル（ダブルクリックで外す）", "english": "Selected Skills (double-click to remove)", "status": "draft"}
+{"id": "table/strtable.csv:5670:2", "source": "$rこのデュアルジョブはすでに習得しているため$r習得する事が出来ません。", "english": "$rYou have already learned this Dual Job.$rIt cannot be learned again.", "status": "draft"}
+{"id": "table/strtable.csv:5671:2", "source": "現在選択されているデュアルジョブを習得します$rよろしいですか？", "english": "Learn the currently selected Dual Job?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:5672:2", "source": "現在選択されているデュアルジョブとスキルを設定します$rよろしいですか？", "english": "Set the currently selected Dual Job and skills.$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:5673:2", "source": "スキルが設定されていません$r現在選択されているデュアルジョブを習得します$rよろしいですか？", "english": "No skills are set.$rLearn the currently selected Dual Job?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:5674:2", "source": "スキルが設定されていません$r現在選択されているデュアルジョブを設定します$rよろしいですか？", "english": "No skills are set.$rSet the currently selected Dual Job?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:5675:2", "source": "これ以上スキルを登録できません$r選択スキルを外してください", "english": "No more skills can be registered.$rRemove a selected skill.", "status": "draft"}
+{"id": "table/strtable.csv:5676:2", "source": "習得できない系統が選ばれました", "english": "You selected a family that cannot be learned.", "status": "draft"}
+{"id": "table/strtable.csv:5677:2", "source": "習得できないスキルが選ばれました", "english": "You selected a skill that cannot be learned.", "status": "draft"}
+{"id": "table/strtable.csv:5678:2", "source": "選択できない系統が選ばれました", "english": "You selected a family that cannot be selected.", "status": "draft"}
+{"id": "table/strtable.csv:5679:2", "source": "選択できないスキルが選ばれました", "english": "You selected a skill that cannot be selected.", "status": "draft"}
+{"id": "table/strtable.csv:5682:2", "source": "前回のゲームが予期せぬエラーで終了しました。$rお使いのPCの情報を含むエラー情報を送信していただければ、$r今後の改善に活かすことができます。$r頂いた情報は問題の調査のためだけに使用されます。$r情報を送信してよろしいですか？", "english": "The previous game session ended unexpectedly.$rYou can send error information, including information about your PC,$rto help improve the game.$rThe information will only be used to investigate the problem.$rWould you like to send it?", "status": "draft"}
+{"id": "table/strtable.csv:5683:2", "source": "送信しました", "english": "Sent.", "status": "draft"}
+{"id": "table/strtable.csv:5684:2", "source": "送信に失敗しました", "english": "Failed to send.", "status": "draft"}
+{"id": "table/strtable.csv:5687:2", "source": "髪型変更ウィンドウ", "english": "Hairstyle Change Window", "status": "draft"}
+{"id": "table/strtable.csv:5688:2", "source": "髪型のオプション変更ウィンドウ", "english": "Hairstyle Option Change Window", "status": "draft"}
+{"id": "table/strtable.csv:5689:2", "source": "髪型カタログウィンドウ", "english": "Hairstyle Catalog Window", "status": "draft"}
+{"id": "table/strtable.csv:5690:2", "source": "髪型試着ウィンドウ", "english": "Hairstyle Preview Window", "status": "draft"}
+{"id": "table/strtable.csv:5691:2", "source": "アイテム", "english": "Item", "status": "draft"}
+{"id": "table/strtable.csv:5692:2", "source": "髪型", "english": "Hairstyle", "status": "draft"}
+{"id": "table/strtable.csv:5693:2", "source": "オプション", "english": "Option", "status": "draft"}
+{"id": "table/strtable.csv:5694:2", "source": "「%s」を使用し$r「%s」の$r「%s」に変更します$rよろしいですか？", "english": "Use「%s」$rfor「%s」,$rselecting「%s」.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:5695:2", "source": "「%s」の$r「%s」に変更します$rよろしいですか？", "english": "For「%s」,$rselect「%s」.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:5696:2", "source": "何らかの原因で失敗しました", "english": "The operation failed.", "status": "draft"}
+{"id": "table/strtable.csv:5697:2", "source": "現在の髪型です", "english": "Current hairstyle.", "status": "draft"}
+{"id": "table/strtable.csv:5702:2", "source": "家具リスト", "english": "Furniture List", "status": "draft"}
+{"id": "table/strtable.csv:5703:2", "source": "家具が配置されていません", "english": "No furniture is placed.", "status": "draft"}
+{"id": "table/strtable.csv:5704:2", "source": "配置数 %d", "english": "Placed: %d", "status": "draft"}
+{"id": "table/strtable.csv:5705:2", "source": "非表示になっている家具があります", "english": "Some furniture is hidden.", "status": "draft"}
+{"id": "table/strtable.csv:5707:2", "source": "飛空城改造", "english": "Flying Castle Customization", "status": "draft"}
+{"id": "table/strtable.csv:5711:2", "source": "パートナー情報", "english": "Partner Information", "status": "draft"}
+{"id": "table/strtable.csv:5713:2", "source": "現在の信頼度：", "english": "Current Trust: ", "status": "draft"}
+{"id": "table/strtable.csv:5714:2", "source": "＜ステータス＞", "english": "<Status>", "status": "draft"}
+{"id": "table/strtable.csv:5715:2", "source": "最大ＨＰ", "english": "Max HP", "status": "draft"}
+{"id": "table/strtable.csv:5716:2", "source": "最大ＭＰ", "english": "Max MP", "status": "draft"}
+{"id": "table/strtable.csv:5717:2", "source": "最大ＳＰ", "english": "Max SP", "status": "draft"}
+{"id": "table/strtable.csv:5718:2", "source": "物理攻撃力(最小)", "english": "Min Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:5719:2", "source": "物理攻撃力(最大)", "english": "Max Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:5720:2", "source": "魔法攻撃力(最小)", "english": "Min Magic Attack", "status": "draft"}

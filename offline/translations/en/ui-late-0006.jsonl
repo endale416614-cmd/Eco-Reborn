@@ -1,0 +1,67 @@
+{"id":"table/strtable.csv:5903:2","source":"奈落階層ランキング","english":"Abyss Floor Ranking","status":"draft"}
+{"id":"table/strtable.csv:5904:2","source":"順位","english":"Rank","status":"draft"}
+{"id":"table/strtable.csv:5905:2","source":"チームリーダー名","english":"Team Leader","status":"draft"}
+{"id":"table/strtable.csv:5906:2","source":"チーム名","english":"Team Name","status":"draft"}
+{"id":"table/strtable.csv:5907:2","source":"階層","english":"Floor","status":"draft"}
+{"id":"table/strtable.csv:5908:2","source":"自身の過去最高フロア：%d階","english":"Personal Best Floor: %d","status":"draft"}
+{"id":"table/strtable.csv:5909:2","source":"自身の過去最高フロア：－","english":"Personal Best Floor: -","status":"draft"}
+{"id":"table/strtable.csv:5913:2","source":"インフォメーションウィンドウ","english":"Information Window","status":"draft"}
+{"id":"table/strtable.csv:5914:2","source":"%sの討伐　残り　%d体","english":"Defeat %s - %d remaining","status":"draft"}
+{"id":"table/strtable.csv:5915:2","source":"フロア内のモンスターの討伐　残り　%d体","english":"Defeat the monsters on this floor - %d remaining","status":"draft"}
+{"id":"table/strtable.csv:5916:2","source":"フロア内残り時間 %d:%02d","english":"Time remaining on floor: %d:%02d","status":"draft"}
+{"id":"table/strtable.csv:5917:2","source":"現在の階層：%d階","english":"Current Floor: %d","status":"draft"}
+{"id":"table/strtable.csv:5922:2","source":"現在この機能は使用できません","english":"This feature is currently unavailable.","status":"draft"}
+{"id":"table/strtable.csv:5925:2","source":"性能開放","english":"Unlock Performance","status":"draft"}
+{"id":"table/strtable.csv:5926:2","source":"性能開放ができるアイテムがありません","english":"No items are available for performance unlocking.","status":"draft"}
+{"id":"table/strtable.csv:5927:2","source":"性能を開放しました","english":"Performance unlocked.","status":"draft"}
+{"id":"table/strtable.csv:5931:2","source":"EXモーション","english":"EX Motion","status":"draft"}
+{"id":"table/strtable.csv:5932:2","source":"ループなし","english":"No Loop","status":"draft"}
+{"id":"table/strtable.csv:5933:2","source":"ループあり","english":"Loop","status":"draft"}
+{"id":"table/strtable.csv:5934:2","source":"習得済みのEXモーションです","english":"You have already learned this EX Motion.","status":"draft"}
+{"id":"table/strtable.csv:5935:2","source":"「%s」を習得しますか？","english":"Learn “%s”?","status":"draft"}
+{"id":"table/strtable.csv:5936:2","source":"モーション「%s」を習得しました。","english":"Learned Motion “%s”.","status":"draft"}
+{"id":"table/strtable.csv:5937:2","source":"何らかの原因で失敗しました","english":"Failed for some reason.","status":"draft"}
+{"id":"table/strtable.csv:5938:2","source":"変身中のため失敗しました","english":"Failed because you are transformed.","status":"draft"}
+{"id":"table/strtable.csv:5939:2","source":"習得済みのため失敗しました","english":"Failed because you have already learned it.","status":"draft"}
+{"id":"table/strtable.csv:5943:2","source":"移動する経路が見つかりません","english":"No route to the destination was found.","status":"draft"}
+{"id":"table/strtable.csv:5944:2","source":"移動できない場所です","english":"You cannot travel to this location.","status":"draft"}
+{"id":"table/strtable.csv:5945:2","source":"現在いるマップです","english":"This is the map you are currently on.","status":"draft"}
+{"id":"table/strtable.csv:5946:2","source":"オートラン非対応マップです","english":"Auto-run is not supported on this map.","status":"draft"}
+{"id":"table/strtable.csv:5947:2","source":"別世界への移動はできません","english":"You cannot travel to another world.","status":"draft"}
+{"id":"table/strtable.csv:5948:2","source":"オートランを開始しますか？","english":"Start auto-run?","status":"draft"}
+{"id":"table/strtable.csv:5949:2","source":"%sへ移動しますか？","english":"Travel to %s?","status":"draft"}
+{"id":"table/strtable.csv:5950:2","source":"%sの所まで移動しますか？","english":"Travel to %s?","status":"draft"}
+{"id":"table/strtable.csv:5951:2","source":"オートランが中断されました","english":"Auto-run was interrupted.","status":"draft"}
+{"id":"table/strtable.csv:5952:2","source":"%sさんを追尾しますか？","english":"Follow %s?","status":"draft"}
+{"id":"table/strtable.csv:5953:2","source":"対象プレイヤーが見つからないため追尾できません","english":"Cannot follow because the target player could not be found.","status":"draft"}
+{"id":"table/strtable.csv:5956:2","source":"オートラン","english":"Auto-Run","status":"draft"}
+{"id":"table/strtable.csv:5957:2","source":"移動ルート","english":"Route","status":"draft"}
+{"id":"table/strtable.csv:5958:2","source":"目的地を選択してください","english":"Select a destination.","status":"draft"}
+{"id":"table/strtable.csv:5960:2","source":"推定所要時間 %02d:%02d","english":"Estimated time: %02d:%02d","status":"draft"}
+{"id":"table/strtable.csv:5961:2","source":"推定所要時間 --:--","english":"Estimated time: --:--","status":"draft"}
+{"id":"table/strtable.csv:5962:2","source":"必要なもの","english":"Required Items","status":"draft"}
+{"id":"table/strtable.csv:5963:2","source":"%dゴールド","english":"%d Gold","status":"draft"}
+{"id":"table/strtable.csv:5964:2","source":"無し","english":"None","status":"draft"}
+{"id":"table/strtable.csv:5967:2","source":"一定時間行動していなかったため、パートナーのかんたんAI を追従に変更しました$r$r追従ではパートナーは戦闘に参加しません。戦闘をさせたい場合は、$rパートナーを右クリックしてかんたんＡＩ設定でパートナーの状態を変更してください$r※初期状態に戻したい場合は【主人重視】に設定してください","english":"You have been inactive for a while, so your Partner’s Simple AI was changed to Follow.$r$rPartners do not fight while following. To have your Partner fight,$rright-click the Partner and change its behavior in Simple AI Settings.$r※To restore the initial setting, choose [Prioritize Master].","status":"draft"}
+{"id":"table/strtable.csv:5971:2","source":"指令","english":"Orders","status":"draft"}
+{"id":"table/strtable.csv:5973:2","source":"達成","english":"Complete","status":"draft"}
+{"id":"table/strtable.csv:5974:2","source":"失敗","english":"Failed","status":"draft"}
+{"id":"table/strtable.csv:5975:2","source":"指令","english":"Order","status":"draft"}
+{"id":"table/strtable.csv:5976:2","source":"達成条件：","english":"Completion Conditions:","status":"draft"}
+{"id":"table/strtable.csv:5977:2","source":"失敗条件：","english":"Failure Conditions:","status":"draft"}
+{"id":"table/strtable.csv:5978:2","source":"残り %d 体","english":"%d enemies remaining","status":"draft"}
+{"id":"table/strtable.csv:5979:2","source":"残り %d 分","english":"%d minutes remaining","status":"draft"}
+{"id":"table/strtable.csv:5980:2","source":"この条件は満たされました","english":"This condition has been met.","status":"draft"}
+{"id":"table/strtable.csv:5981:2","source":"条件１","english":"Condition 1","status":"draft"}
+{"id":"table/strtable.csv:5982:2","source":"条件２","english":"Condition 2","status":"draft"}
+{"id":"table/strtable.csv:5983:2","source":"条件３","english":"Condition 3","status":"draft"}
+{"id":"table/strtable.csv:5984:2","source":"%d体","english":"%d enemies","status":"draft"}
+{"id":"table/strtable.csv:5985:2","source":"残り% 2d分","english":"% 2d minutes remaining","status":"draft"}
+{"id":"table/strtable.csv:5986:2","source":"残り僅か","english":"Almost no time left","status":"draft"}
+{"id":"table/strtable.csv:5990:2","source":"戦況","english":"Battle Status","status":"draft"}
+{"id":"table/strtable.csv:5991:2","source":"戦況　残り% 2d分","english":"Battle Status - % 2d minutes remaining","status":"draft"}
+{"id":"table/strtable.csv:5992:2","source":"戦況　残り僅か","english":"Battle Status - Almost no time left","status":"draft"}
+{"id":"table/strtable.csv:5993:2","source":"残り% 2d分","english":"% 2d minutes remaining","status":"draft"}
+{"id":"table/strtable.csv:5994:2","source":"残り僅か","english":"Almost no time left","status":"draft"}
+{"id":"table/strtable.csv:5998:2","source":"　　　　 貴方は防衛戦に勝利し一定の功績を残した為$r先行して攻略戦にエントリーできます！攻略戦に参加しますか？","english":"　　　　 You won the City Defense Battle and made a significant contribution.$rYou can enter the Invasion Battle early! Join the Invasion Battle?","status":"draft"}
+{"id":"table/strtable.csv:5999:2","source":"システムエラー","english":"System error.","status":"draft"}

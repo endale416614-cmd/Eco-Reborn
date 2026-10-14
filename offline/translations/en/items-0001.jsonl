@@ -1,0 +1,100 @@
+{"id": "table/item.csv:6:4", "source": "マジックドリンク", "english": "Magic Drink", "status": "draft"}
+{"id": "table/item.csv:7:4", "source": "マジックポーション", "english": "Magic Potion", "status": "draft"}
+{"id": "table/item.csv:8:4", "source": "ヒールポーション", "english": "Healing Potion", "status": "draft"}
+{"id": "table/item.csv:9:4", "source": "ゼリコポーション", "english": "Zellico Potion", "status": "draft", "note": "Game-specific name; phonetic rendering, spelling unverified."}
+{"id": "table/item.csv:10:4", "source": "エネルギードリンク", "english": "Energy Drink", "status": "draft"}
+{"id": "table/item.csv:11:4", "source": "マルチコンディション", "english": "Multi-Condition", "status": "draft", "note": "The item subtype or function is not specified by this name."}
+{"id": "table/item.csv:12:4", "source": "パワードリンク", "english": "Power Drink", "status": "draft"}
+{"id": "table/item.csv:13:4", "source": "スタミナポーション", "english": "Stamina Potion", "status": "draft"}
+{"id": "table/item.csv:14:4", "source": "ノーザンの妙薬（クエスト）", "english": "Northern Elixir (Quest)", "status": "draft"}
+{"id": "table/item.csv:18:4", "source": "鬼の血", "english": "Oni Blood", "status": "draft", "note": "Using a direct rendering of the Japanese myth-creature term."}
+{"id": "table/item.csv:19:4", "source": "腐った体液", "english": "Rotten Body Fluid", "status": "draft"}
+{"id": "table/item.csv:21:4", "source": "蒸留水", "english": "Distilled Water", "status": "draft"}
+{"id": "table/item.csv:23:4", "source": "蟲の体液", "english": "Insect Body Fluid", "status": "draft"}
+{"id": "table/item.csv:24:4", "source": "金メッキ液", "english": "Gold-Plating Solution", "status": "draft"}
+{"id": "table/item.csv:27:4", "source": "にごった水", "english": "Cloudy Water", "status": "draft"}
+{"id": "table/item.csv:28:4", "source": "混乱薬", "english": "Confusion Potion", "status": "draft"}
+{"id": "table/item.csv:29:4", "source": "毒薬", "english": "Poison", "status": "draft"}
+{"id": "table/item.csv:30:4", "source": "沈黙薬", "english": "Silence Potion", "status": "draft"}
+{"id": "table/item.csv:31:4", "source": "エーテル", "english": "Ether", "status": "draft"}
+{"id": "table/item.csv:32:4", "source": "健康栄養ドリンク", "english": "Nutritional Health Drink", "status": "draft"}
+{"id": "table/item.csv:33:4", "source": "ブルから預かった薬", "english": "Medicine Entrusted by Buru", "status": "draft", "note": "Buru is written in katakana; name identity and preferred spelling are unverified."}
+{"id": "table/item.csv:34:4", "source": "気絶薬", "english": "Stun Potion", "status": "draft"}
+{"id": "table/item.csv:35:4", "source": "鈍足薬", "english": "Slow Potion", "status": "draft"}
+{"id": "table/item.csv:36:4", "source": "アサシンの服薬１（クエスト）", "english": "Assassin's Medicine No. 1 (Quest)", "status": "draft"}
+{"id": "table/item.csv:37:4", "source": "石化薬", "english": "Petrification Potion", "status": "draft"}
+{"id": "table/item.csv:38:4", "source": "睡眠薬", "english": "Sleeping Potion", "status": "draft"}
+{"id": "table/item.csv:39:4", "source": "アサシンの服薬２（クエスト）", "english": "Assassin's Medicine No. 2 (Quest)", "status": "draft"}
+{"id": "table/item.csv:40:4", "source": "アサシンの服薬３（クエスト）", "english": "Assassin's Medicine No. 3 (Quest)", "status": "draft"}
+{"id": "table/item.csv:41:4", "source": "アサシンの服薬４（クエスト）", "english": "Assassin's Medicine No. 4 (Quest)", "status": "draft"}
+{"id": "table/item.csv:42:4", "source": "アサシンの服薬", "english": "Assassin's Medicine", "status": "draft"}
+{"id": "table/item.csv:46:4", "source": "怪しい薬瓶（クエスト）", "english": "Suspicious Medicine Bottle (Quest)", "status": "draft"}
+{"id": "table/item.csv:47:4", "source": "エーテル（クエスト）", "english": "Ether (Quest)", "status": "draft"}
+{"id": "table/item.csv:49:4", "source": "炎のコロン", "english": "Flame Cologne", "status": "draft"}
+{"id": "table/item.csv:50:4", "source": "桜のエキス", "english": "Cherry Blossom Extract", "status": "draft"}
+{"id": "table/item.csv:51:4", "source": "水のコロン", "english": "Water Cologne", "status": "draft"}
+{"id": "table/item.csv:52:4", "source": "光のコロン", "english": "Light Cologne", "status": "draft"}
+{"id": "table/item.csv:53:4", "source": "大地のコロン", "english": "Earth Cologne", "status": "draft"}
+{"id": "table/item.csv:54:4", "source": "幸せの香水", "english": "Perfume of Happiness", "status": "draft"}
+{"id": "table/item.csv:55:4", "source": "風のコロン", "english": "Wind Cologne", "status": "draft"}
+{"id": "table/item.csv:56:4", "source": "ロイヤルゼリー", "english": "Royal Jelly", "status": "draft"}
+{"id": "table/item.csv:57:4", "source": "闇のコロン", "english": "Darkness Cologne", "status": "draft"}
+{"id": "table/item.csv:58:4", "source": "クイーン・ギャンブラー", "english": "Queen Gambler", "status": "draft", "note": "Rendered as a title/name; official English spelling is unverified."}
+{"id": "table/item.csv:59:4", "source": "プレシャスゼリー", "english": "Precious Jelly", "status": "draft"}
+{"id": "table/item.csv:60:4", "source": "光のコロン（クエスト）", "english": "Light Cologne (Quest)", "status": "draft"}
+{"id": "table/item.csv:61:4", "source": "濃縮リザレクションポーション", "english": "Concentrated Resurrection Potion", "status": "draft"}
+{"id": "table/item.csv:62:4", "source": "高級マジックポーション", "english": "High-Grade Magic Potion", "status": "draft"}
+{"id": "table/item.csv:64:4", "source": "高級ヒールポーション", "english": "High-Grade Healing Potion", "status": "draft"}
+{"id": "table/item.csv:65:4", "source": "戦乙女の涙", "english": "Valkyrie's Tears", "status": "draft"}
+{"id": "table/item.csv:66:4", "source": "目覚めの聖水（イベント）", "english": "Holy Water of Awakening (Event)", "status": "draft"}
+{"id": "table/item.csv:68:4", "source": "金運の香水", "english": "Perfume of Wealth", "status": "draft"}
+{"id": "table/item.csv:69:4", "source": "高級スタミナポーション", "english": "High-Grade Stamina Potion", "status": "draft"}
+{"id": "table/item.csv:71:4", "source": "合成薬（イベント）", "english": "Synthesis Medicine (Event)", "status": "draft"}
+{"id": "table/item.csv:72:4", "source": "濃縮スタミナポーション", "english": "Concentrated Stamina Potion", "status": "draft"}
+{"id": "table/item.csv:73:4", "source": "炎の特効薬", "english": "Flame Remedy", "status": "draft", "note": "The specific effect of this remedy is not stated in the source name."}
+{"id": "table/item.csv:74:4", "source": "濃縮マジックポーション", "english": "Concentrated Magic Potion", "status": "draft"}
+{"id": "table/item.csv:75:4", "source": "最高級ヒールポーション", "english": "Top-Grade Healing Potion", "status": "draft"}
+{"id": "table/item.csv:76:4", "source": "リザレクションポーション", "english": "Resurrection Potion", "status": "draft"}
+{"id": "table/item.csv:79:4", "source": "濃縮マルチヒールポーション", "english": "Concentrated Multi-Heal Potion", "status": "draft"}
+{"id": "table/item.csv:80:4", "source": "スキャルプエッセンス", "english": "Scalp Essence", "status": "draft"}
+{"id": "table/item.csv:81:4", "source": "濃縮マジスタポーション", "english": "Concentrated Magista Potion", "status": "draft", "note": "Magista is a game-specific term; spelling is unverified."}
+{"id": "table/item.csv:82:4", "source": "濃縮エナジーポーション", "english": "Concentrated Energy Potion", "status": "draft"}
+{"id": "table/item.csv:84:4", "source": "オイル", "english": "Oil", "status": "draft"}
+{"id": "table/item.csv:86:4", "source": "軍用携帯ヒールポーション", "english": "Military Portable Healing Potion", "status": "draft"}
+{"id": "table/item.csv:88:4", "source": "軍用エネルギードリンク", "english": "Military Energy Drink", "status": "draft"}
+{"id": "table/item.csv:90:4", "source": "軍用パワードリンク", "english": "Military Power Drink", "status": "draft"}
+{"id": "table/item.csv:91:4", "source": "軍用携帯スタミナポーション", "english": "Military Portable Stamina Potion", "status": "draft"}
+{"id": "table/item.csv:94:4", "source": "軍用携帯マジックポーション", "english": "Military Portable Magic Potion", "status": "draft"}
+{"id": "table/item.csv:95:4", "source": "軍用マジックドリンク", "english": "Military Magic Drink", "status": "draft"}
+{"id": "table/item.csv:97:4", "source": "メタモーサラマンドラ", "english": "Metamo Salamander", "status": "draft", "note": "Metamo is transliterated as a series prefix; official spelling is unverified."}
+{"id": "table/item.csv:98:4", "source": "メタモータイニー", "english": "Metamo Tiny", "status": "draft", "note": "Metamo is transliterated as a series prefix; official spelling is unverified."}
+{"id": "table/item.csv:99:4", "source": "メタモーインスマウス", "english": "Metamo Insmouse", "status": "draft", "note": "Metamo and Insmouse are transliterated; official spellings are unverified."}
+{"id": "table/item.csv:100:4", "source": "メタモーエレキテル", "english": "Metamo Elec-tel", "status": "draft", "note": "Metamo is transliterated as a series prefix; official spelling is unverified."}
+{"id": "table/item.csv:101:4", "source": "メタモーベリル", "english": "Metamo Beryl", "status": "draft", "note": "Metamo is transliterated as a series prefix; official spelling is unverified."}
+{"id": "table/item.csv:102:4", "source": "メタモーホムラ", "english": "Metamo Homura", "status": "draft", "note": "Metamo and Homura are transliterated; official spellings are unverified."}
+{"id": "table/item.csv:103:4", "source": "秘密のキャンディ", "english": "Secret Candy", "status": "draft"}
+{"id": "table/item.csv:104:4", "source": "秘密のキャンディ（イベント）", "english": "Secret Candy (Event)", "status": "draft"}
+{"id": "table/item.csv:105:4", "source": "巨麦粉", "english": "Giant Wheat Flour", "status": "draft"}
+{"id": "table/item.csv:106:4", "source": "赤い粉末", "english": "Red Powder", "status": "draft"}
+{"id": "table/item.csv:107:4", "source": "紫の粉末", "english": "Purple Powder", "status": "draft"}
+{"id": "table/item.csv:108:4", "source": "青い粉末", "english": "Blue Powder", "status": "draft"}
+{"id": "table/item.csv:109:4", "source": "水色の粉末", "english": "Light Blue Powder", "status": "draft"}
+{"id": "table/item.csv:110:4", "source": "緑の粉末", "english": "Green Powder", "status": "draft"}
+{"id": "table/item.csv:111:4", "source": "黄緑の粉末", "english": "Yellow-Green Powder", "status": "draft"}
+{"id": "table/item.csv:112:4", "source": "黄色い粉末", "english": "Yellow Powder", "status": "draft"}
+{"id": "table/item.csv:113:4", "source": "橙色の粉末", "english": "Orange Powder", "status": "draft"}
+{"id": "table/item.csv:114:4", "source": "黒い粉末", "english": "Black Powder", "status": "draft"}
+{"id": "table/item.csv:115:4", "source": "カラカラパウダー", "english": "Karakara Powder", "status": "draft"}
+{"id": "table/item.csv:116:4", "source": "アンダンテの灰", "english": "Andante's Ash", "status": "draft", "note": "Andante is kept as a name; official English spelling is unverified."}
+{"id": "table/item.csv:117:4", "source": "無色の粉末", "english": "Colorless Powder", "status": "draft"}
+{"id": "table/item.csv:118:4", "source": "古代の秘薬", "english": "Ancient Elixir", "status": "draft"}
+{"id": "table/item.csv:119:4", "source": "燐粉", "english": "Glowing Powder", "status": "draft", "note": "The source name is 燐粉; the description calls it glowing material covering a Wisp. Exact material terminology is uncertain."}
+{"id": "table/item.csv:120:4", "source": "砂", "english": "Sand", "status": "draft"}
+{"id": "table/item.csv:121:4", "source": "たましいの粉", "english": "Soul Powder", "status": "draft"}
+{"id": "table/item.csv:122:4", "source": "木の粉", "english": "Wood Powder", "status": "draft"}
+{"id": "table/item.csv:123:4", "source": "合成失敗物", "english": "Synthesis Failure Item", "status": "draft"}
+{"id": "table/item.csv:124:4", "source": "マタタビ", "english": "Silver Vine", "status": "draft"}
+{"id": "table/item.csv:125:4", "source": "合成失敗？物（イベント）", "english": "Failed Synthesis? Item (Event)", "status": "draft"}
+{"id": "table/item.csv:126:4", "source": "ソーダ灰", "english": "Soda Ash", "status": "draft"}
+{"id": "table/item.csv:127:4", "source": "パチパチ薬", "english": "Crackling Medicine", "status": "draft", "note": "パチパチ is onomatopoeic; 'Crackling' is a provisional rendering."}
+{"id": "table/item.csv:128:4", "source": "虫の撒き餌", "english": "Insect Bait", "status": "draft"}

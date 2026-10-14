@@ -1,0 +1,108 @@
+{"id": "table/item.csv:1001:4", "source": "宝箱１３", "english": "Treasure Chest 13", "status": "draft"}
+{"id": "table/item.csv:1002:4", "source": "宝箱１４", "english": "Treasure Chest 14", "status": "draft"}
+{"id": "table/item.csv:1003:4", "source": "宝箱１５", "english": "Treasure Chest 15", "status": "draft"}
+{"id": "table/item.csv:1004:4", "source": "宝箱１６", "english": "Treasure Chest 16", "status": "draft"}
+{"id": "table/item.csv:1005:4", "source": "宝箱１７", "english": "Treasure Chest 17", "status": "draft"}
+{"id": "table/item.csv:1006:4", "source": "宝箱１８", "english": "Treasure Chest 18", "status": "draft"}
+{"id": "table/item.csv:1007:4", "source": "宝箱１９", "english": "Treasure Chest 19", "status": "draft"}
+{"id": "table/item.csv:1008:4", "source": "宝箱２０", "english": "Treasure Chest 20", "status": "draft"}
+{"id": "table/item.csv:1009:4", "source": "幸運の宝箱", "english": "Lucky Treasure Chest", "status": "draft"}
+{"id": "table/item.csv:1010:4", "source": "レプリカ宝箱", "english": "Replica Treasure Chest", "status": "draft"}
+{"id": "table/item.csv:1011:4", "source": "ネットカフェ宝箱１", "english": "Internet Cafe Treasure Chest 1", "status": "draft"}
+{"id": "table/item.csv:1012:4", "source": "ネットカフェＳＰ宝箱１", "english": "Internet Cafe SP Treasure Chest 1", "status": "draft"}
+{"id": "table/item.csv:1013:4", "source": "ネットカフェＳＰ宝箱２", "english": "Internet Cafe SP Treasure Chest 2", "status": "draft"}
+{"id": "table/item.csv:1014:4", "source": "ネットカフェＳＰ宝箱３", "english": "Internet Cafe SP Treasure Chest 3", "status": "draft"}
+{"id": "table/item.csv:1015:4", "source": "ネットカフェＳＰ宝箱４", "english": "Internet Cafe SP Treasure Chest 4", "status": "draft"}
+{"id": "table/item.csv:1016:4", "source": "ネットカフェＬＵＣＫＹ宝箱１", "english": "Internet Cafe Lucky Treasure Chest 1", "status": "draft"}
+{"id": "table/item.csv:1017:4", "source": "コンテナ１", "english": "Excavation Container 1", "status": "draft"}
+{"id": "table/item.csv:1018:4", "source": "コンテナ２", "english": "Excavation Container 2", "status": "draft"}
+{"id": "table/item.csv:1019:4", "source": "コンテナ３", "english": "Excavation Container 3", "status": "draft"}
+{"id": "table/item.csv:1020:4", "source": "コンテナ４", "english": "Excavation Container 4", "status": "draft"}
+{"id": "table/item.csv:1021:4", "source": "コンテナ５", "english": "Excavation Container 5", "status": "draft"}
+{"id": "table/item.csv:1022:4", "source": "コンテナ６", "english": "Excavation Container 6", "status": "draft"}
+{"id": "table/item.csv:1023:4", "source": "コンテナ７", "english": "Excavation Container 7", "status": "draft"}
+{"id": "table/item.csv:1024:4", "source": "コンテナ８", "english": "Excavation Container 8", "status": "draft"}
+{"id": "table/item.csv:1028:4", "source": "ジェット燃料", "english": "Jet Fuel", "status": "draft"}
+{"id": "table/item.csv:1032:4", "source": "時限爆弾", "english": "Time Bomb", "status": "draft"}
+{"id": "table/item.csv:1033:4", "source": "地雷", "english": "Land Mine", "status": "draft"}
+{"id": "table/item.csv:1034:4", "source": "原油", "english": "Crude Oil", "status": "draft"}
+{"id": "table/item.csv:1035:4", "source": "セメント", "english": "Cement", "status": "draft"}
+{"id": "table/item.csv:1036:4", "source": "培養土", "english": "Potting Soil", "status": "draft"}
+{"id": "table/item.csv:1037:4", "source": "ジェット燃料（クエスト）", "english": "Jet Fuel (Quest)", "status": "draft"}
+{"id": "table/item.csv:1038:4", "source": "原油（クエスト）", "english": "Crude Oil (Quest)", "status": "draft"}
+{"id": "table/item.csv:1039:4", "source": "木箱１", "english": "Wooden Box 1", "status": "draft"}
+{"id": "table/item.csv:1040:4", "source": "木箱２", "english": "Wooden Box 2", "status": "draft"}
+{"id": "table/item.csv:1041:4", "source": "木箱３", "english": "Wooden Box 3", "status": "draft"}
+{"id": "table/item.csv:1042:4", "source": "木箱４", "english": "Wooden Box 4", "status": "draft"}
+{"id": "table/item.csv:1043:4", "source": "木箱５", "english": "Wooden Box 5", "status": "draft"}
+{"id": "table/item.csv:1044:4", "source": "木箱６", "english": "Wooden Box 6", "status": "draft"}
+{"id": "table/item.csv:1045:4", "source": "木箱７", "english": "Wooden Box 7", "status": "draft"}
+{"id": "table/item.csv:1046:4", "source": "木箱８", "english": "Wooden Box 8", "status": "draft"}
+{"id": "table/item.csv:1047:4", "source": "木箱１２", "english": "Wooden Box 12", "status": "draft"}
+{"id": "table/item.csv:1048:4", "source": "木箱１３", "english": "Wooden Box 13", "status": "draft"}
+{"id": "table/item.csv:1049:4", "source": "木箱１４", "english": "Wooden Box 14", "status": "draft"}
+{"id": "table/item.csv:1050:4", "source": "補給物資（クエスト）", "english": "Supply Shipment (Quest)", "status": "draft"}
+{"id": "table/item.csv:1051:4", "source": "大きな壷", "english": "Large Jar", "status": "draft"}
+{"id": "table/item.csv:1052:4", "source": "怪しい壷", "english": "Suspicious Jar", "status": "draft"}
+{"id": "table/item.csv:1053:4", "source": "高そうな壷", "english": "Expensive-Looking Jar", "status": "draft"}
+{"id": "table/item.csv:1054:4", "source": "海賊王の壷（イベント）", "english": "Pirate King’s Jar (Event)", "status": "draft"}
+{"id": "table/item.csv:1055:4", "source": "クイーンの鍵", "english": "Queen’s Key", "status": "draft"}
+{"id": "table/item.csv:1056:4", "source": "牢屋の鍵", "english": "Prison Cell Key", "status": "draft"}
+{"id": "table/item.csv:1057:4", "source": "飛空庭起動キー", "english": "Sky Garden Activation Key", "status": "draft"}
+{"id": "table/item.csv:1058:4", "source": "飛空庭起動キー（２台目）", "english": "Second Sky Garden Activation Key", "status": "draft"}
+{"id": "table/item.csv:1059:4", "source": "千姫の飛空庭起動キー", "english": "Senhime’s Sky Garden Activation Key", "status": "draft", "note": "Proper name rendered phonetically; official English form unverified."}
+{"id": "table/item.csv:1060:4", "source": "起動キー", "english": "Activation Key", "status": "draft"}
+{"id": "table/item.csv:1061:4", "source": "天まで続く塔の鍵", "english": "Tower to the Sky Key", "status": "draft", "note": "Official English title not verified; translated literally."}
+{"id": "table/item.csv:1062:4", "source": "時空の鍵", "english": "Space-Time Key", "status": "draft"}
+{"id": "table/item.csv:1063:4", "source": "時空の鍵EX（エミル）", "english": "Space-Time Key EX (Emil)", "status": "draft"}
+{"id": "table/item.csv:1064:4", "source": "時空の鍵SP", "english": "Space-Time Key SP", "status": "draft"}
+{"id": "table/item.csv:1065:4", "source": "時空のひも", "english": "Space-Time Cord", "status": "draft"}
+{"id": "table/item.csv:1066:4", "source": "時空のひもSP", "english": "Space-Time Cord SP", "status": "draft"}
+{"id": "table/item.csv:1067:4", "source": "虹色の鍵", "english": "Rainbow Key", "status": "draft"}
+{"id": "table/item.csv:1068:4", "source": "トランジスタ", "english": "Transistor", "status": "draft"}
+{"id": "table/item.csv:1069:4", "source": "力の回路", "english": "Power Circuit", "status": "draft"}
+{"id": "table/item.csv:1070:4", "source": "魔法の回路", "english": "Magic Circuit", "status": "draft"}
+{"id": "table/item.csv:1071:4", "source": "守りの回路", "english": "Defense Circuit", "status": "draft"}
+{"id": "table/item.csv:1072:4", "source": "対魔の回路", "english": "Anti-Magic Circuit", "status": "draft"}
+{"id": "table/item.csv:1073:4", "source": "臨界の回路", "english": "Critical Circuit", "status": "draft"}
+{"id": "table/item.csv:1075:4", "source": "修復の回路", "english": "Repair Circuit", "status": "draft"}
+{"id": "table/item.csv:1077:4", "source": "メモリ", "english": "Memory", "status": "draft"}
+{"id": "table/item.csv:1078:4", "source": "ＣＰＵ", "english": "CPU", "status": "draft"}
+{"id": "table/item.csv:1079:4", "source": "パケルのマイクロマシン", "english": "Pakel’s Micro Machine", "status": "draft", "note": "Character name rendered phonetically; official English form unverified."}
+{"id": "table/item.csv:1080:4", "source": "ネジ", "english": "Screw", "status": "draft"}
+{"id": "table/item.csv:1081:4", "source": "ポロンのネジ", "english": "Poron’s Screw", "status": "draft", "note": "Character name rendered phonetically; official English form unverified."}
+{"id": "table/item.csv:1082:4", "source": "ブリキの歯車", "english": "Tin Gear", "status": "draft"}
+{"id": "table/item.csv:1084:4", "source": "赤いコード", "english": "Red Wire", "status": "draft"}
+{"id": "table/item.csv:1085:4", "source": "力のトランジスタ", "english": "Power Transistor", "status": "draft"}
+{"id": "table/item.csv:1086:4", "source": "魔法のトランジスタ", "english": "Magic Transistor", "status": "draft"}
+{"id": "table/item.csv:1087:4", "source": "守りのトランジスタ", "english": "Defense Transistor", "status": "draft"}
+{"id": "table/item.csv:1088:4", "source": "対魔のトランジスタ", "english": "Anti-Magic Transistor", "status": "draft"}
+{"id": "table/item.csv:1089:4", "source": "臨界のトランジスタ", "english": "Critical Transistor", "status": "draft"}
+{"id": "table/item.csv:1091:4", "source": "修復のトランジスタ", "english": "Repair Transistor", "status": "draft"}
+{"id": "table/item.csv:1092:4", "source": "ギガントのトランジスタ（イベント）", "english": "Gigant X7 Transistor (Event)", "status": "draft", "note": "Monster name rendered phonetically; official English form unverified."}
+{"id": "table/item.csv:1093:4", "source": "ドライバー", "english": "Screwdriver", "status": "draft"}
+{"id": "table/item.csv:1094:4", "source": "カッパードライバー", "english": "Copper Screwdriver", "status": "draft"}
+{"id": "table/item.csv:1095:4", "source": "シルバードライバー", "english": "Silver Screwdriver", "status": "draft"}
+{"id": "table/item.csv:1096:4", "source": "ゴールデンドライバー", "english": "Gold Screwdriver", "status": "draft"}
+{"id": "table/item.csv:1097:4", "source": "ペンチ", "english": "Pliers", "status": "draft"}
+{"id": "table/item.csv:1098:4", "source": "カッパーペンチ", "english": "Copper Pliers", "status": "draft"}
+{"id": "table/item.csv:1099:4", "source": "シルバーペンチ", "english": "Silver Pliers", "status": "draft"}
+{"id": "table/item.csv:1100:4", "source": "ゴールデンペンチ", "english": "Gold Pliers", "status": "draft"}
+{"id": "table/item.csv:1101:4", "source": "金槌", "english": "Hammer", "status": "draft"}
+{"id": "table/item.csv:1102:4", "source": "カッパーハンマー", "english": "Copper Hammer", "status": "draft"}
+{"id": "table/item.csv:1103:4", "source": "シルバーハンマー", "english": "Silver Hammer", "status": "draft"}
+{"id": "table/item.csv:1104:4", "source": "ゴールデンハンマー", "english": "Gold Hammer", "status": "draft"}
+{"id": "table/item.csv:1105:4", "source": "釘", "english": "Nail", "status": "draft"}
+{"id": "table/item.csv:1106:4", "source": "ひも", "english": "Cord", "status": "draft"}
+{"id": "table/item.csv:1107:4", "source": "タランチュラの糸", "english": "Tarantula Thread", "status": "draft"}
+{"id": "table/item.csv:1108:4", "source": "アラクネーの糸", "english": "Arachne Thread", "status": "draft"}
+{"id": "table/item.csv:1109:4", "source": "丈夫なひも", "english": "Sturdy Cord", "status": "draft"}
+{"id": "table/item.csv:1114:4", "source": "バウの革ひも", "english": "Bow Leather Cord", "status": "draft"}
+{"id": "table/item.csv:1115:4", "source": "毒蜘蛛の糸", "english": "Poison Spider Thread", "status": "draft"}
+{"id": "table/item.csv:1116:4", "source": "針金", "english": "Wire", "status": "draft"}
+{"id": "table/item.csv:1117:4", "source": "縄", "english": "Rope", "status": "draft"}
+{"id": "table/item.csv:1118:4", "source": "丈夫な縄", "english": "Sturdy Rope", "status": "draft"}
+{"id": "table/item.csv:1120:4", "source": "シリコンプラグコード（青）", "english": "Blue Silicone Plug Wire", "status": "draft"}
+{"id": "table/item.csv:1121:4", "source": "シリコンプラグコード（緑）", "english": "Green Silicone Plug Wire", "status": "draft"}
+{"id": "table/item.csv:1122:4", "source": "シリコンプラグコード（黄）", "english": "Yellow Silicone Plug Wire", "status": "draft"}
+{"id": "table/item.csv:1124:4", "source": "接着剤", "english": "Adhesive", "status": "draft"}

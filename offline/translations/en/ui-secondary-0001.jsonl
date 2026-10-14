@@ -1,0 +1,78 @@
+{"id":"table/command.csv:4:2","source":"ボイス再生","english":"Play Voice","status":"draft"}
+{"id":"table/command.csv:5:2","source":"ボイス停止","english":"Stop Voice","status":"draft"}
+{"id":"table/command.csv:6:2","source":"次のボイス","english":"Next Voice","status":"draft"}
+{"id":"table/command.csv:7:2","source":"前のボイス","english":"Previous Voice","status":"draft"}
+{"id":"table/command.csv:8:2","source":"最新のボイス","english":"Most Recent Voice","status":"draft"}
+{"id":"table/emotion.csv:2:3","source":"びっくり１","english":"Surprised 1","status":"draft"}
+{"id":"table/emotion.csv:3:3","source":"怒り１","english":"Angry 1","status":"draft"}
+{"id":"table/emotion.csv:4:3","source":"怒り２","english":"Angry 2","status":"draft"}
+{"id":"table/emotion.csv:5:3","source":"笑い","english":"Laughing","status":"draft"}
+{"id":"table/emotion.csv:6:3","source":"音符","english":"Musical Note","status":"draft"}
+{"id":"table/emotion.csv:7:3","source":"汗１","english":"Sweat 1","status":"draft"}
+{"id":"table/emotion.csv:8:3","source":"汗２","english":"Sweat 2","status":"draft"}
+{"id":"table/emotion.csv:9:3","source":"汗３","english":"Sweat 3","status":"draft"}
+{"id":"table/emotion.csv:10:3","source":"縦線","english":"Vertical Lines","status":"draft"}
+{"id":"table/emotion.csv:11:3","source":"グー","english":"Rock","status":"draft"}
+{"id":"table/emotion.csv:12:3","source":"チョキ","english":"Scissors","status":"draft"}
+{"id":"table/emotion.csv:13:3","source":"パー","english":"Paper","status":"draft"}
+{"id":"table/emotion.csv:14:3","source":"はっ","english":"Gasp","status":"draft"}
+{"id":"table/emotion.csv:15:3","source":"はっ","english":"Gasp","status":"draft"}
+{"id":"table/emotion.csv:16:3","source":"ぼー","english":"Dazed","status":"draft"}
+{"id":"table/emotion.csv:17:3","source":"びっくり２","english":"Surprised 2","status":"draft"}
+{"id":"table/emotion.csv:18:3","source":"ありがとう","english":"Thank You","status":"draft"}
+{"id":"table/emotion.csv:19:3","source":"ごめん","english":"Sorry","status":"draft"}
+{"id":"table/emotion.csv:22:3","source":"承知","english":"Got It","status":"draft"}
+{"id":"table/emotion.csv:23:3","source":"戦え","english":"Fight!","status":"draft"}
+{"id":"table/emotion.csv:24:3","source":"助けて","english":"Help Me!","status":"draft"}
+{"id":"table/emotion.csv:25:3","source":"嬉しい","english":"Happy","status":"draft"}
+{"id":"table/emotion.csv:26:3","source":"怒り３","english":"Angry 3","status":"draft"}
+{"id":"table/emotion.csv:27:3","source":"涙目","english":"Teary-Eyed","status":"draft"}
+{"id":"table/emotion.csv:28:3","source":"楽しい","english":"Having Fun","status":"draft"}
+{"id":"table/emotion.csv:29:3","source":"あわわわ","english":"Eek!","status":"draft"}
+{"id":"table/emotion.csv:29:8","source":"星を守る者の「守護魔・アカリ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Akari in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:30:3","source":"かわいい","english":"Cute","status":"draft"}
+{"id":"table/emotion.csv:30:8","source":"星を守る者の「守護魔・アカリ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Akari in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:31:3","source":"サイテーです","english":"That's the Worst!","status":"draft"}
+{"id":"table/emotion.csv:31:8","source":"星を守る者の「守護魔・アカリ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Akari in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:32:3","source":"ここで一句","english":"A Verse for You","status":"draft"}
+{"id":"table/emotion.csv:32:8","source":"星を守る者の「守護魔・アカリ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Akari in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:33:3","source":"お護りします","english":"I'll Protect You","status":"draft"}
+{"id":"table/emotion.csv:33:8","source":"星を守る者の「守護魔・フェール」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Feru in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:34:3","source":"どやっ","english":"How's That?","status":"draft"}
+{"id":"table/emotion.csv:34:8","source":"星を守る者の「守護魔・フェール」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Feru in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:35:3","source":"ぐすん…","english":"Sniffle...","status":"draft"}
+{"id":"table/emotion.csv:35:8","source":"星を守る者の「守護魔・フェール」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Feru in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:36:3","source":"何でもしますから","english":"I'll Do Anything","status":"draft"}
+{"id":"table/emotion.csv:36:8","source":"星を守る者の「守護魔・フェール」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Feru in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:37:3","source":"支援します","english":"I'll Support You","status":"draft"}
+{"id":"table/emotion.csv:37:8","source":"星を守る者の「守護魔・ラン」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Ran in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:38:3","source":"うずうず","english":"I Can't Wait!","status":"draft"}
+{"id":"table/emotion.csv:38:8","source":"星を守る者の「守護魔・ラン」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Ran in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:39:3","source":"たすけてぇ～","english":"Heeelp!","status":"draft"}
+{"id":"table/emotion.csv:39:8","source":"星を守る者の「守護魔・ラン」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Ran in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:40:3","source":"ずっと…友達だよ！","english":"We'll Be Friends Forever!","status":"draft"}
+{"id":"table/emotion.csv:40:8","source":"星を守る者の「守護魔・ラン」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Ran in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:41:3","source":"祈り","english":"Prayer","status":"draft"}
+{"id":"table/emotion.csv:41:8","source":"星を守る者の「守護魔・トワ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Towa in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:42:3","source":"回復しようか？","english":"Want Me to Heal You?","status":"draft"}
+{"id":"table/emotion.csv:42:8","source":"星を守る者の「守護魔・トワ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Towa in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:43:3","source":"おつかれさま！","english":"Good Work!","status":"draft"}
+{"id":"table/emotion.csv:43:8","source":"星を守る者の「守護魔・トワ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Towa in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:44:3","source":"ぽかぽか","english":"Toasty","status":"draft"}
+{"id":"table/emotion.csv:44:8","source":"星を守る者の「守護魔・トワ」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Towa in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:45:3","source":"愛がたりないわ！","english":"I Need More Love!","status":"draft"}
+{"id":"table/emotion.csv:45:8","source":"星を守る者の「守護魔・メイリー」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Meiri in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:46:3","source":"離席します","english":"Away for a Bit","status":"draft"}
+{"id":"table/emotion.csv:46:8","source":"星を守る者の「守護魔・メイリー」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Meiri in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:47:3","source":"知りませんにゃ～","english":"I Don't Know, Meow~","status":"draft"}
+{"id":"table/emotion.csv:47:8","source":"星を守る者の「守護魔・メイリー」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Meiri in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:48:3","source":"それもまた愛ですね","english":"That Too Is Love","status":"draft"}
+{"id":"table/emotion.csv:48:8","source":"星を守る者の「守護魔・メイリー」からＥＸイベントチケットで習得可能","english":"Learn this emote from Guardian Spirit Meiri in “Those Who Guard the Stars” using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:49:3","source":"疑問","english":"Confused","status":"draft"}
+{"id":"table/emotion.csv:49:8","source":"星を守る者６話クリア時に習得可能。最新話以前のエモーションは各守護魔からＥＸイベントチケットで習得可能","english":"Learn this emote by clearing Chapter 6 of “Those Who Guard the Stars.” Earlier emotes can be learned from each Guardian Spirit using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:50:3","source":"私も一緒にいく","english":"I'll Go with You, Too","status":"draft"}
+{"id":"table/emotion.csv:50:8","source":"星を守る者６話クリア時に習得可能。最新話以前のエモーションは各守護魔からＥＸイベントチケットで習得可能","english":"Learn this emote by clearing Chapter 6 of “Those Who Guard the Stars.” Earlier emotes can be learned from each Guardian Spirit using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:51:3","source":"ありがとう","english":"Thank You","status":"draft"}
+{"id":"table/emotion.csv:51:8","source":"星を守る者６話クリア時に習得可能。最新話以前のエモーションは各守護魔からＥＸイベントチケットで習得可能","english":"Learn this emote by clearing Chapter 6 of “Those Who Guard the Stars.” Earlier emotes can be learned from each Guardian Spirit using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}
+{"id":"table/emotion.csv:52:3","source":"またね","english":"See You Later","status":"draft"}
+{"id":"table/emotion.csv:52:8","source":"星を守る者６話クリア時に習得可能。最新話以前のエモーションは各守護魔からＥＸイベントチケットで習得可能","english":"Learn this emote by clearing Chapter 6 of “Those Who Guard the Stars.” Earlier emotes can be learned from each Guardian Spirit using an EX Event Ticket.","status":"draft","note":"Guardian Spirit names are phonetic renderings; official English spellings and the episode title are unverified."}

@@ -1,0 +1,137 @@
+{"id": "table/strtable.csv:4688:2", "source": "キャプチャーに参加できないメンバーがいます。$rこのまま、受注してもよろしいですか？", "english": "Some members cannot participate in the capture.$rAccept the quest anyway?", "status": "draft"}
+{"id": "table/strtable.csv:4691:2", "source": "残り%4d体", "english": "%4d enemies remaining", "status": "draft"}
+{"id": "table/strtable.csv:4692:2", "source": "残り%4d秒", "english": "%4d seconds remaining", "status": "draft"}
+{"id": "table/strtable.csv:4693:2", "source": "%s$r残り%4d分", "english": "%s$r%4d minutes remaining", "status": "draft"}
+{"id": "table/strtable.csv:4696:2", "source": "マップクリア条件に新たなクリア条件が追加されました", "english": "A new map-clear condition has been added.", "status": "draft"}
+{"id": "table/strtable.csv:4697:2", "source": "ルームクリア条件に新たなクリア条件が追加されました", "english": "A new room-clear condition has been added.", "status": "draft"}
+{"id": "table/strtable.csv:4699:2", "source": "大目標情報に新たな目標が追加されました", "english": "A new major objective has been added.", "status": "draft"}
+{"id": "table/strtable.csv:4700:2", "source": "中目標情報に新たな目標が追加されました", "english": "A new secondary objective has been added.", "status": "draft"}
+{"id": "table/strtable.csv:4703:2", "source": "融合分解リストウィンドウ", "english": "Fusion Separation List", "status": "draft"}
+{"id": "table/strtable.csv:4704:2", "source": "融合分解ウィンドウ", "english": "Fusion Separation", "status": "draft"}
+{"id": "table/strtable.csv:4705:2", "source": "▼分解材料", "english": "▼ Separation Materials", "status": "draft"}
+{"id": "table/strtable.csv:4706:2", "source": "▼分解後", "english": "▼ After Separation", "status": "draft"}
+{"id": "table/strtable.csv:4707:2", "source": "融合分解を行います、よろしいですか？", "english": "Proceed with Fusion Separation?", "status": "draft"}
+{"id": "table/strtable.csv:4708:2", "source": "融合分解を行うと、見た目アイテムの$r耐久度・最大耐久度が「1」の状態になります。", "english": "Fusion Separation will change the appearance item's$rdurability and max durability to 1.", "status": "draft"}
+{"id": "table/strtable.csv:4710:2", "source": "融合分解に成功しました", "english": "Fusion Separation succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:4711:2", "source": "融合分解を行える武具が存在しません", "english": "No equipment can undergo Fusion Separation.", "status": "draft"}
+{"id": "table/strtable.csv:4712:2", "source": "アイテム所持数に空きがありません", "english": "There is no room in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:4713:2", "source": "何らかの理由で融合分析が行えません", "english": "Fusion analysis cannot be performed for an unknown reason.", "status": "draft", "note": "Source says “fusion analysis”; retained that wording rather than silently correcting the source."}
+{"id": "table/strtable.csv:4716:2", "source": "飛空城リスト", "english": "Flying Castle List", "status": "draft"}
+{"id": "table/strtable.csv:4717:2", "source": "リング飛空城：", "english": "Ring Flying Castle:", "status": "draft"}
+{"id": "table/strtable.csv:4719:2", "source": "飛空城名", "english": "Flying Castle Name", "status": "draft"}
+{"id": "table/strtable.csv:4720:2", "source": "LV", "english": "Lv.", "status": "draft"}
+{"id": "table/strtable.csv:4721:2", "source": "所有リング名", "english": "Owner Ring", "status": "draft"}
+{"id": "table/strtable.csv:4722:2", "source": "コメント", "english": "Comment", "status": "draft"}
+{"id": "table/strtable.csv:4723:2", "source": "アクセス権限が必要です", "english": "Access permission required.", "status": "draft"}
+{"id": "table/strtable.csv:4724:2", "source": "アクセス権限が無いため、入場に失敗しました", "english": "Entry failed: you do not have access permission.", "status": "draft"}
+{"id": "table/strtable.csv:4725:2", "source": "混み合っているため、入場に失敗しました", "english": "Entry failed: the area is crowded.", "status": "draft"}
+{"id": "table/strtable.csv:4726:2", "source": "何らかの原因で失敗しました", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4732:2", "source": "ビューマネージャー", "english": "View Manager", "status": "draft"}
+{"id": "table/strtable.csv:4733:2", "source": "カーソルキーで視点の$r移動が出来ます", "english": "Use the arrow keys$rto move the camera.", "status": "draft"}
+{"id": "table/strtable.csv:4736:2", "source": "飛空城情報", "english": "Flying Castle Information", "status": "draft"}
+{"id": "table/strtable.csv:4737:2", "source": "飛空城名", "english": "Flying Castle Name", "status": "draft"}
+{"id": "table/strtable.csv:4738:2", "source": "飛空城 Lv", "english": "Flying Castle Lv.", "status": "draft"}
+{"id": "table/strtable.csv:4739:2", "source": "入場", "english": "Enter", "status": "draft"}
+{"id": "table/strtable.csv:4740:2", "source": "状態", "english": "Status", "status": "draft"}
+{"id": "table/strtable.csv:4741:2", "source": "無制限", "english": "Unrestricted", "status": "draft"}
+{"id": "table/strtable.csv:4742:2", "source": "リングメンバーのみ", "english": "Ring Members Only", "status": "draft"}
+{"id": "table/strtable.csv:4743:2", "source": "正常", "english": "Normal", "status": "draft"}
+{"id": "table/strtable.csv:4744:2", "source": "滞納中", "english": "In Arrears", "status": "draft"}
+{"id": "table/strtable.csv:4745:2", "source": "差し押さえ", "english": "Seized", "status": "draft"}
+{"id": "table/strtable.csv:4746:2", "source": "維持不能", "english": "Unable to Maintain", "status": "draft"}
+{"id": "table/strtable.csv:4747:2", "source": "飛空城の基本情報を表示します", "english": "Displays basic information about the Flying Castle.", "status": "draft"}
+{"id": "table/strtable.csv:4748:2", "source": "飛空城の拡張情報を表示します", "english": "Displays expansion information about the Flying Castle.", "status": "draft"}
+{"id": "table/strtable.csv:4749:2", "source": "飛空城の土台情報を表示します", "english": "Displays foundation information about the Flying Castle.", "status": "draft"}
+{"id": "table/strtable.csv:4750:2", "source": "所持マテリアルポイント", "english": "Material Points Held", "status": "draft"}
+{"id": "table/strtable.csv:4751:2", "source": "マテリアルコスト", "english": "Material Cost", "status": "draft"}
+{"id": "table/strtable.csv:4752:2", "source": "次回引き落とし日時", "english": "Next Payment Date", "status": "draft"}
+{"id": "table/strtable.csv:4753:2", "source": "差し押さえ予定日時", "english": "Scheduled Seizure Date", "status": "draft"}
+{"id": "table/strtable.csv:4754:2", "source": "強制撤去予定日時", "english": "Scheduled Forced Removal Date", "status": "draft"}
+{"id": "table/strtable.csv:4757:2", "source": "所持エクスパンションポイント", "english": "Expansion Points Held", "status": "draft"}
+{"id": "table/strtable.csv:4758:2", "source": "ファイターセクト", "english": "Fighter Sect", "status": "draft"}
+{"id": "table/strtable.csv:4759:2", "source": "スペルユーザーセクト", "english": "Spell User Sect", "status": "draft"}
+{"id": "table/strtable.csv:4760:2", "source": "バックパッカーセクト", "english": "Backpacker Sect", "status": "draft"}
+{"id": "table/strtable.csv:4761:2", "source": "ＤＥＭセクト", "english": "DEM Sect", "status": "draft"}
+{"id": "table/strtable.csv:4762:2", "source": "飛空城のレベルが %d になりました", "english": "Flying Castle level increased to %d.", "status": "draft"}
+{"id": "table/strtable.csv:4763:2", "source": "ファイターセクトレベルが %d になりました", "english": "Fighter Sect level increased to %d.", "status": "draft"}
+{"id": "table/strtable.csv:4764:2", "source": "スペルユーザーセクトレベルが %d になりました", "english": "Spell User Sect level increased to %d.", "status": "draft"}
+{"id": "table/strtable.csv:4765:2", "source": "バックパッカーセクトレベルが %d になりました", "english": "Backpacker Sect level increased to %d.", "status": "draft"}
+{"id": "table/strtable.csv:4766:2", "source": "ＤＥＭセクトレベルが %d になりました", "english": "DEM Sect level increased to %d.", "status": "draft"}
+{"id": "table/strtable.csv:4767:2", "source": "入手済", "english": "Obtained", "status": "draft"}
+{"id": "table/strtable.csv:4768:2", "source": "未入手", "english": "Not Obtained", "status": "draft"}
+{"id": "table/strtable.csv:4783:2", "source": "「%s」を撤去しました", "english": "Removed \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:4784:2", "source": "「%s」を設置しました", "english": "Placed \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:4785:2", "source": "アイテムの設置に失敗しました", "english": "Failed to place the item.", "status": "draft"}
+{"id": "table/strtable.csv:4786:2", "source": "飛空城が差し押さえ状態のため設置できません", "english": "Cannot place while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4787:2", "source": "リングハウスが設置できない座標です", "english": "This location cannot be used to place the Ring House.", "status": "draft"}
+{"id": "table/strtable.csv:4788:2", "source": "飛空城が強制撤去状態のため設置できません", "english": "Cannot place while the Flying Castle is being forcibly removed.", "status": "draft"}
+{"id": "table/strtable.csv:4789:2", "source": "リングマスターしか変更できません", "english": "Only the Ring Master can make changes.", "status": "draft"}
+{"id": "table/strtable.csv:4790:2", "source": "リングハウスの再配置に失敗しました", "english": "Failed to relocate the Ring House.", "status": "draft"}
+{"id": "table/strtable.csv:4791:2", "source": "飛空城が差し押さえ状態のため再配置できません", "english": "Cannot relocate while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4792:2", "source": "リングマスターしか変更できません", "english": "Only the Ring Master can make changes.", "status": "draft"}
+{"id": "table/strtable.csv:4793:2", "source": "「%s」の撤去に失敗しました", "english": "Failed to remove \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:4794:2", "source": "飛空城が差し押さえ状態のため撤去できません", "english": "Cannot remove while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4795:2", "source": "これ以上アイテムを所持することができません", "english": "You cannot carry any more items.", "status": "draft"}
+{"id": "table/strtable.csv:4796:2", "source": "リングマスターしか変更できません", "english": "Only the Ring Master can make changes.", "status": "draft"}
+{"id": "table/strtable.csv:4799:2", "source": "アイテムの設置に失敗しました", "english": "Failed to place the item.", "status": "draft"}
+{"id": "table/strtable.csv:4800:2", "source": "飛空城が差し押さえ状態のため設置できません", "english": "Cannot place while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4801:2", "source": "これ以上アイテムを設置できません", "english": "You cannot place any more items.", "status": "draft"}
+{"id": "table/strtable.csv:4802:2", "source": "飛空城が強制撤去状態のため設置できません", "english": "Cannot place while the Flying Castle is being forcibly removed.", "status": "draft"}
+{"id": "table/strtable.csv:4805:2", "source": "飛空城が差し押さえ状態のため使用する事ができません", "english": "Cannot use this while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4808:2", "source": "アイテムの再配置に失敗しました", "english": "Failed to relocate the item.", "status": "draft"}
+{"id": "table/strtable.csv:4809:2", "source": "飛空城が差し押さえ状態のため再配置できません", "english": "Cannot relocate while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4810:2", "source": "他のプレイヤーが操作中のため操作できません", "english": "Another player is using this; you cannot operate it.", "status": "draft"}
+{"id": "table/strtable.csv:4811:2", "source": "配置権限が無い為、配置に失敗しました", "english": "Placement failed: you do not have placement permission.", "status": "draft"}
+{"id": "table/strtable.csv:4814:2", "source": "アイテムの撤去に失敗しました", "english": "Failed to remove the item.", "status": "draft"}
+{"id": "table/strtable.csv:4815:2", "source": "飛空城が差し押さえ状態のため撤去できません", "english": "Cannot remove while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4816:2", "source": "他のプレイヤーが操作中のため操作できません", "english": "Another player is using this; you cannot operate it.", "status": "draft"}
+{"id": "table/strtable.csv:4817:2", "source": "これ以上アイテムを所持することができません", "english": "You cannot carry any more items.", "status": "draft"}
+{"id": "table/strtable.csv:4818:2", "source": "所有権がないためアイテムを撤去することができません", "english": "You cannot remove an item you do not own.", "status": "draft"}
+{"id": "table/strtable.csv:4821:2", "source": "アイテムの再配置に失敗しました", "english": "Failed to relocate the item.", "status": "draft"}
+{"id": "table/strtable.csv:4822:2", "source": "飛空城が差し押さえ状態のため再配置できません", "english": "Cannot relocate while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4823:2", "source": "他のプレイヤーが操作中のため操作できません", "english": "Another player is using this; you cannot operate it.", "status": "draft"}
+{"id": "table/strtable.csv:4826:2", "source": "%dP消費してアトラクションを設置します$rよろしいでしょうか？", "english": "Spend %d points to place the attraction?$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:4828:2", "source": "アイテムの設置に失敗しました", "english": "Failed to place the item.", "status": "draft"}
+{"id": "table/strtable.csv:4829:2", "source": "飛空城が差し押さえ状態のため設置できません", "english": "Cannot place while the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4830:2", "source": "アトラクションユニットの設置最大数に達しているため、設置することが出来ませんでした", "english": "Cannot place: the maximum number of attraction units has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:4831:2", "source": "飛空城が強制撤去状態のため設置できません", "english": "Cannot place while the Flying Castle is being forcibly removed.", "status": "draft"}
+{"id": "table/strtable.csv:4832:2", "source": "エクスパンションの利用権限がないため、設置できませんでした", "english": "Cannot place: you do not have permission to use the expansion.", "status": "draft"}
+{"id": "table/strtable.csv:4833:2", "source": "エクスパンションが足りないため、設置できませんでした", "english": "Cannot place: not enough expansion points.", "status": "draft"}
+{"id": "table/strtable.csv:4834:2", "source": "ユニット情報", "english": "Unit Information", "status": "draft"}
+{"id": "table/strtable.csv:4835:2", "source": "ユニットレベル：%d$r", "english": "Unit Level: %d$r", "status": "draft"}
+{"id": "table/strtable.csv:4836:2", "source": "現在の水質：%s$r", "english": "Current Water Quality: %s$r", "status": "draft"}
+{"id": "table/strtable.csv:4837:2", "source": "淡水", "english": "Fresh Water", "status": "draft"}
+{"id": "table/strtable.csv:4838:2", "source": "海水", "english": "Seawater", "status": "draft"}
+{"id": "table/strtable.csv:4839:2", "source": "泥水", "english": "Muddy Water", "status": "draft"}
+{"id": "table/strtable.csv:4840:2", "source": "水質変更規制：%d分$r", "english": "Water Quality Change Restriction: %d minutes$r", "status": "draft"}
+{"id": "table/strtable.csv:4851:2", "source": "職業チャットログ", "english": "Job Chat Log", "status": "draft"}
+{"id": "table/strtable.csv:4852:2", "source": "：", "english": ":", "status": "draft"}
+{"id": "table/strtable.csv:4856:2", "source": "エクスパンション取得", "english": "Acquire Expansion", "status": "draft"}
+{"id": "table/strtable.csv:4857:2", "source": "エクスパンション名", "english": "Expansion Name", "status": "draft"}
+{"id": "table/strtable.csv:4858:2", "source": "ExpansionPoint", "english": "Expansion Points", "status": "draft"}
+{"id": "table/strtable.csv:4859:2", "source": "必要ExpansionPoint", "english": "Required Expansion Points", "status": "draft"}
+{"id": "table/strtable.csv:4862:2", "source": "%sを取得しました", "english": "Acquired %s.", "status": "draft"}
+{"id": "table/strtable.csv:4863:2", "source": "何らかの原因で取得に失敗しました", "english": "Failed to acquire for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4864:2", "source": "滞納状態の為、取得に失敗しました", "english": "Failed to acquire: payment is overdue.", "status": "draft"}
+{"id": "table/strtable.csv:4865:2", "source": "強制撤去状態の為、取得に失敗しました", "english": "Failed to acquire: the Flying Castle is being forcibly removed.", "status": "draft"}
+{"id": "table/strtable.csv:4869:2", "source": "エクスパンション設定", "english": "Expansion Settings", "status": "draft"}
+{"id": "table/strtable.csv:4870:2", "source": "ブースエクスパンション", "english": "Booth Expansion", "status": "draft"}
+{"id": "table/strtable.csv:4876:2", "source": "空き地", "english": "Vacant Land", "status": "draft"}
+{"id": "table/strtable.csv:4877:2", "source": "取得したブースエクスパンションを設定できます", "english": "Configure acquired Booth Expansions.", "status": "draft"}
+{"id": "table/strtable.csv:4880:2", "source": "何らかの原因で失敗しました", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4881:2", "source": "滞納状態の為、設定に失敗しました", "english": "Failed to configure: payment is overdue.", "status": "draft"}
+{"id": "table/strtable.csv:4882:2", "source": "差し押さえ状態の為、設定に失敗しました", "english": "Failed to configure: the Flying Castle is seized.", "status": "draft"}
+{"id": "table/strtable.csv:4883:2", "source": "強制撤去状態の為、設定に失敗しました", "english": "Failed to configure: the Flying Castle is being forcibly removed.", "status": "draft"}
+{"id": "table/strtable.csv:4884:2", "source": "エクスパンションポイントが足りません", "english": "Not enough Expansion Points.", "status": "draft"}
+{"id": "table/strtable.csv:4885:2", "source": "設定できるエクスパンションがありません", "english": "There are no expansions available to configure.", "status": "draft"}
+{"id": "table/strtable.csv:4887:2", "source": "何らかの原因で失敗しました", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4888:2", "source": "権限者が設定中の為、失敗しました", "english": "Failed because an authorized user is configuring it.", "status": "draft"}
+{"id": "table/strtable.csv:4889:2", "source": "今は機能を操作できません", "english": "This feature cannot be used right now.", "status": "draft"}
+{"id": "table/strtable.csv:4890:2", "source": "今は機能を操作できません", "english": "This feature cannot be used right now.", "status": "draft"}
+{"id": "table/strtable.csv:4893:2", "source": "師匠", "english": "Mentor", "status": "draft"}
+{"id": "table/strtable.csv:4894:2", "source": "弟子１", "english": "Apprentice 1", "status": "draft"}
+{"id": "table/strtable.csv:4895:2", "source": "弟子２", "english": "Apprentice 2", "status": "draft"}
+{"id": "table/strtable.csv:4896:2", "source": "弟子３", "english": "Apprentice 3", "status": "draft"}
+{"id": "table/strtable.csv:4897:2", "source": "役割", "english": "Role", "status": "draft"}
+{"id": "table/strtable.csv:4898:2", "source": "名前", "english": "Name", "status": "draft"}
+{"id": "table/strtable.csv:4899:2", "source": "現在位置", "english": "Current Location", "status": "draft"}

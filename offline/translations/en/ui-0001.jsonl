@@ -1,0 +1,82 @@
+{"id": "table/strtable.csv:23:2", "source": "eco_launchから起動してください。", "english": "Please launch using eco_launch.", "status": "draft"}
+{"id": "table/strtable.csv:24:2", "source": "問題が発生したため、終了します。", "english": "A problem occurred, so the program will exit.", "status": "draft"}
+{"id": "table/strtable.csv:26:2", "source": "システム", "english": "System", "status": "draft"}
+{"id": "table/strtable.csv:27:2", "source": "ログアウト", "english": "Log Out", "status": "draft"}
+{"id": "table/strtable.csv:28:2", "source": "終了", "english": "Exit", "status": "draft"}
+{"id": "table/strtable.csv:31:2", "source": "「A8R8G8B8」または「A1R5G5B5」のテクスチャが作成できませんでした。", "english": "Could not create an A8R8G8B8 or A1R5G5B5 texture.", "status": "draft"}
+{"id": "table/strtable.csv:32:2", "source": "Direct3Dを初期化することができませんでした。", "english": "Failed to initialize Direct3D.", "status": "draft"}
+{"id": "table/strtable.csv:33:2", "source": "互換性をもつDirect3Dを見つけることができませんでした。", "english": "Could not find a compatible version of Direct3D.", "status": "draft"}
+{"id": "table/strtable.csv:34:2", "source": "16ビットか32ビットのディスプレイモードで実行してください。", "english": "Please run in 16-bit or 32-bit display mode.", "status": "draft"}
+{"id": "table/strtable.csv:36:2", "source": "正常に終了しました。", "english": "Exited normally.", "status": "draft"}
+{"id": "table/strtable.csv:37:2", "source": "DirectX のバージョンが8.0以降ではありません。", "english": "DirectX version 8.0 or later is required.", "status": "draft"}
+{"id": "table/strtable.csv:38:2", "source": "DirectX の初期化に失敗しました。", "english": "Failed to initialize DirectX.", "status": "draft"}
+{"id": "table/strtable.csv:39:2", "source": "ソフトウェアモードで起動したため、$r非常に低速です。", "english": "Running in software mode.$rPerformance will be very slow.", "status": "draft", "note": "Preserved $r line-break control code; layout still needs client confirmation."}
+{"id": "table/strtable.csv:40:2", "source": "起動に失敗しました。", "english": "Failed to start.", "status": "draft"}
+{"id": "table/strtable.csv:41:2", "source": "必要なファイルが足りませんでした。", "english": "Required files are missing.", "status": "draft"}
+{"id": "table/strtable.csv:42:2", "source": "eco_launchから起動してください。", "english": "Please launch using eco_launch.", "status": "draft"}
+{"id": "table/strtable.csv:56:2", "source": "日", "english": "Sun", "status": "draft"}
+{"id": "table/strtable.csv:57:2", "source": "月", "english": "Mon", "status": "draft"}
+{"id": "table/strtable.csv:58:2", "source": "火", "english": "Tue", "status": "draft"}
+{"id": "table/strtable.csv:59:2", "source": "水", "english": "Wed", "status": "draft"}
+{"id": "table/strtable.csv:60:2", "source": "木", "english": "Thu", "status": "draft"}
+{"id": "table/strtable.csv:61:2", "source": "金", "english": "Fri", "status": "draft"}
+{"id": "table/strtable.csv:62:2", "source": "土", "english": "Sat", "status": "draft"}
+{"id": "table/strtable.csv:64:2", "source": "日", "english": "Days", "status": "draft"}
+{"id": "table/strtable.csv:65:2", "source": "時間", "english": "Hours", "status": "draft"}
+{"id": "table/strtable.csv:66:2", "source": "分", "english": "Minutes", "status": "draft"}
+{"id": "table/strtable.csv:67:2", "source": "秒", "english": "Seconds", "status": "draft"}
+{"id": "table/strtable.csv:107:2", "source": "を作成しました", "english": " was created.", "status": "draft", "note": "Suffix wording; confirm concatenation context before final review."}
+{"id": "table/strtable.csv:108:2", "source": "容量オーバー", "english": "Capacity exceeded", "status": "draft"}
+{"id": "table/strtable.csv:109:2", "source": "重量オーバー", "english": "Weight limit exceeded", "status": "draft"}
+{"id": "table/strtable.csv:110:2", "source": "座る", "english": "Sit", "status": "draft"}
+{"id": "table/strtable.csv:111:2", "source": "看板コメント", "english": "Sign comment", "status": "draft"}
+{"id": "table/strtable.csv:112:2", "source": "憑依コメント", "english": "Possession comment", "status": "draft"}
+{"id": "table/strtable.csv:113:2", "source": "装備アイテムではありません", "english": "This is not an equippable item.", "status": "draft"}
+{"id": "table/strtable.csv:114:2", "source": "装備条件が整っていません", "english": "You do not meet the equipment requirements.", "status": "draft"}
+{"id": "table/strtable.csv:115:2", "source": "設定条件が整っていません", "english": "Setting requirements are not met.", "status": "draft"}
+{"id": "table/strtable.csv:116:2", "source": "条件が整っていません", "english": "Conditions are not met.", "status": "draft"}
+{"id": "table/strtable.csv:117:2", "source": "憑依アイテム", "english": "Possessed item", "status": "draft"}
+{"id": "table/strtable.csv:118:2", "source": "無所属", "english": "Unaffiliated", "status": "draft"}
+{"id": "table/strtable.csv:119:2", "source": "通常", "english": "Normal", "status": "draft"}
+{"id": "table/strtable.csv:120:2", "source": "憑依中", "english": "Possessed", "status": "draft", "note": "Possession mechanic label; exact UI phrasing/context remains uncertain."}
+{"id": "table/strtable.csv:121:2", "source": "キャラクター回転", "english": "Character rotation", "status": "draft"}
+{"id": "table/strtable.csv:122:2", "source": "コメント記入欄", "english": "Comment entry field", "status": "draft"}
+{"id": "table/strtable.csv:123:2", "source": "重量", "english": "Weight", "status": "draft"}
+{"id": "table/strtable.csv:124:2", "source": "容量", "english": "Capacity", "status": "draft"}
+{"id": "table/strtable.csv:125:2", "source": "名前が長すぎます。", "english": "Name is too long.", "status": "draft"}
+{"id": "table/strtable.csv:126:2", "source": "内容が長すぎます。", "english": "Content is too long.", "status": "draft"}
+{"id": "table/strtable.csv:127:2", "source": "確認", "english": "Confirm", "status": "draft"}
+{"id": "table/strtable.csv:128:2", "source": "%lldGold入手しました", "english": "Obtained %lld Gold.", "status": "draft"}
+{"id": "table/strtable.csv:129:2", "source": "%lldGold失いました", "english": "Lost %lld Gold.", "status": "draft"}
+{"id": "table/strtable.csv:130:2", "source": "を作成しました", "english": " was created.", "status": "draft", "note": "Suffix wording; confirm concatenation context before final review."}
+{"id": "table/strtable.csv:131:2", "source": "　いくつ移動しますか？", "english": "How many would you like to move?", "status": "draft"}
+{"id": "table/strtable.csv:132:2", "source": "　いくつ重ねますか？", "english": "How many would you like to stack?", "status": "draft"}
+{"id": "table/strtable.csv:133:2", "source": "憑依アイテムは移動できません", "english": "Possessed items cannot be moved.", "status": "draft"}
+{"id": "table/strtable.csv:134:2", "source": "状態になりました", "english": " status was applied.", "status": "draft"}
+{"id": "table/strtable.csv:135:2", "source": "状態が解除されました", "english": " status effect was removed.", "status": "draft"}
+{"id": "table/strtable.csv:136:2", "source": "これ以上キャラ情報ウィンドウは開けません", "english": "You cannot open any more character information windows.", "status": "draft"}
+{"id": "table/strtable.csv:137:2", "source": "同じ発言は何度も繰り返せません", "english": "You cannot repeat the same message.", "status": "draft"}
+{"id": "table/strtable.csv:138:2", "source": "残り時間", "english": "Time remaining", "status": "draft"}
+{"id": "table/strtable.csv:139:2", "source": "　いくつ増やしますか？", "english": "How many would you like to add?", "status": "draft"}
+{"id": "table/strtable.csv:140:2", "source": "パートナーのセリフに不適切な文が含まれています", "english": "Your partner's line contains inappropriate text.", "status": "draft"}
+{"id": "table/strtable.csv:142:2", "source": "有効期限 %04d年%02d月%02d日%02d:%02d", "english": "Expires on %04d/%02d/%02d %02d:%02d", "status": "draft"}
+{"id": "table/strtable.csv:145:2", "source": "所持EP", "english": "EP held", "status": "draft"}
+{"id": "table/strtable.csv:146:2", "source": "消費EP", "english": "EP consumed", "status": "draft"}
+{"id": "table/strtable.csv:149:2", "source": "ゲームを終了します", "english": "Quit the game", "status": "draft"}
+{"id": "table/strtable.csv:150:2", "source": "ゲーム画面を最小化します", "english": "Minimize the game window", "status": "draft"}
+{"id": "table/strtable.csv:151:2", "source": "ゲームのさまざまな環境を設定します", "english": "Configure various game settings", "status": "draft"}
+{"id": "table/strtable.csv:152:2", "source": "ヘルプを表示します", "english": "Show help", "status": "draft"}
+{"id": "table/strtable.csv:153:2", "source": "ドラッグすることでゲーム画面を移動できます", "english": "Drag to move the game window", "status": "draft"}
+{"id": "table/strtable.csv:155:2", "source": "キャラクターステータスを表示します", "english": "Show character status", "status": "draft"}
+{"id": "table/strtable.csv:156:2", "source": "アイテムウィンドウを表示します", "english": "Show the inventory window", "status": "draft"}
+{"id": "table/strtable.csv:157:2", "source": "装備ウィンドウを表示します", "english": "Show the equipment window", "status": "draft"}
+{"id": "table/strtable.csv:158:2", "source": "スキルウィンドウを表示します", "english": "Show the skill window", "status": "draft"}
+{"id": "table/strtable.csv:159:2", "source": "フレンドリストを表示します", "english": "Show the friends list", "status": "draft"}
+{"id": "table/strtable.csv:160:2", "source": "メールウィンドウを表示します", "english": "Show the mail window", "status": "draft"}
+{"id": "table/strtable.csv:161:2", "source": "クエストウィンドウを表示します", "english": "Show the quest window", "status": "draft"}
+{"id": "table/strtable.csv:162:2", "source": "ミニマップウィンドウを表示します", "english": "Show the minimap window", "status": "draft"}
+{"id": "table/strtable.csv:163:2", "source": "マクロウィンドウを表示します", "english": "Show the macro window", "status": "draft"}
+{"id": "table/strtable.csv:164:2", "source": "移動するアイテムの数を決定します", "english": "Set the number of items to move", "status": "draft"}
+{"id": "table/strtable.csv:165:2", "source": "移動するアイテムの数を決定します", "english": "Set the number of items to move", "status": "draft"}
+{"id": "table/strtable.csv:166:2", "source": "振り分け後のパラメータ値を試算します", "english": "Preview parameter values after allocation", "status": "draft"}
+{"id": "table/strtable.csv:167:2", "source": "オープンチャット", "english": "Open chat", "status": "draft"}

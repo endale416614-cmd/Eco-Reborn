@@ -1,0 +1,98 @@
+{"id": "table/strtable.csv:2591:2", "source": "情報表示", "english": "Show Info", "status": "draft"}
+{"id": "table/strtable.csv:2592:2", "source": "トレード要請", "english": "Trade Request", "status": "draft"}
+{"id": "table/strtable.csv:2593:2", "source": "憑依", "english": "Possess", "status": "draft"}
+{"id": "table/strtable.csv:2594:2", "source": "自分に憑依", "english": "Self-Possession", "status": "draft"}
+{"id": "table/strtable.csv:2595:2", "source": "この人に憑依", "english": "Possess This Player", "status": "draft"}
+{"id": "table/strtable.csv:2596:2", "source": "憑依解除", "english": "End Possession", "status": "draft"}
+{"id": "table/strtable.csv:2597:2", "source": "憑依", "english": "Possession", "status": "draft"}
+{"id": "table/strtable.csv:2598:2", "source": "憑依を外す", "english": "Remove Possession", "status": "draft"}
+{"id": "table/strtable.csv:2599:2", "source": "右手", "english": "Right Hand", "status": "draft"}
+{"id": "table/strtable.csv:2600:2", "source": "左手", "english": "Left Hand", "status": "draft"}
+{"id": "table/strtable.csv:2601:2", "source": "鎧", "english": "Armor", "status": "draft"}
+{"id": "table/strtable.csv:2602:2", "source": "胸アクセサリー", "english": "Chest Accessory", "status": "draft"}
+{"id": "table/strtable.csv:2603:2", "source": "この人に騎乗", "english": "Ride This Player", "status": "draft"}
+{"id": "table/strtable.csv:2604:2", "source": "騎乗解除", "english": "Dismount", "status": "draft"}
+{"id": "table/strtable.csv:2605:2", "source": "騎乗を外す", "english": "Remove Rider", "status": "draft"}
+{"id": "table/strtable.csv:2606:2", "source": "右手", "english": "Right Hand", "status": "draft"}
+{"id": "table/strtable.csv:2607:2", "source": "左手", "english": "Left Hand", "status": "draft"}
+{"id": "table/strtable.csv:2608:2", "source": "鎧", "english": "Armor", "status": "draft"}
+{"id": "table/strtable.csv:2609:2", "source": "フレンドに誘う", "english": "Invite to Friends", "status": "draft"}
+{"id": "table/strtable.csv:2610:2", "source": "パーティーに誘う", "english": "Invite to Party", "status": "draft"}
+{"id": "table/strtable.csv:2611:2", "source": "リングに誘う", "english": "Invite to Ring", "status": "draft"}
+{"id": "table/strtable.csv:2612:2", "source": "名前をコピー", "english": "Copy Name", "status": "draft"}
+{"id": "table/strtable.csv:2613:2", "source": "あいさつする", "english": "Greet", "status": "draft"}
+{"id": "table/strtable.csv:2614:2", "source": "エモーション", "english": "Emote", "status": "draft"}
+{"id": "table/strtable.csv:2615:2", "source": "設定", "english": "Settings", "status": "draft"}
+{"id": "table/strtable.csv:2616:2", "source": "話しかける", "english": "Talk", "status": "draft"}
+{"id": "table/strtable.csv:2617:2", "source": "買い物をする", "english": "Shop", "status": "draft"}
+{"id": "table/strtable.csv:2618:2", "source": "アイテムを売る", "english": "Sell Items", "status": "draft"}
+{"id": "table/strtable.csv:2619:2", "source": "パーティー名変更", "english": "Change Party Name", "status": "draft"}
+{"id": "table/strtable.csv:2620:2", "source": "パーティーから抜ける", "english": "Leave Party", "status": "draft"}
+{"id": "table/strtable.csv:2621:2", "source": "パーティーを解散する", "english": "Disband Party", "status": "draft"}
+{"id": "table/strtable.csv:2622:2", "source": "看板の作成", "english": "Create Signboard", "status": "draft"}
+{"id": "table/strtable.csv:2623:2", "source": "看板の破棄", "english": "Remove Signboard", "status": "draft"}
+{"id": "table/strtable.csv:2624:2", "source": "露店設定", "english": "Set Up Shop", "status": "draft"}
+{"id": "table/strtable.csv:2625:2", "source": "露店を見る", "english": "View Shop", "status": "draft"}
+{"id": "table/strtable.csv:2626:2", "source": "募集コメント登録", "english": "Register Recruitment Comment", "status": "draft"}
+{"id": "table/strtable.csv:2627:2", "source": "募集コメントリスト", "english": "Recruitment Comment List", "status": "draft"}
+{"id": "table/strtable.csv:2628:2", "source": "憑依可能な装備がありません", "english": "No equipment available for possession.", "status": "draft"}
+{"id": "table/strtable.csv:2629:2", "source": "使う", "english": "Use", "status": "draft"}
+{"id": "table/strtable.csv:2630:2", "source": "再配置", "english": "Rearrange", "status": "draft"}
+{"id": "table/strtable.csv:2631:2", "source": "撤去する", "english": "Remove", "status": "draft"}
+{"id": "table/strtable.csv:2632:2", "source": "通れないようにする", "english": "Block Passage", "status": "draft"}
+{"id": "table/strtable.csv:2633:2", "source": "通れるようにする", "english": "Allow Passage", "status": "draft"}
+{"id": "table/strtable.csv:2634:2", "source": "機能を設定する", "english": "Configure", "status": "draft"}
+{"id": "table/strtable.csv:2635:2", "source": "購入する", "english": "Buy", "status": "draft"}
+{"id": "table/strtable.csv:2636:2", "source": "売却する", "english": "Sell", "status": "draft"}
+{"id": "table/strtable.csv:2637:2", "source": "仕入れる", "english": "Restock", "status": "draft"}
+{"id": "table/strtable.csv:2638:2", "source": "話しかける", "english": "Talk", "status": "draft"}
+{"id": "table/strtable.csv:2639:2", "source": "ユニット情報", "english": "Unit Information", "status": "draft"}
+{"id": "table/strtable.csv:2640:2", "source": "水質変更", "english": "Change Water Quality", "status": "draft"}
+{"id": "table/strtable.csv:2641:2", "source": "ポーズを変える", "english": "Change Pose", "status": "draft"}
+{"id": "table/strtable.csv:2642:2", "source": "騎乗する", "english": "Mount", "status": "draft"}
+{"id": "table/strtable.csv:2643:2", "source": "降りる", "english": "Dismount", "status": "draft"}
+{"id": "table/strtable.csv:2645:2", "source": "どこに騎乗する？", "english": "Where would you like to ride?", "status": "draft"}
+{"id": "table/strtable.csv:2646:2", "source": "主人が騎乗するところ", "english": "Where the owner rides", "status": "draft"}
+{"id": "table/strtable.csv:2647:2", "source": "右手に憑依した人が騎乗するところ", "english": "Where the player possessing the right hand rides", "status": "draft"}
+{"id": "table/strtable.csv:2648:2", "source": "左手に憑依した人が騎乗するところ", "english": "Where the player possessing the left hand rides", "status": "draft"}
+{"id": "table/strtable.csv:2649:2", "source": "胸アクセサリーに憑依した人が騎乗するところ", "english": "Where the player possessing the chest accessory rides", "status": "draft"}
+{"id": "table/strtable.csv:2650:2", "source": "上半身装備に憑依した人が騎乗するところ", "english": "Where the player possessing the upper-body equipment rides", "status": "draft"}
+{"id": "table/strtable.csv:2651:2", "source": "やっぱりやめる", "english": "Cancel", "status": "draft"}
+{"id": "table/strtable.csv:2652:2", "source": "何らかの原因で失敗しました。", "english": "Failed for some reason.", "status": "draft"}
+{"id": "table/strtable.csv:2653:2", "source": "家具が存在しないため騎乗できませんでした。", "english": "Could not ride because the furniture does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:2654:2", "source": "既に他の人が騎乗しているため、騎乗できませんでした。", "english": "Could not ride because someone else is already riding.", "status": "draft"}
+{"id": "table/strtable.csv:2655:2", "source": "パートナーを装備しているため騎乗できませんでした。", "english": "Could not ride while a Partner is equipped.", "status": "draft"}
+{"id": "table/strtable.csv:2656:2", "source": "騎乗できる状態ではありません。", "english": "You are not in a state where you can ride.", "status": "draft"}
+{"id": "table/strtable.csv:2657:2", "source": "差し押さえ状態のため、騎乗できませんでした。", "english": "Cannot ride because it is repossessed.", "status": "draft"}
+{"id": "table/strtable.csv:2658:2", "source": "マシナフォーム中は騎乗できません。", "english": "You cannot ride while in Machina Form.", "status": "draft"}
+{"id": "table/strtable.csv:2660:2", "source": "本体に戻る", "english": "Return to Body", "status": "draft"}
+{"id": "table/strtable.csv:2661:2", "source": "チャットルームから退室する", "english": "Leave Chat Room", "status": "draft"}
+{"id": "table/strtable.csv:2662:2", "source": "フォームチェンジ", "english": "Form Change", "status": "draft"}
+{"id": "table/strtable.csv:2663:2", "source": "ノーマルフォーム", "english": "Normal Form", "status": "draft"}
+{"id": "table/strtable.csv:2664:2", "source": "マシナフォーム", "english": "Machina Form", "status": "draft"}
+{"id": "table/strtable.csv:2666:2", "source": "毎日スタンプ帳", "english": "Daily Stamp Book", "status": "draft"}
+{"id": "table/strtable.csv:2667:2", "source": "師弟関係を結ぶ", "english": "Become Mentor and Apprentice", "status": "draft"}
+{"id": "table/strtable.csv:2668:2", "source": "師弟関係を解消する", "english": "End Mentor and Apprentice Relationship", "status": "draft"}
+{"id": "table/strtable.csv:2669:2", "source": "パートナーステータス表示", "english": "Show Partner Status", "status": "draft"}
+{"id": "table/strtable.csv:2670:2", "source": "かんたんAI設定ウィンドウ表示", "english": "Show Simple AI Settings", "status": "draft"}
+{"id": "table/strtable.csv:2671:2", "source": "AIカスタムウィンドウ表示", "english": "Show AI Customization Window", "status": "draft"}
+{"id": "table/strtable.csv:2672:2", "source": "パートナーセリフカスタマイズ", "english": "Customize Partner Lines", "status": "draft"}
+{"id": "table/strtable.csv:2673:2", "source": "リサイクルゲージ", "english": "Recycle Gauge", "status": "draft"}
+{"id": "table/strtable.csv:2674:2", "source": "装備情報表示", "english": "Show Equipment Info", "status": "draft"}
+{"id": "table/strtable.csv:2675:2", "source": "旅人のメモ", "english": "Traveler Memo", "status": "draft"}
+{"id": "table/strtable.csv:2676:2", "source": "軍勢力ゲージ", "english": "Army Strength Gauge", "status": "draft"}
+{"id": "table/strtable.csv:2677:2", "source": "脱退", "english": "Leave", "status": "draft"}
+{"id": "table/strtable.csv:2678:2", "source": "チームを解散する", "english": "Disband Team", "status": "draft"}
+{"id": "table/strtable.csv:2679:2", "source": "オートラン", "english": "Auto-Run", "status": "draft"}
+{"id": "table/strtable.csv:2682:2", "source": "ジョブスイッチ", "english": "Job Switching", "status": "draft"}
+{"id": "table/strtable.csv:2683:2", "source": "職業レベルの減衰値を和らげる効果の$rアイテム使用数を決定します。", "english": "Reduces the job-level penalty.$rSet how many items to use.", "status": "draft"}
+{"id": "table/strtable.csv:2686:2", "source": "持ち越しスキル選択", "english": "Select Inherited Skills", "status": "draft"}
+{"id": "table/strtable.csv:2689:2", "source": "持ち越しスキル", "english": "Inherited Skills", "status": "draft"}
+{"id": "table/strtable.csv:2690:2", "source": "成功", "english": "Success", "status": "draft"}
+{"id": "table/strtable.csv:2691:2", "source": "スイッチできる職業がありません", "english": "No jobs are available to switch to.", "status": "draft"}
+{"id": "table/strtable.csv:2692:2", "source": "選択されたパラメータがおかしいです", "english": "The selected parameter is invalid.", "status": "draft"}
+{"id": "table/strtable.csv:2693:2", "source": "注意！", "english": "Warning!", "status": "draft"}
+{"id": "table/strtable.csv:2694:2", "source": "持ち越しスキルの数が最大値ではありません", "english": "The number of inherited skills is not at its maximum.", "status": "draft"}
+{"id": "table/strtable.csv:2697:2", "source": "WRPランキング", "english": "WRP Ranking", "status": "draft"}
+{"id": "table/strtable.csv:2698:2", "source": "ランク外", "english": "Unranked", "status": "draft"}
+{"id": "table/strtable.csv:2699:2", "source": "PvPでの経験値取得$r%d%%アップ中", "english": "EXP gained in PvP$r+%d%%", "status": "draft"}

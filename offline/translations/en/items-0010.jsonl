@@ -1,0 +1,122 @@
+{"id": "table/item.csv:1126:4", "source": "記憶の砂", "english": "Memory Sand", "status": "draft"}
+{"id": "table/item.csv:1128:4", "source": "古びた懐中時計（イベント）", "english": "Old Pocket Watch (Event)", "status": "draft"}
+{"id": "table/item.csv:1129:4", "source": "角笛", "english": "Dragon Horn", "status": "draft", "note": "Creature/title rendering is literal; official name not verified."}
+{"id": "table/item.csv:1130:4", "source": "ユニコーンの角", "english": "Unicorn Horn", "status": "draft"}
+{"id": "table/item.csv:1131:4", "source": "紋章紙", "english": "Crest Paper", "status": "draft"}
+{"id": "table/item.csv:1132:4", "source": "古ぼけた地図（イベント）", "english": "Worn Map (Event)", "status": "draft"}
+{"id": "table/item.csv:1133:4", "source": "赤鬼の札", "english": "Red Ogre Talisman", "status": "draft"}
+{"id": "table/item.csv:1134:4", "source": "青鬼の札", "english": "Blue Ogre Talisman", "status": "draft"}
+{"id": "table/item.csv:1135:4", "source": "信頼のお札", "english": "Trust Talisman", "status": "draft"}
+{"id": "table/item.csv:1136:4", "source": "桃鬼の札", "english": "Pink Ogre Talisman", "status": "draft"}
+{"id": "table/item.csv:1137:4", "source": "灰鬼の札", "english": "Gray Ogre Talisman", "status": "draft"}
+{"id": "table/item.csv:1138:4", "source": "ネズミ守りの札", "english": "Mouse Talisman", "status": "draft"}
+{"id": "table/item.csv:1139:4", "source": "ウシ守りの札", "english": "Ox Talisman", "status": "draft"}
+{"id": "table/item.csv:1140:4", "source": "夢幻の花（イベント）", "english": "Dream Flower (Event)", "status": "draft"}
+{"id": "table/item.csv:1141:4", "source": "助けてドガちゃん！（イベント）", "english": "Help, Doga-chan! (Event)", "status": "draft", "note": "Doga-chan is rendered phonetically; official English name not verified."}
+{"id": "table/item.csv:1142:4", "source": "トラ守りの札", "english": "Tiger Talisman", "status": "draft"}
+{"id": "table/item.csv:1143:4", "source": "ウサギ守りの札", "english": "Rabbit Talisman", "status": "draft"}
+{"id": "table/item.csv:1144:4", "source": "ウサギの忘れ物（イベント）", "english": "Rabbit’s Lost Item (Event)", "status": "draft"}
+{"id": "table/item.csv:1145:4", "source": "タツ守りの札", "english": "Dragon Talisman", "status": "draft"}
+{"id": "table/item.csv:1146:4", "source": "ウマ守りの札", "english": "Horse Talisman", "status": "draft"}
+{"id": "table/item.csv:1147:4", "source": "ヒツジ守りの札", "english": "Sheep Talisman", "status": "draft"}
+{"id": "table/item.csv:1148:4", "source": "サル守りの札", "english": "Monkey Talisman", "status": "draft"}
+{"id": "table/item.csv:1149:4", "source": "トリ守りの札", "english": "Bird Talisman", "status": "draft"}
+{"id": "table/item.csv:1150:4", "source": "おふだ（クエスト）", "english": "Northern Talisman (Quest)", "status": "draft"}
+{"id": "table/item.csv:1151:4", "source": "ローパーの触手", "english": "Roper Tentacle", "status": "draft", "note": "Monster name rendered phonetically; official English form not verified."}
+{"id": "table/item.csv:1152:4", "source": "アーチンのとげ", "english": "Urchin Spike", "status": "draft"}
+{"id": "table/item.csv:1153:4", "source": "ランドアーチンのとげ", "english": "Land Urchin Spike", "status": "draft"}
+{"id": "table/item.csv:1155:4", "source": "キメラの毒牙", "english": "Chimera Poison Fang", "status": "draft"}
+{"id": "table/item.csv:1156:4", "source": "エッジのとげ", "english": "Edge Spike", "status": "draft", "note": "“Edge” creature name may have an official form; unverified."}
+{"id": "table/item.csv:1157:4", "source": "いばらのトゲ", "english": "Briar Thorn", "status": "draft"}
+{"id": "table/item.csv:1158:4", "source": "ペリドットのとげ", "english": "Peridot Spike", "status": "draft"}
+{"id": "table/item.csv:1159:4", "source": "金色の牙", "english": "Golden Fang", "status": "draft"}
+{"id": "table/item.csv:1160:4", "source": "カンカンのとげ", "english": "Kankan Spike", "status": "draft", "note": "Creature name rendered phonetically; official English form not verified."}
+{"id": "table/item.csv:1161:4", "source": "キャビアーチンのとげ", "english": "Caviar Urchin Spike", "status": "draft", "note": "Creature name rendered descriptively; official English form not verified."}
+{"id": "table/item.csv:1162:4", "source": "メタルアーチンのとげ", "english": "Metal Urchin Spike", "status": "draft"}
+{"id": "table/item.csv:1163:4", "source": "鉄のとげ", "english": "Iron Spike", "status": "draft"}
+{"id": "table/item.csv:1164:4", "source": "ウィリー・ドゥの玉", "english": "Willy Do Orb", "status": "draft", "note": "Creature name rendered phonetically; official English form not verified."}
+{"id": "table/item.csv:1165:4", "source": "ライチーの玉", "english": "Litchi Orb", "status": "draft", "note": "Creature name rendered phonetically; official English form not verified."}
+{"id": "table/item.csv:1166:4", "source": "マスケットの銃筒", "english": "Musket Barrel", "status": "draft"}
+{"id": "table/item.csv:1167:4", "source": "マッチロックの銃筒", "english": "Matchlock Barrel", "status": "draft"}
+{"id": "table/item.csv:1168:4", "source": "オートマチックの銃筒（銀）", "english": "Automatic Gun Barrel (Silver)", "status": "draft"}
+{"id": "table/item.csv:1169:4", "source": "オートマチックの銃筒（黒）", "english": "Automatic Gun Barrel (Black)", "status": "draft"}
+{"id": "table/item.csv:1170:4", "source": "マグナムの銃筒", "english": "Magnum Barrel", "status": "draft"}
+{"id": "table/item.csv:1171:4", "source": "サイコガンの銃筒", "english": "Psycho Gun Barrel", "status": "draft"}
+{"id": "table/item.csv:1172:4", "source": "マスケットライフルの銃筒", "english": "Musket Rifle Barrel", "status": "draft"}
+{"id": "table/item.csv:1173:4", "source": "ライフルの銃筒", "english": "Rifle Barrel", "status": "draft"}
+{"id": "table/item.csv:1174:4", "source": "スナイパーライフルの銃筒", "english": "Sniper Rifle Barrel", "status": "draft"}
+{"id": "table/item.csv:1175:4", "source": "アサルトライフルの銃筒", "english": "Assault Rifle Barrel", "status": "draft"}
+{"id": "table/item.csv:1176:4", "source": "ラスト・キッスの銃筒", "english": "Last Kiss Barrel", "status": "draft", "note": "Item name rendered literally; official English form not verified."}
+{"id": "table/item.csv:1177:4", "source": "銃床", "english": "Gunstock", "status": "draft"}
+{"id": "table/item.csv:1178:4", "source": "銃の機関部", "english": "Gun Mechanism", "status": "draft"}
+{"id": "table/item.csv:1179:4", "source": "銃の機関部（クエスト）", "english": "Gun Mechanism (Quest)", "status": "draft"}
+{"id": "table/item.csv:1180:4", "source": "棒切れ", "english": "Stick", "status": "draft"}
+{"id": "table/item.csv:1181:4", "source": "実包", "english": "Cartridge", "status": "draft"}
+{"id": "table/item.csv:1182:4", "source": "炎の実包", "english": "Fire Cartridge", "status": "draft"}
+{"id": "table/item.csv:1183:4", "source": "水の実包", "english": "Water Cartridge", "status": "draft"}
+{"id": "table/item.csv:1184:4", "source": "弱弾", "english": "Weak Bullet", "status": "draft"}
+{"id": "table/item.csv:1185:4", "source": "ECO弾", "english": "ECO Bullet", "status": "draft"}
+{"id": "table/item.csv:1186:4", "source": "風の実包", "english": "Wind Cartridge", "status": "draft"}
+{"id": "table/item.csv:1187:4", "source": "大地の実包", "english": "Earth Cartridge", "status": "draft"}
+{"id": "table/item.csv:1188:4", "source": "光の実包", "english": "Light Cartridge", "status": "draft"}
+{"id": "table/item.csv:1189:4", "source": "闇の実包", "english": "Dark Cartridge", "status": "draft"}
+{"id": "table/item.csv:1190:4", "source": "毒の実包", "english": "Poison Cartridge", "status": "draft"}
+{"id": "table/item.csv:1191:4", "source": "石化の実包", "english": "Petrification Cartridge", "status": "draft"}
+{"id": "table/item.csv:1192:4", "source": "麻痺の実包", "english": "Paralysis Cartridge", "status": "draft"}
+{"id": "table/item.csv:1193:4", "source": "睡眠の実包", "english": "Sleep Cartridge", "status": "draft"}
+{"id": "table/item.csv:1194:4", "source": "沈黙の実包", "english": "Silence Cartridge", "status": "draft"}
+{"id": "table/item.csv:1195:4", "source": "鈍足の実包", "english": "Slow Cartridge", "status": "draft"}
+{"id": "table/item.csv:1196:4", "source": "混乱の実包", "english": "Confusion Cartridge", "status": "draft"}
+{"id": "table/item.csv:1197:4", "source": "凍結の実包", "english": "Freeze Cartridge", "status": "draft"}
+{"id": "table/item.csv:1198:4", "source": "気絶の実包", "english": "Stun Cartridge", "status": "draft"}
+{"id": "table/item.csv:1199:4", "source": "コルクの栓", "english": "Cork Stopper", "status": "draft"}
+{"id": "table/item.csv:1200:4", "source": "高性能実包", "english": "High-Power Cartridge", "status": "draft"}
+{"id": "table/item.csv:1201:4", "source": "銀弾", "english": "Silver Bullet", "status": "draft"}
+{"id": "table/item.csv:1202:4", "source": "黄金弾", "english": "Gold Bullet", "status": "draft"}
+{"id": "table/item.csv:1203:4", "source": "弾丸", "english": "Bullet", "status": "draft"}
+{"id": "table/item.csv:1204:4", "source": "ゼロピー", "english": "Zeropy", "status": "draft", "note": "Item name rendered phonetically; official English form not verified."}
+{"id": "table/item.csv:1205:4", "source": "銀の弾丸", "english": "Silver Bullet", "status": "draft"}
+{"id": "table/item.csv:1206:4", "source": "金の弾丸", "english": "Gold Bullet", "status": "draft"}
+{"id": "table/item.csv:1207:4", "source": "弾丸（クエスト）", "english": "Bullet (Quest)", "status": "draft"}
+{"id": "table/item.csv:1208:4", "source": "マグナム弾", "english": "Magnum Bullet", "status": "draft"}
+{"id": "table/item.csv:1209:4", "source": "散弾", "english": "Shotgun Shells", "status": "draft"}
+{"id": "table/item.csv:1210:4", "source": "黒キャビア", "english": "Black Caviar", "status": "draft"}
+{"id": "table/item.csv:1211:4", "source": "黒キャビア（クエスト）", "english": "Black Caviar (Quest)", "status": "draft"}
+{"id": "table/item.csv:1212:4", "source": "木の矢", "english": "Wooden Arrow", "status": "draft"}
+{"id": "table/item.csv:1213:4", "source": "手作りの矢", "english": "Handmade Arrow", "status": "draft"}
+{"id": "table/item.csv:1214:4", "source": "魔法回復の矢", "english": "Magic Recovery Arrow", "status": "draft"}
+{"id": "table/item.csv:1215:4", "source": "回復の矢", "english": "Recovery Arrow", "status": "draft"}
+{"id": "table/item.csv:1216:4", "source": "スタミナ回復の矢", "english": "Stamina Recovery Arrow", "status": "draft"}
+{"id": "table/item.csv:1217:4", "source": "手作りの矢+1", "english": "Handmade Arrow +1", "status": "draft"}
+{"id": "table/item.csv:1218:4", "source": "手作りの矢+2", "english": "Handmade Arrow +2", "status": "draft"}
+{"id": "table/item.csv:1219:4", "source": "矢束", "english": "Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1220:4", "source": "手作りの矢束", "english": "Handmade Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1221:4", "source": "魔法回復の矢束", "english": "Magic Recovery Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1222:4", "source": "回復の矢束", "english": "Recovery Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1223:4", "source": "スタミナ回復の矢束", "english": "Stamina Recovery Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1224:4", "source": "大きな矢束", "english": "Large Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1225:4", "source": "木の矢（クエスト）", "english": "Wooden Arrow (Quest)", "status": "draft"}
+{"id": "table/item.csv:1226:4", "source": "炎の矢", "english": "Fire Arrow", "status": "draft"}
+{"id": "table/item.csv:1227:4", "source": "闇の矢", "english": "Dark Arrow", "status": "draft"}
+{"id": "table/item.csv:1228:4", "source": "水の矢", "english": "Water Arrow", "status": "draft"}
+{"id": "table/item.csv:1229:4", "source": "大地の矢", "english": "Earth Arrow", "status": "draft"}
+{"id": "table/item.csv:1230:4", "source": "風の矢", "english": "Wind Arrow", "status": "draft"}
+{"id": "table/item.csv:1231:4", "source": "光の矢", "english": "Light Arrow", "status": "draft"}
+{"id": "table/item.csv:1232:4", "source": "矢束（炎）", "english": "Elemental Arrow Bundle (Fire)", "status": "draft"}
+{"id": "table/item.csv:1233:4", "source": "矢束（闇）", "english": "Elemental Arrow Bundle (Dark)", "status": "draft"}
+{"id": "table/item.csv:1234:4", "source": "矢束（水）", "english": "Elemental Arrow Bundle (Water)", "status": "draft"}
+{"id": "table/item.csv:1235:4", "source": "矢束（大地）", "english": "Elemental Arrow Bundle (Earth)", "status": "draft"}
+{"id": "table/item.csv:1236:4", "source": "矢束（風）", "english": "Elemental Arrow Bundle (Wind)", "status": "draft"}
+{"id": "table/item.csv:1237:4", "source": "矢束（光）", "english": "Elemental Arrow Bundle (Light)", "status": "draft"}
+{"id": "table/item.csv:1238:4", "source": "大きな矢束（炎）", "english": "Large Elemental Arrow Bundle (Fire)", "status": "draft"}
+{"id": "table/item.csv:1239:4", "source": "大きな矢束（闇）", "english": "Large Elemental Arrow Bundle (Dark)", "status": "draft"}
+{"id": "table/item.csv:1240:4", "source": "大きな矢束（水）", "english": "Large Elemental Arrow Bundle (Water)", "status": "draft"}
+{"id": "table/item.csv:1241:4", "source": "大きな矢束（大地）", "english": "Large Elemental Arrow Bundle (Earth)", "status": "draft"}
+{"id": "table/item.csv:1242:4", "source": "大きな矢束（風）", "english": "Large Elemental Arrow Bundle (Wind)", "status": "draft"}
+{"id": "table/item.csv:1243:4", "source": "大きな矢束（光）", "english": "Large Elemental Arrow Bundle (Light)", "status": "draft"}
+{"id": "table/item.csv:1245:4", "source": "鋼の矢", "english": "Steel Arrow", "status": "draft"}
+{"id": "table/item.csv:1246:4", "source": "破魔矢", "english": "Hamaya Arrow", "status": "draft", "note": "Traditional term rendered as “Hamaya Arrow”; official game term not verified."}
+{"id": "table/item.csv:1247:4", "source": "鋼の矢束", "english": "Steel Arrow Bundle", "status": "draft"}
+{"id": "table/item.csv:1248:4", "source": "爆矢", "english": "Explosive Arrow", "status": "draft"}
+{"id": "table/item.csv:1249:4", "source": "爆矢（クエスト）", "english": "Explosive Arrow (Quest)", "status": "draft"}
+{"id": "table/item.csv:1250:4", "source": "ミサイル", "english": "Missile", "status": "draft"}

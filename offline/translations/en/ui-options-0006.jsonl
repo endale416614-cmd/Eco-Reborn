@@ -1,0 +1,145 @@
+{"id": "table/strtable.csv:2411:2", "source": "の拡張に失敗しました", "english": " slot expansion failed.", "status": "draft"}
+{"id": "table/strtable.csv:2412:2", "source": "拡張を行うためのお金が足りません", "english": "Not enough money for slot expansion.", "status": "draft"}
+{"id": "table/strtable.csv:2413:2", "source": "拡張を行うアイテムが存在しません", "english": "No item to expand.", "status": "draft"}
+{"id": "table/strtable.csv:2414:2", "source": "拡張材料がありません", "english": "No expansion materials.", "status": "draft"}
+{"id": "table/strtable.csv:2415:2", "source": "対応する拡張材料がありません", "english": "No compatible expansion materials.", "status": "draft"}
+{"id": "table/strtable.csv:2416:2", "source": "スロット拡張状態中ではないため失敗しました", "english": "Failed because slot expansion is not active.", "status": "draft"}
+{"id": "table/strtable.csv:2417:2", "source": "取得経験値が変動したためスキルをキャンセルし、バックパッカーボーナス経験を取得しませんでした", "english": "The skill was canceled because the EXP gained changed; no Backpacker bonus EXP was awarded.", "status": "draft"}
+{"id": "table/strtable.csv:2418:2", "source": "取得経験値が変動したため$rスキルをキャンセルし、バックパッカーボーナス経験を$r取得しませんでした", "english": "Because the EXP gained changed,$rthe skill was canceled and Backpacker bonus EXP$rwas not awarded.", "status": "draft"}
+{"id": "table/strtable.csv:2420:2", "source": "拡張するアイテム", "english": "Item to Expand", "status": "draft"}
+{"id": "table/strtable.csv:2421:2", "source": "素材アイテム", "english": "Material Items", "status": "draft"}
+{"id": "table/strtable.csv:2422:2", "source": "補助アイテム", "english": "Support Items", "status": "draft"}
+{"id": "table/strtable.csv:2423:2", "source": "選択されたアイテム", "english": "Selected Items", "status": "draft"}
+{"id": "table/strtable.csv:2424:2", "source": "%s を", "english": "Expand %s", "status": "draft"}
+{"id": "table/strtable.csv:2425:2", "source": "%s でスロット拡張します。", "english": "using %s for slot expansion.", "status": "draft"}
+{"id": "table/strtable.csv:2426:2", "source": "拡張時に %s を使用します。", "english": "Use %s during expansion.", "status": "draft"}
+{"id": "table/strtable.csv:2427:2", "source": "拡張時に %s を使用します。", "english": "Use %s during expansion.", "status": "draft"}
+{"id": "table/strtable.csv:2428:2", "source": "成功時", "english": "On Success", "status": "draft"}
+{"id": "table/strtable.csv:2429:2", "source": "失敗時", "english": "On Failure", "status": "draft"}
+{"id": "table/strtable.csv:2430:2", "source": "拡張アイテム消滅$r※ 上記は補助アイテムで防ぐことが可能です。", "english": "The item being expanded will be destroyed.$r※ This can be prevented with a support item.", "status": "draft"}
+{"id": "table/strtable.csv:2431:2", "source": "拡張アイテム消滅$r※ 上記は補助アイテムで防ぐことが可能です。", "english": "The item being expanded will be destroyed.$r※ This can be prevented with a support item.", "status": "draft"}
+{"id": "table/strtable.csv:2432:2", "source": "選択した拡張するアイテム、装着されたイリスカードは$r消滅しません。", "english": "The selected item being expanded and its attached Iris Cards$rwill not be destroyed.", "status": "draft"}
+{"id": "table/strtable.csv:2433:2", "source": "補助アイテム使用により、失敗はしません。", "english": "Using a support item prevents failure.", "status": "draft"}
+{"id": "table/strtable.csv:2435:2", "source": "拡張中・・・", "english": "Expanding...", "status": "draft"}
+{"id": "table/strtable.csv:2436:2", "source": "拡張に成功しました！", "english": "Expansion succeeded!", "status": "draft"}
+{"id": "table/strtable.csv:2437:2", "source": "拡張に失敗しました", "english": "Expansion failed.", "status": "draft"}
+{"id": "table/strtable.csv:2438:2", "source": "拡張アイテムが消滅しました…", "english": "The item being expanded was destroyed...", "status": "draft"}
+{"id": "table/strtable.csv:2439:2", "source": "拡張アイテムが消滅しました…", "english": "The item being expanded was destroyed...", "status": "draft"}
+{"id": "table/strtable.csv:2440:2", "source": "補助アイテムの効果により、$r拡張アイテムは消滅しませんでした。", "english": "Thanks to the support item,$rthe item being expanded was not destroyed.", "status": "draft"}
+{"id": "table/strtable.csv:2443:2", "source": " \"カードアセンブルを行うカード\"", "english": " \"Card for Card Assembly\"", "status": "draft"}
+{"id": "table/strtable.csv:2444:2", "source": "カードアセンブル", "english": "Card Assembly", "status": "draft"}
+{"id": "table/strtable.csv:2446:2", "source": "カードアセンブルを行います。$r成功、失敗に関わらず、材料となるアイテムは消滅します。", "english": "Card Assembly will begin.$rThe material item will be destroyed whether it succeeds or fails.", "status": "draft"}
+{"id": "table/strtable.csv:2447:2", "source": "   手数料として、%dGOLDいただくわよ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　まぁ、大丈夫なんじゃない？", "english": "   The fee is %d GOLD.$r　The materials will be lost whether it succeeds or fails!$r　Well, it should be fine, right?", "status": "draft"}
+{"id": "table/strtable.csv:2448:2", "source": "   手数料として、%dGOLDいただくわよ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　たぶん平気だけど……", "english": "   The fee is %d GOLD.$r　The materials will be lost whether it succeeds or fails!$r　It will probably be fine, but...", "status": "draft"}
+{"id": "table/strtable.csv:2449:2", "source": "   手数料として、%dGOLDいただくわよ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　確率半分あるかどうか……", "english": "   The fee is %d GOLD.$r　The materials will be lost whether it succeeds or fails!$r　I wonder if the chance is even one in two...", "status": "draft"}
+{"id": "table/strtable.csv:2450:2", "source": "   手数料として、%dGOLDいただくわよ。$r　あと、成功、失敗に関わらず、材料となるアイテムは無くなるからね！$r　一か八かだけど、いい？", "english": "   The fee is %d GOLD.$r　The materials will be lost whether it succeeds or fails!$r　It is all or nothing. Are you sure?", "status": "draft"}
+{"id": "table/strtable.csv:2451:2", "source": "▼取得バックパッカーボーナス経験値", "english": "▼Backpacker Bonus EXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:2454:2", "source": "%dGOLDでカードアセンブルを行います。", "english": "Card Assembly for %d GOLD.", "status": "draft"}
+{"id": "table/strtable.csv:2455:2", "source": "※選択中のアイテムをダブルクリックすると選択がキャンセルされます。", "english": "※Double-click the selected item to cancel the selection.", "status": "draft"}
+{"id": "table/strtable.csv:2456:2", "source": "カードアセンブルを行います、よろしいですか？", "english": "Start Card Assembly?", "status": "draft"}
+{"id": "table/strtable.csv:2458:2", "source": "のアセンブルに成功しました", "english": " card assembly succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:2459:2", "source": "のアセンブルに失敗しました ", "english": " card assembly failed ", "status": "draft"}
+{"id": "table/strtable.csv:2460:2", "source": "所持金が足りません", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:2461:2", "source": "アイテムが一杯です", "english": "Inventory is full.", "status": "draft"}
+{"id": "table/strtable.csv:2462:2", "source": "カードアセンブル可能なアイテムを所持していません", "english": "You do not have an item that can be used for Card Assembly.", "status": "draft"}
+{"id": "table/strtable.csv:2463:2", "source": "アセンブルに使用するアイテムが不足しています", "english": "Not enough items for Card Assembly.", "status": "draft"}
+{"id": "table/strtable.csv:2464:2", "source": "アセンブル状態中ではないため失敗しました", "english": "Failed because Card Assembly is not active.", "status": "draft"}
+{"id": "table/strtable.csv:2465:2", "source": "取得経験値が変動したためスキルをキャンセルし、バックパッカーボーナス経験を取得しませんでした", "english": "The skill was canceled because the EXP gained changed; no Backpacker bonus EXP was awarded.", "status": "draft"}
+{"id": "table/strtable.csv:2466:2", "source": "取得経験値が変動したため$rスキルをキャンセルし、バックパッカーボーナス経験を$r取得しませんでした", "english": "Because the EXP gained changed,$rthe skill was canceled and Backpacker bonus EXP$rwas not awarded.", "status": "draft"}
+{"id": "table/strtable.csv:2468:2", "source": "エフェクト変化", "english": "Effect Change", "status": "draft"}
+{"id": "table/strtable.csv:2469:2", "source": "アセンブル失敗防止アイテム選択ウィンドウ", "english": "Assembly Failure Prevention Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2470:2", "source": "成功率上昇アイテム選択ウィンドウ", "english": "Success Rate Boost Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2471:2", "source": "使用しない", "english": "Do Not Use", "status": "draft"}
+{"id": "table/strtable.csv:2472:2", "source": "%s を使用し、アセンブルを行います", "english": "Use %s for Card Assembly.", "status": "draft"}
+{"id": "table/strtable.csv:2473:2", "source": "使用しないでよろしいですか？", "english": "Are you sure you do not want to use it?", "status": "draft"}
+{"id": "table/strtable.csv:2474:2", "source": "補助アイテムを使用せずにアセンブルを行いますか？", "english": "Perform Card Assembly without a support item?", "status": "draft"}
+{"id": "table/strtable.csv:2476:2", "source": "カードアセンブルを行うカード", "english": "Card for Card Assembly", "status": "draft"}
+{"id": "table/strtable.csv:2477:2", "source": "補助アイテム", "english": "Support Item", "status": "draft"}
+{"id": "table/strtable.csv:2478:2", "source": "選択されたアイテム", "english": "Selected Item", "status": "draft"}
+{"id": "table/strtable.csv:2479:2", "source": "アセンブル後", "english": "After Assembly", "status": "draft"}
+{"id": "table/strtable.csv:2480:2", "source": "%s を {NUM} 枚でカードアセンブルを行い", "english": "Assemble %s using {NUM} cards to make", "status": "draft"}
+{"id": "table/strtable.csv:2481:2", "source": "%s にします。", "english": "%s.", "status": "draft"}
+{"id": "table/strtable.csv:2482:2", "source": "カードアセンブル時に %s を使用します。", "english": "Use %s during Card Assembly.", "status": "draft"}
+{"id": "table/strtable.csv:2483:2", "source": "成功時", "english": "On Success", "status": "draft"}
+{"id": "table/strtable.csv:2484:2", "source": "失敗時", "english": "On Failure", "status": "draft"}
+{"id": "table/strtable.csv:2485:2", "source": "カードアセンブルを行うカード消滅$r※ 上記は補助アイテムで防ぐことが可能です。", "english": "The card used for Card Assembly will be destroyed.$r※ This can be prevented with a support item.", "status": "draft"}
+{"id": "table/strtable.csv:2486:2", "source": "カードアセンブルを行うカード消滅$r※ 上記は補助アイテムで防ぐことが可能です。", "english": "The card used for Card Assembly will be destroyed.$r※ This can be prevented with a support item.", "status": "draft"}
+{"id": "table/strtable.csv:2487:2", "source": "カードアセンブルを行うカードは消滅しません", "english": "The card used for Card Assembly will not be destroyed.", "status": "draft"}
+{"id": "table/strtable.csv:2488:2", "source": "補助アイテム使用により、失敗はしません。", "english": "Using a support item prevents failure.", "status": "draft"}
+{"id": "table/strtable.csv:2489:2", "source": "%s を {NUM} 枚消費", "english": "Consume %s x {NUM}", "status": "draft"}
+{"id": "table/strtable.csv:2490:2", "source": "%s を {NUM} 枚入手", "english": "Obtain %s x {NUM}", "status": "draft"}
+{"id": "table/strtable.csv:2492:2", "source": "アセンブル中・・・", "english": "Assembling...", "status": "draft"}
+{"id": "table/strtable.csv:2493:2", "source": "アセンブルに成功しました！", "english": "Card Assembly succeeded!", "status": "draft"}
+{"id": "table/strtable.csv:2494:2", "source": "アセンブルに失敗しました", "english": "Card Assembly failed.", "status": "draft"}
+{"id": "table/strtable.csv:2495:2", "source": "カードが消滅しました…", "english": "The card was destroyed...", "status": "draft"}
+{"id": "table/strtable.csv:2496:2", "source": "カードが消滅しました…", "english": "The card was destroyed...", "status": "draft"}
+{"id": "table/strtable.csv:2497:2", "source": "補助アイテムの効果により、$rカードは消滅しませんでした。", "english": "Thanks to the support item,$rthe card was not destroyed.", "status": "draft"}
+{"id": "table/strtable.csv:2500:2", "source": "パーツカスタマイズ", "english": "Part Customization", "status": "draft"}
+{"id": "table/strtable.csv:2503:2", "source": " \"パーツを強化するアイテム\"", "english": " \"Item used to enhance parts\"", "status": "draft"}
+{"id": "table/strtable.csv:2504:2", "source": "パーツ強化", "english": "Part Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:2506:2", "source": "材料", "english": "Materials", "status": "draft"}
+{"id": "table/strtable.csv:2507:2", "source": "強化後", "english": "After Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:2508:2", "source": " \"%s を使用し、強化を行います\"", "english": " \"Use %s for enhancement.\"", "status": "draft"}
+{"id": "table/strtable.csv:2509:2", "source": "%s を %d個使用し、強化を行います", "english": "Use %s, %d items, for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2510:2", "source": "エフェクト変化", "english": "Effect Change", "status": "draft"}
+{"id": "table/strtable.csv:2511:2", "source": "強化失敗防止アイテム選択ウィンドウ", "english": "Enhancement Failure Prevention Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2512:2", "source": "成功率上昇アイテム選択ウィンドウ", "english": "Success Rate Boost Item Selection", "status": "draft"}
+{"id": "table/strtable.csv:2513:2", "source": "使用しない", "english": "Do Not Use", "status": "draft"}
+{"id": "table/strtable.csv:2514:2", "source": "%s を使用し、強化を行います", "english": "Use %s for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2515:2", "source": "使用しないでよろしいですか？", "english": "Are you sure you do not want to use it?", "status": "draft"}
+{"id": "table/strtable.csv:2516:2", "source": "補助アイテムを使用せずに強化を行いますか？", "english": "Enhance without using a support item?", "status": "draft"}
+{"id": "table/strtable.csv:2519:2", "source": "の強化に成功しました", "english": " enhancement succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:2520:2", "source": "の強化に失敗しました", "english": " enhancement failed.", "status": "draft"}
+{"id": "table/strtable.csv:2521:2", "source": "強化を行うためのお金が足りません", "english": "Not enough money for enhancement.", "status": "draft"}
+{"id": "table/strtable.csv:2522:2", "source": "強化を行うアイテムが存在しません", "english": "No item to enhance.", "status": "draft"}
+{"id": "table/strtable.csv:2523:2", "source": "強化材料がありません", "english": "No enhancement materials.", "status": "draft"}
+{"id": "table/strtable.csv:2524:2", "source": "対応する強化材料がありません", "english": "No compatible enhancement materials.", "status": "draft"}
+{"id": "table/strtable.csv:2528:2", "source": "飛空庭製造", "english": "Sky Garden Construction", "status": "draft"}
+{"id": "table/strtable.csv:2529:2", "source": "飛空庭改造", "english": "Sky Garden Renovation", "status": "draft"}
+{"id": "table/strtable.csv:2530:2", "source": "飛空庭倉庫", "english": "Sky Garden Storage", "status": "draft"}
+{"id": "table/strtable.csv:2531:2", "source": "ゲストの入庭許可設定", "english": "Set guest entry permissions", "status": "draft"}
+{"id": "table/strtable.csv:2534:2", "source": "フレンド全員を", "english": "All Friends", "status": "draft"}
+{"id": "table/strtable.csv:2535:2", "source": "リング全員を", "english": "All Ring Members", "status": "draft"}
+{"id": "table/strtable.csv:2536:2", "source": "パーティ全員を", "english": "All Party Members", "status": "draft"}
+{"id": "table/strtable.csv:2539:2", "source": "預けている数", "english": "Amount stored", "status": "draft"}
+{"id": "table/strtable.csv:2540:2", "source": "アイテム数が許容量を超えてしまう為キャンセルされました", "english": "Canceled because the number of items would exceed capacity.", "status": "draft"}
+{"id": "table/strtable.csv:2543:2", "source": "配置", "english": "Place", "status": "draft"}
+{"id": "table/strtable.csv:2544:2", "source": "位置を決めてください。", "english": "Choose a position.", "status": "draft"}
+{"id": "table/strtable.csv:2546:2", "source": "左ドラッグ → 座標移動", "english": "Left-drag: Move position", "status": "draft"}
+{"id": "table/strtable.csv:2547:2", "source": "右ドラッグ → Y軸回転", "english": "Right-drag: Rotate around Y axis", "status": "draft"}
+{"id": "table/strtable.csv:2548:2", "source": "Ctl+右ドラッグ → X軸回転", "english": "Ctrl + right-drag: Rotate around X axis", "status": "draft"}
+{"id": "table/strtable.csv:2549:2", "source": "Shift+右ドラッグ → Z軸回転", "english": "Shift + right-drag: Rotate around Z axis", "status": "draft"}
+{"id": "table/strtable.csv:2551:2", "source": "軸X", "english": "Axis X", "status": "draft"}
+{"id": "table/strtable.csv:2552:2", "source": "軸Y", "english": "Axis Y", "status": "draft"}
+{"id": "table/strtable.csv:2553:2", "source": "軸Z", "english": "Axis Z", "status": "draft"}
+{"id": "table/strtable.csv:2554:2", "source": "回転", "english": "Rotation", "status": "draft"}
+{"id": "table/strtable.csv:2555:2", "source": "高さ", "english": "Height", "status": "draft"}
+{"id": "table/strtable.csv:2556:2", "source": "位置スナップ", "english": "Snap to Position", "status": "draft"}
+{"id": "table/strtable.csv:2557:2", "source": "座標(X=%4d/ Y=%4d/ Z=%4d)", "english": "Coordinates (X=%4d / Y=%4d / Z=%4d)", "status": "draft"}
+{"id": "table/strtable.csv:2559:2", "source": "家具を設置出来ない場所です", "english": "Furniture cannot be placed here.", "status": "draft"}
+{"id": "table/strtable.csv:2562:2", "source": "モンスタースタンプ帳", "english": "Monster Stamp Book", "status": "draft"}
+{"id": "table/strtable.csv:2563:2", "source": "プルルスタンプ", "english": "Pururu Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2564:2", "source": "平原のスタンプ", "english": "Plains Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2565:2", "source": "海岸のスタンプ", "english": "Coast Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2566:2", "source": "荒野のスタンプ", "english": "Wasteland Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2567:2", "source": "大陸ダンジョンのスタンプ", "english": "Continent Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2568:2", "source": "雪国のスタンプ", "english": "Snow Country Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2569:2", "source": "廃炭鉱ダンジョンのスタンプ", "english": "Abandoned Coal Mine Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2570:2", "source": "ノーザンダンジョンのスタンプ", "english": "Northern Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2571:2", "source": "アイアンサウスのスタンプ", "english": "Iron South Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2572:2", "source": "サウスダンジョンのスタンプ", "english": "South Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2573:2", "source": "ノーザン地下ダンジョンのスタンプ", "english": "Northern Underground Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2574:2", "source": "イーストダンジョンのスタンプ", "english": "East Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2575:2", "source": "バオバブの森フィールドのスタンプ", "english": "Baobab Forest Field Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2576:2", "source": "神託の風穴ダンジョンのスタンプ", "english": "Oracle Wind Cave Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2577:2", "source": "海底洞窟ダンジョンのスタンプ", "english": "Undersea Cave Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2578:2", "source": "光の塔ダンジョンのスタンプ", "english": "Tower of Light Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2579:2", "source": "アンデッドの城ダンジョンのスタンプ", "english": "Undead Castle Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2580:2", "source": "マイマイダンジョンのスタンプ", "english": "Maimai Dungeon Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2581:2", "source": "タイタニアフィールドのスタンプ", "english": "Titania Field Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2582:2", "source": "ドミニオンフィールドのスタンプ", "english": "Dominion Field Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2583:2", "source": "スペシャルスタンプ", "english": "Special Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2584:2", "source": "オールコンプリートスタンプ", "english": "All Complete Stamp", "status": "draft"}
+{"id": "table/strtable.csv:2585:2", "source": "シークレット", "english": "Secret", "status": "draft"}
+{"id": "table/strtable.csv:2586:2", "source": "全てのスタンプ", "english": "All Stamps", "status": "draft"}
+{"id": "table/strtable.csv:2587:2", "source": "が揃った！", "english": "collected!", "status": "draft"}

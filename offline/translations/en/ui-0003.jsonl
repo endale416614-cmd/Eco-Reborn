@@ -1,0 +1,76 @@
+{"id":"table/strtable.csv:308:2","source":"パーティに誘う","english":"Invite to Party","status":"draft"}
+{"id":"table/strtable.csv:309:2","source":"リングに誘う","english":"Invite to Ring","status":"draft"}
+{"id":"table/strtable.csv:311:2","source":"キャラクター名を入力してください","english":"Enter a character name.","status":"draft"}
+{"id":"table/strtable.csv:312:2","source":"%sさんをフレンドに誘いますか？","english":"Invite %s to your friends list?","status":"draft"}
+{"id":"table/strtable.csv:314:2","source":"キャラクター名を入力してください","english":"Enter a character name.","status":"draft"}
+{"id":"table/strtable.csv:315:2","source":"%sさんをパーティに誘いますか？","english":"Invite %s to your party?","status":"draft"}
+{"id":"table/strtable.csv:317:2","source":"キャラクター名を入力してください","english":"Enter a character name.","status":"draft"}
+{"id":"table/strtable.csv:318:2","source":"%sさんをリングに誘いますか？","english":"Invite %s to your Ring?","status":"draft"}
+{"id":"table/strtable.csv:320:2","source":"オフライン","english":"Offline","status":"draft"}
+{"id":"table/strtable.csv:321:2","source":"オンライン","english":"Online","status":"draft"}
+{"id":"table/strtable.csv:322:2","source":"募集中","english":"Recruiting","status":"draft"}
+{"id":"table/strtable.csv:323:2","source":"取り込み中","english":"Busy","status":"draft"}
+{"id":"table/strtable.csv:324:2","source":"お話し中","english":"Talking","status":"draft"}
+{"id":"table/strtable.csv:325:2","source":"休憩中","english":"On break","status":"draft"}
+{"id":"table/strtable.csv:326:2","source":"退席中","english":"Away","status":"draft"}
+{"id":"table/strtable.csv:327:2","source":"戦闘中","english":"In combat","status":"draft"}
+{"id":"table/strtable.csv:328:2","source":"商売中","english":"Trading","status":"draft"}
+{"id":"table/strtable.csv:329:2","source":"憑依中","english":"In possession","status":"draft"}
+{"id":"table/strtable.csv:330:2","source":"クエスト中","english":"On a quest","status":"draft"}
+{"id":"table/strtable.csv:331:2","source":"お祭り中","english":"At a festival","status":"draft"}
+{"id":"table/strtable.csv:332:2","source":"連絡求む","english":"Contact me","status":"draft"}
+{"id":"table/strtable.csv:334:2","source":"飛空城 入手状況:","english":"Flying Castle acquisition status:","status":"draft","note":"Literal rendering; official English term unverified."}
+{"id":"table/strtable.csv:335:2","source":"未入手","english":"Not obtained","status":"draft"}
+{"id":"table/strtable.csv:336:2","source":"作成可能","english":"Available to create","status":"draft"}
+{"id":"table/strtable.csv:337:2","source":"入城済み","english":"Entered","status":"draft"}
+{"id":"table/strtable.csv:338:2","source":"作成中","english":"Under construction","status":"draft"}
+{"id":"table/strtable.csv:340:2","source":"名前","english":"Name","status":"draft"}
+{"id":"table/strtable.csv:341:2","source":"パートナー","english":"Partner","status":"draft"}
+{"id":"table/strtable.csv:342:2","source":"LV/転生","english":"LV/Rebirth","status":"draft"}
+{"id":"table/strtable.csv:343:2","source":"ランク","english":"Rank","status":"draft"}
+{"id":"table/strtable.csv:344:2","source":"信頼度","english":"Trust","status":"draft"}
+{"id":"table/strtable.csv:345:2","source":"状況","english":"Status","status":"draft"}
+{"id":"table/strtable.csv:349:2","source":"%d/未","english":"%d/Not reborn","status":"draft","note":"Interpreted from the adjacent LV/Rebirth header."}
+{"id":"table/strtable.csv:350:2","source":"%d/済","english":"%d/Reborn","status":"draft","note":"Interpreted from the adjacent LV/Rebirth header."}
+{"id":"table/strtable.csv:362:2","source":"準備中","english":"Preparing","status":"draft"}
+{"id":"table/strtable.csv:363:2","source":"準備完了","english":"Ready","status":"draft"}
+{"id":"table/strtable.csv:364:2","source":"ゲーム中","english":"In game","status":"draft"}
+{"id":"table/strtable.csv:365:2","source":"準備状況を更新しますか？","english":"Update the ready status?","status":"draft"}
+{"id":"table/strtable.csv:366:2","source":"パートナープロテクトを$r開始しますか？","english":"Start$rPartner Protect?","status":"draft"}
+{"id":"table/strtable.csv:367:2","source":"パートナープロテクトを$r今すぐ開始しますか？","english":"Start Partner Protect$rnow?","status":"draft"}
+{"id":"table/strtable.csv:371:2","source":"世界マップ","english":"World Map","status":"draft"}
+{"id":"table/strtable.csv:372:2","source":"ミニマップが表示出来ないマップです","english":"The minimap cannot be displayed on this map.","status":"draft"}
+{"id":"table/strtable.csv:375:2","source":"<対象マップ>","english":"<Target Map>","status":"draft"}
+{"id":"table/strtable.csv:376:2","source":"<対象モンスター>","english":"<Target Monster>","status":"draft"}
+{"id":"table/strtable.csv:377:2","source":"<依頼主>","english":"<Quest Giver>","status":"draft"}
+{"id":"table/strtable.csv:378:2","source":"<送り主>","english":"<Sender>","status":"draft"}
+{"id":"table/strtable.csv:379:2","source":"<受取人>","english":"<Recipient>","status":"draft"}
+{"id":"table/strtable.csv:381:2","source":"<対象NPC>","english":"<Target NPC>","status":"draft"}
+{"id":"table/strtable.csv:382:2","source":"<報告NPC>","english":"<NPC to Report To>","status":"draft"}
+{"id":"table/strtable.csv:385:2","source":"リングを結成しました","english":"Ring formed.","status":"draft"}
+{"id":"table/strtable.csv:386:2","source":"リングに参加しました","english":"Joined the Ring.","status":"draft"}
+{"id":"table/strtable.csv:387:2","source":"リングが解散されました","english":"The Ring was disbanded.","status":"draft"}
+{"id":"table/strtable.csv:388:2","source":"リングを脱退しました","english":"Left the Ring.","status":"draft"}
+{"id":"table/strtable.csv:389:2","source":"リングから追放されました","english":"Expelled from the Ring.","status":"draft"}
+{"id":"table/strtable.csv:390:2","source":"リングマスター・サブリングマスターを追放する事はできません","english":"You cannot expel the Ring Master or Sub-Ring Master.","status":"draft"}
+{"id":"table/strtable.csv:391:2","source":"%sさんを追放します。よろしいですか？","english":"Expel %s? Are you sure?","status":"draft"}
+{"id":"table/strtable.csv:392:2","source":"リングから脱退します。よろしいですか？","english":"Leave the Ring? Are you sure?","status":"draft"}
+{"id":"table/strtable.csv:393:2","source":"権限設定","english":"Permission Settings","status":"draft"}
+{"id":"table/strtable.csv:395:2","source":"権限の設定","english":"Set Permissions","status":"draft"}
+{"id":"table/strtable.csv:396:2","source":"追放","english":"Expel","status":"draft"}
+{"id":"table/strtable.csv:397:2","source":"ウィスパー","english":"Whisper","status":"draft"}
+{"id":"table/strtable.csv:398:2","source":"メール","english":"Mail","status":"draft"}
+{"id":"table/strtable.csv:400:2","source":"権限の設定","english":"Set Permissions","status":"draft"}
+{"id":"table/strtable.csv:401:2","source":"追放","english":"Expel","status":"draft"}
+{"id":"table/strtable.csv:402:2","source":"ウィスパー","english":"Whisper","status":"draft"}
+{"id":"table/strtable.csv:403:2","source":"メール送信先に追加","english":"Add as a mail recipient","status":"draft"}
+{"id":"table/strtable.csv:407:2","source":"脱退","english":"Leave","status":"draft"}
+{"id":"table/strtable.csv:409:2","source":"サブリングマスター権限$r リングに一人までです","english":"Sub-Ring Master permission$rOnly one member per Ring may hold this.","status":"draft"}
+{"id":"table/strtable.csv:410:2","source":"加入権限$r 人数制限はありません","english":"Recruitment permission$rMay be granted to any number of members.","status":"draft"}
+{"id":"table/strtable.csv:411:2","source":"追放権限$r 人数制限はありません","english":"Expulsion permission$rMay be granted to any number of members.","status":"draft"}
+{"id":"table/strtable.csv:412:2","source":"エクスパンションポイント使用権限$r人数制限はありません","english":"Expansion Point use permission$rMay be granted to any number of members.","status":"draft"}
+{"id":"table/strtable.csv:413:2","source":"リング倉庫取り出し権限$r 人数制限はありません","english":"Ring warehouse withdrawal permission$rMay be granted to any number of members.","status":"draft"}
+{"id":"table/strtable.csv:415:2","source":"相手が見つかりません","english":"Could not find the other player.","status":"draft"}
+{"id":"table/strtable.csv:416:2","source":"リングサーバーの応答がありません","english":"The Ring server did not respond.","status":"draft"}
+{"id":"table/strtable.csv:417:2","source":"相手がリング招待不許可設定です","english":"The other player has Ring invitations disabled.","status":"draft"}
+{"id":"table/strtable.csv:418:2","source":"相手はリングに加入済みです","english":"The other player is already in a Ring.","status":"draft"}

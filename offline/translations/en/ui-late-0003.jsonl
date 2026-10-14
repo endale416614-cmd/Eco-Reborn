@@ -1,0 +1,158 @@
+{"id": "table/strtable.csv:5300:2", "source": "再度同じパートナーを入手して$rパートナー化した場合でも$r初期状態からになりますが$r本当によろしいですか？", "english": "Even if you obtain the same Partner again,$rand make it a Partner,$rit will start from its initial state.$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:5302:2", "source": "%sが食事できるようになりました", "english": "%s can now eat.", "status": "draft"}
+{"id": "table/strtable.csv:5303:2", "source": "自動で食事する設定の為、食事を行います", "english": "Auto-eat is enabled, so the Partner will eat.", "status": "draft"}
+{"id": "table/strtable.csv:5304:2", "source": "「おやつ」がセットされていません", "english": "No Treat is set.", "status": "draft"}
+{"id": "table/strtable.csv:5305:2", "source": "現在装備中のパートナーが使える「おやつ」がセットされていません", "english": "No Treat usable by the equipped Partner is set.", "status": "draft"}
+{"id": "table/strtable.csv:5306:2", "source": "食事を行えるタイミングではありませんでした", "english": "It is not time to eat yet.", "status": "draft"}
+{"id": "table/strtable.csv:5307:2", "source": "空腹状態ではない為、食事を行えませんでした", "english": "The Partner is not hungry.", "status": "draft"}
+{"id": "table/strtable.csv:5308:2", "source": "アイテムを使用できない状態の為、食事を行えませんでした", "english": "The item cannot be used right now.", "status": "draft"}
+{"id": "table/strtable.csv:5310:2", "source": "登録変更が出来ませんでした", "english": "Could not change the registration.", "status": "draft"}
+{"id": "table/strtable.csv:5311:2", "source": "登録数の上限を超える為、登録が出来ませんでした", "english": "Could not register it because the registration limit would be exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:5312:2", "source": "登録しているアイテムと重複する為、登録変更が出来ませんでした", "english": "Could not change the registration because this item is already registered.", "status": "draft"}
+{"id": "table/strtable.csv:5313:2", "source": "登録されていないアイテムになります", "english": "This item is not registered.", "status": "draft"}
+{"id": "table/strtable.csv:5317:2", "source": "対象のパートナーが見つかりません", "english": "The selected Partner could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:5318:2", "source": "対象のアイテムを所持しておりません", "english": "You do not have the selected item.", "status": "draft"}
+{"id": "table/strtable.csv:5319:2", "source": "パートナー用装備アイテムではありません", "english": "This is not equipment for Partners.", "status": "draft"}
+{"id": "table/strtable.csv:5320:2", "source": "行動不能状態の為、装備の変更は出来ません", "english": "Equipment cannot be changed while unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:5321:2", "source": "イベント中の為、装備の変更は出来ません", "english": "Equipment cannot be changed during an event.", "status": "draft"}
+{"id": "table/strtable.csv:5322:2", "source": "ゴーレムショップ設定中の為、装備の変更は出来ません", "english": "Equipment cannot be changed while configuring a Golem Shop.", "status": "draft"}
+{"id": "table/strtable.csv:5323:2", "source": "トレード中の為、装備の変更は出来ません", "english": "Equipment cannot be changed during a trade.", "status": "draft"}
+{"id": "table/strtable.csv:5324:2", "source": "未鑑定の為、装備の変更は出来ません", "english": "Equipment cannot be changed while the item is unidentified.", "status": "draft"}
+{"id": "table/strtable.csv:5325:2", "source": "憑依中の為、装備の変更は出来ません", "english": "Equipment cannot be changed during possession.", "status": "draft"}
+{"id": "table/strtable.csv:5326:2", "source": "マシナフォーム中の為、装備出来ません", "english": "Cannot equip this in Machina Form.", "status": "draft"}
+{"id": "table/strtable.csv:5327:2", "source": "装備できる状態ではありません", "english": "This cannot be equipped right now.", "status": "draft"}
+{"id": "table/strtable.csv:5328:2", "source": "装備解除できる状態ではありません", "english": "This cannot be unequipped right now.", "status": "draft"}
+{"id": "table/strtable.csv:5329:2", "source": "レベルが足りません", "english": "Level too low.", "status": "draft"}
+{"id": "table/strtable.csv:5330:2", "source": "装備可能な攻撃タイプではありません", "english": "The attack type is incompatible with this equipment.", "status": "draft"}
+{"id": "table/strtable.csv:5331:2", "source": "装備可能な系統ではありません", "english": "This family cannot equip it.", "status": "draft"}
+{"id": "table/strtable.csv:5332:2", "source": "ライドパートナーは装備できません", "english": "Ride Partners cannot equip this.", "status": "draft"}
+{"id": "table/strtable.csv:5333:2", "source": "パートナーランクが足りません", "english": "The Partner Rank is too low.", "status": "draft"}
+{"id": "table/strtable.csv:5336:2", "source": "走り状態になりました", "english": "Run mode enabled.", "status": "draft"}
+{"id": "table/strtable.csv:5337:2", "source": "歩き状態になりました", "english": "Walk mode enabled.", "status": "draft"}
+{"id": "table/strtable.csv:5341:2", "source": "リサイクル", "english": "Recycle", "status": "draft"}
+{"id": "table/strtable.csv:5342:2", "source": "ワールドゲージ", "english": "World Gauge", "status": "draft"}
+{"id": "table/strtable.csv:5343:2", "source": "効果終了日時", "english": "Effect End Time", "status": "draft"}
+{"id": "table/strtable.csv:5344:2", "source": "%2d月%2d日 %2d時%02d分", "english": "%2d/%2d %2d:%02d", "status": "draft"}
+{"id": "table/strtable.csv:5345:2", "source": "達成効果付与", "english": "Achievement effect applied", "status": "draft"}
+{"id": "table/strtable.csv:5346:2", "source": "効果 ： ", "english": "Effect: ", "status": "draft"}
+{"id": "table/strtable.csv:5347:2", "source": "基本経験値・職業経験値1.5倍", "english": "Base and Job EXP x1.5", "status": "draft"}
+{"id": "table/strtable.csv:5348:2", "source": "基本経験値・職業経験値2.0倍", "english": "Base and Job EXP x2.0", "status": "draft"}
+{"id": "table/strtable.csv:5349:2", "source": "基本経験値・職業経験値2.5倍", "english": "Base and Job EXP x2.5", "status": "draft"}
+{"id": "table/strtable.csv:5350:2", "source": "基本経験値・職業経験値3.0倍", "english": "Base and Job EXP x3.0", "status": "draft"}
+{"id": "table/strtable.csv:5351:2", "source": "カードアセンブル成功確率上昇", "english": "Card Assembly success rate increased", "status": "draft"}
+{"id": "table/strtable.csv:5352:2", "source": "武具強化成功確率上昇", "english": "Equipment enhancement success rate increased", "status": "draft"}
+{"id": "table/strtable.csv:5353:2", "source": "カードスロット拡張成功確率上昇", "english": "Card slot expansion success rate increased", "status": "draft"}
+{"id": "table/strtable.csv:5355:2", "source": "リサイクルポイント", "english": "Recycle Points", "status": "draft"}
+{"id": "table/strtable.csv:5357:2", "source": "ワールドゲージがＭＡＸの為、ワールド効果が発動中", "english": "The World Effect is active because the World Gauge is full.", "status": "draft"}
+{"id": "table/strtable.csv:5358:2", "source": "リサイクルによる、ワールド効果が終了いたしました", "english": "The World Effect from recycling has ended.", "status": "draft"}
+{"id": "table/strtable.csv:5359:2", "source": "リサイクルシステムヘルプ", "english": "Recycling System Help", "status": "draft"}
+{"id": "table/strtable.csv:5360:2", "source": "ヘルプを開く", "english": "Open Help", "status": "draft"}
+{"id": "table/strtable.csv:5363:2", "source": "リサイクル納品", "english": "Recycle Delivery", "status": "draft"}
+{"id": "table/strtable.csv:5365:2", "source": "納品している数", "english": "Quantity Delivered", "status": "draft"}
+{"id": "table/strtable.csv:5367:2", "source": "納品するとアイテムが消えますが、よろしいですか？", "english": "The item will be removed when delivered. Continue?", "status": "draft"}
+{"id": "table/strtable.csv:5369:2", "source": "リサイクルポイントが上限に達したため$r溢れた分の %d ポイントを切り捨てますがよろしいですか？", "english": "Recycle Points are at the limit.$rDiscard the excess %d points?", "status": "draft"}
+{"id": "table/strtable.csv:5370:2", "source": "リサイクルポイントが上限に達しました", "english": "Recycle Points have reached the limit.", "status": "draft"}
+{"id": "table/strtable.csv:5371:2", "source": "納品", "english": "Deliver", "status": "draft"}
+{"id": "table/strtable.csv:5372:2", "source": "納品してはいけないアイテムがあった為、納品が出来ませんでした", "english": "Delivery failed because one or more items cannot be delivered.", "status": "draft"}
+{"id": "table/strtable.csv:5373:2", "source": "ワールドゲージが %lld ポイント増加しました", "english": "The World Gauge increased by %lld points.", "status": "draft"}
+{"id": "table/strtable.csv:5377:2", "source": "フリーメッセージを入力してください（全角140文字まで）", "english": "Enter a message (up to 140 fullwidth characters).", "status": "draft"}
+{"id": "table/strtable.csv:5381:2", "source": "シンプルセッティング選択", "english": "Select Simple Settings", "status": "draft"}
+{"id": "table/strtable.csv:5382:2", "source": "＜アビリティベクトル／属性選択＞", "english": "<Ability Vector / Element Selection>", "status": "draft"}
+{"id": "table/strtable.csv:5383:2", "source": "無属性", "english": "Neutral", "status": "draft"}
+{"id": "table/strtable.csv:5384:2", "source": "火属性", "english": "Fire", "status": "draft"}
+{"id": "table/strtable.csv:5385:2", "source": "水属性", "english": "Water", "status": "draft"}
+{"id": "table/strtable.csv:5386:2", "source": "風属性", "english": "Wind", "status": "draft"}
+{"id": "table/strtable.csv:5387:2", "source": "土属性", "english": "Earth", "status": "draft"}
+{"id": "table/strtable.csv:5388:2", "source": "光属性", "english": "Light", "status": "draft"}
+{"id": "table/strtable.csv:5389:2", "source": "闇属性", "english": "Dark", "status": "draft"}
+{"id": "table/strtable.csv:5390:2", "source": "選択した項目に該当するアビリティベクトルの$rイリスカードを所持していません", "english": "You do not own an Iris Card$rwith the selected Ability Vector.", "status": "draft"}
+{"id": "table/strtable.csv:5391:2", "source": "選択して下さい", "english": "Please select.", "status": "draft"}
+{"id": "table/strtable.csv:5394:2", "source": "コンビネーションアビリティ", "english": "Combination Ability", "status": "draft"}
+{"id": "table/strtable.csv:5395:2", "source": "コンビネーションの組み合わせがありません", "english": "No combination is available.", "status": "draft"}
+{"id": "table/strtable.csv:5396:2", "source": "コンビネーションを発動させる為の&r開きスロット数が不足しています", "english": "Not enough open slots&rto activate the combination.", "status": "draft"}
+{"id": "table/strtable.csv:5397:2", "source": "選択したコンビネーションによって外れてしまうイリスカードや$r外れたことによって、今まで発動していたコンビネーションの$r組み合わせではなくなってしまう可能性がありますが、このままセットしますか？", "english": "The selected combination may remove Iris Cards$r and could break a currently active combination.$rSet it anyway?", "status": "draft"}
+{"id": "table/strtable.csv:5400:2", "source": "イリスカードの入れ替えを行う事が出来ない状態です", "english": "Iris Cards cannot be changed right now.", "status": "draft"}
+{"id": "table/strtable.csv:5401:2", "source": "イリスカードの取り出しに失敗しました", "english": "Failed to remove the Iris Card.", "status": "draft"}
+{"id": "table/strtable.csv:5402:2", "source": "イリスカードのセットに失敗しました", "english": "Failed to set the Iris Card.", "status": "draft"}
+{"id": "table/strtable.csv:5403:2", "source": "イリスカードのセット可能枚数が上限を超えている為、セット出来ませんでした", "english": "Could not set the Iris Card because the slot limit was reached.", "status": "draft"}
+{"id": "table/strtable.csv:5406:2", "source": "%sさんの装備", "english": "%s’s Equipment", "status": "draft"}
+{"id": "table/strtable.csv:5407:2", "source": "対象キャラクターとの距離が離れすぎています", "english": "You are too far from that character.", "status": "draft"}
+{"id": "table/strtable.csv:5408:2", "source": "他人の装備情報を確認するには少し時間を置いてください", "english": "Wait a moment before checking another player's equipment.", "status": "draft"}
+{"id": "table/strtable.csv:5409:2", "source": "対象キャラクターが存在しません", "english": "The selected character does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:5410:2", "source": "対象キャラクターの装備情報は見られない状態です", "english": "This character's equipment information cannot be viewed right now.", "status": "draft"}
+{"id": "table/strtable.csv:5413:2", "source": "旅人のメモ", "english": "Traveler's Memo", "status": "draft"}
+{"id": "table/strtable.csv:5414:2", "source": "レベル検索を表示します", "english": "Show the level search.", "status": "draft"}
+{"id": "table/strtable.csv:5415:2", "source": "モンスター名検索を表示します", "english": "Show the monster-name search.", "status": "draft"}
+{"id": "table/strtable.csv:5416:2", "source": "ドロップアイテム検索を表示します", "english": "Show the drop-item search.", "status": "draft"}
+{"id": "table/strtable.csv:5417:2", "source": "属性検索を表示します", "english": "Show the element search.", "status": "draft"}
+{"id": "table/strtable.csv:5418:2", "source": "種族検索を表示します", "english": "Show the race search.", "status": "draft"}
+{"id": "table/strtable.csv:5419:2", "source": "マップ検索を表示します", "english": "Show the map search.", "status": "draft"}
+{"id": "table/strtable.csv:5420:2", "source": "レベル", "english": "Level", "status": "draft"}
+{"id": "table/strtable.csv:5421:2", "source": "モンスター名", "english": "Monster Name", "status": "draft"}
+{"id": "table/strtable.csv:5422:2", "source": "アイテム", "english": "Item", "status": "draft"}
+{"id": "table/strtable.csv:5423:2", "source": "属性", "english": "Element", "status": "draft"}
+{"id": "table/strtable.csv:5424:2", "source": "種族", "english": "Race", "status": "draft"}
+{"id": "table/strtable.csv:5425:2", "source": "マップ", "english": "Map", "status": "draft"}
+{"id": "table/strtable.csv:5426:2", "source": "現在、この項目での条件指定は行えません", "english": "Search criteria cannot be set for this field right now.", "status": "draft"}
+{"id": "table/strtable.csv:5427:2", "source": "ドロップアイテム", "english": "Drop Item", "status": "draft"}
+{"id": "table/strtable.csv:5428:2", "source": "%s知識ドロップアイテム", "english": "%s Knowledge Drop Item", "status": "draft"}
+{"id": "table/strtable.csv:5429:2", "source": "該当知識なし", "english": "No matching knowledge.", "status": "draft"}
+{"id": "table/strtable.csv:5430:2", "source": "メモ", "english": "Notes", "status": "draft"}
+{"id": "table/strtable.csv:5431:2", "source": "編集中", "english": "Editing", "status": "draft"}
+{"id": "table/strtable.csv:5434:2", "source": "無", "english": "Neutral", "status": "draft"}
+{"id": "table/strtable.csv:5435:2", "source": "火", "english": "Fire", "status": "draft"}
+{"id": "table/strtable.csv:5436:2", "source": "水", "english": "Water", "status": "draft"}
+{"id": "table/strtable.csv:5437:2", "source": "風", "english": "Wind", "status": "draft"}
+{"id": "table/strtable.csv:5438:2", "source": "土", "english": "Earth", "status": "draft"}
+{"id": "table/strtable.csv:5439:2", "source": "光", "english": "Light", "status": "draft"}
+{"id": "table/strtable.csv:5440:2", "source": "闇", "english": "Dark", "status": "draft"}
+{"id": "table/strtable.csv:5441:2", "source": "全て", "english": "All", "status": "draft"}
+{"id": "table/strtable.csv:5442:2", "source": "植物", "english": "Plant", "status": "draft"}
+{"id": "table/strtable.csv:5443:2", "source": "鳥", "english": "Bird", "status": "draft"}
+{"id": "table/strtable.csv:5444:2", "source": "動物", "english": "Animal", "status": "draft"}
+{"id": "table/strtable.csv:5445:2", "source": "昆虫", "english": "Insect", "status": "draft"}
+{"id": "table/strtable.csv:5446:2", "source": "水中生物", "english": "Aquatic Creature", "status": "draft"}
+{"id": "table/strtable.csv:5447:2", "source": "魔法生物", "english": "Magical Creature", "status": "draft"}
+{"id": "table/strtable.csv:5448:2", "source": "死霊", "english": "Undead", "status": "draft"}
+{"id": "table/strtable.csv:5449:2", "source": "機械", "english": "Machine", "status": "draft"}
+{"id": "table/strtable.csv:5450:2", "source": "人間", "english": "Human", "status": "draft"}
+{"id": "table/strtable.csv:5451:2", "source": "精霊", "english": "Spirit", "status": "draft"}
+{"id": "table/strtable.csv:5452:2", "source": "岩", "english": "Rock", "status": "draft"}
+{"id": "table/strtable.csv:5453:2", "source": "木材", "english": "Wood", "status": "draft"}
+{"id": "table/strtable.csv:5454:2", "source": "未分類", "english": "Unclassified", "status": "draft"}
+{"id": "table/strtable.csv:5455:2", "source": "ボス", "english": "Boss", "status": "draft"}
+{"id": "table/strtable.csv:5456:2", "source": "マップ指定検索はされておりません", "english": "No map-specific search is selected.", "status": "draft"}
+{"id": "table/strtable.csv:5457:2", "source": "全域", "english": "All Areas", "status": "draft"}
+{"id": "table/strtable.csv:5459:2", "source": "指定された条件に該当するモンスターが存在しませんでした", "english": "No monsters matched the selected conditions.", "status": "draft"}
+{"id": "table/strtable.csv:5460:2", "source": "検索対象「%s」$rを含むアイテムが見つかりませんでした", "english": "No items containing 「%s」$r were found.", "status": "draft"}
+{"id": "table/strtable.csv:5461:2", "source": "検索対象「%s」$rをドロップするモンスターは掲載されていません", "english": "Monsters that drop 「%s」$rare not listed.", "status": "draft"}
+{"id": "table/strtable.csv:5462:2", "source": "検索対象「%s」$rを含むアイテムをドロップするモンスターは掲載されていません", "english": "Monsters that drop items containing 「%s」$rare not listed.", "status": "draft"}
+{"id": "table/strtable.csv:5463:2", "source": "メモ編集中の為、リストの更新が行えませんでした。$rメモの編集を終了してから再度モンスターを選択してください。", "english": "The list could not be updated while Notes are being edited.$rFinish editing Notes, then select a monster again.", "status": "draft"}
+{"id": "table/strtable.csv:5464:2", "source": "メモ編集中の為、検索が行えませんでした。$r検索をおこなうにはメモの編集を終了させる必要があります。", "english": "Search failed because Notes are being edited.$rFinish editing Notes before searching.", "status": "draft"}
+{"id": "table/strtable.csv:5465:2", "source": "メモ編集中の為、リストの更新が行えませんでした。$rメモの編集を終了してからリセットボタンを選択してください。", "english": "The list could not be updated while Notes are being edited.$rFinish editing Notes before selecting Reset.", "status": "draft"}
+{"id": "table/strtable.csv:5466:2", "source": "世界マップが開けない為、生息地を表示できません。$r生息地を表示するには世界マップが開ける場所に移動する必要があります。", "english": "The World Map cannot be opened here, so habitats cannot be shown.$rMove somewhere that allows the World Map to view habitats.", "status": "draft"}
+{"id": "table/strtable.csv:5467:2", "source": "対象が見つかりません", "english": "Target not found.", "status": "draft"}
+{"id": "table/strtable.csv:5468:2", "source": "鉱石", "english": "Ore", "status": "draft"}
+{"id": "table/strtable.csv:5469:2", "source": "全", "english": "All", "status": "draft"}
+{"id": "table/strtable.csv:5472:2", "source": "詳細検索", "english": "Advanced Search", "status": "draft"}
+{"id": "table/strtable.csv:5475:2", "source": "特定できませんでした。", "english": "Could not identify it.", "status": "draft"}
+{"id": "table/strtable.csv:5478:2", "source": "ミッションリスト", "english": "Mission List", "status": "draft"}
+{"id": "table/strtable.csv:5479:2", "source": "%d枚", "english": "%d cards", "status": "draft"}
+{"id": "table/strtable.csv:5480:2", "source": "ミッションの受領を失敗しました", "english": "Failed to accept the mission.", "status": "draft"}
+{"id": "table/strtable.csv:5483:2", "source": "軍勢力ゲージ", "english": "Army Strength Gauge", "status": "draft"}
+{"id": "table/strtable.csv:5484:2", "source": "今月の優秀軍", "english": "Top Army This Month", "status": "draft"}
+{"id": "table/strtable.csv:5485:2", "source": "東", "english": "East", "status": "draft"}
+{"id": "table/strtable.csv:5486:2", "source": "西", "english": "West", "status": "draft"}
+{"id": "table/strtable.csv:5487:2", "source": "南", "english": "South", "status": "draft"}
+{"id": "table/strtable.csv:5488:2", "source": "北", "english": "North", "status": "draft"}
+{"id": "table/strtable.csv:5489:2", "source": "来月のボーナス効果", "english": "Next Month's Bonus Effects", "status": "draft"}
+{"id": "table/strtable.csv:5490:2", "source": "効果発動中", "english": "Effect Active", "status": "draft"}
+{"id": "table/strtable.csv:5491:2", "source": "軍ボーナス　:", "english": "Army Bonus　:", "status": "draft"}
+{"id": "table/strtable.csv:5492:2", "source": "演習ボーナス:", "english": "Exercise Bonus:", "status": "draft"}
+{"id": "table/strtable.csv:5493:2", "source": "獲得経験値増加", "english": "EXP Gain Increased", "status": "draft"}
+{"id": "table/strtable.csv:5494:2", "source": "クエスト報酬2.0倍", "english": "Quest Rewards x2.0", "status": "draft"}
+{"id": "table/strtable.csv:5495:2", "source": "信頼度上昇効果", "english": "Trust Gain Increased", "status": "draft"}
+{"id": "table/strtable.csv:5496:2", "source": "クエスト報酬1.5倍", "english": "Quest Rewards x1.5", "status": "draft"}
+{"id": "table/strtable.csv:5497:2", "source": "アクロポリスからファーイーストシティへの空路が開通", "english": "The air route from Acropolis to Far East City is now open.", "status": "draft"}
+{"id": "table/strtable.csv:5498:2", "source": "アクロポリスからモーグシティへの空路が開通", "english": "The air route from Acropolis to Morg City is now open.", "status": "draft", "note": "Morg City is a working place-name choice; official English canon has not been verified."}
+{"id": "table/strtable.csv:5499:2", "source": "アクロポリスからアイアンサウスシティへの空路が開通", "english": "The air route from Acropolis to Iron South City is now open.", "status": "draft"}

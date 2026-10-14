@@ -1,0 +1,22 @@
+# Chat test commands: help, toggles, unknown command, plain chat, and /unstuck back to the safe point.
+login
+create Tester
+place 10023000 130 139 4
+select 0
+enter
+loaded
+chat hello everyone
+chat /help
+chat /godmode
+chat /godmode off
+chat !freebies on
+chat /killall
+chat /fly
+move 131 139 90
+move 132 139 90
+chat /unstuck
+expect-saved 130 139 10023000
+relog
+expect-spawn 130 139 10023000
+logout
+servers-alive

@@ -1,0 +1,232 @@
+{"id": "table/strtable.csv:3201:2", "source": "憑依アイテムは闘技場モードでないと拾えません", "english": "You can only pick up possession items in Arena mode.", "status": "draft"}
+{"id": "table/strtable.csv:3202:2", "source": "憑依アイテムはチャンプバトルに参戦していないと拾えません", "english": "You must be taking part in Champion Battle to pick up possession items.", "status": "draft"}
+{"id": "table/strtable.csv:3203:2", "source": "マシナフォーム中は憑依アイテムを拾うことができません", "english": "You cannot pick up possession items while in Machina Form.", "status": "draft"}
+{"id": "table/strtable.csv:3204:2", "source": "存在しないアイテムです", "english": "This item does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3205:2", "source": "イベントアイテムなので捨てることが出来ません", "english": "Event items cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3206:2", "source": "変身中のマリオネットは捨てることが出来ません", "english": "A transformed Marionette cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3207:2", "source": "起動中のゴーレムは捨てることが出来ません", "english": "An active Golem cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3208:2", "source": "ゴーレムショップに出品中のアイテムは捨てることが出来ません", "english": "Items listed in a Golem Shop cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3209:2", "source": "行動不能時はアイテムを捨てる事が出来ません", "english": "You cannot discard items while unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3210:2", "source": "トレード中はアイテムを捨てる事が出来ません", "english": "You cannot discard items while trading.", "status": "draft"}
+{"id": "table/strtable.csv:3211:2", "source": "使用中のアイテムを捨てる事はできません", "english": "You cannot discard an item that is in use.", "status": "draft"}
+{"id": "table/strtable.csv:3212:2", "source": "イベント中はアイテムを捨てることが出来ません", "english": "You cannot discard items during an event.", "status": "draft"}
+{"id": "table/strtable.csv:3213:2", "source": "装備中のアイテムは捨てることが出来ません", "english": "Equipped items cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3214:2", "source": "お試しプレイ期間中はアイテムをドロップすることができません。アイテムを捨てたい場合は、アイテムウィンドウにあるゴミ箱のアイコンをクリックしてください", "english": "You cannot drop items during the trial period. To discard an item, click the trash icon in the Item window.", "status": "draft"}
+{"id": "table/strtable.csv:3215:2", "source": "「あ、あわわわわ･･･それは捨てることはできませんよ！」", "english": "“W-wait! You cannot throw that away!”", "status": "draft"}
+{"id": "table/strtable.csv:3216:2", "source": "「ギルド商人までお持ちください。」", "english": "“Please take it to the Guild Merchant.”", "status": "draft"}
+{"id": "table/strtable.csv:3217:2", "source": "レンタルアイテムは捨てることが出来ません", "english": "Rental items cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3218:2", "source": "ＤＥＭ強化チップを捨てることが出来ません", "english": "DEM enhancement chips cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3219:2", "source": "変形したアイテムを捨てることが出来ません", "english": "Transformed items cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3220:2", "source": "変形中のアイテムを捨てることが出来ません", "english": "Items currently transforming cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3221:2", "source": "ロックアイテムは捨てることが出来ません", "english": "Locked items cannot be discarded.", "status": "draft"}
+{"id": "table/strtable.csv:3223:2", "source": "存在しないアイテムです", "english": "This item does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3224:2", "source": "アイテム数が不足しています", "english": "You do not have enough items.", "status": "draft"}
+{"id": "table/strtable.csv:3225:2", "source": "アイテムを移動することが出来ません", "english": "You cannot move that item.", "status": "draft"}
+{"id": "table/strtable.csv:3226:2", "source": "憑依中は装備を解除することが出来ません", "english": "You cannot remove equipment during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3227:2", "source": "これ以上アイテムを所持することはできません", "english": "You cannot carry any more items.", "status": "draft"}
+{"id": "table/strtable.csv:3228:2", "source": "憑依者待機中は装備を解除することが出来ません", "english": "You cannot remove equipment while a possessor is waiting.", "status": "draft"}
+{"id": "table/strtable.csv:3229:2", "source": "トレード中はアイテムを移動出来ません", "english": "You cannot move items while trading.", "status": "draft"}
+{"id": "table/strtable.csv:3230:2", "source": "イベント中はアイテムを移動できません", "english": "You cannot move items during an event.", "status": "draft"}
+{"id": "table/strtable.csv:3232:2", "source": "マシナフォーム中は装備を外すことができません", "english": "You cannot remove equipment while in Machina Form.", "status": "draft"}
+{"id": "table/strtable.csv:3233:2", "source": "装備条件を満たしていません", "english": "You do not meet the equipment requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3234:2", "source": "行動不能時は装備を変更できません", "english": "You cannot change equipment while unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3235:2", "source": "イベント中は装備を変更できません", "english": "You cannot change equipment during an event.", "status": "draft"}
+{"id": "table/strtable.csv:3236:2", "source": "ゴーレムショップに出品中のアイテムは装備出来ません", "english": "Items listed in a Golem Shop cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:3237:2", "source": "弓を装備していません", "english": "You do not have a bow equipped.", "status": "draft"}
+{"id": "table/strtable.csv:3238:2", "source": "銃を装備していません", "english": "You do not have a gun equipped.", "status": "draft"}
+{"id": "table/strtable.csv:3239:2", "source": "トレード中は装備を変更出来ません", "english": "You cannot change equipment while trading.", "status": "draft"}
+{"id": "table/strtable.csv:3240:2", "source": "未鑑定品を装備する事は出来ません", "english": "Unidentified items cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:3241:2", "source": "憑依中は装備を変更できません", "english": "You cannot change equipment during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3242:2", "source": "憑依者待機中は装備を変更できません", "english": "You cannot change equipment while a possessor is waiting.", "status": "draft"}
+{"id": "table/strtable.csv:3243:2", "source": "故障品は装備できません", "english": "Broken equipment cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:3244:2", "source": "装備するには種族を変えて下さい", "english": "Change your race to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3245:2", "source": "装備するには性別を変えて下さい", "english": "Change your gender to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3246:2", "source": "装備するにはレベルを上げて下さい", "english": "You need a higher level to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3247:2", "source": "装備するにはSTRを上げて下さい", "english": "You need more STR to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3248:2", "source": "装備するにはMAGを上げて下さい", "english": "You need more MAG to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3249:2", "source": "装備するにはVITを上げて下さい", "english": "You need more VIT to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3250:2", "source": "装備するにはDEXを上げて下さい", "english": "You need more DEX to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3251:2", "source": "装備するにはAGIを上げて下さい", "english": "You need more AGI to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3252:2", "source": "装備するにはINTを上げて下さい", "english": "You need more INT to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3253:2", "source": "運が足りない為装備できません", "english": "Your Luck is too low to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3254:2", "source": "魅力が足りない為装備できません", "english": "Your Charisma is too low to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3255:2", "source": "装備するには職業を変えて下さい", "english": "Change your class to equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3256:2", "source": "違う組織専用の装備品です", "english": "This equipment is exclusive to another faction.", "status": "draft"}
+{"id": "table/strtable.csv:3258:2", "source": "眠っている為出現させることが出来ません", "english": "You cannot summon it while it is asleep.", "status": "draft"}
+{"id": "table/strtable.csv:3259:2", "source": "パイロットの資格が無いため騎乗できません", "english": "You are not qualified to pilot this.", "status": "draft"}
+{"id": "table/strtable.csv:3260:2", "source": "マシナフォーム中は装備できません", "english": "You cannot equip this while in Machina Form.", "status": "draft"}
+{"id": "table/strtable.csv:3261:2", "source": "転生者でないと装備出来ません", "english": "Only characters who have undergone Rebirth can equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3262:2", "source": "転生者以外でないと装備出来ません", "english": "Only characters who have not undergone Rebirth can equip this.", "status": "draft"}
+{"id": "table/strtable.csv:3263:2", "source": "パートナーを装備してから30秒経過していないため装備できません", "english": "Cannot equip this until 30 seconds after equipping a Partner.", "status": "draft"}
+{"id": "table/strtable.csv:3264:2", "source": "装備アイテムの変更には時間を置いてください", "english": "Wait before changing equipped items.", "status": "draft"}
+{"id": "table/strtable.csv:3267:2", "source": "トレード中です", "english": "You are currently trading.", "status": "draft"}
+{"id": "table/strtable.csv:3268:2", "source": "イベント中です", "english": "You are currently in an event.", "status": "draft"}
+{"id": "table/strtable.csv:3269:2", "source": "相手がトレード中です", "english": "The other player is trading.", "status": "draft"}
+{"id": "table/strtable.csv:3270:2", "source": "相手がイベント中です", "english": "The other player is in an event.", "status": "draft"}
+{"id": "table/strtable.csv:3271:2", "source": "相手が見つかりません", "english": "The other player could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:3272:2", "source": "トレードを断られました", "english": "The trade was declined.", "status": "draft"}
+{"id": "table/strtable.csv:3273:2", "source": "ゴーレムショップ起動中です", "english": "Your Golem Shop is active.", "status": "draft"}
+{"id": "table/strtable.csv:3274:2", "source": "相手がゴーレムショップ起動中です", "english": "The other player has an active Golem Shop.", "status": "draft"}
+{"id": "table/strtable.csv:3275:2", "source": "憑依中です", "english": "You are in possession.", "status": "draft"}
+{"id": "table/strtable.csv:3276:2", "source": "相手が憑依中です", "english": "The other player is in possession.", "status": "draft"}
+{"id": "table/strtable.csv:3277:2", "source": "相手のトレード設定が不許可になっています", "english": "The other player does not allow trades.", "status": "draft"}
+{"id": "table/strtable.csv:3278:2", "source": "トレードを行える状態ではありません", "english": "You cannot trade right now.", "status": "draft"}
+{"id": "table/strtable.csv:3279:2", "source": "トレード相手との距離が離れすぎています", "english": "You are too far from the other player to trade.", "status": "draft"}
+{"id": "table/strtable.csv:3280:2", "source": "お試しプレイ期間中はトレードが行なえません", "english": "Trading is unavailable during the trial period.", "status": "draft"}
+{"id": "table/strtable.csv:3281:2", "source": "対象がお試しプレイ期間中であるため、トレードが行なえません", "english": "You cannot trade with a trial-period player.", "status": "draft"}
+{"id": "table/strtable.csv:3282:2", "source": "取り引きアイテム数の上限を超えています", "english": "The trade exceeds the item limit.", "status": "draft"}
+{"id": "table/strtable.csv:3283:2", "source": "所持金額の上限を超えています", "english": "The trade exceeds the currency limit.", "status": "draft"}
+{"id": "table/strtable.csv:3284:2", "source": "実際には持っていないアイテムが取り引きされようとしました", "english": "The trade includes an item you do not actually have.", "status": "draft"}
+{"id": "table/strtable.csv:3285:2", "source": "実際に持っている数量より大きな数量を取り引きしようとしました", "english": "The trade quantity exceeds the amount you own.", "status": "draft"}
+{"id": "table/strtable.csv:3286:2", "source": "変身中マリオネットが取り引きリストの中にありました", "english": "The trade list includes a transformed Marionette.", "status": "draft"}
+{"id": "table/strtable.csv:3287:2", "source": "トレード後のアイテム所持数が100個を超えてしまいます", "english": "You would have more than 100 items after the trade.", "status": "draft"}
+{"id": "table/strtable.csv:3288:2", "source": "お試しプレイユーザー制限", "english": "Trial-period user restriction.", "status": "draft"}
+{"id": "table/strtable.csv:3289:2", "source": "倉庫を開けていません", "english": "The Storage window is not open.", "status": "draft"}
+{"id": "table/strtable.csv:3290:2", "source": "指定されたアイテムは存在しません", "english": "The specified item does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3291:2", "source": "指定された数量が不正です", "english": "The specified quantity is invalid.", "status": "draft"}
+{"id": "table/strtable.csv:3292:2", "source": "倉庫のアイテム数が上限を超えてしまうためキャンセルされました", "english": "Canceled because Storage would exceed its item limit.", "status": "draft"}
+{"id": "table/strtable.csv:3293:2", "source": "キャラのアイテム数が100個を超えてしまうためキャンセルされました", "english": "Canceled because your character would exceed 100 items.", "status": "draft"}
+{"id": "table/strtable.csv:3294:2", "source": "イベントアイテムは預けられません", "english": "Event items cannot be stored.", "status": "draft"}
+{"id": "table/strtable.csv:3295:2", "source": "指定した格納場所は使用できません", "english": "The specified storage location cannot be used.", "status": "draft"}
+{"id": "table/strtable.csv:3296:2", "source": "変身中のマリオネットは預ける事ができません", "english": "A transformed Marionette cannot be stored.", "status": "draft"}
+{"id": "table/strtable.csv:3297:2", "source": "倉庫移動に失敗しました", "english": "Storage transfer failed.", "status": "draft"}
+{"id": "table/strtable.csv:3298:2", "source": "アイテムを搬送しました", "english": "Item transferred to Storage.", "status": "draft"}
+{"id": "table/strtable.csv:3299:2", "source": "倉庫を開けていません", "english": "The Storage window is not open.", "status": "draft"}
+{"id": "table/strtable.csv:3300:2", "source": "指定されたアイテムは存在しません", "english": "The specified item does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3301:2", "source": "指定された数量が不正です", "english": "The specified quantity is invalid.", "status": "draft"}
+{"id": "table/strtable.csv:3302:2", "source": "倉庫のアイテム数が上限を超えてしまうためキャンセルされました", "english": "Canceled because Storage would exceed its item limit.", "status": "draft"}
+{"id": "table/strtable.csv:3303:2", "source": "チップ倉庫を開けていません", "english": "The Chip Storage window is not open.", "status": "draft"}
+{"id": "table/strtable.csv:3304:2", "source": "これ以上倉庫に預けることはできません", "english": "You cannot store any more items.", "status": "draft"}
+{"id": "table/strtable.csv:3305:2", "source": "キャラのアイテム数が100個を超えてしまうためキャンセルされました", "english": "Canceled because your character would exceed 100 items.", "status": "draft"}
+{"id": "table/strtable.csv:3306:2", "source": "100個以上のチップの収納はできません", "english": "You cannot store 100 or more chips.", "status": "draft"}
+{"id": "table/strtable.csv:3307:2", "source": "指定した格納場所は使用できません", "english": "The specified storage location cannot be used.", "status": "draft"}
+{"id": "table/strtable.csv:3311:2", "source": "MPとSPが不足しています", "english": "Not enough MP and SP.", "status": "draft"}
+{"id": "table/strtable.csv:3312:2", "source": "使用する触媒が不足しています", "english": "Not enough catalysts.", "status": "draft"}
+{"id": "table/strtable.csv:3313:2", "source": "ターゲットが視認できません", "english": "Target is not visible.", "status": "draft"}
+{"id": "table/strtable.csv:3314:2", "source": "ターゲットが見つかりません", "english": "Target not found.", "status": "draft"}
+{"id": "table/strtable.csv:3315:2", "source": "装備中の武器ではこのスキルを使用できません", "english": "This skill cannot be used with your equipped weapon.", "status": "draft"}
+{"id": "table/strtable.csv:3316:2", "source": "指定不可能な位置が選択されました", "english": "The selected position cannot be targeted.", "status": "draft"}
+{"id": "table/strtable.csv:3317:2", "source": "スキルを使用できない状態です", "english": "You cannot use skills right now.", "status": "draft"}
+{"id": "table/strtable.csv:3318:2", "source": "他のスキルを詠唱している為キャンセルされました", "english": "Canceled because you are casting another skill.", "status": "draft"}
+{"id": "table/strtable.csv:3319:2", "source": "遠距離攻撃中の為キャンセルされました", "english": "Canceled because you are making a ranged attack.", "status": "draft"}
+{"id": "table/strtable.csv:3320:2", "source": "スキルを習得していません", "english": "You have not learned this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3321:2", "source": "対象が行動不能状態の為ターゲットできません", "english": "Cannot target while the target is unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3322:2", "source": "スキル使用条件があっていません", "english": "You do not meet the skill requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3323:2", "source": "スキルを使用できません", "english": "You cannot use this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3324:2", "source": "スキルを使用できない対象です", "english": "That target is not valid for this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3325:2", "source": "MPが不足しています", "english": "Not enough MP.", "status": "draft"}
+{"id": "table/strtable.csv:3326:2", "source": "SPが不足しています", "english": "Not enough SP.", "status": "draft"}
+{"id": "table/strtable.csv:3327:2", "source": "指定した地形は別のスキルの効果中です", "english": "The selected terrain is already affected by another skill.", "status": "draft"}
+{"id": "table/strtable.csv:3328:2", "source": "近くにテントが張られています", "english": "A tent is set up nearby.", "status": "draft"}
+{"id": "table/strtable.csv:3329:2", "source": "アイテム使用中の為キャンセルされました", "english": "Canceled because you are using an item.", "status": "draft"}
+{"id": "table/strtable.csv:3330:2", "source": "攻撃中の為キャンセルされました", "english": "Canceled because you are attacking.", "status": "draft"}
+{"id": "table/strtable.csv:3331:2", "source": "反応がありませんでした", "english": "No response was received.", "status": "draft"}
+{"id": "table/strtable.csv:3333:2", "source": "憑依しないと使えません", "english": "Requires possession to use.", "status": "draft"}
+{"id": "table/strtable.csv:3334:2", "source": "他の憑依者が効果中です", "english": "Another possessor’s effect is active.", "status": "draft"}
+{"id": "table/strtable.csv:3335:2", "source": "憑依中は使えないスキルです", "english": "This skill cannot be used during possession.", "status": "draft"}
+{"id": "table/strtable.csv:3336:2", "source": "使用するのに必要なお金が足りません", "english": "Not enough money to use this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3337:2", "source": "宿主が健全でないため使用できません", "english": "Cannot use this because the host is not in a valid state.", "status": "draft"}
+{"id": "table/strtable.csv:3338:2", "source": "宿主が行動不能時のみ使うことができます", "english": "Can only be used while the host is unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3339:2", "source": "スキルが使えない場所にいます", "english": "You cannot use skills in this location.", "status": "draft"}
+{"id": "table/strtable.csv:3340:2", "source": "前回のスキルのディレイが残っています", "english": "The previous skill is still on cooldown.", "status": "draft"}
+{"id": "table/strtable.csv:3341:2", "source": "パートナーがいないと使えません", "english": "You need a Partner to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3342:2", "source": "このマップではそのスキルを使うことは出来ません", "english": "This skill cannot be used on this map.", "status": "draft"}
+{"id": "table/strtable.csv:3343:2", "source": "指定した場所に敵が侵入しているため使用できませんでした", "english": "Could not use this because an enemy entered the selected area.", "status": "draft"}
+{"id": "table/strtable.csv:3344:2", "source": "矢を装備していないと使用できません", "english": "You need arrows equipped to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3345:2", "source": "実包を装備していないと使用できません", "english": "You need ammunition equipped to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3346:2", "source": "投擲武器を装備していないと使用できません", "english": "You need a throwing weapon equipped to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3347:2", "source": "使用できるテントを所持していません", "english": "You do not have a usable tent.", "status": "draft"}
+{"id": "table/strtable.csv:3348:2", "source": "栽培に使用するアイテムを所持していません", "english": "You do not have an item required for cultivation.", "status": "draft"}
+{"id": "table/strtable.csv:3349:2", "source": "鑑定できるアイテムを所持していません", "english": "You do not have an item that can be identified.", "status": "draft"}
+{"id": "table/strtable.csv:3350:2", "source": "開けることのできるアイテムを所持していません", "english": "You do not have an item that can be opened.", "status": "draft"}
+{"id": "table/strtable.csv:3351:2", "source": "合成することのできるアイテムを所持していません", "english": "You do not have an item that can be synthesized.", "status": "draft"}
+{"id": "table/strtable.csv:3352:2", "source": "対象が移動したため射程から外れました", "english": "The target moved out of range.", "status": "draft"}
+{"id": "table/strtable.csv:3353:2", "source": "「メタモーバトル」中は使用できません", "english": "Cannot use this during Metamo Battle.", "status": "draft"}
+{"id": "table/strtable.csv:3354:2", "source": "これ以上このスキルを設置することは出来ません", "english": "You cannot place any more instances of this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3356:2", "source": "アイテム欄に空きがありません", "english": "There is no free space in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:3357:2", "source": "『騎士団演習』中は使用できません", "english": "Cannot use this during the Knight Order Exercise.", "status": "draft"}
+{"id": "table/strtable.csv:3358:2", "source": "パートナーが近くにいないと使用できません", "english": "Your Partner must be nearby to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3359:2", "source": "敵に発見された為、失敗しました", "english": "It failed because an enemy spotted you.", "status": "draft"}
+{"id": "table/strtable.csv:3360:2", "source": "宿主中は使えないスキルです", "english": "This skill cannot be used while you are a host.", "status": "draft"}
+{"id": "table/strtable.csv:3361:2", "source": "再度スキルを使用するには時間を置いてください", "english": "Wait before using this skill again.", "status": "draft"}
+{"id": "table/strtable.csv:3362:2", "source": "パートナーを使役している間は使用できません", "english": "Cannot use this while commanding a Partner.", "status": "draft"}
+{"id": "table/strtable.csv:3363:2", "source": "ボスへの使用はできません", "english": "This cannot be used on bosses.", "status": "draft"}
+{"id": "table/strtable.csv:3364:2", "source": "アンデッド状態の対象への使用はできません", "english": "This cannot be used on undead targets.", "status": "draft"}
+{"id": "table/strtable.csv:3365:2", "source": "現在の装備ではこのスキルを使用できません", "english": "This skill cannot be used with your current equipment.", "status": "draft"}
+{"id": "table/strtable.csv:3366:2", "source": "矢の数が足りません", "english": "Not enough arrows.", "status": "draft"}
+{"id": "table/strtable.csv:3367:2", "source": "実包の数が足りません", "english": "Not enough ammunition.", "status": "draft"}
+{"id": "table/strtable.csv:3368:2", "source": "投擲武器の数が足りません", "english": "Not enough throwing weapons.", "status": "draft"}
+{"id": "table/strtable.csv:3369:2", "source": "融合できるマリオネットが違います", "english": "This is not the correct Marionette for fusion.", "status": "draft"}
+{"id": "table/strtable.csv:3370:2", "source": "イベント中の為、使用できません", "english": "Cannot use this during an event.", "status": "draft"}
+{"id": "table/strtable.csv:3371:2", "source": "設定が不許可になっている為、使用できません", "english": "This is disabled by your settings.", "status": "draft"}
+{"id": "table/strtable.csv:3372:2", "source": "消費アイテムを装備していないと使用できません", "english": "You need a consumable item equipped to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3373:2", "source": "EPが不足しています", "english": "Not enough EP.", "status": "draft"}
+{"id": "table/strtable.csv:3374:2", "source": "H.E.ART レベルの上限を超えています", "english": "You have exceeded the H.E.ART level limit.", "status": "draft"}
+{"id": "table/strtable.csv:3375:2", "source": "H.E.ART レベルが足りません", "english": "Your H.E.ART level is too low.", "status": "draft"}
+{"id": "table/strtable.csv:3376:2", "source": "使用できるログハウスを所持していません", "english": "You do not have a usable log cabin.", "status": "draft"}
+{"id": "table/strtable.csv:3377:2", "source": "分解できるものがありません", "english": "There is nothing to dismantle.", "status": "draft"}
+{"id": "table/strtable.csv:3378:2", "source": "エンシェントアークでは使用することができません", "english": "Cannot be used in Ancient Ark.", "status": "draft"}
+{"id": "table/strtable.csv:3379:2", "source": "餌を装備していないと使用できません", "english": "You need bait equipped to use this.", "status": "draft"}
+{"id": "table/strtable.csv:3380:2", "source": "キャラクター出撃地点には設置できません", "english": "Cannot place this at a character spawn point.", "status": "draft"}
+{"id": "table/strtable.csv:3381:2", "source": "シンボル出現付近には設置できません", "english": "Cannot place this near a symbol spawn point.", "status": "draft"}
+{"id": "table/strtable.csv:3382:2", "source": "これ以上のアイテムを設置することは出来ません", "english": "You cannot place any more items.", "status": "draft"}
+{"id": "table/strtable.csv:3383:2", "source": "パートナーチェンジをしてから30秒経過していないため使用できません", "english": "Wait 30 seconds after changing Partners before using this.", "status": "draft"}
+{"id": "table/strtable.csv:3384:2", "source": "パートナープロテクト中は使用することができません", "english": "Cannot use this while Partner Protect is active.", "status": "draft"}
+{"id": "table/strtable.csv:3385:2", "source": "PPが不足しています", "english": "Not enough PP.", "status": "draft"}
+{"id": "table/strtable.csv:3386:2", "source": "都市攻防戦では使用することができません", "english": "Cannot be used during the City Defense Battle.", "status": "draft"}
+{"id": "table/strtable.csv:3390:2", "source": "スキルが存在しません", "english": "This skill does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3391:2", "source": "スキルポイントが足りません", "english": "Not enough skill points.", "status": "draft"}
+{"id": "table/strtable.csv:3392:2", "source": "スキル習得条件を満たしていません", "english": "You do not meet the skill-learning requirements.", "status": "draft"}
+{"id": "table/strtable.csv:3393:2", "source": "スキルを覚えていません", "english": "You have not learned this skill.", "status": "draft"}
+{"id": "table/strtable.csv:3394:2", "source": "スキルレベル上限を超えています", "english": "You have exceeded the skill level limit.", "status": "draft"}
+{"id": "table/strtable.csv:3395:2", "source": "スキルが忘れられない状態です", "english": "This skill cannot be forgotten right now.", "status": "draft"}
+{"id": "table/strtable.csv:3396:2", "source": "何らかの原因でスキルを操作出来ませんでした", "english": "Could not modify the skill.", "status": "draft"}
+{"id": "table/strtable.csv:3399:2", "source": "憑依失敗 : 憑依中です", "english": "Possession failed: You are already in possession.", "status": "draft"}
+{"id": "table/strtable.csv:3400:2", "source": "憑依失敗 : 宿主です", "english": "Possession failed: You are the host.", "status": "draft"}
+{"id": "table/strtable.csv:3401:2", "source": "憑依失敗 : プレイヤーのみ憑依可能です", "english": "Possession failed: Only players can be possessed.", "status": "draft"}
+{"id": "table/strtable.csv:3402:2", "source": "憑依失敗 : レベルが離れすぎです", "english": "Possession failed: The level difference is too large.", "status": "draft"}
+{"id": "table/strtable.csv:3403:2", "source": "憑依失敗 : 装備がありません", "english": "Possession failed: No equipment is available.", "status": "draft"}
+{"id": "table/strtable.csv:3404:2", "source": "憑依失敗 : 誰かが憑依しています", "english": "Possession failed: Someone is already possessing the target.", "status": "draft"}
+{"id": "table/strtable.csv:3405:2", "source": "憑依失敗 : 憑依不可能なアイテムです", "english": "Possession failed: This item cannot be used for possession.", "status": "draft"}
+{"id": "table/strtable.csv:3406:2", "source": "憑依失敗 : 憑依容量オーバーです", "english": "Possession failed: Possession capacity exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3407:2", "source": "憑依失敗 : 満員宿主です", "english": "Possession failed: The host is full.", "status": "draft"}
+{"id": "table/strtable.csv:3408:2", "source": "憑依失敗 : 攻撃されました", "english": "Possession failed: You were attacked.", "status": "draft"}
+{"id": "table/strtable.csv:3409:2", "source": "憑依失敗 : 相手がいなくなりました", "english": "Possession failed: The other player left.", "status": "draft"}
+{"id": "table/strtable.csv:3410:2", "source": "憑依失敗 : 装備がはずされました", "english": "Possession failed: The equipment was removed.", "status": "draft"}
+{"id": "table/strtable.csv:3411:2", "source": "憑依失敗 : 装備が変更されました", "english": "Possession failed: The equipment was changed.", "status": "draft"}
+{"id": "table/strtable.csv:3412:2", "source": "憑依失敗 : 憑依容量オーバーです", "english": "Possession failed: Possession capacity exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:3413:2", "source": "憑依失敗 : 状態異常中です", "english": "Possession failed: You have a status ailment.", "status": "draft"}
+{"id": "table/strtable.csv:3414:2", "source": "憑依失敗 : 相手は憑依中です", "english": "Possession failed: The other player is in possession.", "status": "draft"}
+{"id": "table/strtable.csv:3415:2", "source": "憑依失敗 : 相手は憑依準備中です", "english": "Possession failed: The other player is preparing for possession.", "status": "draft"}
+{"id": "table/strtable.csv:3416:2", "source": "憑依失敗 : 相手は行動不能状態です", "english": "Possession failed: The other player is unable to act.", "status": "draft"}
+{"id": "table/strtable.csv:3417:2", "source": "憑依失敗 : イベント中です", "english": "Possession failed: An event is in progress.", "status": "draft"}
+{"id": "table/strtable.csv:3418:2", "source": "憑依失敗 : 相手とマップが違います", "english": "Possession failed: You are on different maps.", "status": "draft"}
+{"id": "table/strtable.csv:3419:2", "source": "憑依失敗 : 相手と離れすぎています", "english": "Possession failed: You are too far from the other player.", "status": "draft"}
+{"id": "table/strtable.csv:3420:2", "source": "憑依失敗 : 相手が憑依不許可設定中です", "english": "Possession failed: The other player does not allow possession.", "status": "draft"}
+{"id": "table/strtable.csv:3421:2", "source": "憑依失敗 : 相手が闘技場モードでありません", "english": "Possession failed: The other player is not in Arena mode.", "status": "draft"}
+{"id": "table/strtable.csv:3422:2", "source": "憑依失敗 : ヒーロー状態です", "english": "Possession failed: You are in Hero state.", "status": "draft"}
+{"id": "table/strtable.csv:3423:2", "source": "憑依失敗 : 所属軍が違います", "english": "Possession failed: You are in different factions.", "status": "draft"}
+{"id": "table/strtable.csv:3424:2", "source": "憑依失敗 : 「メタモーバトル」中です", "english": "Possession failed: You are in Metamo Battle.", "status": "draft"}
+{"id": "table/strtable.csv:3425:2", "source": "憑依失敗 : 騎乗中です", "english": "Possession failed: You are mounted.", "status": "draft"}
+{"id": "table/strtable.csv:3426:2", "source": "憑依失敗 : 憑依不可能なマップです", "english": "Possession failed: This map does not allow possession.", "status": "draft"}
+{"id": "table/strtable.csv:3427:2", "source": "憑依失敗 : 憑依できない状態です", "english": "Possession failed: You cannot possess in your current state.", "status": "draft"}
+{"id": "table/strtable.csv:3428:2", "source": "憑依失敗 : 相手がチャンプバトルに参戦していません", "english": "Possession failed: The other player is not taking part in Champion Battle.", "status": "draft"}
+{"id": "table/strtable.csv:3429:2", "source": "憑依失敗 : マシナフォームのＤＥＭキャラクターに憑依することはできません", "english": "Possession failed: DEM characters in Machina Form cannot be possessed.", "status": "draft"}
+{"id": "table/strtable.csv:3430:2", "source": "憑依失敗 : 相手が憑依できない状態です", "english": "Possession failed: The other player cannot be possessed right now.", "status": "draft"}
+{"id": "table/strtable.csv:3431:2", "source": "憑依失敗 : リーダーのため、憑依することはできません", "english": "Possession failed: Leaders cannot possess others.", "status": "draft"}
+{"id": "table/strtable.csv:3432:2", "source": "憑依失敗 : パートナーが憑依しています", "english": "Possession failed: A Partner is possessing the target.", "status": "draft"}
+{"id": "table/strtable.csv:3433:2", "source": "憑依失敗 : パートナーのごきげん度が0です", "english": "Possession failed: The Partner’s mood is 0.", "status": "draft"}
+{"id": "table/strtable.csv:3435:2", "source": "憑依失敗 : 何らかの原因で出来ませんでした", "english": "Possession failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3436:2", "source": "なんらかの原因で失敗しました", "english": "It failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3439:2", "source": "なんらかの原因で失敗しました", "english": "It failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3440:2", "source": "指定アイテムをもっていません", "english": "You do not have the specified item.", "status": "draft"}
+{"id": "table/strtable.csv:3441:2", "source": "ゴーレムの命令が間違っています", "english": "Invalid Golem command.", "status": "draft"}
+{"id": "table/strtable.csv:3442:2", "source": "倉庫が一杯です", "english": "Storage is full.", "status": "draft"}
+{"id": "table/strtable.csv:3443:2", "source": "売れるアイテムがありません", "english": "There are no items to sell.", "status": "draft"}
+{"id": "table/strtable.csv:3444:2", "source": "買い取れるアイテムがありません。", "english": "There are no items to buy.", "status": "draft"}
+{"id": "table/strtable.csv:3445:2", "source": "お試しプレイ期間中は露店を出すことができません", "english": "You cannot set up a shop during the trial period.", "status": "draft"}
+{"id": "table/strtable.csv:3446:2", "source": "改めて『命令チケット』をご利用ください", "english": "Please use the Command Ticket again.", "status": "draft"}
+{"id": "table/strtable.csv:3447:2", "source": "ゴーレムの機能を停止いたします", "english": "The Golem will stop operating.", "status": "draft"}
+{"id": "table/strtable.csv:3448:2", "source": "『命令チケット』の有効期間が過ぎています", "english": "The Command Ticket has expired.", "status": "draft"}
+{"id": "table/strtable.csv:3449:2", "source": "ゴーレムの設定を店番にしました", "english": "Golem mode set to shop attendant.", "status": "draft"}
+{"id": "table/strtable.csv:3450:2", "source": "ゴーレムの設定に失敗しました", "english": "Failed to configure the Golem.", "status": "draft"}

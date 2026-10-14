@@ -1,0 +1,158 @@
+{"id": "table/strtable.csv:6551:2", "source": "主なレアアイテム", "english": "Notable Rare Items", "status": "draft"}
+{"id": "table/strtable.csv:6552:2", "source": "ルームの作成に失敗しました", "english": "Failed to create the room.", "status": "draft"}
+{"id": "table/strtable.csv:6553:2", "source": "ルーム名を設定してください", "english": "Please set a room name.", "status": "draft"}
+{"id": "table/strtable.csv:6554:2", "source": "ルームを作成しました。", "english": "Room created.", "status": "draft"}
+{"id": "table/strtable.csv:6556:2", "source": "お気軽にどうぞ", "english": "Feel free to join", "status": "draft"}
+{"id": "table/strtable.csv:6557:2", "source": "わいわい部屋", "english": "Lively room", "status": "draft"}
+{"id": "table/strtable.csv:6558:2", "source": "どなたでもどうぞ！", "english": "Everyone is welcome!", "status": "draft"}
+{"id": "table/strtable.csv:6560:2", "source": "ECO民が集う部屋", "english": "A room for ECO players", "status": "draft"}
+{"id": "table/strtable.csv:6561:2", "source": "初心者歓迎～！", "english": "Beginners welcome!", "status": "draft"}
+{"id": "table/strtable.csv:6562:2", "source": "ルーキー歓迎！", "english": "Rookies welcome!", "status": "draft"}
+{"id": "table/strtable.csv:6563:2", "source": "みんなで楽しもう！", "english": "Let’s all have fun!", "status": "draft"}
+{"id": "table/strtable.csv:6567:2", "source": "ストーリーフィールドルーム検索", "english": "Search Story Field Rooms", "status": "draft"}
+{"id": "table/strtable.csv:6570:2", "source": "ストーリーフィールドルーム", "english": "Story Field Room", "status": "draft"}
+{"id": "table/strtable.csv:6571:2", "source": "退出確認", "english": "Confirm Exit", "status": "draft"}
+{"id": "table/strtable.csv:6572:2", "source": "ルームを退出しますか？", "english": "Leave the room?", "status": "draft"}
+{"id": "table/strtable.csv:6573:2", "source": "ルームメンバー情報", "english": "Room Member Info", "status": "draft"}
+{"id": "table/strtable.csv:6576:2", "source": "飛空城の耐久値", "english": "Flying Castle durability", "status": "draft"}
+{"id": "table/strtable.csv:6580:2", "source": "ユニット設定", "english": "Unit Settings", "status": "draft"}
+{"id": "table/strtable.csv:6581:2", "source": "所持パートナー", "english": "Owned Partners", "status": "draft"}
+{"id": "table/strtable.csv:6582:2", "source": "参加ユニット%d", "english": "Unit %d", "status": "draft"}
+{"id": "table/strtable.csv:6583:2", "source": "特殊効果", "english": "Special Effects", "status": "draft"}
+{"id": "table/strtable.csv:6584:2", "source": "効果対象", "english": "Effect Target", "status": "draft"}
+{"id": "table/strtable.csv:6585:2", "source": "%s(リーダー)", "english": "%s (Leader)", "status": "draft"}
+{"id": "table/strtable.csv:6586:2", "source": "※このNPCはパートナーに変更する事はできません", "english": "※This NPC cannot be changed into a Partner.", "status": "draft"}
+{"id": "table/strtable.csv:6587:2", "source": "ユニットを決定します", "english": "Confirm the unit.", "status": "draft"}
+{"id": "table/strtable.csv:6588:2", "source": "ユニットの変更は行わずにウィンドウを閉じます", "english": "Close the window without changing the unit.", "status": "draft"}
+{"id": "table/strtable.csv:6589:2", "source": "ユニット %d にユニットに設定出来ないパートナーが含まれている為、設定に失敗しました", "english": "Failed to configure Unit %d because it contains a Partner that cannot be assigned to a unit.", "status": "draft"}
+{"id": "table/strtable.csv:6590:2", "source": "選択したパートナーはユニットに設定できません", "english": "The selected Partner cannot be assigned to a unit.", "status": "draft"}
+{"id": "table/strtable.csv:6591:2", "source": "指定のパートナーはユニットに参加しているため操作できません", "english": "This Partner is already in a unit and cannot be changed.", "status": "draft"}
+{"id": "table/strtable.csv:6592:2", "source": "指定のパートナーはユニットに参加しているため装備できません", "english": "This Partner is already in a unit and cannot be equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6594:2", "source": "なし", "english": "None", "status": "draft"}
+{"id": "table/strtable.csv:6595:2", "source": "ユニット内", "english": "In Unit", "status": "draft"}
+{"id": "table/strtable.csv:6596:2", "source": "プレイヤー", "english": "Player", "status": "draft"}
+{"id": "table/strtable.csv:6597:2", "source": "装備パートナー", "english": "Equipped Partner", "status": "draft"}
+{"id": "table/strtable.csv:6601:2", "source": "確認", "english": "Confirm", "status": "draft"}
+{"id": "table/strtable.csv:6604:2", "source": "何に染色しますか？", "english": "Choose the dyeing result.", "status": "draft"}
+{"id": "table/strtable.csv:6605:2", "source": "染色したいアイテム", "english": "Item to Dye", "status": "draft"}
+{"id": "table/strtable.csv:6606:2", "source": "染色後のアイテム", "english": "Dyed Item", "status": "draft"}
+{"id": "table/strtable.csv:6610:2", "source": "何に交換しますか？", "english": "What would you like to exchange it for?", "status": "draft"}
+{"id": "table/strtable.csv:6611:2", "source": "交換したいアイテム", "english": "Item to Exchange", "status": "draft"}
+{"id": "table/strtable.csv:6612:2", "source": "交換後のアイテム", "english": "Exchanged Item", "status": "draft"}
+{"id": "table/strtable.csv:6619:2", "source": "ＥＸキャプチャー受注リスト", "english": "EX Capture List", "status": "draft"}
+{"id": "table/strtable.csv:6620:2", "source": "未選択", "english": "Not Selected", "status": "draft"}
+{"id": "table/strtable.csv:6621:2", "source": "参加者リスト（%d/%d）", "english": "Participant List (%d/%d)", "status": "draft"}
+{"id": "table/strtable.csv:6622:2", "source": "退出させる", "english": "Remove", "status": "draft"}
+{"id": "table/strtable.csv:6626:2", "source": "解散しました", "english": "Disbanded.", "status": "draft"}
+{"id": "table/strtable.csv:6627:2", "source": "パーティ情報が変更された為、解散しました", "english": "Disbanded because the party information changed.", "status": "draft"}
+{"id": "table/strtable.csv:6628:2", "source": "参加しました", "english": "Joined.", "status": "draft"}
+{"id": "table/strtable.csv:6629:2", "source": "%sさんが参加しました", "english": "%s joined.", "status": "draft"}
+{"id": "table/strtable.csv:6630:2", "source": "パスワードが違います", "english": "The password is incorrect.", "status": "draft"}
+{"id": "table/strtable.csv:6631:2", "source": "既に開始されているため参加できませんでした", "english": "Could not join because it has already started.", "status": "draft"}
+{"id": "table/strtable.csv:6632:2", "source": "%sさんを強制退出させました", "english": "Forced %s to leave.", "status": "draft"}
+{"id": "table/strtable.csv:6633:2", "source": "%sさんが退出しました", "english": "%s left.", "status": "draft"}
+{"id": "table/strtable.csv:6634:2", "source": "%sさんが同マップからいなくなった為、退出させました", "english": "Removed %s because they left the map.", "status": "draft"}
+{"id": "table/strtable.csv:6635:2", "source": "%sさんを退出させました", "english": "Removed %s.", "status": "draft"}
+{"id": "table/strtable.csv:6636:2", "source": "%sさんを条件不一致の為、退出させました", "english": "Removed %s because they did not meet the requirements.", "status": "draft"}
+{"id": "table/strtable.csv:6637:2", "source": "%sさんをパーティ情報が変更された為、退出させました", "english": "Removed %s because the party information changed.", "status": "draft"}
+{"id": "table/strtable.csv:6638:2", "source": "退出しました", "english": "Left.", "status": "draft"}
+{"id": "table/strtable.csv:6639:2", "source": "退出（ログアウト）", "english": "Left (logged out).", "status": "draft"}
+{"id": "table/strtable.csv:6640:2", "source": "退出させられました", "english": "You were removed.", "status": "draft"}
+{"id": "table/strtable.csv:6641:2", "source": "条件不一致の為、退出させられました", "english": "You were removed because you did not meet the requirements.", "status": "draft"}
+{"id": "table/strtable.csv:6642:2", "source": "パーティ情報が変更された為、退出させられました", "english": "You were removed because the party information changed.", "status": "draft"}
+{"id": "table/strtable.csv:6643:2", "source": "既に開始されているため退出できませんでした", "english": "Could not leave because it has already started.", "status": "draft"}
+{"id": "table/strtable.csv:6644:2", "source": "イベント中のため変更できませんでした", "english": "Could not change this during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6645:2", "source": "ユニットに登録したパートナーが持ち物に居ません", "english": "A Partner registered to the unit is not in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:6646:2", "source": "既に開始されているため変更できませんでした", "english": "Could not change this because it has already started.", "status": "draft"}
+{"id": "table/strtable.csv:6647:2", "source": "ユニットに登録したパートナーが持ち物に居ません", "english": "A Partner registered to the unit is not in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:6648:2", "source": "準備中のメンバーが居ます", "english": "A member is preparing.", "status": "draft"}
+{"id": "table/strtable.csv:6649:2", "source": "開始に失敗しました", "english": "Failed to start.", "status": "draft"}
+{"id": "table/strtable.csv:6650:2", "source": "別のロビーで開始済みです", "english": "Already started in another lobby.", "status": "draft"}
+{"id": "table/strtable.csv:6651:2", "source": "既に作成済みです", "english": "Already created.", "status": "draft"}
+{"id": "table/strtable.csv:6652:2", "source": "開始できない状態です", "english": "Cannot start in the current state.", "status": "draft"}
+{"id": "table/strtable.csv:6653:2", "source": "イベント中のため開始できない状態です", "english": "Cannot start during an event.", "status": "draft"}
+{"id": "table/strtable.csv:6654:2", "source": "既に開始されています", "english": "Already started.", "status": "draft"}
+{"id": "table/strtable.csv:6655:2", "source": "既に開始されているため変更できませんでした", "english": "Could not change this because it has already started.", "status": "draft"}
+{"id": "table/strtable.csv:6656:2", "source": "ルームが存在しません", "english": "The room does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:6657:2", "source": "リーダーではないため変更できませんでした", "english": "Could not change this because you are not the leader.", "status": "draft"}
+{"id": "table/strtable.csv:6658:2", "source": "現在のメンバー数未満の参加人数が設定されています", "english": "The participant limit is set below the current number of members.", "status": "draft"}
+{"id": "table/strtable.csv:6659:2", "source": "既に開始されているため変更できませんでした", "english": "Could not change this because it has already started.", "status": "draft"}
+{"id": "table/strtable.csv:6660:2", "source": "ルームが存在しません", "english": "The room does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:6661:2", "source": "開始されていないため再入場に失敗しました", "english": "Could not re-enter because it has not started.", "status": "draft"}
+{"id": "table/strtable.csv:6662:2", "source": "再入場に失敗しました", "english": "Failed to re-enter.", "status": "draft"}
+{"id": "table/strtable.csv:6666:2", "source": "ビンゴカード", "english": "Bingo Card", "status": "draft"}
+{"id": "table/strtable.csv:6667:2", "source": "ビンゴ報酬", "english": "Bingo Rewards", "status": "draft"}
+{"id": "table/strtable.csv:6668:2", "source": "%dビンゴ報酬", "english": "%d Bingo Reward", "status": "draft"}
+{"id": "table/strtable.csv:6669:2", "source": "項目をクリックして詳細を見よう。", "english": "Click an entry to view details.", "status": "draft"}
+{"id": "table/strtable.csv:6670:2", "source": "イベント期間　5月25日のメンテナンス後～", "english": "Event period: After maintenance on May 25 -", "status": "draft"}
+{"id": "table/strtable.csv:6671:2", "source": "報酬の受け取りに失敗しました。", "english": "Failed to claim the reward.", "status": "draft"}
+{"id": "table/strtable.csv:6672:2", "source": "イベント中は報酬を受け取れません。", "english": "Rewards cannot be claimed during the event.", "status": "draft"}
+{"id": "table/strtable.csv:6673:2", "source": "アイテム所持数に空きがありません。", "english": "There is no free space in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:6678:2", "source": "称号", "english": "Title", "status": "draft"}
+{"id": "table/strtable.csv:6679:2", "source": "現在の見た目称号", "english": "Current Appearance Title", "status": "draft"}
+{"id": "table/strtable.csv:6680:2", "source": "現在の戦闘称号", "english": "Current Combat Title", "status": "draft"}
+{"id": "table/strtable.csv:6681:2", "source": "習得状況", "english": "Acquisition Status", "status": "draft"}
+{"id": "table/strtable.csv:6682:2", "source": "称号名：", "english": "Title Name:", "status": "draft"}
+{"id": "table/strtable.csv:6683:2", "source": "称号名", "english": "Title Name", "status": "draft"}
+{"id": "table/strtable.csv:6684:2", "source": "接続詞", "english": "Connector", "status": "draft"}
+{"id": "table/strtable.csv:6685:2", "source": "カテゴリ", "english": "Category", "status": "draft"}
+{"id": "table/strtable.csv:6686:2", "source": "レアリティ", "english": "Rarity", "status": "draft"}
+{"id": "table/strtable.csv:6687:2", "source": "レアリティ毎の習得数：", "english": "Acquired by Rarity:", "status": "draft"}
+{"id": "table/strtable.csv:6688:2", "source": "習得条件", "english": "Acquisition Requirements", "status": "draft"}
+{"id": "table/strtable.csv:6689:2", "source": "能力", "english": "Abilities", "status": "draft"}
+{"id": "table/strtable.csv:6690:2", "source": "現在の称号と比較", "english": "Compare with Current Title", "status": "draft"}
+{"id": "table/strtable.csv:6691:2", "source": "お気に入り登録", "english": "Add to Favorites", "status": "draft"}
+{"id": "table/strtable.csv:6693:2", "source": "（未習得）", "english": "(Not Acquired)", "status": "draft"}
+{"id": "table/strtable.csv:6694:2", "source": "最初から習得済み", "english": "Acquired from the Start", "status": "draft"}
+{"id": "table/strtable.csv:6696:2", "source": "初期称号のため能力値はありません", "english": "No stats because this is an initial title.", "status": "draft"}
+{"id": "table/strtable.csv:6697:2", "source": "最大ＨＰ", "english": "Max HP", "status": "draft"}
+{"id": "table/strtable.csv:6698:2", "source": "最大ＭＰ", "english": "Max MP", "status": "draft"}
+{"id": "table/strtable.csv:6699:2", "source": "最大ＳＰ", "english": "Max SP", "status": "draft"}
+{"id": "table/strtable.csv:6700:2", "source": "物理攻撃力・最小（叩き）", "english": "Physical ATK Min (Blunt)", "status": "draft"}
+{"id": "table/strtable.csv:6701:2", "source": "物理攻撃力・最大（叩き）", "english": "Physical ATK Max (Blunt)", "status": "draft"}
+{"id": "table/strtable.csv:6702:2", "source": "物理攻撃力・最小（斬り）", "english": "Physical ATK Min (Slash)", "status": "draft"}
+{"id": "table/strtable.csv:6703:2", "source": "物理攻撃力・最大（斬り）", "english": "Physical ATK Max (Slash)", "status": "draft"}
+{"id": "table/strtable.csv:6704:2", "source": "物理攻撃力・最小（突き）", "english": "Physical ATK Min (Pierce)", "status": "draft"}
+{"id": "table/strtable.csv:6705:2", "source": "物理攻撃力・最大（突き）", "english": "Physical ATK Max (Pierce)", "status": "draft"}
+{"id": "table/strtable.csv:6706:2", "source": "魔法攻撃力・最小", "english": "Magic ATK Min", "status": "draft"}
+{"id": "table/strtable.csv:6707:2", "source": "魔法攻撃力・最大", "english": "Magic ATK Max", "status": "draft"}
+{"id": "table/strtable.csv:6708:2", "source": "物理防御力（減算）", "english": "Physical DEF (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:6709:2", "source": "魔法防御力（減算）", "english": "Magic DEF (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:6710:2", "source": "近距離命中力", "english": "Melee Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6711:2", "source": "遠距離命中力", "english": "Ranged Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6712:2", "source": "魔法命中力", "english": "Magic Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6713:2", "source": "近距離回避力", "english": "Melee Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6714:2", "source": "遠距離回避力", "english": "Ranged Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6715:2", "source": "魔法抵抗力", "english": "Magic Resistance", "status": "draft"}
+{"id": "table/strtable.csv:6716:2", "source": "クリティカル力", "english": "Critical Power", "status": "draft"}
+{"id": "table/strtable.csv:6717:2", "source": "クリティカル回避力", "english": "Critical Evasion", "status": "draft"}
+{"id": "table/strtable.csv:6718:2", "source": "攻撃速度", "english": "Attack Speed", "status": "draft"}
+{"id": "table/strtable.csv:6719:2", "source": "詠唱速度", "english": "Cast Speed", "status": "draft"}
+{"id": "table/strtable.csv:6721:2", "source": "称号「%s」を習得しました", "english": "Learned the title \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:6722:2", "source": "複数の称号を習得しました", "english": "Learned multiple titles.", "status": "draft"}
+{"id": "table/strtable.csv:6723:2", "source": "称号「%s」を習得しました", "english": "Learned the title \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:6725:2", "source": "称号名検索", "english": "Search Title Names", "status": "draft"}
+{"id": "table/strtable.csv:6726:2", "source": "戦闘称号名", "english": "Combat Title", "status": "draft"}
+{"id": "table/strtable.csv:6727:2", "source": "左の見た目称号名", "english": "Left Appearance Title", "status": "draft"}
+{"id": "table/strtable.csv:6728:2", "source": "接続詞", "english": "Connector", "status": "draft"}
+{"id": "table/strtable.csv:6729:2", "source": "右の見た目称号名", "english": "Right Appearance Title", "status": "draft"}
+{"id": "table/strtable.csv:6731:2", "source": "ソート", "english": "Sort", "status": "draft"}
+{"id": "table/strtable.csv:6732:2", "source": "レアリティ順", "english": "By Rarity", "status": "draft"}
+{"id": "table/strtable.csv:6733:2", "source": "カテゴリ順", "english": "By Category", "status": "draft"}
+{"id": "table/strtable.csv:6734:2", "source": "称号名順", "english": "By Title Name", "status": "draft"}
+{"id": "table/strtable.csv:6735:2", "source": "習得状況順", "english": "By Acquisition Status", "status": "draft"}
+{"id": "table/strtable.csv:6736:2", "source": "能力：最大HP順", "english": "By Max HP", "status": "draft"}
+{"id": "table/strtable.csv:6737:2", "source": "能力：最大MP順", "english": "By Max MP", "status": "draft"}
+{"id": "table/strtable.csv:6738:2", "source": "能力：最大SP順", "english": "By Max SP", "status": "draft"}
+{"id": "table/strtable.csv:6739:2", "source": "能力：物理攻撃力・最小（叩き）順", "english": "By Physical ATK Min (Blunt)", "status": "draft"}
+{"id": "table/strtable.csv:6740:2", "source": "能力：物理攻撃力・最大（叩き）順", "english": "By Physical ATK Max (Blunt)", "status": "draft"}
+{"id": "table/strtable.csv:6741:2", "source": "能力：物理攻撃力・最小（斬り）順", "english": "By Physical ATK Min (Slash)", "status": "draft"}
+{"id": "table/strtable.csv:6742:2", "source": "能力：物理攻撃力・最大（斬り）順", "english": "By Physical ATK Max (Slash)", "status": "draft"}
+{"id": "table/strtable.csv:6743:2", "source": "能力：物理攻撃力・最小（突き）順", "english": "By Physical ATK Min (Pierce)", "status": "draft"}
+{"id": "table/strtable.csv:6744:2", "source": "能力：物理攻撃力・最大（突き）順", "english": "By Physical ATK Max (Pierce)", "status": "draft"}
+{"id": "table/strtable.csv:6745:2", "source": "能力：魔法攻撃力・最小順", "english": "By Magic ATK Min", "status": "draft"}
+{"id": "table/strtable.csv:6746:2", "source": "能力：魔法攻撃力・最大順", "english": "By Magic ATK Max", "status": "draft"}
+{"id": "table/strtable.csv:6747:2", "source": "能力：物理防御力（減算）順", "english": "By Physical DEF (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:6748:2", "source": "能力：魔法防御力（減算）順", "english": "By Magic DEF (Flat)", "status": "draft"}
+{"id": "table/strtable.csv:6749:2", "source": "能力：近距離命中力順", "english": "By Melee Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:6750:2", "source": "能力：遠距離命中力順", "english": "By Ranged Accuracy", "status": "draft"}

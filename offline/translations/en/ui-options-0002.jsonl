@@ -1,0 +1,140 @@
+{"id": "table/strtable.csv:1796:2", "source": "トレード", "english": "Trade", "status": "draft"}
+{"id": "table/strtable.csv:1798:2", "source": "イベントアイテムは取引できません", "english": "Event items cannot be traded.", "status": "draft"}
+{"id": "table/strtable.csv:1799:2", "source": "%sさんからトレード要請が来ています", "english": "%s has sent you a trade request.", "status": "draft"}
+{"id": "table/strtable.csv:1800:2", "source": "ユニットに設定されているアイテムが含まれています", "english": "The selection includes an item assigned to a unit.", "status": "draft"}
+{"id": "table/strtable.csv:1803:2", "source": "倉庫", "english": "Warehouse", "status": "draft"}
+{"id": "table/strtable.csv:1804:2", "source": "搬送先", "english": "Destination", "status": "draft"}
+{"id": "table/strtable.csv:1805:2", "source": "搬送したいアイテムを選択して下さい", "english": "Select the items you want to transfer.", "status": "draft"}
+{"id": "table/strtable.csv:1806:2", "source": "アクロポリスシティ", "english": "Acropolis City", "status": "draft"}
+{"id": "table/strtable.csv:1807:2", "source": "ファーイースト国境駐在員", "english": "Far East Border Guard", "status": "draft"}
+{"id": "table/strtable.csv:1808:2", "source": "アイアンサウス国境駐在員", "english": "Iron South Border Guard", "status": "draft"}
+{"id": "table/strtable.csv:1809:2", "source": "ノーザン国境駐在員", "english": "Northern Border Guard", "status": "draft"}
+{"id": "table/strtable.csv:1810:2", "source": "廃炭鉱キャンプ", "english": "Abandoned Coal Mine Camp", "status": "draft"}
+{"id": "table/strtable.csv:1811:2", "source": "モーグシティ", "english": "Morg City", "status": "draft"}
+{"id": "table/strtable.csv:1812:2", "source": "アイアンサウス連邦", "english": "Iron South Federation", "status": "draft"}
+{"id": "table/strtable.csv:1813:2", "source": "ノーザン王国", "english": "Northern Kingdom", "status": "draft"}
+{"id": "table/strtable.csv:1814:2", "source": "トンカシティ", "english": "Tonka City", "status": "draft"}
+{"id": "table/strtable.csv:1815:2", "source": "マーメイドのすみか", "english": "Mermaid Home", "status": "draft"}
+{"id": "table/strtable.csv:1816:2", "source": "マイマイキャンプ", "english": "Maimai Camp", "status": "draft"}
+{"id": "table/strtable.csv:1818:2", "source": "ファーイースト共和国", "english": "Far East Republic", "status": "draft"}
+{"id": "table/strtable.csv:1819:2", "source": "天まで続く塔の島", "english": "Island of the Tower That Reaches the Sky", "status": "draft"}
+{"id": "table/strtable.csv:1820:2", "source": "ウェストフォート", "english": "Westfort", "status": "draft"}
+{"id": "table/strtable.csv:1821:2", "source": "ECOタウン", "english": "ECO Town", "status": "draft"}
+{"id": "table/strtable.csv:1822:2", "source": "エル・シエル", "english": "El Ciel", "status": "draft"}
+{"id": "table/strtable.csv:1823:2", "source": "カーマインブリック", "english": "Carmine Brick", "status": "draft"}
+{"id": "table/strtable.csv:1824:2", "source": "小さな倉庫", "english": "Small Warehouse", "status": "draft"}
+{"id": "table/strtable.csv:1825:2", "source": "小さな倉庫（課金）", "english": "Small Warehouse (Paid)", "status": "draft"}
+{"id": "table/strtable.csv:1826:2", "source": "大きな倉庫（課金）", "english": "Large Warehouse (Paid)", "status": "draft"}
+{"id": "table/strtable.csv:1827:2", "source": "お得意様倉庫", "english": "Preferred Customer Warehouse", "status": "draft"}
+{"id": "table/strtable.csv:1828:2", "source": "クライアント未対応のIDです。", "english": "This ID is not supported by the client.", "status": "draft"}
+{"id": "table/strtable.csv:1829:2", "source": "これ以上倉庫に預けることはできません", "english": "You cannot store any more items in the warehouse.", "status": "draft"}
+{"id": "table/strtable.csv:1830:2", "source": "全ての場所の倉庫で%d種までです", "english": "Up to %d item types can be stored across all warehouses.", "status": "draft"}
+{"id": "table/strtable.csv:1831:2", "source": "一度に搬送できるのは100種類までです", "english": "You can transfer up to 100 item types at once.", "status": "draft"}
+{"id": "table/strtable.csv:1832:2", "source": "アイテム移動に失敗しました", "english": "Item transfer failed.", "status": "draft"}
+{"id": "table/strtable.csv:1833:2", "source": "フィルター", "english": "Filter", "status": "draft"}
+{"id": "table/strtable.csv:1834:2", "source": "他の倉庫", "english": "Other Warehouses", "status": "draft"}
+{"id": "table/strtable.csv:1835:2", "source": "武器", "english": "Weapons", "status": "draft"}
+{"id": "table/strtable.csv:1836:2", "source": "防具", "english": "Armor", "status": "draft"}
+{"id": "table/strtable.csv:1837:2", "source": "消耗品", "english": "Consumables", "status": "draft"}
+{"id": "table/strtable.csv:1838:2", "source": "その他", "english": "Other", "status": "draft"}
+{"id": "table/strtable.csv:1839:2", "source": "スロット無", "english": "No Slots", "status": "draft"}
+{"id": "table/strtable.csv:1840:2", "source": "ソート", "english": "Sort", "status": "draft"}
+{"id": "table/strtable.csv:1841:2", "source": "倉庫フィルター", "english": "Warehouse Filter", "status": "draft"}
+{"id": "table/strtable.csv:1842:2", "source": "使用済み日数制限付きアイテムは倉庫に預けることはできません", "english": "Used time-limited items cannot be stored in the warehouse.", "status": "draft"}
+{"id": "table/strtable.csv:1843:2", "source": "預けている金額", "english": "Amount stored", "status": "draft"}
+{"id": "table/strtable.csv:1846:2", "source": "アイテム納品", "english": "Item Delivery", "status": "draft"}
+{"id": "table/strtable.csv:1847:2", "source": "納品アイテム", "english": "Items to Deliver", "status": "draft"}
+{"id": "table/strtable.csv:1848:2", "source": "マテリアルポイント", "english": "Material Points", "status": "draft"}
+{"id": "table/strtable.csv:1850:2", "source": "アイテム納品に失敗しました。", "english": "Item delivery failed.", "status": "draft"}
+{"id": "table/strtable.csv:1851:2", "source": "所持マテリアルポイントが上限に達しています。", "english": "You have reached the material point limit.", "status": "draft"}
+{"id": "table/strtable.csv:1852:2", "source": "マテリアルポイントが所持上限%dPを超えた場合でも、アイテムは全て納品されますがよろしいですか？", "english": "Items will all be delivered even if your Material Points exceed the limit of %dP. Continue?", "status": "draft"}
+{"id": "table/strtable.csv:1855:2", "source": "掲示板", "english": "Bulletin Board", "status": "draft"}
+{"id": "table/strtable.csv:1856:2", "source": "掲示板入力ウィンドウ", "english": "Bulletin Board Input", "status": "draft"}
+{"id": "table/strtable.csv:1860:2", "source": "投稿しました", "english": "Posted.", "status": "draft"}
+{"id": "table/strtable.csv:1861:2", "source": "投稿に失敗しました", "english": "Posting failed.", "status": "draft"}
+{"id": "table/strtable.csv:1862:2", "source": "お金が足りません", "english": "Not enough money.", "status": "draft"}
+{"id": "table/strtable.csv:1863:2", "source": "投稿内容の文字数が足りません", "english": "The post is too short.", "status": "draft"}
+{"id": "table/strtable.csv:1864:2", "source": "投稿回数が制限に達したため失敗しました", "english": "You have reached the posting limit.", "status": "draft"}
+{"id": "table/strtable.csv:1867:2", "source": "マーチャント露店", "english": "Merchant Shop", "status": "draft"}
+{"id": "table/strtable.csv:1870:2", "source": "募集コメントリスト", "english": "Recruitment Comments", "status": "draft"}
+{"id": "table/strtable.csv:1871:2", "source": "募集コメント登録", "english": "Register Recruitment Comment", "status": "draft"}
+{"id": "table/strtable.csv:1872:2", "source": "募集項目", "english": "Recruitment Category", "status": "draft"}
+{"id": "table/strtable.csv:1873:2", "source": "パーティー", "english": "Party", "status": "draft"}
+{"id": "table/strtable.csv:1874:2", "source": "アイテム", "english": "Items", "status": "draft"}
+{"id": "table/strtable.csv:1875:2", "source": "情報", "english": "Information", "status": "draft"}
+{"id": "table/strtable.csv:1876:2", "source": "師弟", "english": "Mentor and Apprentice", "status": "draft"}
+{"id": "table/strtable.csv:1877:2", "source": "チャットルーム", "english": "Chat Room", "status": "draft"}
+{"id": "table/strtable.csv:1880:2", "source": "募集コメントの削除に失敗しました", "english": "Failed to delete the recruitment comment.", "status": "draft"}
+{"id": "table/strtable.csv:1881:2", "source": "募集コメントの登録に失敗しました", "english": "Failed to register the recruitment comment.", "status": "draft"}
+{"id": "table/strtable.csv:1882:2", "source": "このマップでは募集コメントに登録できません", "english": "Recruitment comments cannot be registered on this map.", "status": "draft"}
+{"id": "table/strtable.csv:1883:2", "source": "募集コメントを削除しました", "english": "Recruitment comment deleted.", "status": "draft"}
+{"id": "table/strtable.csv:1884:2", "source": "募集コメントに登録しました", "english": "Recruitment comment registered.", "status": "draft"}
+{"id": "table/strtable.csv:1885:2", "source": "参加要請中です", "english": "Request pending.", "status": "draft"}
+{"id": "table/strtable.csv:1886:2", "source": "パーティーサーバーとの接続に失敗しました", "english": "Could not connect to the party server.", "status": "draft"}
+{"id": "table/strtable.csv:1887:2", "source": "パーティー参加要請を断られました", "english": "The party request was declined.", "status": "draft"}
+{"id": "table/strtable.csv:1888:2", "source": "要請をしたパーティーは満員です", "english": "The requested party is full.", "status": "draft"}
+{"id": "table/strtable.csv:1889:2", "source": "パーティー要請をした相手がオフライン中です", "english": "The other player is offline.", "status": "draft"}
+{"id": "table/strtable.csv:1890:2", "source": "パーティー参加中に要請はできません", "english": "You cannot send a request while in a party.", "status": "draft"}
+{"id": "table/strtable.csv:1891:2", "source": "自分にパーティー申請はできません", "english": "You cannot invite yourself to a party.", "status": "draft"}
+{"id": "table/strtable.csv:1892:2", "source": "募集コメントの登録が消えています", "english": "The recruitment comment is no longer registered.", "status": "draft"}
+{"id": "table/strtable.csv:1894:2", "source": "人参加中", "english": " people participating", "status": "draft", "note": "Source is a suffix fragment without a count placeholder; preserve as a label fragment."}
+{"id": "table/strtable.csv:1895:2", "source": "パスワードが必要です", "english": "A password is required.", "status": "draft"}
+{"id": "table/strtable.csv:1898:2", "source": "募集ミニゲームリスト", "english": "Minigame Recruitment List", "status": "draft"}
+{"id": "table/strtable.csv:1899:2", "source": "募集項目", "english": "Recruitment Category", "status": "draft"}
+{"id": "table/strtable.csv:1901:2", "source": "     %d戦目", "english": "     Round %d", "status": "draft"}
+{"id": "table/strtable.csv:1903:2", "source": "まだ開始できません", "english": "Cannot start yet.", "status": "draft"}
+{"id": "table/strtable.csv:1906:2", "source": "大富豪", "english": "Daifugo", "status": "draft"}
+{"id": "table/strtable.csv:1907:2", "source": "ポーカー", "english": "Poker", "status": "draft"}
+{"id": "table/strtable.csv:1909:2", "source": "ルーム名", "english": "Room Name", "status": "draft"}
+{"id": "table/strtable.csv:1910:2", "source": "ルール", "english": "Rules", "status": "draft"}
+{"id": "table/strtable.csv:1913:2", "source": "募集コメントの削除に失敗しました", "english": "Failed to delete the recruitment comment.", "status": "draft"}
+{"id": "table/strtable.csv:1914:2", "source": "募集コメントの削除に失敗しました", "english": "Failed to delete the recruitment comment.", "status": "draft"}
+{"id": "table/strtable.csv:1915:2", "source": "募集コメントの削除に失敗しました", "english": "Failed to delete the recruitment comment.", "status": "draft"}
+{"id": "table/strtable.csv:1916:2", "source": "募集コメントの削除に失敗しました", "english": "Failed to delete the recruitment comment.", "status": "draft"}
+{"id": "table/strtable.csv:1917:2", "source": "パスワードが必要です", "english": "A password is required.", "status": "draft"}
+{"id": "table/strtable.csv:1918:2", "source": "募集ミニゲーム登録", "english": "Register Minigame Recruitment", "status": "draft"}
+{"id": "table/strtable.csv:1921:2", "source": "ルーム名", "english": "Room Name", "status": "draft"}
+{"id": "table/strtable.csv:1922:2", "source": "コメント", "english": "Comment", "status": "draft"}
+{"id": "table/strtable.csv:1923:2", "source": "パスワード（半角英数8文字まで）", "english": "Password (up to 8 alphanumeric characters)", "status": "draft"}
+{"id": "table/strtable.csv:1924:2", "source": "参加人数", "english": "Players", "status": "draft"}
+{"id": "table/strtable.csv:1925:2", "source": "対戦回数", "english": "Number of Rounds", "status": "draft"}
+{"id": "table/strtable.csv:1926:2", "source": "ルール設定", "english": "Rule Settings", "status": "draft"}
+{"id": "table/strtable.csv:1927:2", "source": "消費枚数", "english": "Entry Cost", "status": "draft"}
+{"id": "table/strtable.csv:1929:2", "source": "あがり禁止カード", "english": "No finishing with this card", "status": "draft"}
+{"id": "table/strtable.csv:1930:2", "source": "8切り", "english": "8s cut", "status": "draft"}
+{"id": "table/strtable.csv:1931:2", "source": "階段", "english": "Sequences", "status": "draft"}
+{"id": "table/strtable.csv:1932:2", "source": "しばり", "english": "Suit lock", "status": "draft"}
+{"id": "table/strtable.csv:1933:2", "source": "都落ち(対戦回数3から有効)", "english": "Dethroning (active with 3 or more rounds)", "status": "draft"}
+{"id": "table/strtable.csv:1936:2", "source": "ルール確認", "english": "Rules", "status": "draft"}
+{"id": "table/strtable.csv:1939:2", "source": "ミニゲームチャットルームから退室します", "english": "Leave the minigame chat room?", "status": "draft"}
+{"id": "table/strtable.csv:1940:2", "source": "ミニゲームチャットルームに入室していません", "english": "You are not in a minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:1941:2", "source": "パスワードを入力してください", "english": "Please enter the password.", "status": "draft"}
+{"id": "table/strtable.csv:1942:2", "source": " (%d人参加中)", "english": " (%d players in room)", "status": "draft"}
+{"id": "table/strtable.csv:1943:2", "source": "退出できます", "english": "You may leave.", "status": "draft"}
+{"id": "table/strtable.csv:1944:2", "source": "ミニゲームチャットルームの管理権限が与えられました", "english": "You have been given moderator privileges in the minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:1945:2", "source": "ミニゲームを開始します", "english": "Starting the minigame.", "status": "draft"}
+{"id": "table/strtable.csv:1947:2", "source": "ゲーム開始に失敗しました", "english": "Failed to start the game.", "status": "draft"}
+{"id": "table/strtable.csv:1948:2", "source": "エントリーに失敗しました", "english": "Entry failed.", "status": "draft"}
+{"id": "table/strtable.csv:1949:2", "source": "交換に失敗しました", "english": "Card exchange failed.", "status": "draft"}
+{"id": "table/strtable.csv:1950:2", "source": "手札を出すのに失敗しました", "english": "Failed to play your hand.", "status": "draft"}
+{"id": "table/strtable.csv:1951:2", "source": "ミニゲーム参加者ではありません", "english": "You are not a minigame participant.", "status": "draft"}
+{"id": "table/strtable.csv:1952:2", "source": "プレイヤー人数が足りません", "english": "Not enough players.", "status": "draft"}
+{"id": "table/strtable.csv:1953:2", "source": "エントリー済み", "english": "Already entered.", "status": "draft"}
+{"id": "table/strtable.csv:1954:2", "source": "手札が出せるプレイヤーではありません", "english": "You cannot play a hand right now.", "status": "draft"}
+{"id": "table/strtable.csv:1955:2", "source": "ecoinが足りません", "english": "Not enough ecoin.", "status": "draft"}
+{"id": "table/strtable.csv:1956:2", "source": "ECOタウンにいません", "english": "You are not in ECO Town.", "status": "draft"}
+{"id": "table/strtable.csv:1959:2", "source": "カード交換中", "english": "Exchanging cards.", "status": "draft"}
+{"id": "table/strtable.csv:1960:2", "source": "交換するカードを%d枚選んでください", "english": "Select %d cards to exchange.", "status": "draft"}
+{"id": "table/strtable.csv:1961:2", "source": "しばらくお待ちください", "english": "Please wait.", "status": "draft"}
+{"id": "table/strtable.csv:1962:2", "source": "ゲームを終了しますか？", "english": "End the game?", "status": "draft"}
+{"id": "table/strtable.csv:1965:2", "source": "ログ", "english": "Log", "status": "draft"}
+{"id": "table/strtable.csv:1967:2", "source": "%sさんを見つけられませんでした。", "english": "Could not find %s.", "status": "draft"}
+{"id": "table/strtable.csv:1968:2", "source": "[%s]に憑依されました", "english": "You are now possessed by [%s].", "status": "draft"}
+{"id": "table/strtable.csv:1969:2", "source": "[%s]の憑依装備が解除されました", "english": "[%s]'s possession equipment was removed.", "status": "draft"}
+{"id": "table/strtable.csv:1970:2", "source": "[%s]の憑依が解除されました", "english": "[%s] is no longer possessing you.", "status": "draft"}
+{"id": "table/strtable.csv:1971:2", "source": "ログアウトがキャンセルされました", "english": "Logout canceled.", "status": "draft"}
+{"id": "table/strtable.csv:1972:2", "source": "ラインチャット", "english": "Line Chat", "status": "draft"}
+{"id": "table/strtable.csv:1973:2", "source": "ログアウトまで残り", "english": "Time until logout:", "status": "draft"}
+{"id": "table/strtable.csv:1974:2", "source": "秒", "english": "seconds", "status": "draft"}
+{"id": "table/strtable.csv:1975:2", "source": "アイテムウィンドウに表示フィルターが適用されています", "english": "A display filter is applied to the item window.", "status": "draft"}
+{"id": "table/strtable.csv:1976:2", "source": "ルームに入っていません", "english": "You are not in a room.", "status": "draft"}

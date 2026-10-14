@@ -1,0 +1,175 @@
+{"id": "table/strtable.csv:420:2", "source": "招待権限を持っていません", "english": "You do not have permission to invite members to this Ring.", "status": "draft"}
+{"id": "table/strtable.csv:421:2", "source": "誘った相手が存在していません", "english": "The person you invited does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:422:2", "source": "誘った相手に招待権限がありません", "english": "The invited player does not have invitation permission.", "status": "draft"}
+{"id": "table/strtable.csv:423:2", "source": "既にリングに入っています", "english": "They are already in a Ring.", "status": "draft"}
+{"id": "table/strtable.csv:424:2", "source": "満員で入れません", "english": "The Ring is full.", "status": "draft"}
+{"id": "table/strtable.csv:426:2", "source": "招待権限を持っていません", "english": "You do not have permission to invite members.", "status": "draft"}
+{"id": "table/strtable.csv:428:2", "source": "%sさんから$rリング「%s」へ$r誘われました。加入しますか？", "english": "%s invited you to join their Ring:$r“%s”$rWould you like to join?", "status": "draft"}
+{"id": "table/strtable.csv:429:2", "source": "リング加入要請", "english": "Ring Invitation", "status": "draft"}
+{"id": "table/strtable.csv:431:2", "source": "リング情報", "english": "Ring Information", "status": "draft"}
+{"id": "table/strtable.csv:432:2", "source": "無し", "english": "None", "status": "draft"}
+{"id": "table/strtable.csv:433:2", "source": "が見つかりませんでした", "english": " could not be found.", "status": "draft"}
+{"id": "table/strtable.csv:434:2", "source": "エンブレムのファイルサイズが制限を超えています", "english": "The emblem file exceeds the size limit.", "status": "draft"}
+{"id": "table/strtable.csv:437:2", "source": "エンブレムの登録に成功しました", "english": "Emblem registered successfully.", "status": "draft"}
+{"id": "table/strtable.csv:438:2", "source": "サーバーエラーによりエンブレム登録ができません", "english": "A server error prevented the emblem from being registered.", "status": "draft"}
+{"id": "table/strtable.csv:439:2", "source": "画像フォーマットが不明なためエンブレム登録ができません", "english": "The emblem could not be registered because the image format is unknown.", "status": "draft"}
+{"id": "table/strtable.csv:440:2", "source": "リング名声値が足りないためエンブレム登録ができません", "english": "The emblem could not be registered because the Ring Fame level is too low.", "status": "draft"}
+{"id": "table/strtable.csv:441:2", "source": "リングサーバーの応答がありません", "english": "No response from the Ring server.", "status": "draft"}
+{"id": "table/strtable.csv:444:2", "source": "%sさんから$rパーティー参加要請を受けました", "english": "%s$r has invited you to join their party.", "status": "draft"}
+{"id": "table/strtable.csv:445:2", "source": "%sの%sさんから$rパーティー参加要請を受けました", "english": "%s’s %s$r has invited you to join their party.", "status": "draft"}
+{"id": "table/strtable.csv:446:2", "source": "パーティー要請", "english": "Party Invitation", "status": "draft"}
+{"id": "table/strtable.csv:447:2", "source": "パーティーに所属していません", "english": "You are not in a party.", "status": "draft"}
+{"id": "table/strtable.csv:448:2", "source": "パーティー名が長すぎます", "english": "The party name is too long.", "status": "draft"}
+{"id": "table/strtable.csv:449:2", "source": "パーティーメンバーを脱退させます", "english": "Remove this party member?", "status": "draft"}
+{"id": "table/strtable.csv:450:2", "source": "パーティーから脱退します", "english": "Leave the party?", "status": "draft"}
+{"id": "table/strtable.csv:451:2", "source": "パーティーを解散します", "english": "Disband the party?", "status": "draft"}
+{"id": "table/strtable.csv:452:2", "source": "パーティー名を入力してください", "english": "Enter a party name.", "status": "draft"}
+{"id": "table/strtable.csv:454:2", "source": "ウィスパー", "english": "Whisper", "status": "draft"}
+{"id": "table/strtable.csv:455:2", "source": "パーティーを脱退させる", "english": "Remove from party", "status": "draft"}
+{"id": "table/strtable.csv:456:2", "source": "追尾", "english": "Follow", "status": "draft"}
+{"id": "table/strtable.csv:458:2", "source": "パーティー名変更", "english": "Change party name", "status": "draft"}
+{"id": "table/strtable.csv:459:2", "source": "パーティーを解散する", "english": "Disband party", "status": "draft"}
+{"id": "table/strtable.csv:461:2", "source": "パーティーから抜ける", "english": "Leave party", "status": "draft"}
+{"id": "table/strtable.csv:463:2", "source": "ウィスパー", "english": "Whisper", "status": "draft"}
+{"id": "table/strtable.csv:464:2", "source": "追尾", "english": "Follow", "status": "draft"}
+{"id": "table/strtable.csv:466:2", "source": "ウィスパー", "english": "Whisper", "status": "draft"}
+{"id": "table/strtable.csv:467:2", "source": "追尾", "english": "Follow", "status": "draft"}
+{"id": "table/strtable.csv:469:2", "source": "アイテムのランダム取得", "english": "Random item pickup", "status": "draft"}
+{"id": "table/strtable.csv:472:2", "source": "チャットルームから退室します", "english": "Leave the chat room?", "status": "draft"}
+{"id": "table/strtable.csv:473:2", "source": "チャットルームに入室していません", "english": "You are not in a chat room.", "status": "draft"}
+{"id": "table/strtable.csv:474:2", "source": "パスワードを入力してください", "english": "Enter a password.", "status": "draft"}
+{"id": "table/strtable.csv:475:2", "source": " (%d人参加中)", "english": " (%d participating)", "status": "draft"}
+{"id": "table/strtable.csv:476:2", "source": "退出できます", "english": "You can leave.", "status": "draft"}
+{"id": "table/strtable.csv:477:2", "source": "チャットルームの管理権限が与えられました", "english": "You have been granted chat room administrator privileges.", "status": "draft"}
+{"id": "table/strtable.csv:480:2", "source": "キャラクター名を入力してください", "english": "Enter a character name.", "status": "draft"}
+{"id": "table/strtable.csv:481:2", "source": "%sさんをブロックリストに登録しますか？", "english": "Add %s to your block list?", "status": "draft"}
+{"id": "table/strtable.csv:482:2", "source": "%sさんをブロックリストから削除しますか？", "english": "Remove %s from your block list?", "status": "draft"}
+{"id": "table/strtable.csv:483:2", "source": "ブロックリストから削除する", "english": "Remove from block list", "status": "draft"}
+{"id": "table/strtable.csv:484:2", "source": "これ以上ブロックリストに登録をすることはできません", "english": "Your block list is full.", "status": "draft"}
+{"id": "table/strtable.csv:487:2", "source": "師弟要請", "english": "Mentor Request", "status": "draft"}
+{"id": "table/strtable.csv:488:2", "source": "%sさんから$r師弟要請を受けました", "english": "%s$r has sent you a mentor request.", "status": "draft"}
+{"id": "table/strtable.csv:492:2", "source": "師弟関係を解消する", "english": "End this mentor relationship", "status": "draft"}
+{"id": "table/strtable.csv:493:2", "source": "全ての師弟関係を解消する", "english": "End all mentor relationships", "status": "draft"}
+{"id": "table/strtable.csv:494:2", "source": "師弟関係の解消をしますか？", "english": "End this mentor relationship?", "status": "draft"}
+{"id": "table/strtable.csv:498:2", "source": "アイテム「%s」の効果がなくなりました。$r今すぐアイテム「%s」を購入して使用しますか？", "english": "The effect of “%s” has worn off.$rWould you like to buy and use another “%s” now?", "status": "draft"}
+{"id": "table/strtable.csv:499:2", "source": "アイテム「%s」を購入して、今すぐ使用いたします。$rよろしいですか？$r－－－－－－－－－－－－－－－－－－－－－－－－－－－－$r", "english": "Buy and use “%s” now?$rAre you sure?$r－－－－－－－－－－－－－－－－－－－－－－－－－－－－$r", "status": "draft"}
+{"id": "table/strtable.csv:500:2", "source": "今すぐ購入して使用するアイテム : %s$r所持ポイント : %d$r購入ポイント : %d$r残りポイント : %d", "english": "Item to buy and use now: %s$rPoints held: %d$rPurchase cost: %d points$rPoints remaining: %d", "status": "draft"}
+{"id": "table/strtable.csv:501:2", "source": "ShopPointが不足しています。$rShopPointをご購入の上、ECO SHOPよりアイテムをご購入下さい", "english": "You do not have enough Shop Points.$rPurchase Shop Points, then buy items from the ECO SHOP.", "status": "draft"}
+{"id": "table/strtable.csv:502:2", "source": "アイテム所持数に空きがありません", "english": "There is no room in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:503:2", "source": "アイテムを購入できる状態ではありません", "english": "You cannot buy this item right now.", "status": "draft"}
+{"id": "table/strtable.csv:506:2", "source": "メールウィンドウを開く", "english": "Open the mail window", "status": "draft"}
+{"id": "table/strtable.csv:513:2", "source": "取得していないモーションなので、使用できません", "english": "You have not learned this motion and cannot use it.", "status": "draft"}
+{"id": "table/strtable.csv:514:2", "source": "待機モーションが変更されました", "english": "Idle motion changed.", "status": "draft"}
+{"id": "table/strtable.csv:515:2", "source": "待機モーションを元に戻しました", "english": "Idle motion restored to default.", "status": "draft"}
+{"id": "table/strtable.csv:516:2", "source": "待機モーションの変更には時間を置いてください", "english": "Wait before changing your idle motion again.", "status": "draft"}
+{"id": "table/strtable.csv:518:2", "source": "取得していないエモーションなので、使用できません", "english": "You have not learned this emote and cannot use it.", "status": "draft"}
+{"id": "table/strtable.csv:519:2", "source": "ＥＸエモーションを１つも習得していないので、使用できません", "english": "You have not learned any EX emotes.", "status": "draft"}
+{"id": "table/strtable.csv:520:2", "source": "セキュアログインボーナスを設定していないため、専用モーションを使用することができません。$rセキュアログインボーナスを設定すると、色々な特典が付きます。$rセキュアログインボーナスの説明のサイトを開きますか？", "english": "No Secure Login Bonus is set, so this special motion cannot be used.$rSet a Secure Login Bonus to receive various benefits.$rWould you like to open the website explaining Secure Login Bonuses?", "status": "draft"}
+{"id": "table/strtable.csv:522:2", "source": "パートナー連動モーション%d", "english": "Partner-linked motion %d", "status": "draft"}
+{"id": "table/strtable.csv:526:2", "source": "【セキュア特典】ダンス", "english": "[Secure Login Bonus] Dance", "status": "draft"}
+{"id": "table/strtable.csv:529:2", "source": "【セキュア特典】宙返り", "english": "[Secure Login Bonus] Somersault", "status": "draft"}
+{"id": "table/strtable.csv:534:2", "source": "ショップを開く", "english": "Open shop", "status": "draft"}
+{"id": "table/strtable.csv:535:2", "source": "販売するアイテムを移し値段を設定して下さい", "english": "Move the items you want to sell here and set their prices.", "status": "draft"}
+{"id": "table/strtable.csv:536:2", "source": "展示品", "english": "Display item", "status": "draft"}
+{"id": "table/strtable.csv:537:2", "source": "展示品", "english": "Display item", "status": "draft"}
+{"id": "table/strtable.csv:538:2", "source": "値段の上限が 99,999,999 から 999,999,999,999 に変更されました。$r値段の設定にはご注意ください。$rまた、売却アイテムの隣のチェックボックスをチェックしたら展示品用アイテムになります。$r展示品用アイテムは、露店に表示されますが、売れないアイテムになります。", "english": "The maximum price has changed from 99,999,999 to 999,999,999,999.$rPlease take care when setting prices.$rYou can also mark an item for display by checking the box beside it.$rDisplay items appear in your shop but cannot be purchased.", "status": "draft"}
+{"id": "table/strtable.csv:541:2", "source": "武器", "english": "Weapons", "status": "draft"}
+{"id": "table/strtable.csv:542:2", "source": "防具", "english": "Armor", "status": "draft"}
+{"id": "table/strtable.csv:543:2", "source": "装飾品", "english": "Accessories", "status": "draft"}
+{"id": "table/strtable.csv:544:2", "source": "回復薬", "english": "Recovery items", "status": "draft"}
+{"id": "table/strtable.csv:545:2", "source": "雑貨", "english": "Goods", "status": "draft"}
+{"id": "table/strtable.csv:546:2", "source": "材料", "english": "Materials", "status": "draft"}
+{"id": "table/strtable.csv:547:2", "source": "食品", "english": "Food", "status": "draft"}
+{"id": "table/strtable.csv:548:2", "source": "人形", "english": "Dolls", "status": "draft"}
+{"id": "table/strtable.csv:549:2", "source": "箱", "english": "Boxes", "status": "draft"}
+{"id": "table/strtable.csv:550:2", "source": "家具", "english": "Furniture", "status": "draft"}
+{"id": "table/strtable.csv:551:2", "source": "その他", "english": "Other", "status": "draft"}
+{"id": "table/strtable.csv:554:2", "source": "ゴーレムカタログ", "english": "Golem Catalog", "status": "draft"}
+{"id": "table/strtable.csv:555:2", "source": "存在しないゴーレムです", "english": "This Golem does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:556:2", "source": "検索", "english": "Search", "status": "draft"}
+{"id": "table/strtable.csv:557:2", "source": "コメント", "english": "Comment", "status": "draft"}
+{"id": "table/strtable.csv:558:2", "source": "アイテム", "english": "Item", "status": "draft"}
+{"id": "table/strtable.csv:560:2", "source": "検索したアイテム名は存在しません", "english": "No item with that name exists.", "status": "draft"}
+{"id": "table/strtable.csv:561:2", "source": "検索したアイテムはありませんでした", "english": "No matching items were found.", "status": "draft"}
+{"id": "table/strtable.csv:564:2", "source": "ゴーレム倉庫", "english": "Golem Storage", "status": "draft"}
+{"id": "table/strtable.csv:567:2", "source": "ゴーレムショップ", "english": "Golem Shop", "status": "draft"}
+{"id": "table/strtable.csv:568:2", "source": "項目", "english": "Item", "status": "draft"}
+{"id": "table/strtable.csv:569:2", "source": "カタログ登録", "english": "Register in catalog", "status": "draft"}
+{"id": "table/strtable.csv:570:2", "source": "500ゴールドでゴーレムカタログに登録する事ができます", "english": "Register in the Golem Catalog for 500 Gold.", "status": "draft"}
+{"id": "table/strtable.csv:571:2", "source": "ゴーレムを見つけられませんでした。", "english": "Could not find the Golem.", "status": "draft"}
+{"id": "table/strtable.csv:572:2", "source": "僕を売っちゃうの！？", "english": "You’re selling me?!", "status": "draft"}
+{"id": "table/strtable.csv:573:2", "source": "イベントアイテムは販売できません", "english": "Event items cannot be sold.", "status": "draft"}
+{"id": "table/strtable.csv:575:2", "source": "売却種類数", "english": "Types for sale", "status": "draft"}
+{"id": "table/strtable.csv:576:2", "source": "売却総金額", "english": "Total sales amount", "status": "draft"}
+{"id": "table/strtable.csv:577:2", "source": "最高設定金額", "english": "Maximum price", "status": "draft"}
+{"id": "table/strtable.csv:578:2", "source": "最低設定金額", "english": "Minimum price", "status": "draft"}
+{"id": "table/strtable.csv:587:2", "source": "金額が大きすぎます", "english": "The amount is too large.", "status": "draft"}
+{"id": "table/strtable.csv:590:2", "source": "買取ゴーレム", "english": "Golem Buyer", "status": "draft"}
+{"id": "table/strtable.csv:596:2", "source": "アイテム枠", "english": "Item slots", "status": "draft"}
+{"id": "table/strtable.csv:597:2", "source": "買取総金額", "english": "Total purchase amount", "status": "draft"}
+{"id": "table/strtable.csv:598:2", "source": "所持金額", "english": "Funds held", "status": "draft"}
+{"id": "table/strtable.csv:599:2", "source": "取引限度額", "english": "Trade limit", "status": "draft"}
+{"id": "table/strtable.csv:601:2", "source": "買取ゴールド", "english": "Purchase Gold", "status": "draft"}
+{"id": "table/strtable.csv:602:2", "source": "買取限度額", "english": "Purchase limit", "status": "draft"}
+{"id": "table/strtable.csv:604:2", "source": "買取したいアイテムを移し値段を設定して下さい", "english": "Move the items you want to buy here and set their prices.", "status": "draft"}
+{"id": "table/strtable.csv:606:2", "source": "売れるアイテムがありません", "english": "There are no items to sell.", "status": "draft"}
+{"id": "table/strtable.csv:607:2", "source": "今回は何も買い取れませんでした", "english": "Nothing was purchased this time.", "status": "draft"}
+{"id": "table/strtable.csv:608:2", "source": "今回の買取金額は%lldGでした", "english": "The total purchase amount was %lld G.", "status": "draft"}
+{"id": "table/strtable.csv:609:2", "source": "%sを%d個買い取りました", "english": "Purchased %s (%d).", "status": "draft"}
+{"id": "table/strtable.csv:611:2", "source": "取引に失敗しました", "english": "The trade failed.", "status": "draft"}
+{"id": "table/strtable.csv:612:2", "source": "ゴーレムを見失いました", "english": "Lost track of the Golem.", "status": "draft"}
+{"id": "table/strtable.csv:613:2", "source": "自分のゴーレムとは取引できません", "english": "You cannot trade with your own Golem.", "status": "draft"}
+{"id": "table/strtable.csv:614:2", "source": "取引できる商品がありませんでした", "english": "There were no items available to trade.", "status": "draft"}
+{"id": "table/strtable.csv:615:2", "source": "設定されている取引限度額を超えています", "english": "The price exceeds the trade limit.", "status": "draft"}
+{"id": "table/strtable.csv:616:2", "source": "現在の所持金が取引金額に達していませんでした", "english": "You do not have enough money for this trade.", "status": "draft"}
+{"id": "table/strtable.csv:617:2", "source": "買取主の所持品が100種類を超える為キャンセルされました", "english": "The buyer has more than 100 item types; the trade was canceled.", "status": "draft"}
+{"id": "table/strtable.csv:619:2", "source": "買い取りゴーレムの設定に失敗しました", "english": "Failed to set up the buying Golem.", "status": "draft"}
+{"id": "table/strtable.csv:620:2", "source": "設定したゴーレムが無くなりました", "english": "The configured Golem is gone.", "status": "draft"}
+{"id": "table/strtable.csv:621:2", "source": "商品は一つも設定されませんでした", "english": "No items were configured.", "status": "draft"}
+{"id": "table/strtable.csv:623:2", "source": " \"アイテム欄に空きがない為買取できません\"", "english": "“There is no room in your inventory to buy this item.”", "status": "draft"}
+{"id": "table/strtable.csv:626:2", "source": "持ち物", "english": "Inventory", "status": "draft"}
+{"id": "table/strtable.csv:627:2", "source": "アイテム情報", "english": "Item Information", "status": "draft"}
+{"id": "table/strtable.csv:628:2", "source": "%s(故障)", "english": "%s (Broken)", "status": "draft"}
+{"id": "table/strtable.csv:629:2", "source": "%s(休眠中)", "english": "%s (Dormant)", "status": "draft"}
+{"id": "table/strtable.csv:630:2", "source": "鑑定済み", "english": "Identified", "status": "draft"}
+{"id": "table/strtable.csv:631:2", "source": "未鑑定品", "english": "Unidentified", "status": "draft"}
+{"id": "table/strtable.csv:632:2", "source": "装備時容量", "english": "Capacity when equipped", "status": "draft"}
+{"id": "table/strtable.csv:633:2", "source": "憑依重量", "english": "Possession weight", "status": "draft"}
+{"id": "table/strtable.csv:634:2", "source": "憑依可能", "english": "Can be possessed", "status": "draft"}
+{"id": "table/strtable.csv:635:2", "source": "染色情報", "english": "Dye information", "status": "draft"}
+{"id": "table/strtable.csv:636:2", "source": "染色可能", "english": "Can be dyed", "status": "draft"}
+{"id": "table/strtable.csv:637:2", "source": "ストック可能", "english": "Can be stocked", "status": "draft"}
+{"id": "table/strtable.csv:638:2", "source": "両手持ち装備", "english": "Two-handed equipment", "status": "draft"}
+{"id": "table/strtable.csv:639:2", "source": "使用時消滅", "english": "Consumed on use", "status": "draft"}
+{"id": "table/strtable.csv:640:2", "source": "染色娘でアイテムを染色可能", "english": "Can be dyed by the Dyer", "status": "draft"}
+{"id": "table/strtable.csv:641:2", "source": "染色娘でアイテムを交換可能", "english": "Can be exchanged by the Dyer", "status": "draft"}
+{"id": "table/strtable.csv:642:2", "source": "稼動品", "english": "Operational item", "status": "draft"}
+{"id": "table/strtable.csv:643:2", "source": "性能未開放", "english": "Potential not identified", "status": "draft"}
+{"id": "table/strtable.csv:644:2", "source": "性能開放済み", "english": "Potential identified", "status": "draft"}
+{"id": "table/strtable.csv:645:2", "source": "強化回数", "english": "Enhancement count", "status": "draft"}
+{"id": "table/strtable.csv:646:2", "source": "故障品", "english": "Broken item", "status": "draft"}
+{"id": "table/strtable.csv:647:2", "source": "修理アイテム", "english": "Repair item", "status": "draft"}
+{"id": "table/strtable.csv:648:2", "source": "転生後可能", "english": "Available after reincarnation", "status": "draft"}
+{"id": "table/strtable.csv:649:2", "source": "転生前可能", "english": "Available before reincarnation", "status": "draft"}
+{"id": "table/strtable.csv:650:2", "source": "潜在武具強化済み", "english": "Potential equipment enhancement applied", "status": "draft"}
+{"id": "table/strtable.csv:651:2", "source": "アイテム所持数", "english": "Items held", "status": "draft"}
+{"id": "table/strtable.csv:652:2", "source": "所持ゴールド", "english": "Gold held", "status": "draft"}
+{"id": "table/strtable.csv:653:2", "source": "融合後取引不可", "english": "Cannot be traded after fusion", "status": "draft"}
+{"id": "table/strtable.csv:654:2", "source": "取引不可", "english": "Cannot be traded", "status": "draft"}
+{"id": "table/strtable.csv:656:2", "source": "武器の表示・非表示を切り替えます", "english": "Show or hide weapons", "status": "draft"}
+{"id": "table/strtable.csv:657:2", "source": "防具の表示・非表示を切り替えます", "english": "Show or hide armor", "status": "draft"}
+{"id": "table/strtable.csv:658:2", "source": "消耗品の表示・非表示を切り替えます", "english": "Show or hide consumables", "status": "draft"}
+{"id": "table/strtable.csv:659:2", "source": "その他の表示・非表示を切り替えます", "english": "Show or hide other items", "status": "draft"}
+{"id": "table/strtable.csv:660:2", "source": "スロットが開いていないアイテムの表示・非表示を切り替えます", "english": "Show or hide items without open slots", "status": "draft"}
+{"id": "table/strtable.csv:661:2", "source": "ゴミ箱を開きます", "english": "Open the trash bin", "status": "draft"}
+{"id": "table/strtable.csv:662:2", "source": "現在の装備数　%d", "english": "Currently equipped: %d", "status": "draft"}
+{"id": "table/strtable.csv:664:2", "source": "耐久度", "english": "Durability", "status": "draft"}
+{"id": "table/strtable.csv:665:2", "source": "ごきげん度", "english": "Mood", "status": "draft"}
+{"id": "table/strtable.csv:666:2", "source": "最大耐久度", "english": "Maximum durability", "status": "draft"}
+{"id": "table/strtable.csv:667:2", "source": "最大ごきげん度", "english": "Maximum mood", "status": "draft"}
+{"id": "table/strtable.csv:669:2", "source": "射程", "english": "Range", "status": "draft"}
+{"id": "table/strtable.csv:670:2", "source": "$r$rこのパートナーを装備した時に、$r  種別タイプ ： %s$r  射程　　　 ： %d$r上記と同じ条件のアイテムを$r装備する事で、$r装備している武器の見た目が$r変化します。", "english": "$r$rWhen this partner is equipped,$r  Type: %s$r  Range: %d$rEquip an item with the same type and range$rto change$rthe appearance of your equipped weapon$r.", "status": "draft"}
+{"id": "table/strtable.csv:671:2", "source": "$r$rこのパートナーを装備した時に、$r  種別タイプ ： %s$r  射程　　　 ： %d$r  両手持ち装備$r上記と同じ条件のアイテムを$r装備する事で、$r装備している武器の見た目が$r変化します。", "english": "$r$rWhen this partner is equipped,$r  Type: %s$r  Range: %d$rTwo-handed equipment$rWith an item of the same type and range equipped,$rthe appearance$rof your equipped weapon changes$r.", "status": "draft"}
+{"id": "table/strtable.csv:673:2", "source": "赤色系に染色済み", "english": "Dyed red", "status": "draft"}
+{"id": "table/strtable.csv:674:2", "source": "紫色系に染色済み", "english": "Dyed purple", "status": "draft"}
+{"id": "table/strtable.csv:675:2", "source": "青色系に染色済み", "english": "Dyed blue", "status": "draft"}

@@ -1,0 +1,112 @@
+{"id": "table/strtable.csv:4301:2", "source": "現在、イリスカードの取り出しは行えません", "english": "Iris Cards cannot be removed right now.", "status": "draft"}
+{"id": "table/strtable.csv:4302:2", "source": "イリスカードを取り出すのに失敗しました", "english": "Failed to remove the Iris Card.", "status": "draft"}
+{"id": "table/strtable.csv:4303:2", "source": "スロットロックを行うと、デッキ内のイリスカードは取り出すことができなくなります。$rスロットロックを行いますか？", "english": "Locking the slots prevents Iris Cards in the deck from being removed.$rLock the slots?", "status": "draft"}
+{"id": "table/strtable.csv:4304:2", "source": "「スロットロック解除」アイテムを使用しスロットロックを解除します。よろしいですか？", "english": "Use a Slot Unlock item to unlock the slots. Continue?", "status": "draft"}
+{"id": "table/strtable.csv:4313:2", "source": "フシギな鏡", "english": "Mysterious Mirror", "status": "draft"}
+{"id": "table/strtable.csv:4314:2", "source": "日　時間　分", "english": "Days   Hours   Minutes", "status": "draft"}
+{"id": "table/strtable.csv:4315:2", "source": "｢フシギな鏡の契約証（３０日）｣を１枚使用して$rストックを開放しますか？", "english": "Use one 30-day Mysterious Mirror Contract$rto unlock the storage slots?", "status": "draft"}
+{"id": "table/strtable.csv:4316:2", "source": "ストックの開放に失敗しました。$rストック開放には$r｢フシギな鏡の契約証（３０日）｣が必要です。", "english": "Failed to unlock the storage slots.$rTo unlock them, you need$r a 30-day Mysterious Mirror Contract.", "status": "draft"}
+{"id": "table/strtable.csv:4317:2", "source": "何らかの原因で入れ替えに失敗しました", "english": "The swap failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4322:2", "source": "最大HP", "english": "Max HP", "status": "draft"}
+{"id": "table/strtable.csv:4323:2", "source": "最大MP", "english": "Max MP", "status": "draft"}
+{"id": "table/strtable.csv:4324:2", "source": "最大SP", "english": "Max SP", "status": "draft"}
+{"id": "table/strtable.csv:4325:2", "source": "最大重量", "english": "Max Weight", "status": "draft"}
+{"id": "table/strtable.csv:4326:2", "source": "最大容量", "english": "Max Capacity", "status": "draft"}
+{"id": "table/strtable.csv:4327:2", "source": "物理攻撃力", "english": "Physical Attack", "status": "draft"}
+{"id": "table/strtable.csv:4328:2", "source": "魔法攻撃力", "english": "Magic Attack", "status": "draft"}
+{"id": "table/strtable.csv:4329:2", "source": "近距離命中力", "english": "Melee Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:4330:2", "source": "遠距離命中力", "english": "Ranged Accuracy", "status": "draft"}
+{"id": "table/strtable.csv:4331:2", "source": "物理防御力", "english": "Physical Defense", "status": "draft"}
+{"id": "table/strtable.csv:4332:2", "source": "魔法防御力", "english": "Magic Defense", "status": "draft"}
+{"id": "table/strtable.csv:4333:2", "source": "近距離回避力", "english": "Melee Evasion", "status": "draft"}
+{"id": "table/strtable.csv:4334:2", "source": "遠距離回避力", "english": "Ranged Evasion", "status": "draft"}
+{"id": "table/strtable.csv:4335:2", "source": "攻撃速度", "english": "Attack Speed", "status": "draft"}
+{"id": "table/strtable.csv:4336:2", "source": "詠唱速度", "english": "Cast Speed", "status": "draft"}
+{"id": "table/strtable.csv:4354:2", "source": "スキルチップ：バックパッカー系", "english": "Skill Chips: Backpacker", "status": "draft"}
+{"id": "table/strtable.csv:4355:2", "source": "リミテーションチップ", "english": "Limitation Chip", "status": "draft"}
+{"id": "table/strtable.csv:4357:2", "source": "ヘッドパーツ", "english": "Head Parts", "status": "draft"}
+{"id": "table/strtable.csv:4358:2", "source": "ボディパーツ", "english": "Body Parts", "status": "draft"}
+{"id": "table/strtable.csv:4359:2", "source": "アームパーツ", "english": "Arm Parts", "status": "draft"}
+{"id": "table/strtable.csv:4360:2", "source": "レッグパーツ", "english": "Leg Parts", "status": "draft"}
+{"id": "table/strtable.csv:4361:2", "source": "バックパーツ", "english": "Back Parts", "status": "draft"}
+{"id": "table/strtable.csv:4362:2", "source": "セットフォーム", "english": "Set Form", "status": "draft"}
+{"id": "table/strtable.csv:4364:2", "source": "チップブロックの配置を確定させていない状態ですので、$r現在のチップブロック配置で配置を確定します。$r本当によろしいですか？", "english": "You have not confirmed the chip layout.$rConfirm the current chip layout?$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:4365:2", "source": "現在表示されているパネルにチップ配置を行います。$rよろしいでしょうか？", "english": "Place chips on the currently displayed panel.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:4366:2", "source": "現在表示されているパネルを初期化します。$rよろしいでしょうか？", "english": "Reset the currently displayed panel.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:4367:2", "source": "現在表示されているパネルにチップ配置を行います。$r現在表示されているパネルは初期化されます。$rよろしいでしょうか？", "english": "Place chips on the currently displayed panel.$rThe current panel will be reset.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:4368:2", "source": "現在表示されているパネルを確定します。$rよろしいでしょうか？", "english": "Confirm the currently displayed panel.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:4369:2", "source": "エンゲージタスクを設置する場合EPを１消費します。$rよろしいでしょうか？", "english": "Setting an Engage Task consumes 1 EP.$rContinue?", "status": "draft"}
+{"id": "table/strtable.csv:4370:2", "source": "エンゲージタスクを撤去します。$r新たに設置する場合はEPを１消費することになりますが$r撤去してよろしいでしょうか？", "english": "Remove the Engage Task.$rSetting it again will consume 1 EP.$rRemove it?", "status": "draft"}
+{"id": "table/strtable.csv:4372:2", "source": "試算ステータス", "english": "Estimated Stats", "status": "draft"}
+{"id": "table/strtable.csv:4373:2", "source": "何らかの原因で開放に失敗しました", "english": "Failed to unlock for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4374:2", "source": "アイテム所持数が100を超えてるので開放できませんでした", "english": "Could not unlock: inventory exceeds 100 items.", "status": "draft"}
+{"id": "table/strtable.csv:4375:2", "source": "ＥＰが足りません", "english": "Not enough EP.", "status": "draft"}
+{"id": "table/strtable.csv:4377:2", "source": "何らかの原因で失敗しました", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4378:2", "source": "装着レベルが足りてないチップがあるため失敗しました", "english": "Failed because a chip does not meet the required equipment level.", "status": "draft"}
+{"id": "table/strtable.csv:4379:2", "source": "装着数がオーバーしているチップがあるため失敗しました", "english": "Failed because the equipped chip count exceeds the limit.", "status": "draft"}
+{"id": "table/strtable.csv:4380:2", "source": "スキル取得限界数を超えているので失敗しました", "english": "Failed: the skill acquisition limit would be exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:4381:2", "source": "限定チップは既に装着されています", "english": "A limited chip is already equipped.", "status": "draft"}
+{"id": "table/strtable.csv:4382:2", "source": "パネル内にチップが収まっていないので失敗しました", "english": "Failed because the chips do not fit in the panel.", "status": "draft"}
+{"id": "table/strtable.csv:4383:2", "source": "チップ装着場所が開放されていません", "english": "The chip slot is not unlocked.", "status": "draft"}
+{"id": "table/strtable.csv:4384:2", "source": "チップ装着場所には元々チップが配置されているので失敗しました", "english": "Failed because a chip is already placed in the slot.", "status": "draft"}
+{"id": "table/strtable.csv:4385:2", "source": "アイテムが追加、削除できないため失敗しました", "english": "Failed because items could not be added or removed.", "status": "draft"}
+{"id": "table/strtable.csv:4387:2", "source": "既に対象のステータスチップは１０枚配置されています。", "english": "Ten of the target Stat Chips are already placed.", "status": "draft"}
+{"id": "table/strtable.csv:4388:2", "source": "対象のスキルチップは既に最大配置可能数に達しています。", "english": "The target Skill Chip has reached its placement limit.", "status": "draft"}
+{"id": "table/strtable.csv:4389:2", "source": "リミテーションチップは既に配置されています。", "english": "A Limitation Chip is already placed.", "status": "draft"}
+{"id": "table/strtable.csv:4390:2", "source": "装着可能Lvを満たしておりません。", "english": "The required level to equip the chip has not been met.", "status": "draft"}
+{"id": "table/strtable.csv:4391:2", "source": "スキル取得数が限界に達しています（最大４０種）", "english": "The skill limit has been reached (maximum 40 types).", "status": "draft"}
+{"id": "table/strtable.csv:4393:2", "source": "何らかの原因で開放に失敗しました", "english": "Failed to unlock for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4394:2", "source": "ＥＰが足りません", "english": "Not enough EP.", "status": "draft"}
+{"id": "table/strtable.csv:4489:2", "source": "初級者向け", "english": "For Beginners", "status": "draft"}
+{"id": "table/strtable.csv:4490:2", "source": "中級者向け", "english": "Intermediate", "status": "draft"}
+{"id": "table/strtable.csv:4491:2", "source": "上級者向け", "english": "Advanced", "status": "draft"}
+{"id": "table/strtable.csv:4492:2", "source": "開始", "english": "Start", "status": "draft"}
+{"id": "table/strtable.csv:4493:2", "source": "進行中", "english": "In Progress", "status": "draft"}
+{"id": "table/strtable.csv:4494:2", "source": "褒賞有り", "english": "Reward Available", "status": "draft"}
+{"id": "table/strtable.csv:4495:2", "source": "完了", "english": "Completed", "status": "draft"}
+{"id": "table/strtable.csv:4497:2", "source": "イベントナビゲーションを終了しますか？", "english": "End event navigation?", "status": "draft"}
+{"id": "table/strtable.csv:4498:2", "source": "ナビゲーションしたいイベントを選択してください", "english": "Select an event to navigate to.", "status": "draft"}
+{"id": "table/strtable.csv:4499:2", "source": "すでにこのイベントは完了しています", "english": "This event has already been completed.", "status": "draft"}
+{"id": "table/strtable.csv:4500:2", "source": "イベント発生条件を満たしていないため$rナビゲーションを開始することができません", "english": "Event requirements not met.$rCannot start navigation.", "status": "draft"}
+{"id": "table/strtable.csv:4501:2", "source": "イベント中のためウィンドウを閉じる事ができません", "english": "Cannot close the window during an event.", "status": "draft"}
+{"id": "table/strtable.csv:4502:2", "source": "オートランを開始しますか？", "english": "Start auto-run?", "status": "draft"}
+{"id": "table/strtable.csv:4506:2", "source": "目的", "english": "Objective", "status": "draft"}
+{"id": "table/strtable.csv:4507:2", "source": "イベント", "english": "Event", "status": "draft"}
+{"id": "table/strtable.csv:4508:2", "source": "イベント終了のためウィンドウを閉じます", "english": "Closing the window because the event has ended.", "status": "draft"}
+{"id": "table/strtable.csv:4509:2", "source": "イベント中のため開けません", "english": "Cannot open this during an event.", "status": "draft"}
+{"id": "table/strtable.csv:4510:2", "source": "プリムラカーソル", "english": "Primula Cursor", "status": "draft"}
+{"id": "table/strtable.csv:4511:2", "source": "世界マップ", "english": "World Map", "status": "draft"}
+{"id": "table/strtable.csv:4512:2", "source": "イベントマーカー", "english": "Event Marker", "status": "draft"}
+{"id": "table/strtable.csv:4640:2", "source": "武具再強化", "english": "Equipment Re-Forging", "status": "draft"}
+{"id": "table/strtable.csv:4641:2", "source": "材料", "english": "Materials", "status": "draft"}
+{"id": "table/strtable.csv:4642:2", "source": "強化後", "english": "After Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:4643:2", "source": "再強化を行ないます、よろしいですか", "english": "Proceed with re-forging?", "status": "draft"}
+{"id": "table/strtable.csv:4644:2", "source": "再強化するアイテム", "english": "Item to Reforge", "status": "draft"}
+{"id": "table/strtable.csv:4646:2", "source": "の強化に成功しました", "english": " enhancement succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:4647:2", "source": "何らかの原因で失敗しました", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4649:2", "source": "%3d 回目強化", "english": "Enhancement No. %3d", "status": "draft"}
+{"id": "table/strtable.csv:4650:2", "source": "残り強化回数 %3d / %3d", "english": "Enhancement attempts remaining: %3d / %3d", "status": "draft"}
+{"id": "table/strtable.csv:4654:2", "source": "潜在武具強化", "english": "Potential Equipment Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:4655:2", "source": "材料", "english": "Materials", "status": "draft"}
+{"id": "table/strtable.csv:4656:2", "source": "強化後", "english": "After Enhancement", "status": "draft"}
+{"id": "table/strtable.csv:4657:2", "source": "取得バックパッカーボーナス経験値", "english": "Backpacker Bonus EXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:4658:2", "source": "取得EXP/JOBEXP", "english": "EXP/JOB EXP Gained", "status": "draft"}
+{"id": "table/strtable.csv:4659:2", "source": "※ＢＰボーナス適正Lv範囲外です$r　（取得経験値が変動します）", "english": "※Outside the eligible level range for the BP bonus.$r　(Gained EXP will vary.)", "status": "draft"}
+{"id": "table/strtable.csv:4660:2", "source": "%s を使用し、強化を行います", "english": "Use %s to enhance the item.", "status": "draft"}
+{"id": "table/strtable.csv:4661:2", "source": "強化するアイテム", "english": "Item to Enhance", "status": "draft"}
+{"id": "table/strtable.csv:4662:2", "source": "エフェクト変化", "english": "Change Effect", "status": "draft"}
+{"id": "table/strtable.csv:4664:2", "source": "の強化に成功しました", "english": " enhancement succeeded.", "status": "draft"}
+{"id": "table/strtable.csv:4665:2", "source": "強化を行うためのお金が足りません", "english": "Not enough money to enhance.", "status": "draft"}
+{"id": "table/strtable.csv:4666:2", "source": "強化を行うアイテムが存在しません", "english": "The item to enhance does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:4667:2", "source": "強化材料がありません", "english": "No enhancement materials.", "status": "draft"}
+{"id": "table/strtable.csv:4668:2", "source": "何らかの原因で失敗しました", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:4675:2", "source": "キャプチャーリスト", "english": "Capture List", "status": "draft"}
+{"id": "table/strtable.csv:4676:2", "source": "難易度", "english": "Difficulty", "status": "draft"}
+{"id": "table/strtable.csv:4679:2", "source": "キャプチャー参加者リスト", "english": "Capture Participant List", "status": "draft"}
+{"id": "table/strtable.csv:4680:2", "source": "下記のキャラクターが参加可能", "english": "The following characters can participate.", "status": "draft"}
+{"id": "table/strtable.csv:4681:2", "source": "同じロビーに居ないと参加できません", "english": "You must be in the same lobby to participate.", "status": "draft"}
+{"id": "table/strtable.csv:4683:2", "source": "以下の理由で『%s』に参加できません", "english": "You cannot join \"%s\" for the following reason(s).", "status": "draft"}
+{"id": "table/strtable.csv:4684:2", "source": "以下の理由で受注しようとしているキャプチャーに参加できません", "english": "You cannot join the selected capture for the following reason(s).", "status": "draft"}
+{"id": "table/strtable.csv:4685:2", "source": "レベルの条件を満たしておりません", "english": "Level requirement not met.", "status": "draft"}
+{"id": "table/strtable.csv:4686:2", "source": "転生情報の条件を満たしておりません", "english": "Rebirth requirement not met.", "status": "draft"}
+{"id": "table/strtable.csv:4687:2", "source": "特定のイベントをクリアしておりません", "english": "Required event not completed.", "status": "draft"}

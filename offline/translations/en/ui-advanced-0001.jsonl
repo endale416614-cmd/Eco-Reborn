@@ -1,0 +1,131 @@
+{"id": "table/strtable.csv:3800:2", "source": "(未対応)ペットの 毒耐性値 が %d 増えました", "english": "Pet poison resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3801:2", "source": "(未対応)ペットの 石化耐性値 が %d 増えました", "english": "Pet petrification resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3802:2", "source": "(未対応)ペットの 麻痺耐性値 が %d 増えました", "english": "Pet paralysis resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3803:2", "source": "(未対応)ペットの 睡眠耐性値 が %d 増えました", "english": "Pet sleep resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3804:2", "source": "(未対応)ペットの 沈黙耐性値 が %d 増えました", "english": "Pet silence resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3805:2", "source": "(未対応)ペットの 鈍足耐性値 が %d 増えました", "english": "Pet slow resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3806:2", "source": "(未対応)ペットの 混乱耐性値 が %d 増えました", "english": "Pet confusion resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3807:2", "source": "(未対応)ペットの 凍結耐性値 が %d 増えました", "english": "Pet freeze resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3808:2", "source": "(未対応)ペットの 気絶耐性値 が %d 増えました", "english": "Pet stun resistance increased by %d. (Not implemented)", "status": "draft"}
+{"id": "table/strtable.csv:3811:2", "source": "チャットルーム作成成功", "english": "Chat room created.", "status": "draft"}
+{"id": "table/strtable.csv:3812:2", "source": "ネットワークに接続されてません", "english": "Not connected to the network.", "status": "draft"}
+{"id": "table/strtable.csv:3813:2", "source": "チャットルーム作成失敗", "english": "Failed to create the chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3814:2", "source": "すでにチャットルームに入っています", "english": "You are already in a chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3815:2", "source": "チャットルーム数が最大まで達しています", "english": "The maximum number of chat rooms has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:3817:2", "source": "入室しました", "english": "You have entered the room.", "status": "draft"}
+{"id": "table/strtable.csv:3818:2", "source": "ネットワークに接続されてません", "english": "Not connected to the network.", "status": "draft"}
+{"id": "table/strtable.csv:3819:2", "source": "なんらかの原因で入室できませんでした", "english": "Could not enter the room for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3820:2", "source": "パスワードが違います", "english": "Incorrect password.", "status": "draft"}
+{"id": "table/strtable.csv:3821:2", "source": "定員数に達しています", "english": "The room is full.", "status": "draft"}
+{"id": "table/strtable.csv:3822:2", "source": "選択したチャットルームが存在しませんでした", "english": "The selected chat room does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3823:2", "source": "チャットルームの管理権限がありません", "english": "You do not have permission to manage the chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3824:2", "source": "すでにチャットルームに入っています", "english": "You are already in a chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3825:2", "source": "このマップではチャットルームに入室できません", "english": "You cannot enter a chat room on this map.", "status": "draft"}
+{"id": "table/strtable.csv:3826:2", "source": "退室しました", "english": "You have left the room.", "status": "draft"}
+{"id": "table/strtable.csv:3827:2", "source": "ネットワークに接続されてません", "english": "Not connected to the network.", "status": "draft"}
+{"id": "table/strtable.csv:3828:2", "source": "何らかの原因で退室できませんでした", "english": "Could not leave the room for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3829:2", "source": "チャットルームに入室していません", "english": "You are not in a chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3830:2", "source": "選択したチャットルームが存在しませんでした", "english": "The selected chat room does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3833:2", "source": "ミニゲームチャットルーム作成成功", "english": "Minigame chat room created.", "status": "draft"}
+{"id": "table/strtable.csv:3834:2", "source": "ネットワークに接続されてません", "english": "Not connected to the network.", "status": "draft"}
+{"id": "table/strtable.csv:3835:2", "source": "ミニゲームチャットルーム作成失敗", "english": "Failed to create the minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3836:2", "source": "すでにミニゲームチャットルームに入っています", "english": "You are already in a minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3837:2", "source": "ミニゲームチャットルーム数が最大まで達しています", "english": "The maximum number of minigame chat rooms has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:3838:2", "source": "入室しました", "english": "You have entered the room.", "status": "draft"}
+{"id": "table/strtable.csv:3839:2", "source": "ネットワークに接続されてません", "english": "Not connected to the network.", "status": "draft"}
+{"id": "table/strtable.csv:3840:2", "source": "なんらかの原因で入室できませんでした", "english": "Could not enter the room for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3841:2", "source": "パスワードが違います", "english": "Incorrect password.", "status": "draft"}
+{"id": "table/strtable.csv:3842:2", "source": "定員数に達しています", "english": "The room is full.", "status": "draft"}
+{"id": "table/strtable.csv:3843:2", "source": "選択したミニゲームチャットルームが存在しませんでした", "english": "The selected minigame chat room does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3844:2", "source": "ミニゲームチャットルームの管理権限がありません", "english": "You do not have permission to manage the minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3845:2", "source": "すでにミニゲームチャットルームに入っています", "english": "You are already in a minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3846:2", "source": "ネットワークに接続されてません", "english": "Not connected to the network.", "status": "draft"}
+{"id": "table/strtable.csv:3847:2", "source": "何らかの原因で退室できませんでした", "english": "Could not leave the room for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:3848:2", "source": "ミニゲームチャットルームに入室していません", "english": "You are not in a minigame chat room.", "status": "draft"}
+{"id": "table/strtable.csv:3849:2", "source": "選択したミニゲームチャットルームが存在しませんでした", "english": "The selected minigame chat room does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3850:2", "source": "退室しました", "english": "You have left the room.", "status": "draft"}
+{"id": "table/strtable.csv:3851:2", "source": "ECOタウンから出たため退室しました", "english": "You left the room because you left ECO Town.", "status": "draft"}
+{"id": "table/strtable.csv:3854:2", "source": "ギフト", "english": "Gift", "status": "draft"}
+{"id": "table/strtable.csv:3855:2", "source": "ギフトが正常に送られました", "english": "Gift sent successfully.", "status": "draft"}
+{"id": "table/strtable.csv:3856:2", "source": "送り先のギフトスロットに空きがありません", "english": "The recipient has no free gift slots.", "status": "draft"}
+{"id": "table/strtable.csv:3857:2", "source": "仮想マネーが足りていません", "english": "Not enough virtual currency.", "status": "draft"}
+{"id": "table/strtable.csv:3858:2", "source": "送り先のキャラクターが存在しません", "english": "The recipient character does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3859:2", "source": "その他", "english": "Other", "status": "draft"}
+{"id": "table/strtable.csv:3860:2", "source": "ギフトでは送れないアイテムが含まれています", "english": "The gift contains an item that cannot be sent as a gift.", "status": "draft"}
+{"id": "table/strtable.csv:3865:2", "source": "アイテムを送信しました", "english": "Item sent.", "status": "draft"}
+{"id": "table/strtable.csv:3866:2", "source": "アイテムの送信に失敗しました$r送り先のギフトスロットに空がありません", "english": "Failed to send the item.$rThe recipient has no free gift slots.", "status": "draft"}
+{"id": "table/strtable.csv:3867:2", "source": "アイテムの送信に失敗しました$rShopPointが不足しています", "english": "Failed to send the item.$rNot enough Shop Points.", "status": "draft"}
+{"id": "table/strtable.csv:3868:2", "source": "アイテムの送信に失敗しました$r送り先のキャラクターが存在しません", "english": "Failed to send the item.$rThe recipient character does not exist.", "status": "draft"}
+{"id": "table/strtable.csv:3869:2", "source": "アイテムの送信に失敗しました", "english": "Failed to send the item.", "status": "draft"}
+{"id": "table/strtable.csv:3870:2", "source": "アイテムの送信に失敗しました$rＬＶ制限が付いているアイテムはギフトで送信することはできません", "english": "Failed to send the item.$rItems with a level restriction cannot be sent as gifts.", "status": "draft"}
+{"id": "table/strtable.csv:3872:2", "source": "アイテムの入手に失敗しました", "english": "Failed to obtain the item.", "status": "draft"}
+{"id": "table/strtable.csv:3873:2", "source": "ギフトの操作が出来ない状態です", "english": "Gifts cannot be used in your current state.", "status": "draft"}
+{"id": "table/strtable.csv:3875:2", "source": "送りたい相手を指定してください", "english": "Select a recipient.", "status": "draft"}
+{"id": "table/strtable.csv:3876:2", "source": "送れる相手がいません", "english": "There is no one you can send this to.", "status": "draft"}
+{"id": "table/strtable.csv:3878:2", "source": "文字列が長すぎます", "english": "The text is too long.", "status": "draft"}
+{"id": "table/strtable.csv:3879:2", "source": "メッセージをクライアントに保存する", "english": "Save the message on the client.", "status": "draft"}
+{"id": "table/strtable.csv:3880:2", "source": "このギフトアイテムとメッセージを削除してもよろしいですか？", "english": "Are you sure you want to delete this gift item and message?", "status": "draft"}
+{"id": "table/strtable.csv:3881:2", "source": "このギフトの履歴を削除します。よろしいですか？", "english": "Are you sure you want to delete this gift history?", "status": "draft"}
+{"id": "table/strtable.csv:3889:2", "source": "属性値", "english": "Attribute", "status": "draft"}
+{"id": "table/strtable.csv:3890:2", "source": "攻撃", "english": "Attack", "status": "draft"}
+{"id": "table/strtable.csv:3891:2", "source": "防御", "english": "Defense", "status": "draft"}
+{"id": "table/strtable.csv:3892:2", "source": "ヘルプを開く", "english": "Open Help", "status": "draft"}
+{"id": "table/strtable.csv:3894:2", "source": "カードホルダー", "english": "Card Holder", "status": "draft"}
+{"id": "table/strtable.csv:3896:2", "source": "No", "english": "No.", "status": "draft"}
+{"id": "table/strtable.csv:3897:2", "source": "カード名", "english": "Card Name", "status": "draft"}
+{"id": "table/strtable.csv:3898:2", "source": "枚数", "english": "Quantity", "status": "draft"}
+{"id": "table/strtable.csv:3899:2", "source": "装備位置", "english": "Equipment Slot", "status": "draft"}
+{"id": "table/strtable.csv:3900:2", "source": "レアリティ", "english": "Rarity", "status": "draft"}
+{"id": "table/strtable.csv:3902:2", "source": "カードホルダーの作成に失敗しました", "english": "Failed to create the Card Holder.", "status": "draft"}
+{"id": "table/strtable.csv:3905:2", "source": "%sを%d枚収納できませんでした", "english": "Could not store %s (%d cards).", "status": "draft"}
+{"id": "table/strtable.csv:3906:2", "source": "カードホルダーに収納できませんでした", "english": "Could not store the card.", "status": "draft"}
+{"id": "table/strtable.csv:3909:2", "source": "カード取り出しに失敗しました", "english": "Failed to retrieve the card.", "status": "draft"}
+{"id": "table/strtable.csv:3911:2", "source": "武", "english": "Weapon", "status": "draft"}
+{"id": "table/strtable.csv:3912:2", "source": "服", "english": "Clothing", "status": "draft"}
+{"id": "table/strtable.csv:3913:2", "source": "武／服", "english": "Weapon / Clothing", "status": "draft"}
+{"id": "table/strtable.csv:3914:2", "source": "胸", "english": "Chest", "status": "draft"}
+{"id": "table/strtable.csv:3915:2", "source": "武／胸", "english": "Weapon / Chest", "status": "draft"}
+{"id": "table/strtable.csv:3916:2", "source": "服／胸", "english": "Clothing / Chest", "status": "draft"}
+{"id": "table/strtable.csv:3917:2", "source": "武／服／胸", "english": "Weapon / Clothing / Chest", "status": "draft"}
+{"id": "table/strtable.csv:3920:2", "source": "カード情報", "english": "Card Information", "status": "draft"}
+{"id": "table/strtable.csv:3921:2", "source": "カード種別", "english": "Card Type", "status": "draft"}
+{"id": "table/strtable.csv:3922:2", "source": "レアリティ", "english": "Rarity", "status": "draft"}
+{"id": "table/strtable.csv:3923:2", "source": "セット位置", "english": "Slot", "status": "draft"}
+{"id": "table/strtable.csv:3925:2", "source": "アクティブ", "english": "Active", "status": "draft"}
+{"id": "table/strtable.csv:3926:2", "source": "サポート", "english": "Support", "status": "draft"}
+{"id": "table/strtable.csv:3928:2", "source": "コモン", "english": "Common", "status": "draft"}
+{"id": "table/strtable.csv:3929:2", "source": "アンコモン", "english": "Uncommon", "status": "draft"}
+{"id": "table/strtable.csv:3930:2", "source": "レア", "english": "Rare", "status": "draft"}
+{"id": "table/strtable.csv:3931:2", "source": "スーパーレア", "english": "Super Rare", "status": "draft"}
+{"id": "table/strtable.csv:3932:2", "source": "スペシャル", "english": "Special", "status": "draft"}
+{"id": "table/strtable.csv:3934:2", "source": "武器", "english": "Weapon", "status": "draft"}
+{"id": "table/strtable.csv:3935:2", "source": "服", "english": "Clothing", "status": "draft"}
+{"id": "table/strtable.csv:3936:2", "source": "武器／服", "english": "Weapon / Clothing", "status": "draft"}
+{"id": "table/strtable.csv:3937:2", "source": "胸", "english": "Chest", "status": "draft"}
+{"id": "table/strtable.csv:3938:2", "source": "武器／胸", "english": "Weapon / Chest", "status": "draft"}
+{"id": "table/strtable.csv:3939:2", "source": "服／胸", "english": "Clothing / Chest", "status": "draft"}
+{"id": "table/strtable.csv:3940:2", "source": "武器／服／胸", "english": "Weapon / Clothing / Chest", "status": "draft"}
+{"id": "table/strtable.csv:3942:2", "source": "属性値補正", "english": "Attribute Modifier", "status": "draft"}
+{"id": "table/strtable.csv:3943:2", "source": "アビリティベクトル", "english": "Ability Vector", "status": "draft"}
+{"id": "table/strtable.csv:3944:2", "source": "イラストレーター", "english": "Illustrator", "status": "draft"}
+{"id": "table/strtable.csv:3945:2", "source": "限定条件", "english": "Restrictions", "status": "draft"}
+{"id": "table/strtable.csv:3947:2", "source": "アイテムの基本的な情報を表示します", "english": "Displays basic item information.", "status": "draft"}
+{"id": "table/strtable.csv:3948:2", "source": "アイテムのカードとしての効果を表示します", "english": "Displays the item's effects as a card.", "status": "draft"}
+{"id": "table/strtable.csv:3949:2", "source": "カード自体の詳細な説明を表示します", "english": "Displays a detailed description of the card itself.", "status": "draft"}
+{"id": "table/strtable.csv:3950:2", "source": "カードの能力的な情報を表示します", "english": "Displays the card's ability information.", "status": "draft"}
+{"id": "table/strtable.csv:3952:2", "source": "アビリティ", "english": "Ability", "status": "draft"}
+{"id": "table/strtable.csv:3953:2", "source": "ＬＶ", "english": "Lv.", "status": "draft"}
+{"id": "table/strtable.csv:3955:2", "source": "リリースアビリティ", "english": "Release Ability", "status": "draft"}
+{"id": "table/strtable.csv:3956:2", "source": "効果値", "english": "Effect Value", "status": "draft"}
+{"id": "table/strtable.csv:4289:2", "source": "イリスカードをセットできるアイテムが存在していません", "english": "There are no items that can hold Iris Cards.", "status": "draft"}
+{"id": "table/strtable.csv:4290:2", "source": "現在、イリスカードの入れ替えを行うことはできません", "english": "Iris Cards cannot be swapped right now.", "status": "draft"}
+{"id": "table/strtable.csv:4291:2", "source": "現在、イリスカードをセットすることはできません", "english": "Iris Cards cannot be set right now.", "status": "draft"}
+{"id": "table/strtable.csv:4292:2", "source": "イリスカードをセットすることができません", "english": "Could not set the Iris Card.", "status": "draft"}
+{"id": "table/strtable.csv:4293:2", "source": "イリスカードのセット可能枚数が上限を超えています", "english": "The number of Iris Cards exceeds the slot limit.", "status": "draft"}
+{"id": "table/strtable.csv:4294:2", "source": "現在、イリスカードの取り出しは行えません", "english": "Iris Cards cannot be removed right now.", "status": "draft"}
+{"id": "table/strtable.csv:4295:2", "source": "イリスカードを取り出すことができませんでした", "english": "Failed to remove the Iris Card.", "status": "draft"}
+{"id": "table/strtable.csv:4296:2", "source": "現在、イリスカードの入れ替えは行えません", "english": "Iris Cards cannot be swapped right now.", "status": "draft"}
+{"id": "table/strtable.csv:4297:2", "source": "イリスカードを取り出すことができませんでした", "english": "Failed to remove the Iris Card.", "status": "draft"}
+{"id": "table/strtable.csv:4298:2", "source": "スロットが開いていません", "english": "The slot is not open.", "status": "draft"}
+{"id": "table/strtable.csv:4299:2", "source": "アイテムチェンジ中の為、操作を受け付けません。", "english": "Cannot process this while an item change is in progress.", "status": "draft"}
+{"id": "table/strtable.csv:4300:2", "source": "イリスカードのスロット拡張が行えないアイテムです。", "english": "This item cannot have its Iris Card slots expanded.", "status": "draft"}

@@ -1,0 +1,5 @@
+Map data entries 20013003.map and 10023000.map extracted unchanged from SagaECO Configuration/DB/MapInfo.zip.
+Source: https://github.com/tarathep/SagaECO
+Source commit: ab51ddc63115930a5cc8dc301282cd8df7a3e93f
+License: GNU General Public License v3.0; see COPYING.
+This is external game/map data. It is not embedded in the Rust executable.

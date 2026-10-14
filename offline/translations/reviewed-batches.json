@@ -1,0 +1,232 @@
+{
+  "review": "Source and language review; runtime/layout pending",
+  "runtime_verified": false,
+  "translation_cells": 6062,
+  "files": [
+    {
+      "path": "offline/translations/en/items-0001.jsonl",
+      "sha256": "548573e6de45bb210f043807b8af58045ec9254fb2d088ccee6f4cf58393675b",
+      "cells": 100
+    },
+    {
+      "path": "offline/translations/en/items-0002.jsonl",
+      "sha256": "5ee372757da7e953aa25667b6d5beea3af6ea0c4c9ec0fc8c1d63fc2697e86c2",
+      "cells": 100
+    },
+    {
+      "path": "offline/translations/en/ui-0001.jsonl",
+      "sha256": "b57858ae55dce7e960729e1516330d66c4c704493e59de2997d764f0276e02fa",
+      "cells": 82
+    },
+    {
+      "path": "offline/translations/en/ui-0002.jsonl",
+      "sha256": "3bf9f17cb04447883292e2eb0bce7affcb8dc15a7767732e23eab74b954aa53e",
+      "cells": 100
+    },
+    {
+      "path": "offline/translations/en/ui-0003.jsonl",
+      "sha256": "ec5af30e63f7d57f3ff1abae93720f52a877a841bc93d164f99ce39cbf54162a",
+      "cells": 76
+    },
+    {
+      "path": "offline/translations/en/ui-0004.jsonl",
+      "sha256": "a9a95322e3be324f9f2a3917cc5e3527dd1303e4cc11d000df241df651914040",
+      "cells": 175
+    },
+    {
+      "path": "offline/translations/en/ui-core-0001.jsonl",
+      "sha256": "380e7c82cfc99ba4cccd037bb4d4d74b7d2676581b1f1b56aeebfc5cb5919973",
+      "cells": 194
+    },
+    {
+      "path": "offline/translations/en/ui-secondary-0001.jsonl",
+      "sha256": "9ce9134ce3296b11ecd05a53d943492c408a3e89011c11f2d6699dd994197a32",
+      "cells": 78
+    },
+    {
+      "path": "offline/translations/en/ui-inventory-0001.jsonl",
+      "sha256": "8dddbb85a405e21c6d186a098349ec116d6a39a3a0bf56e16c2066516a36d1ba",
+      "cells": 186
+    },
+    {
+      "path": "offline/translations/en/ui-options-0001.jsonl",
+      "sha256": "cba734b5eda2b6f06aacdeed59bb47590f3966d9525bbed4e080754e30f630be",
+      "cells": 100
+    },
+    {
+      "path": "offline/translations/en/ui-social-0001.jsonl",
+      "sha256": "b441a733ce7a59c93ee2be0e53d752f96af2aa75da05b363985ecbb0eb0182e7",
+      "cells": 209
+    },
+    {
+      "path": "offline/translations/en/ui-social-0002.jsonl",
+      "sha256": "3408be04835f765734072a0a9d077047465eeddef003e3f1477fc8241da869af",
+      "cells": 215
+    },
+    {
+      "path": "offline/translations/en/ui-inventory-0002.jsonl",
+      "sha256": "f44f1d70143f329389389a0f6305b7760f60964ecdf065b3ac530d6842fde7be",
+      "cells": 185
+    },
+    {
+      "path": "offline/translations/en/ui-social-0003.jsonl",
+      "sha256": "8fe0c001859dfc9ccbe921781f4cbdf18451363b9754ed3c0cbc6df9e901f760",
+      "cells": 232
+    },
+    {
+      "path": "offline/translations/en/ui-social-0004.jsonl",
+      "sha256": "c08bc64b14fc12c5470672258e94761d4103908972991b46a60e7c52f2afdfdb",
+      "cells": 211
+    },
+    {
+      "path": "offline/translations/en/ui-social-0005.jsonl",
+      "sha256": "13b6a7a121692e0ececc4989ff124b66cb8c92efd7d99d8b7a9d95b2e0cdd917",
+      "cells": 93
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-0001.jsonl",
+      "sha256": "fa12e7458b2ebe1129fd97211f9435db290a717681e80b3d969f3ebc15f328fc",
+      "cells": 131
+    },
+    {
+      "path": "offline/translations/en/ui-inventory-0003.jsonl",
+      "sha256": "7bf1c9cd700a643195c33145d82ad9f3993c57de4f4a1e07b729d448ad3fc67c",
+      "cells": 164
+    },
+    {
+      "path": "offline/translations/en/ui-options-0000.jsonl",
+      "sha256": "a11b646ff4052853026815823a19254715771e9473bb6e674ae83708b4e83733",
+      "cells": 91
+    },
+    {
+      "path": "offline/translations/en/ui-options-0002.jsonl",
+      "sha256": "64b797b5daa84fd7e4a2a61f329a7aaf8adf3da74238f292fad32518010df7ad",
+      "cells": 140
+    },
+    {
+      "path": "offline/translations/en/ui-options-0003.jsonl",
+      "sha256": "7f8d742f23359e0ad5f1cc58ffc82554dd40eb1152c3ecb18710fb771773f973",
+      "cells": 66
+    },
+    {
+      "path": "offline/translations/en/ui-options-0004.jsonl",
+      "sha256": "ce74ad62cdea8e231e57932c88ea53cca10afa2e2cc99a504a020ab649b901d4",
+      "cells": 155
+    },
+    {
+      "path": "offline/translations/en/ui-options-0005.jsonl",
+      "sha256": "310e3483e41e156c10743dabe0cc55f197982628ec6460443f8cb6919f1a77b4",
+      "cells": 145
+    },
+    {
+      "path": "offline/translations/en/ui-options-0006.jsonl",
+      "sha256": "63b65cf9c52058ba518f8b61248836fdf2643ba0386f60411096e1c1b84298d0",
+      "cells": 145
+    },
+    {
+      "path": "offline/translations/en/ui-options-0007.jsonl",
+      "sha256": "5448640325400646aa2bdec578dd1b16023af8213cf298e8884ee744681a624b",
+      "cells": 98
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-0002.jsonl",
+      "sha256": "d40838c58d753f9f92826402858405755bd7038d0a8ea92382bdd634f737e5c3",
+      "cells": 112
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-0003.jsonl",
+      "sha256": "1e4509f152a4ad16aa36703940c1ae92ab6d9880f28e0f1b93c2bf6c965748c9",
+      "cells": 137
+    },
+    {
+      "path": "offline/translations/en/ui-late-0001.jsonl",
+      "sha256": "705d024dfd63bfbc63234c77668ea1447033a353a1d8e87ef18d25745714b6bf",
+      "cells": 176
+    },
+    {
+      "path": "offline/translations/en/ui-late-0002.jsonl",
+      "sha256": "71c4012a2100dba4cafcd260c55e75e605271935d90085e580bde80d434fbb24",
+      "cells": 173
+    },
+    {
+      "path": "offline/translations/en/ui-late-0003.jsonl",
+      "sha256": "99cec049c7de8c957fd8b1660c96fc505f1f2a75950fc138600aa6b93ad4f2c8",
+      "cells": 158
+    },
+    {
+      "path": "offline/translations/en/ui-final-0001.jsonl",
+      "sha256": "2ec6a33f4b8609dd06fbb7b3e37c84eb0ff2fbe36dafc485474f425357fcc318",
+      "cells": 133
+    },
+    {
+      "path": "offline/translations/en/ui-final-0002.jsonl",
+      "sha256": "1a651b33181801613e911bea9c39beabcedddb6ec59b9e88088e82cd0f835340",
+      "cells": 142
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-gap-0001.jsonl",
+      "sha256": "7eb26a614acdc91bbadee6fd8974a09fcdc41d4c06438b32bc1329320ac490d0",
+      "cells": 128
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-gap-0002.jsonl",
+      "sha256": "c3bf70b08a864e383db920266ee4deba01f7f596e4d38e626d2917878910258e",
+      "cells": 150
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-gap-0003.jsonl",
+      "sha256": "ec3401276180c1fdaca35c085d0ccd6c7dbc7ad3dbcf9cca7c6e31e71166d734",
+      "cells": 150
+    },
+    {
+      "path": "offline/translations/en/ui-advanced-gap-0004.jsonl",
+      "sha256": "48f51fe370b0f29719791713b62e29a9cd77c2b55464dcb1131587ed63a2c904",
+      "cells": 64
+    },
+    {
+      "path": "offline/translations/en/ui-late-0004.jsonl",
+      "sha256": "27ca1979b23f0cf159734515cbac83dd674c1ac05df038de41337f2731d66484",
+      "cells": 151
+    },
+    {
+      "path": "offline/translations/en/ui-final-0003.jsonl",
+      "sha256": "aea2e1dc6351f3244f216cf73841939d104ab42b2fa2331854793af4234c18ba",
+      "cells": 168
+    },
+    {
+      "path": "offline/translations/en/ui-final-0004.jsonl",
+      "sha256": "3f63281abf542a9119b6ef683ce8daa692584f01c3d5ba919e192a45407d8bd6",
+      "cells": 158
+    },
+    {
+      "path": "offline/translations/en/ui-final-0005.jsonl",
+      "sha256": "13841a80e0799175e6a75509b957d143b291dee16562cb87a718d6fad72c7a69",
+      "cells": 88
+    },
+    {
+      "path": "offline/translations/en/ui-final-0006.jsonl",
+      "sha256": "94b521a25c7fef36f0c45768ee4b355f881a56789b23dcfef8fd4b08561857e5",
+      "cells": 56
+    },
+    {
+      "path": "offline/translations/en/ui-late-0005.jsonl",
+      "sha256": "b3e4ece8ae144b118bfa141b494a6c3ffa77a305fc5ccf16d4cb4a20ea5d587b",
+      "cells": 156
+    },
+    {
+      "path": "offline/translations/en/ui-late-0006.jsonl",
+      "sha256": "97ba1d4fc5f8e3a6a45496261d8cc7435e46ec75827028803ae772af5181e08a",
+      "cells": 67
+    },
+    {
+      "path": "offline/translations/en/items-0003.jsonl",
+      "sha256": "cd5e3807a430290e314ca72cf79f69e5a18ab1a26c0a6c94bd687316c082bc06",
+      "cells": 151
+    },
+    {
+      "path": "offline/translations/en/items-0004.jsonl",
+      "sha256": "e9a313a8ead839834d215edc3eb92f5bf41f397d21da2d57d5534ee47068ce56",
+      "cells": 73
+    }
+  ]
+}

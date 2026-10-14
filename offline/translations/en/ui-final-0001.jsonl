@@ -1,0 +1,133 @@
+{"id": "table/strtable.csv:6000:2", "source": "都市攻防戦が終わっています", "english": "The City Defense Battle has ended.", "status": "draft"}
+{"id": "table/strtable.csv:6001:2", "source": "参加人数が上限に達しましたので、攻略戦への参加は行えません", "english": "The participant limit has been reached, so you cannot join the Invasion Battle.", "status": "draft"}
+{"id": "table/strtable.csv:6002:2", "source": "既に攻略戦への参加受付が完了している状態です", "english": "You have already registered to participate in the Invasion Battle.", "status": "draft"}
+{"id": "table/strtable.csv:6003:2", "source": "攻略戦へ参加できる状態ではありません", "english": "You are not currently eligible to join the Invasion Battle.", "status": "draft"}
+{"id": "table/strtable.csv:6007:2", "source": "パートナープロテクト ルームリスト", "english": "Partner Protect Room List", "status": "draft"}
+{"id": "table/strtable.csv:6008:2", "source": "すべて", "english": "All", "status": "draft"}
+{"id": "table/strtable.csv:6009:2", "source": "募集項目", "english": "Recruitment Type", "status": "draft"}
+{"id": "table/strtable.csv:6010:2", "source": "ルーム名", "english": "Room Name", "status": "draft"}
+{"id": "table/strtable.csv:6011:2", "source": "名前（参加人数）", "english": "Name (Participants)", "status": "draft"}
+{"id": "table/strtable.csv:6012:2", "source": "コメント", "english": "Comment", "status": "draft"}
+{"id": "table/strtable.csv:6013:2", "source": "募集項目", "english": "Recruitment Type", "status": "draft"}
+{"id": "table/strtable.csv:6014:2", "source": "参加中のルームから退出します", "english": "Leave the room you are currently in.", "status": "draft"}
+{"id": "table/strtable.csv:6015:2", "source": "立ち上げたルームを解散します", "english": "Disband the room you created.", "status": "draft"}
+{"id": "table/strtable.csv:6016:2", "source": "持ち物に空きがない場合、クリア報酬アイテムを$r受け取れない可能性がありますのでご注意ください。", "english": "Please note that if your inventory is full,$ryou may be unable to receive the clear reward item.", "status": "draft"}
+{"id": "table/strtable.csv:6017:2", "source": "ルームから退出します", "english": "Leave the room", "status": "draft"}
+{"id": "table/strtable.csv:6018:2", "source": "メンバーを解散します", "english": "Disband the members", "status": "draft"}
+{"id": "table/strtable.csv:6019:2", "source": "ルームから退出します", "english": "Leave the room", "status": "draft"}
+{"id": "table/strtable.csv:6020:2", "source": "ルームから退出させます", "english": "Remove from the room", "status": "draft"}
+{"id": "table/strtable.csv:6021:2", "source": "すでにパートナープロテクトを開始している場合、ルームメンバー全員が$rパートナープロテクトをリタイアすることになります。$r$rルームを解散しますか？", "english": "If Partner Protect has already started,$rall room members will retire from Partner Protect.$r$rDisband the room?", "status": "draft"}
+{"id": "table/strtable.csv:6022:2", "source": "すでにパートナープロテクトを開始している場合、$rルームから退出するとパートナープロテクトをリタイアすることになります。$r$rルームから退出しますか？", "english": "If Partner Protect has already started,$rleaving the room will make you retire from Partner Protect.$r$rLeave the room?", "status": "draft"}
+{"id": "table/strtable.csv:6023:2", "source": "%sを退出させますが、$r本当によろしいでしょうか？", "english": "Remove %s from the room.$rAre you sure?", "status": "draft"}
+{"id": "table/strtable.csv:6024:2", "source": "%sさんをルームから退出させました。", "english": "Removed %s from the room.", "status": "draft"}
+{"id": "table/strtable.csv:6025:2", "source": "対象がルームに存在しません。", "english": "The target is not in the room.", "status": "draft"}
+{"id": "table/strtable.csv:6026:2", "source": "ゲーム中はメンバーを退出させることはできません。", "english": "You cannot remove members while a game is in progress.", "status": "draft"}
+{"id": "table/strtable.csv:6027:2", "source": "%sをブロックリストに登録しますか？", "english": "Add %s to your block list?", "status": "draft"}
+{"id": "table/strtable.csv:6028:2", "source": "ルームリストの検索状況をリセットします", "english": "Reset the room list search status", "status": "draft"}
+{"id": "table/strtable.csv:6029:2", "source": "ルーム検索 : ＯＮ", "english": "Room Search: ON", "status": "draft"}
+{"id": "table/strtable.csv:6030:2", "source": "ルーム検索 : ＯＦＦ", "english": "Room Search: OFF", "status": "draft"}
+{"id": "table/strtable.csv:6032:2", "source": "全", "english": "All", "status": "draft"}
+{"id": "table/strtable.csv:6033:2", "source": "易", "english": "Easy", "status": "draft"}
+{"id": "table/strtable.csv:6034:2", "source": "普", "english": "Normal", "status": "draft"}
+{"id": "table/strtable.csv:6035:2", "source": "難", "english": "Hard", "status": "draft"}
+{"id": "table/strtable.csv:6037:2", "source": "プロテクトルーム作成", "english": "Create Protect Room", "status": "draft"}
+{"id": "table/strtable.csv:6038:2", "source": "ルーム名を設定してください", "english": "Please set a room name.", "status": "draft"}
+{"id": "table/strtable.csv:6039:2", "source": "文字列が長すぎます", "english": "The text is too long.", "status": "draft"}
+{"id": "table/strtable.csv:6041:2", "source": "プロテクトルーム編集", "english": "Edit Protect Room", "status": "draft"}
+{"id": "table/strtable.csv:6042:2", "source": "現在のメンバー数未満の参加人数が設定されています", "english": "The participant limit is set below the current number of members.", "status": "draft"}
+{"id": "table/strtable.csv:6043:2", "source": "ルームの内容が編集されたため、$r状態が[準備中]へと変更されました", "english": "The room was edited,$rso its status changed to [Preparing].", "status": "draft"}
+{"id": "table/strtable.csv:6045:2", "source": "プロテクトルーム検索", "english": "Search Protect Rooms", "status": "draft"}
+{"id": "table/strtable.csv:6047:2", "source": "現在の参加者", "english": "Current participants", "status": "draft"}
+{"id": "table/strtable.csv:6049:2", "source": "ランク:%s", "english": "Rank: %s", "status": "draft"}
+{"id": "table/strtable.csv:6050:2", "source": "参加しますか？", "english": "Join?", "status": "draft"}
+{"id": "table/strtable.csv:6051:2", "source": "満員のため参加できません", "english": "The room is full; you cannot join.", "status": "draft"}
+{"id": "table/strtable.csv:6052:2", "source": "ゲーム中のため参加できません", "english": "You cannot join while a game is in progress.", "status": "draft"}
+{"id": "table/strtable.csv:6054:2", "source": "ルームリストの取得に失敗しました。", "english": "Failed to retrieve the room list.", "status": "draft"}
+{"id": "table/strtable.csv:6055:2", "source": "ルームを作成することができません。", "english": "Unable to create a room.", "status": "draft"}
+{"id": "table/strtable.csv:6056:2", "source": "既にルームに参加しているため、ルームを作成することができません。", "english": "Unable to create a room because you are already in one.", "status": "draft"}
+{"id": "table/strtable.csv:6057:2", "source": "ルームの作成数が上限に達しているため、ルームを作成することができません。", "english": "Unable to create a room because the room limit has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:6058:2", "source": "ルームを作成しました。", "english": "Room created.", "status": "draft"}
+{"id": "table/strtable.csv:6059:2", "source": "ルームを作成できる状態ではありません。", "english": "You are not currently able to create a room.", "status": "draft"}
+{"id": "table/strtable.csv:6060:2", "source": "既にルームに参加しているため、ルーム作成が行えませんでした。", "english": "Room creation failed because you are already in a room.", "status": "draft"}
+{"id": "table/strtable.csv:6061:2", "source": "ルームの作成数が上限に達しているため、ルーム作成が行えませんでした。", "english": "Room creation failed because the room limit has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:6062:2", "source": "ルーム名が不正なため、ルーム作成が行えませんでした。", "english": "Room creation failed because the room name is invalid.", "status": "draft"}
+{"id": "table/strtable.csv:6063:2", "source": "ルームを編集できる状態ではありません。", "english": "You are not currently able to edit the room.", "status": "draft"}
+{"id": "table/strtable.csv:6064:2", "source": "ルーム名が不正なため、ルームを編集できませんでした。", "english": "Room editing failed because the room name is invalid.", "status": "draft"}
+{"id": "table/strtable.csv:6065:2", "source": "設定された人数よりもメンバー数の方が多いため、ルームを編集できませんでした。", "english": "Room editing failed because there are more members than the configured limit.", "status": "draft"}
+{"id": "table/strtable.csv:6066:2", "source": "何らかの原因で参加することができませんでした。", "english": "You could not join for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:6067:2", "source": "既にルームが解散されています。", "english": "The room has already been disbanded.", "status": "draft"}
+{"id": "table/strtable.csv:6068:2", "source": "ルームにパスワードが設定されているため、参加できませんでした。", "english": "You could not join because the room has a password.", "status": "draft"}
+{"id": "table/strtable.csv:6069:2", "source": "%sに参加しました。", "english": "Joined %s.", "status": "draft"}
+{"id": "table/strtable.csv:6070:2", "source": "何らかの原因で参加することができませんでした。", "english": "You could not join for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:6071:2", "source": "既に他のルームに参加しているため、参加できませんでした。", "english": "You could not join because you are already in another room.", "status": "draft"}
+{"id": "table/strtable.csv:6072:2", "source": "既にルームが解散されています。", "english": "The room has already been disbanded.", "status": "draft"}
+{"id": "table/strtable.csv:6073:2", "source": "参加人数制限を超過したため、参加することが出来ませんでした。", "english": "You could not join because the participant limit was exceeded.", "status": "draft"}
+{"id": "table/strtable.csv:6074:2", "source": "パスワードが違います。", "english": "The password is incorrect.", "status": "draft"}
+{"id": "table/strtable.csv:6075:2", "source": "既にパートナープロテクトを開始しているため、参加することが出来ませんでした。", "english": "You could not join because Partner Protect has already started.", "status": "draft"}
+{"id": "table/strtable.csv:6076:2", "source": "しばらくしてから再度お試しください。", "english": "Please try again later.", "status": "draft"}
+{"id": "table/strtable.csv:6077:2", "source": "ルーム「%s」を退出しました。", "english": "Left room \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:6078:2", "source": "ルームを退出できませんでした。", "english": "Unable to leave the room.", "status": "draft"}
+{"id": "table/strtable.csv:6079:2", "source": "規定時間が経過したため、ルーム「%s」が解散されました。", "english": "Room \"%s\" was disbanded because the time limit expired.", "status": "draft"}
+{"id": "table/strtable.csv:6080:2", "source": "ルーム「%s」を解散しました。", "english": "Disbanded room \"%s\".", "status": "draft"}
+{"id": "table/strtable.csv:6081:2", "source": "ルームを解散できませんでした。", "english": "Unable to disband the room.", "status": "draft"}
+{"id": "table/strtable.csv:6083:2", "source": "何らかの原因で入場できませんでした。", "english": "You could not enter for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:6084:2", "source": "パートナーを装備していないため、入場できませんでした。", "english": "You could not enter because you have no Partner equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6085:2", "source": "ライドパートナーを装備しているため、入場できませんでした。", "english": "You could not enter because you have a Ride Partner equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6086:2", "source": "重量または容量が上限を超えているため、入場できませんでした。", "english": "You could not enter because your weight or capacity is over the limit.", "status": "draft"}
+{"id": "table/strtable.csv:6087:2", "source": "準備中のメンバーがいるため、入場できませんでした。", "english": "You could not enter because a member is preparing.", "status": "draft"}
+{"id": "table/strtable.csv:6088:2", "source": "プロテクトアースの作成上限数に達したため、入場できませんでした。", "english": "You could not enter because the Protect Earth creation limit has been reached.", "status": "draft"}
+{"id": "table/strtable.csv:6089:2", "source": "前回ゲームを行ったマップ\tにメンバーが残っているため、入場できませんでした。", "english": "You could not enter because members remain on the map where the previous game\twas played.", "status": "draft"}
+{"id": "table/strtable.csv:6091:2", "source": "何らかの原因で状態を変更できませんでした。", "english": "Unable to change the status for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:6092:2", "source": "パートナーを装備していないため、状態を変更できませんでした。", "english": "Unable to change the status because you have no Partner equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6093:2", "source": "ライドパートナーを装備しているため、状態を変更できませんでした。", "english": "Unable to change the status because you have a Ride Partner equipped.", "status": "draft"}
+{"id": "table/strtable.csv:6094:2", "source": "重量または容量が上限を超えているため、状態を変更できませんでした。", "english": "Unable to change the status because your weight or capacity is over the limit.", "status": "draft"}
+{"id": "table/strtable.csv:6097:2", "source": "%sさんがルームに参加しました。", "english": "%s joined the room.", "status": "draft"}
+{"id": "table/strtable.csv:6098:2", "source": "%sさんがルームから退出しました。", "english": "%s left the room.", "status": "draft"}
+{"id": "table/strtable.csv:6099:2", "source": "%sさんがルームから退出したため、ルームマスターの権限が%sさんに譲渡されました。", "english": "%s left the room, so room master authority was transferred to %s.", "status": "draft"}
+{"id": "table/strtable.csv:6100:2", "source": "このルームは解散されました。", "english": "This room has been disbanded.", "status": "draft"}
+{"id": "table/strtable.csv:6101:2", "source": "パートナーのBaseLVがステージの推奨BaseLVに達していない為、$r厳しい戦いになる可能性があります", "english": "Your Partner’s Base Lv. is below the stage’s recommended Base Lv.,$rso the battle may be difficult.", "status": "draft"}
+{"id": "table/strtable.csv:6103:2", "source": "モンスターの進行が終わった！", "english": "The monsters have finished advancing!", "status": "draft"}
+{"id": "table/strtable.csv:6105:2", "source": "パートナープロテクトメニュー", "english": "Partner Protect Menu", "status": "draft"}
+{"id": "table/strtable.csv:6106:2", "source": "個人所持PP：", "english": "Personal PP:", "status": "draft"}
+{"id": "table/strtable.csv:6108:2", "source": "トルマリンクリスタルの耐久値", "english": "Tourmaline Crystal durability", "status": "draft"}
+{"id": "table/strtable.csv:6109:2", "source": "モンスターが来る回数：", "english": "Monster Waves:", "status": "draft"}
+{"id": "table/strtable.csv:6110:2", "source": "現在の配置数：", "english": "Current number placed:", "status": "draft"}
+{"id": "table/strtable.csv:6112:2", "source": "消費なし", "english": "No cost", "status": "draft"}
+{"id": "table/strtable.csv:6113:2", "source": "制限なし", "english": "No limit", "status": "draft"}
+{"id": "table/strtable.csv:6115:2", "source": "パートナーを復活できるまで残り%d秒", "english": "%d seconds until your Partner can be revived", "status": "draft"}
+{"id": "table/strtable.csv:6116:2", "source": "パートナーを復活させますか？", "english": "Revive your Partner?", "status": "draft"}
+{"id": "table/strtable.csv:6118:2", "source": "パートナープロテクトの結果", "english": "Partner Protect Results", "status": "draft"}
+{"id": "table/strtable.csv:6119:2", "source": "信頼度 %dポイント入手", "english": "Trust +%d points", "status": "draft"}
+{"id": "table/strtable.csv:6120:2", "source": "%s %dつ", "english": "%s x%d", "status": "draft"}
+{"id": "table/strtable.csv:6121:2", "source": "%sランク報酬をゲット！！", "english": "You got the %s Rank reward!!", "status": "draft"}
+{"id": "table/strtable.csv:6122:2", "source": "ゲームオーバーです", "english": "Game Over", "status": "draft"}
+{"id": "table/strtable.csv:6123:2", "source": "ルームの総合貢献度", "english": "Room contribution total", "status": "draft"}
+{"id": "table/strtable.csv:6124:2", "source": "あなたの活躍貢献度", "english": "Your contribution", "status": "draft"}
+{"id": "table/strtable.csv:6133:2", "source": "%s$r$r▼推奨レベル$r・%s$r・%s$r$r▼報酬$r・%s$r・%s$r$r▼内容$r・%s", "english": "%s$r$r▼Recommended Level$r・%s$r・%s$r$r▼Rewards$r・%s$r・%s$r$r▼Details$r・%s", "status": "draft"}
+{"id": "table/strtable.csv:6135:2", "source": "信頼度ポイント", "english": "Trust points", "status": "draft"}
+{"id": "table/strtable.csv:6136:2", "source": "お気軽にどうぞ", "english": "Feel free to join", "status": "draft"}
+{"id": "table/strtable.csv:6137:2", "source": "わいわい部屋", "english": "Lively room", "status": "draft"}
+{"id": "table/strtable.csv:6138:2", "source": "どなたでもどうぞ！", "english": "Everyone is welcome!", "status": "draft"}
+{"id": "table/strtable.csv:6140:2", "source": "プロテクト最高ー↑↑", "english": "Protect is the best! ↑↑", "status": "draft"}
+{"id": "table/strtable.csv:6141:2", "source": "どなたでもお気軽にどうぞ！！", "english": "Everyone is welcome to join!!", "status": "draft"}
+{"id": "table/strtable.csv:6142:2", "source": "ECO民が集う部屋", "english": "A room for ECO players", "status": "draft"}
+{"id": "table/strtable.csv:6143:2", "source": "初心者歓迎～！", "english": "Beginners welcome!", "status": "draft"}
+{"id": "table/strtable.csv:6144:2", "source": "楽しもうぷろてくとぅ～！", "english": "Let’s enjoy Protect!", "status": "draft"}
+{"id": "table/strtable.csv:6145:2", "source": "ルーキー歓迎！", "english": "Rookies welcome!", "status": "draft"}
+{"id": "table/strtable.csv:6146:2", "source": "みんなでわいわい楽しもう！", "english": "Let’s all have fun together!", "status": "draft"}
+{"id": "table/strtable.csv:6147:2", "source": "新人から玄人まで集まれ！", "english": "Everyone from beginner to expert, come join!", "status": "draft"}
+{"id": "table/strtable.csv:6148:2", "source": "レッツゴープロテクト！", "english": "Let’s Protect!", "status": "draft"}
+{"id": "table/strtable.csv:6149:2", "source": "チャットで楽しくプロテクト！", "english": "Have fun chatting while playing Protect!", "status": "draft"}
+{"id": "table/strtable.csv:6153:2", "source": "イリスカードガチャ", "english": "Iris Card Gacha", "status": "draft"}
+{"id": "table/strtable.csv:6154:2", "source": "消費するアイテム", "english": "Item to consume", "status": "draft"}
+{"id": "table/strtable.csv:6155:2", "source": "所持数", "english": "Quantity owned", "status": "draft"}
+{"id": "table/strtable.csv:6156:2", "source": "交換する弾", "english": "Series to Exchange", "status": "draft"}
+{"id": "table/strtable.csv:6157:2", "source": "%sに含まれているイリスカード一覧", "english": "Iris Cards contained in %s", "status": "draft"}
+{"id": "table/strtable.csv:6158:2", "source": "※一度に同じカードが出現する場合があります", "english": "※The same card may appear more than once.", "status": "draft"}
+{"id": "table/strtable.csv:6159:2", "source": "%sを%sのイリスカードと交換します。よろしいですか？", "english": "Exchange %s for Iris Cards from %s. Proceed?", "status": "draft"}
+{"id": "table/strtable.csv:6160:2", "source": "右クリックで詳細を開きます", "english": "Right-click to view details", "status": "draft"}
+{"id": "table/strtable.csv:6161:2", "source": "何らかの原因で失敗しました。", "english": "Failed for an unknown reason.", "status": "draft"}
+{"id": "table/strtable.csv:6162:2", "source": "アイテム所持数に空きがありません。", "english": "There is no free space in your inventory.", "status": "draft"}
+{"id": "table/strtable.csv:6163:2", "source": "アイテム所持数に空きが無いためイリスカードを入手出来ませんでした。$r倉庫に荷物を預けるかゴミ箱にアイテムを捨ててください。", "english": "You could not obtain the Iris Card because your inventory is full.$rStore items in your warehouse or discard them in the trash.", "status": "draft"}
+{"id": "table/strtable.csv:6164:2", "source": "イリスカードガチャウィンドウを閉じ、$rECOショップウィンドウを表示します。よろしいですか？", "english": "Close the Iris Card Gacha window,$rthen open the ECO Shop window. Proceed?", "status": "draft"}
+{"id": "table/strtable.csv:6165:2", "source": "「EXブランクイリスカード」はアイテムカテゴリ$r「イリスカード系アイテム」にてお求めいただけます", "english": "You can obtain an “EX Blank Iris Card” from the$r“Iris Card Items” item category.", "status": "draft"}

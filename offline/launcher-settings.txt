@@ -1,0 +1,4 @@
+# Eco Reborn launcher settings
+# display = borderless   (fills the screen without a window frame)
+# display = windowed     (normal window; use the game Setup for its own fullscreen)
+display = borderless
