@@ -18,7 +18,7 @@ function Write-Output {
 if (-not (Test-OfflineServerListText -Text "Emil Chronicle Online,127.0.0.1:17831,`r`n" -Port 17831)) {
     throw 'The gate endpoint at loopback:17831 was rejected.'
 }
-if (Test-OfflineServerListText -Text 'Emil Chronicle Online,161.117.42.60:12000' -Port 17831) {
+if (Test-OfflineServerListText -Text 'Emil Chronicle Online,203.0.113.60:12000' -Port 17831) {
     throw 'A remote endpoint must be rejected.'
 }
 if (Test-OfflineListenerTable -Listeners @([pscustomobject]@{ Address = [Net.IPAddress]::Any; Port = 17832 }) -Port 17832) {

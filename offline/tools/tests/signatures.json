@@ -32,7 +32,7 @@
   {
     "id": "connection_reset",
     "when": "protocol event=CONNECTION_ERROR kind=CONNECTION_RESET",
-    "explanation": "A local connection was reset; this can occur during prototype handoffs or shutdown."
+    "explanation": "A local connection was reset; this can happen when the client switches servers or shuts down."
   },
   {
     "id": "unknown_opcode",

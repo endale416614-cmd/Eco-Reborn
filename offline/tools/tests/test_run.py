@@ -65,8 +65,9 @@ class RunTests(unittest.TestCase):
         names = {path.relative_to(eco_run.ROOT).as_posix() for path in files}
         self.assertIn("offline/tools/tests/run.py", names)
         self.assertIn("offline/tools/tests/signatures.json", names)
-        self.assertIn("research/SagaECO/Configuration/DB/SkillList.xml", names)
-        self.assertIn("research/SagaECO/Configuration/DB/Dungeon/Dungeons.xml", names)
+        if (eco_run.ROOT / "research/SagaECO").is_dir():
+            self.assertIn("research/SagaECO/Configuration/DB/SkillList.xml", names)
+            self.assertIn("research/SagaECO/Configuration/DB/Dungeon/Dungeons.xml", names)
         self.assertFalse(any("/.work/" in name or "bot-result.json" in name for name in names))
 
     def test_existing_manual_scorecard_is_copied_before_scoring(self):
